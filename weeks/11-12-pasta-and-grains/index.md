@@ -10,8 +10,8 @@
 
 **Before you start Week 11**, read:
 
-- 📖 [Serious Eats — Fresh Pasta vs. Dried Pasta: Which Should You Use?](https://www.seriouseats.com/fresh-vs-dried-pasta)
-- 📖 [Serious Eats — The Science of Pasta Water](https://www.seriouseats.com/does-pasta-water-make-a-difference-when-finishing-pasta-in-sauce)
+- 📖 [Serious Eats — Fresh Pasta vs. Dried Pasta: Which Should You Use?](https://www.seriouseats.com/how-to-cook-pasta-salt-water-boiling-tips-the-food-lab)
+- 📖 [Serious Eats — The Science of Pasta Water](https://www.seriouseats.com/does-pasta-water-really-make-difference)
 
 ---
 
@@ -23,7 +23,7 @@
 
 **Skill:** Fresh pasta dough is flour, eggs, and time. The gluten network forms as you knead, the dough becomes elastic, and it needs to rest so the gluten relaxes and becomes rollable. Your job tonight: understand what the dough is telling you at each stage. Too dry — it cracks when folded. Too wet — it sticks and tears. Properly rested — smooth, supple, and cooperative.
 
-**Full Meal:** [Serious Eats — Homemade Fresh Pasta](https://www.seriouseats.com/fresh-egg-pasta-recipe) (basic egg dough, cut into tagliatelle) + [Serious Eats — Slow-Cooked Tomato Sauce (Sugo di Pomodoro)](https://www.seriouseats.com/the-best-slow-cooked-tomato-sauce-recipe) + [Serious Eats — Simple Green Salad with Vinaigrette](https://www.seriouseats.com/simple-vinaigrette-recipe)
+**Full Meal:** [Serious Eats — Homemade Fresh Pasta](https://www.seriouseats.com/fresh-egg-pasta) (basic egg dough, cut into tagliatelle) + [Serious Eats — Slow-Cooked Tomato Sauce (Sugo di Pomodoro)](https://www.seriouseats.com/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe) + [Serious Eats — Simple Green Salad with Vinaigrette](https://www.seriouseats.com/simple-vinaigrette-recipe)
 
 Make a basic egg pasta dough. Rest it for 30 minutes. Roll it by hand or with a pasta machine. Cut tagliatelle. Cook for 90 seconds in aggressively salted water. Toss with a slow-cooked tomato sauce (or just brown butter and parmesan if you want to let the pasta speak).
 
@@ -38,7 +38,7 @@ Make a basic egg pasta dough. Rest it for 30 minutes. Roll it by hand or with a 
 
 **Skill:** Stuffed pasta (ravioli, tortellini) requires you to roll the dough thinner than you think and seal the edges properly — no air pockets inside or they burst during cooking. The filling should be firm enough to hold its shape when piped or spooned but wet enough to be creamy when cooked. Tonight: ricotta and herb filling, classic.
 
-**Full Meal:** [Serious Eats — Ricotta-Filled Ravioli with Brown Butter and Sage](https://www.seriouseats.com/fresh-egg-pasta-recipe) using the same base dough + [Serious Eats — Roasted Cherry Tomatoes](https://www.seriouseats.com/cherry-tomato-confit-recipe) + [Serious Eats — Radicchio Salad with Anchovy Vinaigrette](https://www.seriouseats.com/five-minute-radicchio-watercress-arugula-salad-recipe)
+**Full Meal:** [Serious Eats — Ricotta-Filled Ravioli with Brown Butter and Sage](https://www.seriouseats.com/fresh-egg-pasta) using the same base dough + [Serious Eats — Roasted Cherry Tomatoes](https://www.seriouseats.com/tomato-raisins-oven-dried-whole-cherry-tomatoes) + [Serious Eats — Radicchio Salad with Anchovy Vinaigrette](https://www.seriouseats.com/five-minute-radicchio-watercress-arugula-salad-recipe)
 
 Make the same dough from Monday (make it in the morning if you want to save time — it keeps in the fridge wrapped tightly overnight). Fill with ricotta, parmesan, lemon zest, and herbs. Toss the finished ravioli in brown butter and crispy sage.
 
@@ -66,7 +66,7 @@ The gnocchi themselves are the project. The sage butter sauce takes 5 minutes. T
 
 ### Thursday — OFF
 
-📖 Read: [Serious Eats — How to Cook Pasta Properly: The Complete Guide](https://www.seriouseats.com/how-to-cook-pasta-properly)
+📖 Read: [Serious Eats — How to Cook Pasta Properly: The Complete Guide](https://www.seriouseats.com/how-to-cook-pasta-salt-water-boiling-tips-the-food-lab)
 
 Pay particular attention to the section on pasta water and why it matters for emulsifying sauces. If you're not already saving a cup of pasta water before draining, start tonight.
 
@@ -76,7 +76,7 @@ Pay particular attention to the section on pasta water and why it matters for em
 
 **Skill:** Starchy pasta water is an emulsifier — it helps fat and water-based ingredients bind into a silky, coating sauce rather than separating. Aglio e olio and carbonara both depend on it. Tonight you'll make aglio e olio and notice how dramatically the pasta water changes the sauce.
 
-**Full Meal:** [Serious Eats — Spaghetti Aglio e Olio](https://www.seriouseats.com/the-best-spaghetti-aglio-e-olio-recipe) + [Serious Eats — Sautéed Spinach with Garlic and Lemon](https://www.seriouseats.com/sauteed-spinach-recipe) + [Serious Eats — Tomato and Cucumber Salad with Red Onion](https://www.seriouseats.com/tomato-salad-with-red-onion-recipe)
+**Full Meal:** [Serious Eats — Spaghetti Aglio e Olio](https://www.seriouseats.com/spaghetti-aglio-olio-recipe) + [Serious Eats — Sautéed Spinach with Garlic and Lemon](https://www.seriouseats.com/stir-fried-garlic-spinach-with-mustard-seeds-recipe) + [Serious Eats — Tomato and Cucumber Salad with Red Onion](https://www.seriouseats.com/salad-e-shirazi-persian-cucumber-and-tomato-salad-recipe-8385448)
 
 Aglio e olio is garlic, olive oil, pasta water, pasta, chili flakes, and parsley. Nothing else. It teaches emulsification, the function of pasta water, and proper sauce consistency — all in 15 minutes.
 
@@ -93,8 +93,8 @@ Aglio e olio is garlic, olive oil, pasta water, pasta, chili flakes, and parsley
 
 **Full Meal (serves 4–6):**
 
-1. **Antipasto:** [Serious Eats — Bruschetta with Tomato and Basil](https://www.seriouseats.com/classic-bruschetta-with-tomato-and-basil) — toasted bread, ripe tomatoes, garlic, good olive oil
-2. **Pasta 1:** [Serious Eats — Classic Cacio e Pepe](https://www.seriouseats.com/cacio-e-pepe-pasta-recipe) — a small portion per person as a first pasta
+1. **Antipasto:** [Serious Eats — Bruschetta with Tomato and Basil](https://www.seriouseats.com/fresh-tomato-bruschetta-recipe) — toasted bread, ripe tomatoes, garlic, good olive oil
+2. **Pasta 1:** [Serious Eats — Classic Cacio e Pepe](https://www.seriouseats.com/perfect-cacio-e-pepe-sauce-pasta-recipe-8780373) — a small portion per person as a first pasta
 3. **Pasta 2:** Your fresh tagliatelle from Monday's dough (make it ahead) with [Serious Eats — Slow-Cooked Bolognese](https://www.seriouseats.com/the-best-slow-cooked-bolognese-sauce-recipe) (make the sauce Saturday morning — it needs 3 hours)
 4. **Salad:** [Serious Eats — Classic Italian Green Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) with a simple lemon and olive oil dressing
 
@@ -126,7 +126,7 @@ The soy sauce called for in the Serious Eats mushroom risotto recipe is delibera
 
 **Skill:** Most home cooks treat rice as an afterthought. Tonight it's the focus. You'll cook Persian-style rice with a tahdig crust — the goal is a golden, crispy bottom that releases from the pot in a crown. Too high heat and it burns; too low and it stays soft. This is heat control and patience in one dish.
 
-**Full Meal:** [Serious Eats — Persian-Style Rice with Crispy Tahdig Crust](https://www.seriouseats.com/persian-style-rice-recipe) + [Serious Eats — Slow-Roasted Spiced Lamb Shoulder](https://www.seriouseats.com/slow-roasted-lamb-shoulder-recipe) + [Serious Eats — Cucumber and Yogurt Salad (Tzatziki-Style)](https://www.seriouseats.com/easy-tzatziki-recipe)
+**Full Meal:** [Serious Eats — Persian-Style Rice with Crispy Tahdig Crust](https://www.seriouseats.com/tahdig-persian-crunchy-rice-7187445) + [Serious Eats — Slow-Roasted Spiced Lamb Shoulder](https://www.seriouseats.com/slow-roasted-lamb-garlic-anchovy-lemon-rosemary-food-lab-recipe) + [Serious Eats — Cucumber and Yogurt Salad (Tzatziki-Style)](https://www.seriouseats.com/greek-yogurt-tzatziki-recipe)
 
 Tahdig — the crispy rice crust at the bottom of the Persian rice pot — is one of the most coveted things in Iranian cuisine. Get it right and it releases from the pot in a golden crown.
 
@@ -152,7 +152,7 @@ The polenta goes underneath. The braise goes on top. The salad cuts the richness
 
 ### Thursday — OFF
 
-📖 Read: [Serious Eats — An Introduction to Grains: How to Shop For, Store, and Cook Every Type](https://www.seriouseats.com/guide-to-cooking-grains)
+📖 Read: [Serious Eats — An Introduction to Grains: How to Shop For, Store, and Cook Every Type](https://www.seriouseats.com/guide-to-whole-grains-ancient-grains-gluten-free-types-of-grains)
 
 Make a mental note of which grains you've never cooked before and add at least one to your Saturday shopping list.
 
@@ -162,7 +162,7 @@ Make a mental note of which grains you've never cooked before and add at least o
 
 **Skill:** Unlike risotto, which needs constant attention, farro and other ancient grains (freekeh, barley, bulgur) are largely self-sufficient. The key is seasoning the cooking liquid well and knowing when to stop — farro should be tender but still have chew, never mushy.
 
-**Full Meal:** [Serious Eats — Farro Salad with Roasted Beets and Goat Cheese](https://www.seriouseats.com/farro-salad-with-roasted-beets-and-goat-cheese-recipe) + [Serious Eats — Crispy Pan-Seared Salmon](https://www.seriouseats.com/how-to-cook-salmon-pan-fry-fish-food-lab) + [Serious Eats — Simple Arugula Salad](https://www.seriouseats.com/fennel-orange-and-roasted-pepper-arugula-salad-recipe)
+**Full Meal:** [Serious Eats — Farro Salad with Roasted Beets and Goat Cheese](https://www.seriouseats.com/farro-salad-with-blue-cheese-pine-nuts-and-tomatoes-recipe) + [Serious Eats — Crispy Pan-Seared Salmon](https://www.seriouseats.com/how-to-cook-salmon-pan-fry-fish-food-lab) + [Serious Eats — Simple Arugula Salad](https://www.seriouseats.com/fennel-orange-and-roasted-pepper-arugula-salad-recipe)
 
 The warm farro salad is a full grain side dish. The crispy salmon is the protein. The arugula salad provides the acid counterpoint.
 
@@ -178,9 +178,9 @@ The warm farro salad is a full grain side dish. The crispy salmon is the protein
 
 **Full Meal:**
 
-1. **Starter:** [Serious Eats — Whipped Ricotta on Crostini with Honey and Walnuts](https://www.seriouseats.com/ricotta-crostini-recipe) — a quick, beautiful opener that requires no cooking
-2. **Main:** [Serious Eats — Saffron Risotto alla Milanese](https://www.seriouseats.com/risotto-alla-milanese-saffron-recipe) with [Serious Eats — Pan-Seared Scallops with Lemon-Brown Butter](https://www.seriouseats.com/pan-seared-scallops-with-lemon-butter-and-caper-sauce-recipe) on top — the scallops rest on the risotto as the protein component
-3. **Salad:** [Serious Eats — Fennel Salad with Blood Orange and Olives](https://www.seriouseats.com/fennel-and-orange-salad-recipe) — serve alongside or between courses
+1. **Starter:** [Serious Eats — Whipped Ricotta on Crostini with Honey and Walnuts](https://www.seriouseats.com/crostini-blistered-cherry-tomatoes-burrata-recipe) — a quick, beautiful opener that requires no cooking
+2. **Main:** [Serious Eats — Saffron Risotto alla Milanese](https://www.seriouseats.com/risotto-alla-milanese-saffron-recipe) with [Serious Eats — Pan-Seared Scallops with Lemon-Brown Butter](https://www.seriouseats.com/the-food-lab-best-seared-scallops-seafood-recipe) on top — the scallops rest on the risotto as the protein component
+3. **Salad:** [Serious Eats — Fennel Salad with Blood Orange and Olives](https://www.seriouseats.com/grilling-fennel-and-orange-salad-recipe) — serve alongside or between courses
 
 *Skill targets: Risotto at perfect consistency (flows slowly like lava when plated, not stiff). Scallops with a deep, dry sear on each side. Everything on the table at the same time.*
 

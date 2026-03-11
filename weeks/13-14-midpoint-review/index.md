@@ -38,7 +38,7 @@ Whatever you identified as the hardest part of Saturday's menu — make it tonig
 
 **Skill:** Time yourself dicing one onion. This is the third benchmark in the program (Week 2 Friday and Week 4 Thursday were the others). Write the time down. You should be measurably faster than Week 2. More importantly: are your cuts more uniform? Speed is the secondary metric. Consistency is the primary one.
 
-**Full Meal:** [Serious Eats — Thai-Style Larb (Ground Meat Salad)](https://www.seriouseats.com/larb-recipe) + [Serious Eats — Jasmine Rice](https://www.seriouseats.com/how-to-cook-jasmine-rice) + [Serious Eats — Quick-Pickled Cucumbers](https://www.seriouseats.com/quick-pickled-cucumbers-recipe)
+**Full Meal:** [Serious Eats — Thai-Style Larb (Ground Meat Salad)](https://www.seriouseats.com/larb-muang-moo-northern-thai-style-chopped-pork-salad-recipe) + [Serious Eats — Jasmine Rice](https://www.seriouseats.com/perfect-stovetop-thai-jasmine-rice) + [Serious Eats — Quick-Pickled Cucumbers](https://www.seriouseats.com/quick-pickled-cucumbers-rice-vinegar-recipe)
 
 Larb requires a lot of fine knife work — fresh herbs, shallots, chili, lemongrass if using. It's also deeply delicious, uses acid (lime juice) and umami (fish sauce) in a way that is immediately instructive, and is unlike anything in the previous 12 weeks.
 
@@ -58,7 +58,7 @@ Larb requires a lot of fine knife work — fresh herbs, shallots, chili, lemongr
 
 Mise en place everything for Saturday's dinner. Every sauce component prepped. Every vegetable cut. Every protein seasoned in advance (if appropriate). Every sauce component thought through. The goal: Saturday service should feel calm and controlled, not frantic and reactive.
 
-**Dinner tonight:** Something simple and low-effort — [Serious Eats — The Best Grilled Cheese](https://www.seriouseats.com/the-best-grilled-cheese-sandwich-recipe) + [Serious Eats — Tomato Soup](https://www.seriouseats.com/best-creamy-tomato-soup-recipe) — because you deserve a night off the skills grind.
+**Dinner tonight:** Something simple and low-effort — [Serious Eats — The Best Grilled Cheese](https://www.seriouseats.com/crispy-grilled-cheese-sandwich-tip-11891994) + [Serious Eats — Tomato Soup](https://www.seriouseats.com/thick-creamy-tomato-soup-recipe) — because you deserve a night off the skills grind.
 
 ---
 
@@ -69,7 +69,7 @@ Mise en place everything for Saturday's dinner. Every sauce component prepped. E
 *Suggested framework if you can't decide:*
 
 1. **Starter:** [Serious Eats — Classic Shrimp Cocktail with Homemade Sauce](https://www.seriouseats.com/shrimp-cocktail-recipe) — knife skills, salt timing
-2. **Main:** [Serious Eats — Pan-Seared Duck Breast with Cherry Pan Sauce](https://www.seriouseats.com/pan-seared-duck-breast-recipe) + [Serious Eats — Creamy Polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe) + [Serious Eats — Roasted Root Vegetables](https://www.seriouseats.com/roasted-root-vegetables-with-lime-dressing-8728919) — heat control, pan sauce, seasoning in layers
+2. **Main:** [Serious Eats — Pan-Seared Duck Breast with Cherry Pan Sauce](https://www.seriouseats.com/pan-seared-duck-breast) + [Serious Eats — Creamy Polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe) + [Serious Eats — Roasted Root Vegetables](https://www.seriouseats.com/roasted-root-vegetables-with-lime-dressing-8728919) — heat control, pan sauce, seasoning in layers
 3. **Salad / Cheese:** A composed cheese plate with good bread, honeycomb, and a handful of dressed greens — no recipe needed, just judgment
 
 *Skill targets: Everything on the table at the same time. At least one course where you can identify all four flavor elements — salt, acid, fat, umami — working in balance. No recipe tabs open during service.*

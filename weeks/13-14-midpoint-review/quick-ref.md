@@ -10,10 +10,10 @@
 |-----|------|-------|------|
 | **Mon** | *Menu planning* | Design a 3-course dinner for Saturday | — |
 | **Tue** | Dry-run of your hardest Saturday dish + Simple Green Salad | Technique rehearsal, no pressure | [Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) |
-| **Wed** | Thai-Style Larb + Jasmine Rice + Quick-Pickled Cucumbers | Knife speed benchmark; acid + umami balance | [Larb](https://www.seriouseats.com/larb-recipe) · [Rice](https://www.seriouseats.com/how-to-cook-jasmine-rice) · [Pickles](https://www.seriouseats.com/quick-pickled-cucumbers-recipe) |
+| **Wed** | Thai-Style Larb + Jasmine Rice + Quick-Pickled Cucumbers | Knife speed benchmark; acid + umami balance | [Larb](https://www.seriouseats.com/larb-muang-moo-northern-thai-style-chopped-pork-salad-recipe) · [Rice](https://www.seriouseats.com/perfect-stovetop-thai-jasmine-rice) · [Pickles](https://www.seriouseats.com/quick-pickled-cucumbers-rice-vinegar-recipe) |
 | **Thu** | *OFF* | Read/reflect: Week 1 vs. now | — |
-| **Fri** | Grilled Cheese + Tomato Soup | Rest — mise en place Saturday's dinner | [Grilled Cheese](https://www.seriouseats.com/the-best-grilled-cheese-sandwich-recipe) · [Tomato Soup](https://www.seriouseats.com/best-creamy-tomato-soup-recipe) |
-| **Sat** | 🔨 **PROJECT: 3-Course Dinner for Guests — no recipes during service** | Full synthesis: Weeks 1–12 techniques | *Suggested:* [Shrimp Cocktail](https://www.seriouseats.com/shrimp-cocktail-recipe) · [Duck Breast](https://www.seriouseats.com/pan-seared-duck-breast-recipe) · [Polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe) · [Root Veg](https://www.seriouseats.com/roasted-root-vegetables-with-lime-dressing-8728919) |
+| **Fri** | Grilled Cheese + Tomato Soup | Rest — mise en place Saturday's dinner | [Grilled Cheese](https://www.seriouseats.com/crispy-grilled-cheese-sandwich-tip-11891994) · [Tomato Soup](https://www.seriouseats.com/thick-creamy-tomato-soup-recipe) |
+| **Sat** | 🔨 **PROJECT: 3-Course Dinner for Guests — no recipes during service** | Full synthesis: Weeks 1–12 techniques | *Suggested:* [Shrimp Cocktail](https://www.seriouseats.com/shrimp-cocktail-recipe) · [Duck Breast](https://www.seriouseats.com/pan-seared-duck-breast) · [Polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe) · [Root Veg](https://www.seriouseats.com/roasted-root-vegetables-with-lime-dressing-8728919) |
 
 ---
 

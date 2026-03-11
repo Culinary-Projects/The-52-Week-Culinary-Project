@@ -16,8 +16,8 @@
 
 **Before you start Week 9**, read these two pieces back to back:
 
-- 📖 [Serious Eats — The Food Lab: The Science of Salt](https://www.seriouseats.com/the-food-lab-the-science-of-salt) — Why salt is more than a flavoring; how it restructures proteins, manages moisture, and builds flavor from the inside out
-- 📖 [Serious Eats — Why Every Recipe Should Have Acid](https://www.seriouseats.com/cooking-with-acid-why-every-recipe-should-have-acid) — The most underused tool in the home cook's arsenal
+- 📖 [Serious Eats — The Food Lab: The Science of Salt](https://www.seriouseats.com/what-is-salt-science-taste-flavorant) — Why salt is more than a flavoring; how it restructures proteins, manages moisture, and builds flavor from the inside out
+- 📖 [Serious Eats — Why Every Recipe Should Have Acid](https://www.seriouseats.com/make-the-most-out-of-garlic-chopping-acid-heat) — The most underused tool in the home cook's arsenal
 
 ---
 
@@ -36,7 +36,7 @@ Take a carrot. Cut it in two. Salt one half with a pinch of kosher salt and wait
 
 *Before you leave for work or start your day:* Pat 4–6 bone-in, skin-on chicken thighs dry, season generously with kosher salt (about ¾ tsp per pound), place on a rack over a sheet pan, and refrigerate uncovered. Come back to them at dinner.
 
-**Full Meal:** [Serious Eats — Crispy-Skinned Chicken Thighs](https://www.seriouseats.com/easy-pan-roasted-chicken-breast-lemon-rosemary-pan-sauce-recipe) (use your dry-brined thighs) + [Serious Eats — Roasted Broccoli with Garlic](https://www.seriouseats.com/roasted-broccoli-recipe) + [Serious Eats — Simple Arugula Salad with Lemon Vinaigrette](https://www.seriouseats.com/fennel-orange-and-roasted-pepper-arugula-salad-recipe)
+**Full Meal:** [Serious Eats — Crispy-Skinned Chicken Thighs](https://www.seriouseats.com/easy-pan-roasted-chicken-breast-lemon-rosemary-pan-sauce-recipe) (use your dry-brined thighs) + [Serious Eats — Roasted Broccoli with Garlic](https://www.seriouseats.com/roasted-broccoli-science-11887862) + [Serious Eats — Simple Arugula Salad with Lemon Vinaigrette](https://www.seriouseats.com/fennel-orange-and-roasted-pepper-arugula-salad-recipe)
 
 Before you season the broccoli, taste a raw floret. Season it with salt and taste again. Notice the difference before it goes in the oven.
 
@@ -50,7 +50,7 @@ Before you season the broccoli, taste a raw floret. Season it with salt and tast
 
 **Skill:** Tonight, season every single component of your dish at the moment it goes into the pan — not just at the beginning or the end. Salt the onions when they go in. Salt the garlic when you add it. Salt the tomatoes when they hit the pan. Taste after each addition. You're building flavor in layers, not slapping it on at the end.
 
-**Full Meal:** [Serious Eats — Pasta all'Amatriciana](https://www.seriouseats.com/the-best-amatriciana-sauce-recipe) + [Serious Eats — Classic Caesar Salad](https://www.seriouseats.com/the-best-caesar-salad-recipe)
+**Full Meal:** [Serious Eats — Pasta all'Amatriciana](https://www.seriouseats.com/bucatini-pasta-amatriciana-recipe) + [Serious Eats — Classic Caesar Salad](https://www.seriouseats.com/the-best-caesar-salad-recipe)
 
 Amatriciana is one of the great Roman pasta sauces — guanciale (or pancetta), white wine, tomato, pecorino. Each component is distinct and requires its own seasoning moment. It's a perfect layering teacher.
 
@@ -64,7 +64,7 @@ Amatriciana is one of the great Roman pasta sauces — guanciale (or pancetta), 
 
 **Skill:** Some things should not be salted early. Delicate fish toughens if salted too far in advance. Soups and braises that reduce become dangerously salty if heavily salted at the start. Finishing salts — flaky Maldon, fleur de sel — exist to add texture and a burst of flavor right at the moment of eating. They should never dissolve. Tonight you'll deliberately hold salt until the final moment and let a finishing salt do the work.
 
-**Full Meal:** [Serious Eats — Pan-Seared Halibut or Sea Bass](https://www.seriouseats.com/pan-seared-crispy-skin-halibut-fillet-recipe) with a squeeze of lemon and a pinch of Maldon flakes right at plating + [Serious Eats — White Bean Salad with Olive Oil and Herbs](https://www.seriouseats.com/white-bean-salad-with-olive-oil-and-herbs-recipe) + [Serious Eats — Sautéed Cherry Tomatoes](https://www.seriouseats.com/cherry-tomato-confit-recipe)
+**Full Meal:** [Serious Eats — Pan-Seared Halibut or Sea Bass](https://www.seriouseats.com/sous-vide-seared-halibut-recipe) with a squeeze of lemon and a pinch of Maldon flakes right at plating + [Serious Eats — White Bean Salad with Olive Oil and Herbs](https://www.seriouseats.com/quick-marinated-white-bean-salad-feta-lettuce-cups-recipe) + [Serious Eats — Sautéed Cherry Tomatoes](https://www.seriouseats.com/tomato-raisins-oven-dried-whole-cherry-tomatoes)
 
 The white bean salad benefits enormously from being dressed early (the beans absorb the seasoning) while the fish is seasoned *only at the very end*. Two different salt strategies on the same plate, by design.
 
@@ -76,7 +76,7 @@ The white bean salad benefits enormously from being dressed early (the beans abs
 
 ### Thursday — OFF
 
-📖 Read: [Serious Eats — The Complete Guide to Seasoning with Salt](https://www.seriouseats.com/the-food-lab-the-science-of-salt)
+📖 Read: [Serious Eats — The Complete Guide to Seasoning with Salt](https://www.seriouseats.com/what-is-salt-science-taste-flavorant)
 
 🧂 **Pantry audit:** Do you have kosher salt, flaky Maldon or fleur de sel, and fine sea salt? These are three different tools and not interchangeable. If you're only working with one, fix that this week.
 
@@ -86,7 +86,7 @@ The white bean salad benefits enormously from being dressed early (the beans abs
 
 **Skill:** Tonight's focus is on salt as a *textural* and *contrast* element. A finishing salt on a rich braise doesn't just season — it provides crunch and a burst of concentrated flavor that cuts through the fat. A well-salted pasta water (it should taste "pleasantly seasoned," like a light broth) actually seasons the pasta from within, not just its surface. Both are explored tonight.
 
-**Full Meal:** [Serious Eats — Cacio e Pepe](https://www.seriouseats.com/cacio-e-pepe-pasta-recipe) + [Serious Eats — Bitter Greens Salad with Anchovy Vinaigrette](https://www.seriouseats.com/five-minute-radicchio-watercress-arugula-salad-recipe) + [Serious Eats — Roasted Cauliflower with Crispy Capers](https://www.seriouseats.com/roasted-cauliflower-with-crispy-capers-recipe)
+**Full Meal:** [Serious Eats — Cacio e Pepe](https://www.seriouseats.com/perfect-cacio-e-pepe-sauce-pasta-recipe-8780373) + [Serious Eats — Bitter Greens Salad with Anchovy Vinaigrette](https://www.seriouseats.com/five-minute-radicchio-watercress-arugula-salad-recipe) + [Serious Eats — Roasted Cauliflower with Crispy Capers](https://www.seriouseats.com/roasted-cauliflower-pine-nut-raisin-caper-food-lab-recipe)
 
 Cacio e Pepe is three ingredients: pasta, pecorino, black pepper. There is nowhere to hide. The pasta water must be well-salted. The cheese is the only seasoning. This dish teaches you precision — and it's one of the best things you can make.
 
@@ -101,7 +101,7 @@ Cacio e Pepe is three ingredients: pasta, pecorino, black pepper. There is nowhe
 
 **Skill:** Salt-crusting is an ancient technique where a whole fish (or chicken or beet) is encased in a thick crust of kosher salt before roasting. The salt absorbs moisture from the surface, seasons the interior gently, and creates a steaming environment inside the crust. The result is the most evenly cooked, delicately seasoned fish you will ever eat at home. Cracking the crust at the table is genuinely theatrical.
 
-**Full Meal:** [Serious Eats — Salt-Crusted Whole Roasted Fish](https://www.seriouseats.com/salt-baked-fish-recipe) + [Serious Eats — Roasted Fingerling Potatoes with Herbs](https://www.seriouseats.com/roasted-fingerling-potatoes-recipe) + [Serious Eats — Fennel and Orange Salad](https://www.seriouseats.com/fennel-and-orange-salad-recipe)
+**Full Meal:** [Serious Eats — Salt-Crusted Whole Roasted Fish](https://www.seriouseats.com/salt-baked-whole-fish-with-fresh-herbs-5212108) + [Serious Eats — Roasted Fingerling Potatoes with Herbs](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + [Serious Eats — Fennel and Orange Salad](https://www.seriouseats.com/grilling-fennel-and-orange-salad-recipe)
 
 This is one of the most impressive things you can serve to guests and it requires almost no active cooking skill — just good salt technique and confidence.
 
@@ -123,7 +123,7 @@ This is one of the most impressive things you can serve to guests and it require
 
 **Skill:** Acid — lemon juice, vinegar, wine, citrus zest — does something salt cannot: it lifts and brightens flavors, making food taste *fresher* and more vibrant. Most dishes benefit from a small hit of acid right at the end of cooking, before serving. Tonight you'll cook a dish twice in your mind: once without the final acid, once with. The difference is immediately obvious.
 
-**Full Meal:** [Serious Eats — Chicken Marsala](https://www.seriouseats.com/chicken-marsala-recipe) + [Serious Eats — Creamy Mashed Potatoes](https://www.seriouseats.com/rich-and-creamy-mashed-potatoes-recipe) + [Serious Eats — Simple Green Salad with Sharp Dijon Vinaigrette](https://www.seriouseats.com/simple-vinaigrette-recipe)
+**Full Meal:** [Serious Eats — Chicken Marsala](https://www.seriouseats.com/chicken-marsala-mushroom-pan-sauce-recipe) + [Serious Eats — Creamy Mashed Potatoes](https://www.seriouseats.com/rich-and-creamy-mashed-potatoes-recipe) + [Serious Eats — Simple Green Salad with Sharp Dijon Vinaigrette](https://www.seriouseats.com/simple-vinaigrette-recipe)
 
 Before you finish the Marsala sauce, taste it. Now add a small squeeze of lemon and taste again. Notice how the whole sauce comes into focus. *That* is acid as a lever.
 
@@ -137,7 +137,7 @@ Before you finish the Marsala sauce, taste it. Now add a small squeeze of lemon 
 
 **Skill:** Not all acid is the same. Lemon juice is bright and immediate. Red wine vinegar is assertive and fruity. Sherry vinegar is mellow and nutty. White balsamic is sweet and gentle. Tamarind is deep and complex. Tonight you'll use two different acids in two different components of the same meal and taste the difference.
 
-**Full Meal:** [Serious Eats — Glazed Pork Tenderloin with Balsamic Reduction](https://www.seriouseats.com/roasted-pork-tenderloin-recipe) + [Serious Eats — Lentil Salad with Sherry Vinaigrette](https://www.seriouseats.com/french-green-lentil-salad-with-sherry-vinaigrette-recipe) + [Serious Eats — Roasted Carrots with Cumin](https://www.seriouseats.com/roasted-carrots-with-cumin-recipe)
+**Full Meal:** [Serious Eats — Glazed Pork Tenderloin with Balsamic Reduction](https://www.seriouseats.com/pork-tenderloin-with-rhubarb-sauce-recipe-11703853) + [Serious Eats — Lentil Salad with Sherry Vinaigrette](https://www.seriouseats.com/basic-french-lentil-recipe) + [Serious Eats — Roasted Carrots with Cumin](https://www.seriouseats.com/honey-roasted-carrots-with-spring-herbs-recipe-11725322)
 
 Balsamic on the pork: sweet, deep, slightly caramelized. Sherry vinegar in the lentil salad: dry, nutty, assertive. Two acids, two entirely different effects.
 
@@ -166,7 +166,7 @@ Brown butter is fat transformed — milk solids toasted to a deep hazelnut color
 
 ### Thursday — OFF
 
-📖 Read: [Serious Eats — What Is Umami and How Do You Cook With It?](https://www.seriouseats.com/what-is-umami)
+📖 Read: [Serious Eats — What Is Umami and How Do You Cook With It?](https://www.seriouseats.com/umami-ingredients)
 
 🍄 **Pantry check for umami builders:** Do you have soy sauce, fish sauce, miso paste, anchovy paste, parmesan rind, and dried mushrooms? If not, this week is a good time to start building that collection. These are the ingredients that make a dish taste deep even when the recipe is simple.
 
@@ -176,7 +176,7 @@ Brown butter is fat transformed — milk solids toasted to a deep hazelnut color
 
 **Skill:** Umami is the fifth taste — the savory, lingering depth you get from glutamate-rich ingredients: aged parmesan, soy sauce, miso, fish sauce, anchovies, dried mushrooms, tomato paste. Tonight you'll learn to use umami ingredients as *seasoning*, not as central flavors — a tablespoon of fish sauce where you'd normally add salt, a smear of miso in a braise, a parmesan rind dropped into a soup pot. They should deepen the dish without announcing themselves.
 
-**Full Meal:** [Serious Eats — Umami-Packed Mushroom Pasta](https://www.seriouseats.com/pasta-with-mushrooms-anchovies-and-tomato-recipe) + [Serious Eats — Roasted Asparagus with Parmesan](https://www.seriouseats.com/how-to-cook-asparagus-7487955) + [Serious Eats — Arugula Salad with Shaved Parmesan](https://www.seriouseats.com/fennel-orange-and-roasted-pepper-arugula-salad-recipe)
+**Full Meal:** [Serious Eats — Umami-Packed Mushroom Pasta](https://www.seriouseats.com/roman-style-spaghetti-alla-carrettiera-tomato-tuna-and-mushroom-pasta) + [Serious Eats — Roasted Asparagus with Parmesan](https://www.seriouseats.com/how-to-cook-asparagus-7487955) + [Serious Eats — Arugula Salad with Shaved Parmesan](https://www.seriouseats.com/fennel-orange-and-roasted-pepper-arugula-salad-recipe)
 
 This pasta uses anchovies (umami), mushrooms (umami), and tomato (umami) in combination. None of them taste like themselves in the finished dish — together they create a savory depth that makes you want to keep eating. The parmesan on the asparagus and the salad keeps the umami thread running through the whole meal.
 
@@ -195,7 +195,7 @@ This pasta uses anchovies (umami), mushrooms (umami), and tomato (umami) in comb
 
 1. **Protein:** [Serious Eats — Miso-Glazed Black Cod](https://www.seriouseats.com/miso-glazed-salmon-in-the-toaster-oven-recipe) — umami from the miso marinade, fat from the fish, a hit of rice vinegar for acid in the glaze
 2. **Grain:** [Serious Eats — Saffron Risotto alla Milanese](https://www.seriouseats.com/risotto-alla-milanese-saffron-recipe) — salt-seasoned at every stage, finished with butter (fat) and parmesan (umami), a squeeze of lemon at the end (acid)
-3. **Salad:** [Serious Eats — Fennel and Citrus Salad](https://www.seriouseats.com/fennel-and-orange-salad-recipe) — acid-forward, a deliberate foil to the rich risotto and fish
+3. **Salad:** [Serious Eats — Fennel and Citrus Salad](https://www.seriouseats.com/grilling-fennel-and-orange-salad-recipe) — acid-forward, a deliberate foil to the rich risotto and fish
 
 Before you plate everything, taste each component and ask: Is it salty enough? Does it need acid? Is the fat coming through? Is there depth? Adjust one thing at a time.
 
