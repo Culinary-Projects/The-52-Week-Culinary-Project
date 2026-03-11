@@ -121,7 +121,7 @@ Japanese cooking builds on a different set of foundational principles than Frenc
 ### Wednesday — Yakitori (Grilled Chicken Skewers)
 
 **Skill:** Skewering technique; tare application during grilling; cooking different chicken parts  
-**Read first:** Research yakitori technique — small pieces of chicken (thigh, skin, neck, liver, etc.) grilled over direct high heat, basted repeatedly with tare
+**Read first:** [Negima Yakitori (Chicken and Scallion Skewers)](https://www.seriouseats.com/japanese-yakitori-negima-grilled-chicken-skewer-recipe)
 
 **What you're learning:** Yakitori is a study in whole-animal use and fire management. If you only use breast meat, you're missing the point — yakitori celebrates offal and underused cuts. Try at minimum: thigh, skin-wrapped tail (negima), and chicken skin skewers. Brush with tare every 30 seconds near the end.
 
@@ -138,7 +138,7 @@ Japanese cooking builds on a different set of foundational principles than Frenc
 ### Friday — Shabu-Shabu or Sukiyaki (Hot Pot)
 
 **Skill:** Japanese hot pot; building a table cooking experience; broth control  
-**Read first:** Research shabu-shabu technique — paper-thin sliced beef swirled briefly in boiling dashi, dipped in ponzu or sesame sauce before eating
+**Read first:** Shabu-shabu is a technique, not a recipe — no recipe needed. Buy paper-thin sliced ribeye from a Japanese grocery (or freeze a piece 2 hours and slice with a sharp knife). Stock: one large sheet of kombu in cold water, warmed slowly to 150°F — do not boil. Swirl 2–3 slices at a time for 10–15 seconds. Two dipping sauces: ponzu (citrus + soy) and sesame (tahini + rice vinegar + soy + sesame oil).
 
 **What you're learning:** Shabu-shabu means "swish-swish" — describing how briefly the beef meets the broth. The broth absorbs flavor from the beef as cooking progresses. This is a communal, slow-paced dinner that builds as the meal goes on, ending with udon or rice cooked in the enriched broth.
 

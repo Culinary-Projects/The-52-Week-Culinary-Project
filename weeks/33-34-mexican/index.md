@@ -92,7 +92,7 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 ### Monday — Birria de Res (Beef Birria)
 
 **Skill:** Long beef braise in a complex chile marinade; consommé for dipping  
-**Read first:** Research birria technique — marinated beef chuck in guajillo, ancho, and árbol chiles; long braise; broth/consommé served alongside or used for quesabirria
+**Read first:** [Birria de Res (Beef Birria)](https://www.seriouseats.com/birria-de-res-beef-birria-recipe-8362004)
 
 **What you're learning:** Birria is Jalisco's slow-braised chile-rubbed beef (or goat in the original version). The braising liquid becomes the consommé — the broth in which you dip your quesabirria taco before eating it. This is a Saturday project that ended up on Monday because of its recent popularity; know the real version.
 
@@ -105,7 +105,7 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 ### Tuesday — Mole Negro (Simplified Introduction)
 
 **Skill:** Multi-chile mole building; chocolate integration in savory sauce; depth layering  
-**Read first:** Research mole negro — the Oaxacan version requires 20+ ingredients and multiple days; use a reliable simplified version with at least 5 dried chiles, chocolate, and sesame
+**Read first:** [Mole Negro (Oaxacan Black Mole Sauce)](https://www.seriouseats.com/mole-negro-recipe-11739614)
 
 **What you're learning:** True mole negro is a week-long project. Today's simplified version should still require 2–3 hours and include: at minimum 3 dried chiles (toasted + rehydrated), tomatoes, tomatillos, dark chocolate, sesame, raisins, plantain, and spices. The result should be complex, savory, faintly bitter. Serve with chicken.
 
@@ -118,7 +118,7 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 ### Wednesday — Tamales (Team Project)
 
 **Skill:** Masa dough preparation (masa harina + lard or fat); spreading on husks; steaming  
-**Read first:** Research tamale technique — masa is the wrapper; filling is the prize; steaming for 1.5 hours
+**Read first:** [How to Make Tamales — Comprehensive Guide](https://www.seriouseats.com/tamales-recipe-8649579)
 
 **What you're learning:** Tamales are one of the most community-oriented foods in Mexican culture — typically made in large quantities at family gatherings ("tamaladas"). Make a batch with a simple filling (braised pork in red chile, or cheese and rajas). The key skill is spreading the masa thinly and evenly enough that the husk folds without tearing.
 
@@ -135,7 +135,7 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 ### Friday — Chiles Rellenos
 
 **Skill:** Roasting and peeling poblano peppers; battered egg-white fry technique  
-**Read first:** Research chiles rellenos technique — roast poblanos, peel, stuff with cheese or picadillo, dip in egg batter, fry
+**Read first:** [Chiles Rellenos (Mexican-Style Cheese-Stuffed Chiles)](https://www.seriouseats.com/chiles-rellenos-smothered-and-traditional-recipe)
 
 **What you're learning:** Chiles rellenos are another study in egg-white batter frying (similar to tempura structurally — the white is beaten stiff, yolks folded in). The poblanos are charred under a broiler, steamed in a bag, peeled — this is the standard technique for all roasted peppers that applies across cuisines.
 

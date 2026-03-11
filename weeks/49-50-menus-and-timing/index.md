@@ -22,8 +22,7 @@ Over two weeks, you will plan and execute three increasingly ambitious dinners, 
 
 ### Monday — Menu Design Theory
 
-**Skill:** Menu composition; flavor arc; season-appropriate choices; dietary accommodation  
-**Read first:** [How to Write a Dinner Party Menu](https://www.seriouseats.com/how-to-write-a-dinner-party-menu), and [The Best Dinner Party Food](https://www.seriouseats.com/dinner-party-ideas-recipes-tips)
+**Skill:** Menu composition; flavor arc; season-appropriate choices; dietary accommodation
 
 **What you're learning:** A menu is not a list of dishes — it is a narrative. It has a beginning (something light and inviting), a middle (the main event), and an end (resolution or surprise). Weight increases, then decreases. Flavors build and contrast. One rich dish does not follow another. One acid-forward dish cleans the palate between two heavy ones.
 
@@ -36,8 +35,7 @@ Over two weeks, you will plan and execute three increasingly ambitious dinners, 
 
 ### Tuesday — The Make-Ahead Audit
 
-**Skill:** Identifying what in any menu can be prepared in advance vs. cooked à la minute  
-**Read first:** [Make-Ahead Dinner Party Strategies](https://www.seriouseats.com/make-ahead-dinner-party-recipes-8641013)
+**Skill:** Identifying what in any menu can be prepared in advance vs. cooked à la minute
 
 **What you're learning:** The professional kitchen trick for home cooks is the same as it is in restaurants: almost nothing at a dinner party should be cooked to order. The goal is to have 80% of the meal finished before guests arrive so you are present at the table, not absent in the kitchen. Today, take one of your three menus and do a component-by-component make-ahead audit.
 
@@ -58,7 +56,7 @@ Over two weeks, you will plan and execute three increasingly ambitious dinners, 
 ### Wednesday — Timing Under Pressure
 
 **Skill:** Executing a complete 3-course meal exactly on schedule  
-**Read first:** [How to Time a Multi-Course Dinner](https://www.seriouseats.com/how-to-throw-a-dinner-party)
+**Read first:** [How to Set Up a Prep Station Like a Pro Cook](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro) — the professional setup framework applies directly to dinner party timing
 
 **What you're learning:** Time pressure reveals the gaps in your prep. Today, cook a full 3-course dinner with a fixed start time (say, 7:00 PM). Work backward from that time to build a prep schedule. Stick to it. If something runs late, triage: what can be held? What cannot wait? What is the fallback?
 
@@ -129,7 +127,7 @@ No cooking today. Write or record:
 ### Tuesday — The Art of Mise en Place for Groups
 
 **Skill:** Station organization with multiple active pots and pans; delegating one component to a helper  
-**Read first:** [Mise en Place](https://www.seriouseats.com/mise-en-place)
+**Read first:** [How to Set Up a Prep Station Like a Pro Cook](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro)
 
 **What you're learning:** Cooking for 8–10 people requires either a helper or a radically different structure — most of the meal cannot be à la minute. Today: plan a dinner party with one additional element from Week 49's dinner, scaled to 8 people, and map out how you would execute it if you had one helper vs. none.
 
@@ -139,8 +137,8 @@ No cooking today. Write or record:
 
 **Skill:** Pairing beverages to a multi-course meal; non-alcoholic pairing options  
 **Read first:**
-- [Wine Pairing Basics](https://www.seriouseats.com/how-to-pair-wine-with-food)
-- [How to Stock a Home Bar](https://www.seriouseats.com/home-bar-essentials-setup-guide-8644386)
+- [The Basics of Pairing Drinks With Your Food](https://www.seriouseats.com/the-basics-of-pairing-drinks-with-your-food)
+- [How to Organize Your Home Bar](https://www.seriouseats.com/how-to-organize-your-home-bar-design-ergonomics-supplies-mise-en-place)
 
 **What you're learning:** The classic rules of pairing (white with fish, red with meat) are guidelines, not laws. What matters more: weight of the dish matches weight of the wine; high-acid food pairs with high-acid wine; salt contracts tannin. A single well-chosen bottle per course is better than a confusing progression of many. For non-drinkers: shrubs, sparkling water with citrus, and soft herbal drinks should be prepared with the same care as wine.
 

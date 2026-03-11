@@ -118,7 +118,7 @@ The first week focuses on building the foundational components of a Middle Easte
 ### Wednesday — Persian-Style Herb Frittata (Kuku Sabzi) or Rice (Chelow)
 
 **Skill:** Herb-heavy egg bake; or Persian steamed rice with tahdig crust  
-**Read first:** Research kuku sabzi (Persian herb frittata) or chelow with tahdig (crispy Persian rice — the scraped bottom crust is the prize)
+**Read first:** For kuku sabzi — use a handful each of fresh dill, parsley, cilantro, and fenugreek leaves (dried works), with eggs, turmeric, and barberries; baked or pan-cooked. For chelow with tahdig: [Chelow (Persian Steamed White Rice)](https://www.seriouseats.com/chelow-persian-steamed-white-rice-recipe-7197809) | [Tahdig (Persian Crunchy Rice)](https://www.seriouseats.com/tahdig-persian-crunchy-rice-7187445)
 
 **What you're learning:** Either preparation represents a distinct Persian approach absent from the rest of the Middle Eastern block. Chelow with tahdig (the crispy bottom) is a study in rice control: high starch rice, soaked, parboiled, then steamed with a lid lined with a towel that absorbs steam. The bottom goldifies into a crust that is split among the table.
 

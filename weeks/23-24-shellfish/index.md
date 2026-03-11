@@ -122,7 +122,7 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 ### Wednesday — Clam Chowder or Clam + Corn Pasta
 
 **Skill:** Using canned clams confidently; chowder-building ratios  
-**Read first:** Reference the Vongole method (Monday Week 23) applied to a cream-based preparation
+**Read first:** [New England Clam Chowder](https://www.seriouseats.com/new-england-clam-chowder-recipe)
 
 **What you're learning:** Canned clams are a legitimate pantry staple (SE says so). Build a clam chowder from scratch or pivot to a clam + corn + butter pasta that uses the same technique as vongole but heads in a different direction.
 
@@ -141,7 +141,7 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 ### Friday — Mussels in Tomato-Saffron Broth
 
 **Skill:** Building a second mussel preparation with Mediterranean flavors vs. French  
-**Read first:** Reference moules marinière technique (Week 23 Tue) + bouillabaisse broth-building (Week 22 Sat)
+**Read first:** [Moules Marinières (Sailor-Style Mussels)](https://www.seriouseats.com/the-best-moules-mariniere-sailor-style-mussels-recipe) for the base technique — today you’re swapping white wine and cream for saffron, tomato, and fennel. Same bivalve, different broth logic.
 
 **What you're learning:** Same bivalve, different flavor frame. Saffron + tomato + fennel gives mussels a completely different character than cream and white wine. This is your first "what changes when I swap the broth?" lesson applied to shellfish.
 

@@ -93,7 +93,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 ### Monday — Beurre Blanc (White Butter Sauce)
 
 **Skill:** Pure butter emulsion sauce; wine-and-shallot reduction base  
-**Read first:** Study the French sauce framework — beurre blanc is the cold-butter-mounted pan sauce
+**Read first:** [Beurre Blanc](https://www.seriouseats.com/beurre-blanc-recipe-7643412)
 
 **What you're learning:** Beurre blanc is butter whisked into a reduced shallot-and-white-wine base, creating a light but rich sauce that coats fish and vegetables beautifully. Unlike hollandaise, no eggs involved — the emulsion is butter protein in an acidic liquid. It will break if overheated.
 
@@ -119,7 +119,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 ### Wednesday — Soufflé (Cheese or Chocolate)
 
 **Skill:** Whipped egg white foam structure; baking to serve immediately  
-**Read first:** Research soufflé technique — the key principle is well-beaten stiff egg whites, folded gently into a flavor base (béchamel for savory, pastry cream for sweet)
+**Read first:** [Savory Cheese Soufflé](https://www.seriouseats.com/savory-cheese-souffle)
 
 **What you're learning:** Soufflés are not as hard as their reputation. What fails them is undermixed whites, overfolding, or an underprepared dish (unbuttered, no sugar/Parmesan coating). Make a cheese soufflé tonight: it's impressive and straightforward with proper preparation.
 
@@ -142,7 +142,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 
 1. **Starter:** Salad Lyonnaise (frisée, lardons, poached egg, Dijon vinaigrette)
 2. **Main:** Pan-seared duck breast with cherry or red wine reduction
-3. **Dessert:** Chocolate mousse (made ahead — see Weeks 45–46 preview, or use simple recipe)
+3. **Dessert:** Chocolate mousse (made ahead — [Chocolate Mousse](https://www.seriouseats.com/chocolate-mousse-recipe-7109970))
 
 **Full Meal:**
 - Salad Lyonnaise → Duck Breast → Chocolate Mousse

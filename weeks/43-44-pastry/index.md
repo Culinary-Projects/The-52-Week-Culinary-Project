@@ -35,7 +35,7 @@ French pastry week is the most technically demanding section of this program. Th
 **What you're learning:** Pastry cream is the filling for every French pastry: eclairs, mille-feuille, fruit tarts, cream puffs. It's thickened with cornstarch and egg yolks. The key skills: tempering (pouring hot milk slowly into yolks to prevent scrambling), cooking while whisking constantly until it thickens (it will lump if you stop), and pressing plastic wrap directly on the surface to prevent a skin.
 
 **Full Meal:**
-- Eclairs or cream puffs using pastry cream (choux pastry — reference Weeks 1–2 or make simple version from basic choux: butter + water + flour + eggs piped and baked at 400°F)
+- Eclairs or cream puffs using pastry cream (choux pastry — see Week 44 Friday for the full technique, or make a basic choux: butter + water + flour + eggs piped and baked at 400°F)
 - Chocolate glaze dipped
 
 ---
@@ -62,7 +62,7 @@ French pastry week is the most technically demanding section of this program. Th
 ### Friday — Quick Puff Pastry (Rough Puff)
 
 **Skill:** Rough puff technique; fold method; maintaining butter layers without a lamination machine  
-**Read first:** Research rough puff pastry — often called "blitz puff" or "quick puff pastry"
+**Read first:** Rough puff (also called “blitz puff” or “quick puff”) has no dedicated SE recipe, but the technique is straightforward: grate frozen butter into flour, barely combine with ice water, fold 4× with 20-minute rests between. The [Mille-Feuille recipe](https://www.seriouseats.com/mille-feuille-recipe-8729243) explains the layer principle; the [Croissant recipe](https://www.seriouseats.com/croissants-recipe-11863500) demonstrates the lamination mechanics at full scale.
 
 **What you're learning:** True feuilletage (classic puff pastry) takes 6 rounds of folds over hours. Rough puff achieves 70–80% of the same result in a fraction of the time. Grate frozen butter into the flour, add water, barely combine, fold 3–4 times with 30-minute rests between. The result: flaky, buttery pastry dough for savory and sweet applications.
 
@@ -90,7 +90,7 @@ French pastry week is the most technically demanding section of this program. Th
 ### Monday — Quiche Lorraine
 
 **Skill:** Savory custard in a tart shell; cream-to-egg ratio; setting without overcooking  
-**Read first:** Research quiche lorraine — baked tart shell, lardons sautéed, egg + cream + Gruyère custard poured in, baked until just set
+**Read first:** [Quiche Lorraine](https://www.seriouseats.com/quiche-lorraine-recipe-8715255)
 
 **What you're learning:** Quiche custard sets at 160–165°F. The oven texture should be: barely jiggly in the center when you pull it, firming as it cools. Overbaked quiche is grainy and rubbery. The technique applies to any savory tart or baked custard — ratio is 1 egg per 4 tablespoons (¼ cup) heavy cream.
 
@@ -133,7 +133,7 @@ French pastry week is the most technically demanding section of this program. Th
 ### Friday — Choux Pastry (Éclairs or Profiteroles)
 
 **Skill:** Choux dough technique (pâte à choux); piping consistent shapes; filling and glazing  
-**Read first:** Research pâte à choux — water + butter heated together, flour added and cooked, eggs beaten in one at a time until correct consistency
+**Read first:** [Choux au Craquelin](https://www.seriouseats.com/choux-au-craquelin) (for plain éclairs or profiteroles, skip the craquelin sugar disc on top — the choux base technique is identical)
 
 **What you're learning:** Choux is a cooked starch paste. The eggs are beaten in gradually — the correct dough consistency is "ribbon-y" when dropped from a spoon (falls in a thick, slow V). Underbaked choux will collapse. Properly baked choux has a hollow interior ready for filling.
 

@@ -95,7 +95,7 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 ### Monday — Gnocchi from Scratch
 
 **Skill:** Potato gnocchi dough; reading texture by feel; avoiding gummy results  
-**Read first:** Research potato gnocchi technique — the key variables: low-moisture potatoes (baked not boiled), minimal flour, gentle hand
+**Read first:** [Light and Tender Potato Gnocchi](https://www.seriouseats.com/light-tender-potato-gnocchi-recipe)
 
 **What you're learning:** Great gnocchi are light (barely there) because they contain barely enough flour to hold together. Too much flour → rubbery. The test: drop one in boiling water; if it rises and floats within 30 seconds and tastes right, roll the rest.
 
@@ -108,7 +108,7 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 ### Tuesday — Pasta Fresca (Fresh Egg Pasta)
 
 **Skill:** Making egg pasta dough by hand; rolling and cutting; various shapes  
-**Read first:** Reference pasta-making from Weeks 7–8 (pasta fresca was introduced there) — this session goes deeper into filled pasta
+**Read first:** Reference pasta-making from Weeks 11–12 (pasta fresca was introduced there) — this session goes deeper into filled pasta
 
 **What you're learning:** Now that you know the dough, try a filled shape: either tortelloni (large), ravioli, or a simple pappardelle if fresh dough's not been practiced recently. The filling: ricotta + spinach + Parmesan + nutmeg.
 
@@ -138,7 +138,7 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 ### Friday — Saltimbocca alla Romana
 
 **Skill:** Pan-searing thin veal or chicken cutlets; prosciutto application; sage crisp  
-**Read first:** Study saltimbocca technique — thin veal scaloppine or pounded chicken breast, prosciutto pressed on top, sage pinned between, quick sauté in butter
+**Read first:** [Veal Saltimbocca](https://www.seriouseats.com/veal-saltimbocca-roman-sauteed-cutlet-recipe) — or [Chicken Saltimbocca](https://www.seriouseats.com/chicken-saltimbocca-recipe-11764806) if substituting
 
 **What you're learning:** Saltimbocca = "jump in the mouth." Thin protein + salty prosciutto + sage + butter + white wine reduction. It's a 15-minute dish that requires absolute timing: in the pan, prosciutto-side down briefly, then flip, deglaze, done.
 

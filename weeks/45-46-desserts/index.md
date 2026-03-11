@@ -17,7 +17,7 @@ This week is about cold and room-temperature desserts — the ones that reward a
 ### Monday — Crème Brûlée
 
 **Skill:** Baked custard; water bath technique; caramelizing the top (brûlée)  
-**Read first:** Research crème brûlée — ratio of yolks to cream; oven temperature (325°F); wobble test; the brûlée torch technique
+**Read first:** [Crème Brûlée](https://www.seriouseats.com/creme-brulee-recipe-7107199)
 
 **What you're learning:** Crème brûlée is a baked cream custard set with egg yolks only (no whites, no starch). The water bath (bain-marie) provides gentle, even heat that prevents curdling. The internal temperature is 160–165°F — any more and the texture becomes grainy. The top sugar layer is caramelized with a kitchen torch immediately before serving (not before refrigerating — the crust will dissolve).
 
@@ -116,7 +116,7 @@ This week is about cold and room-temperature desserts — the ones that reward a
 ### Wednesday — The Chocolate Chip Cookie (Science)
 
 **Skill:** Understanding fat, flour, and sugar ratios in cookie baking; brown butter; salt finishing  
-**Read first:** Research the Serious Eats chocolate chip cookie method — brown butter for nutty depth; bread flour for chew; refrigerate dough overnight; sea salt on top
+**Read first:** [The Best Chocolate Chip Cookies](https://www.seriouseats.com/the-food-lab-best-chocolate-chip-cookie-recipe)
 
 **What you're learning:** The "perfect" chocolate chip cookie encapsulates all of baking science: fat type (browned butter changes flavor significantly), sugar type (more brown sugar = chewier), flour protein level (bread flour = more chew), hydration (overnight chill dries the dough and concentrates flavor), and Maillard browning at the right temperature.
 
@@ -133,7 +133,7 @@ This week is about cold and room-temperature desserts — the ones that reward a
 ### Friday — Layer Cake Fundamentals
 
 **Skill:** Génoise or butter cake layers; simple syrup moistening; level layers; crumb coat; frosting  
-**Read first:** Research layer cake technique — the "crumb coat" (thin layer of frosting to seal crumbs before final frosting) is the professional technique that separates clean from messy results
+**Read first:** [Génoise Sponge](https://www.seriouseats.com/genoise-sponge-cake-recipe-6755258) for the cake layers — the crumb coat (a thin layer of frosting sealing crumbs before the final layer) is the technique that separates clean from messy results
 
 **What you're learning:** A well-executed layer cake requires: even layers (weigh the batter), flat tops (cake strips or dome trim), proper cooling before frosting (warm cake will melt buttercream), a crumb coat, refrigerating the crumb coat before final frosting, and patience. Make a 3-layer cake: vanilla, chocolate, or lemon curd between layers.
 

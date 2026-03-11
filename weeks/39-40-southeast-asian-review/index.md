@@ -141,7 +141,7 @@ Southeast Asia is not one cuisine but a family of distinct traditions connected 
 ### Friday — Beef Rendang (Malaysian/Indonesian)
 
 **Skill:** Dry coconut braising technique; toasting desiccated coconut; rendang spice paste  
-**Read first:** Research rendang technique — it begins wet (coconut milk) and ends dry (all liquid evaporated; beef coated in thick, clinging spiced coconut)
+**Read first:** [Beef Rendang](https://www.seriouseats.com/beef-rendang-recipe-8731804)
 
 **What you're learning:** Rendang is one of the few dishes that is wet (a braise) when it starts and completely dry when it's done — the coconut milk reduces entirely, and the beef almost fries in its own coconut fat at the end. This creates an intensely caramelized, complex exterior that stores for a week at room temperature. A technical masterpiece.
 
@@ -163,7 +163,7 @@ Southeast Asia is not one cuisine but a family of distinct traditions connected 
 - Curry Laksa (make broth ahead; assemble to order)
 - Nasi Goreng (best made on the spot at high heat)
 - Beef Rendang (reheat from Friday beautifully)
-- Poh Gà broth from Tuesday as an opening "tea"
+- Pho Gà broth from Tuesday as an opening "tea"
 
 **Full Meal:**
 - Southeast Asian Dinner Party
