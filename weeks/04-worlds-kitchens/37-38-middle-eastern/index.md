@@ -80,7 +80,7 @@ The first week focuses on building the foundational components of a Middle Easte
 **What you're learning:** Shawarma is a vertical rotisserie street food adapted at home as thin-sliced marinated beef (or chicken) cooked in a very hot pan or under a broiler to get the char-and-rendered-fat effect of a spit. The spice profile (cumin, coriander, cinnamon, cardamom, turmeric, garlic) is distinct from Indian spicing despite appearing similar. The wrap (pita + chicken or beef + pickled vegetables + tahini) is the delivery vehicle.
 
 **Full Meal:**
-- Beef Shawarma wraps with garlic sauce (toum — mashed garlic + lemon + oil emulsion)
+- Beef Shawarma wraps with [garlic sauce (toum)](https://www.seriouseats.com/toum-lebanese-garlic-sauce-recipe) — mashed garlic + lemon + oil emulsion
 - Tabbouleh ([Tabbouleh Salad](https://www.seriouseats.com/tabbouleh-salad-recipe)) as a side — mostly fresh parsley, not mostly bulgur
 
 ---
@@ -140,7 +140,7 @@ The first week focuses on building the foundational components of a Middle Easte
 **What you're learning:** Kabsa is the national dish of Saudi Arabia — a one-pot preparation where chicken is braised in a spiced tomato broth, then rice is cooked in that same broth, absorbing all the flavor. The spice profile (cardamom, cloves, cinnamon, black lime, rosewater) is distinct from any other "spiced rice and meat" dish you've made.
 
 **Full Meal:**
-- Kabsa with charred tomato salsa (dakka) on the side
+- Kabsa with [charred tomato salsa (dakka)](https://food52.com/recipes/15452-dakka-charred-tomato-salsa) on the side
 - Yogurt, flatbread
 
 ---

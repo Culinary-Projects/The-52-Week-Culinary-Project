@@ -142,7 +142,7 @@ Make the mayo from scratch. Use it in the roll filling and the coleslaw.
 | Component | Recipe |
 |-----------|--------|
 | Protein | Shrimp, scallop, or lobster roll |
-| Veg | Coleslaw made with your homemade mayo |
+| Veg | [Coleslaw](https://www.seriouseats.com/the-best-creamy-coleslaw-recipe) made with your homemade mayo |
 | Starch | Brioche or potato rolls |
 
 ---

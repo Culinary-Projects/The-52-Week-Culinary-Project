@@ -36,7 +36,7 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 
 **Full Meal:**
 - Moules Marinière
-- Frites (or good store-bought fries; this is mussels-and-fries night)
+- [Frites](https://www.seriouseats.com/french-fries-recipe) (or good store-bought fries; this is mussels-and-fries night)
 
 ---
 
@@ -102,7 +102,7 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 **Full Meal:**
 - Singaporean Chili Crab
 - Steamed white rice
-- Fried mantou buns or crusty bread for sauce dipping
+- [Fried mantou buns](https://food52.com/recipes/80553-mantou-chinese-steamed-buns) or crusty bread for sauce dipping
 
 ---
 
@@ -114,8 +114,8 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 **What you're learning:** Even shell-on shrimp carry flavor that transfers to fat. This session, peel the shrimp yourself (saving shells), then make a quick compound butter or simple shrimp stock that elevates any seafood dish later in the week.
 
 **Full Meal:**
-- Shrimp in compound butter over grits or polenta
-- Roasted cherry tomatoes
+- Shrimp in compound butter over [grits](https://www.seriouseats.com/creamy-grits-recipe) or [polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe)
+- [Roasted cherry tomatoes](https://www.seriouseats.com/tomato-raisins-oven-dried-whole-cherry-tomatoes)
 
 ---
 

@@ -49,7 +49,7 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 
 **Full Meal:**
 - Osso Buco alla Milanese
-- Saffron risotto (Milanese style, a simpler weeknight risotto)
+- [Saffron risotto alla Milanese](https://www.seriouseats.com/pressure-cooker-risotto-milanese-recipe) (a simpler weeknight risotto)
 
 ---
 
@@ -101,7 +101,7 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 
 **Full Meal:**
 - Gnocchi with brown butter and sage (simplest and best)
-- Roasted cherry tomatoes on the side
+- [Roasted cherry tomatoes](https://www.seriouseats.com/tomato-raisins-oven-dried-whole-cherry-tomatoes) on the side
 
 ---
 
@@ -144,8 +144,8 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 
 **Full Meal:**
 - Saltimbocca alla Romana
-- Sautéed spinach with garlic
-- Simple roasted potatoes
+- [Sautéed spinach with garlic](https://www.seriouseats.com/stir-fried-garlic-spinach-with-mustard-seeds-recipe)
+- [Simple roasted potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe)
 
 ---
 

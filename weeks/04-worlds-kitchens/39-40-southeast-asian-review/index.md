@@ -67,7 +67,7 @@ Southeast Asia is not one cuisine but a family of distinct traditions connected 
 
 **Full Meal:**
 - Curry Laksa with tofu puffs, shrimp, bean sprouts, hard-boiled egg, laksa leaf
-- Sambal on the side
+- [Sambal](https://www.seriouseats.com/homemade-sambal-oelek-recipe) on the side
 
 ---
 
@@ -147,8 +147,8 @@ Southeast Asia is not one cuisine but a family of distinct traditions connected 
 
 **Full Meal:**
 - Beef Rendang
-- Steamed jasmine rice and coconut rice (variation)
-- Cucumber and tomato kachumber
+- Steamed jasmine rice and [coconut rice](https://www.seriouseats.com/coconut-rice-recipe) (variation)
+- [Cucumber and tomato kachumber](https://www.seriouseats.com/kachumber-salad-recipe)
 
 ---
 

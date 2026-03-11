@@ -149,10 +149,10 @@ French pastry week is the most technically demanding section of this program. Th
 **Goal:** Assemble an afternoon tea spread using the two weeks of pastry work:
 
 1. Finger sandwiches (savory — cucumber, smoked salmon, egg salad on Pullman bread from Week 41)
-2. Petit fours or madeleine cookies (easy to add; baked in madeleine pan with browned butter batter)
+2. Petit fours or [madeleine cookies](https://www.seriouseats.com/classic-madeleines-recipe) (easy to add; baked in madeleine pan with browned butter batter)
 3. Lemon tart (from Wednesday) sliced
 4. Eclairs or mille-feuille from this week
-5. Scones with clotted cream and jam (or plain croissants from Week 42)
+5. [Scones](https://www.seriouseats.com/british-style-scones-recipe) with clotted cream and jam (or plain croissants from Week 42)
 
 **Full Meal:**
 - Full afternoon tea service

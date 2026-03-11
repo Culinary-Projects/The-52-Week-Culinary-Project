@@ -61,7 +61,7 @@
 - **Read:** [Serious Eats — Miso-Glazed Salmon](https://www.seriouseats.com/miso-glazed-salmon-in-the-toaster-oven-recipe) — toaster oven technique; standard oven broiler works identically
 - Glaze and refrigerate Thursday night. Friday is 8 minutes total.
 
-**Full Meal:** Miso-glazed salmon + steamed rice + quick pickled cucumbers + wilted bok choy
+**Full Meal:** Miso-glazed salmon + steamed rice + [quick pickled cucumbers](https://www.seriouseats.com/quick-pickled-cucumbers-rice-vinegar-recipe) + wilted bok choy
 
 ---
 
@@ -72,7 +72,7 @@
 - **Read:** [Serious Eats — Salt-Baked Whole Fish with Fresh Herbs](https://www.seriouseats.com/salt-baked-whole-fish-with-fresh-herbs-5212108) — a more dramatic version of the whole-fish concept; alternatively roast the fish simply with just olive oil, lemon, and herbs in a 425°F oven for 25–30 minutes per kilo
 - Any whole fish works: snapper, branzino, sea bass, striped bass, or whatever is freshest
 
-**The Saturday meal:** Whole roasted or salt-baked fish + olive oil, lemon, and capers dressed over the top + roasted potatoes or simple rice + salad
+**The Saturday meal:** Whole roasted or salt-baked fish + olive oil, lemon, and capers dressed over the top + [roasted potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) or simple rice + salad
 
 ---
 
@@ -103,7 +103,7 @@ Write: what was the biggest mental adjustment about fish cookery compared to bee
 - **Read:** [Serious Eats — Baja Fish Tacos](https://www.seriouseats.com/baja-fish-tacos-recipe-8682282)
 - Set up a simple deep-fry station: Dutch oven, 3 inches of neutral oil, thermometer. Don't skip the thermometer.
 
-**Full Meal:** Baja fish tacos + pickled jalapeños + guacamole or avocado crema + cold beer (optional)
+**Full Meal:** Baja fish tacos + pickled jalapeños + [guacamole](https://www.seriouseats.com/serious-eats-guacamole-recipe) or avocado crema + cold beer (optional)
 
 ---
 
@@ -129,7 +129,7 @@ Write: what was the biggest mental adjustment about fish cookery compared to bee
 
 - **Read:** [Serious Eats — Whole Grilled Fish](https://www.seriouseats.com/whole-grilled-fish-recipe-11744350)
 
-**Full Meal:** Whole grilled branzino (or snapper) + salsa verde or gremolata + roasted potatoes + salad
+**Full Meal:** Whole grilled branzino (or snapper) + [salsa verde](https://www.seriouseats.com/salsa-verde-italian-green-sauce-recipe) or [gremolata](https://www.seriouseats.com/gremolata-recipe) + [roasted potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + salad
 
 ---
 

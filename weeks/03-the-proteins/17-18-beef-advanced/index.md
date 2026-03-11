@@ -46,7 +46,7 @@
 - Remove the silverskin seam before cooking if your butcher hasn't
 - Always cut against the visible grain — very pronounced in this cut
 
-**Full Meal:** Hanger steak + [Serious Eats — Chimichurri](https://www.seriouseats.com/sauced-chimichurri-sauce-recipe) OR bagna cauda sauce + roasted potatoes or frites
+**Full Meal:** Hanger steak + [Serious Eats — Chimichurri](https://www.seriouseats.com/sauced-chimichurri-sauce-recipe) OR [bagna cauda sauce](https://www.seriouseats.com/bagna-cauda-recipe) + [roasted potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) or [frites](https://www.seriouseats.com/french-fries-recipe)
 
 ---
 
@@ -63,7 +63,7 @@
 - **Read:** [Serious Eats — Grilled Beef Galbi](https://www.seriouseats.com/grilled-beef-galbi-korean-style-marinated-short-ribs)
 - Marinate overnight; the grated pear or Asian pear is traditional and also tenderizes
 
-**Full Meal:** Galbi + steamed white rice + quick kimchi (store-bought is fine) + sesame cucumber salad
+**Full Meal:** Galbi + steamed white rice + quick kimchi (store-bought is fine) + [sesame cucumber salad](https://www.seriouseats.com/smashed-cucumber-salad-recipe)
 
 ---
 
@@ -74,7 +74,7 @@
 *Suggested menu:*
 1. [Serious Eats — Grilled Ribeye Steaks](https://www.seriouseats.com/the-food-labs-perfect-grilled-ribeye-steaks) — for 2–4 people
 2. Corn on the cob, grilled (no recipe needed — grill in husk, 15 min, turning)
-3. Grilled asparagus with olive oil and sea salt finish
+3. [Grilled asparagus](https://www.seriouseats.com/how-to-cook-asparagus-7487955) with olive oil and sea salt finish
 4. Bread with compound butter from Week 15
 
 *Fire management test: can you keep the indirect zone at 250°F while the direct zone is screaming hot? Use the lid and vents.*
@@ -108,7 +108,7 @@ Write down: what's the actual difference between grilling and broiling? (They're
 
 **Skill:** A steak salad is fundamentally different from a beef entrée — the steak is sliced thin, at most a supporting element in a composed dish with acid, crunch, and fresh contrast. Tonight: cook the steak to medium-rare, rest it, thin-slice it, and build around it.
 
-**Full Meal:** Sliced steak salad — arugula, shaved parmesan, roasted tomatoes, lemon vinaigrette + grilled bread
+**Full Meal:** Sliced steak salad — arugula, shaved parmesan, [roasted tomatoes](https://www.seriouseats.com/tomato-raisins-oven-dried-whole-cherry-tomatoes), lemon vinaigrette + grilled bread
 
 ---
 
@@ -119,7 +119,7 @@ Write down: what's the actual difference between grilling and broiling? (They're
 - **Read:** [Serious Eats — Tamarind Braised Beef Short Ribs](https://www.seriouseats.com/tamarind-braised-beef-short-ribs-recipe-11875259)
 - Start by 2:30 PM for a 7 PM dinner
 
-**Full Meal:** Tamarind short ribs + jasmine rice + stir-fried bok choy or greens
+**Full Meal:** Tamarind short ribs + jasmine rice + [stir-fried bok choy or greens](https://www.seriouseats.com/stir-fried-greens-with-garlic-bok-choy-with-oyster-sauce-recipe)
 
 ---
 
@@ -136,7 +136,7 @@ Write down: what's the actual difference between grilling and broiling? (They're
 - **Read:** [Serious Eats — Grilled Stuffed Flank Steak](https://www.seriouseats.com/grilled-stuffed-flank-steak-pesto-mozzarella-prosciutto-recipe)
 - Butterfly it yourself (cut parallel to the cutting board, stop before cutting through) or ask the butcher
 
-**Full Meal:** Stuffed flank steak + roasted tomatoes + crusty bread
+**Full Meal:** Stuffed flank steak + [roasted tomatoes](https://www.seriouseats.com/tomato-raisins-oven-dried-whole-cherry-tomatoes) + crusty bread
 
 ---
 

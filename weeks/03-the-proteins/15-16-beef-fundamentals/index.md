@@ -111,7 +111,7 @@ Write down this week's learning: of the three fundamentally different cooked-bee
 - Brown the short ribs in batches — don't crowd the pan or they'll steam instead of sear
 - Start by 2 PM if you're eating at 7
 
-**Full Meal:** Braised short ribs + egg noodles or creamy polenta + whatever vegetables are in season
+**Full Meal:** Braised short ribs + egg noodles or [creamy polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe) + whatever vegetables are in season
 
 ---
 
@@ -133,7 +133,7 @@ Write down this week's learning: of the three fundamentally different cooked-bee
 
 - **Read:** [Serious Eats — Brisket Cooking Methods Tested](https://www.seriouseats.com/brisket-cooking-methods-tested-11869530) — compare the approaches and understand why they produce different results
 
-**Full Meal:** Braised brisket slices + quick-pickled onions + coleslaw + rye bread
+**Full Meal:** Braised brisket slices + [quick-pickled onions](https://www.seriouseats.com/quick-pickle-rapid-pickled-onion-recipe) + [coleslaw](https://www.seriouseats.com/the-best-creamy-coleslaw-recipe) + rye bread
 
 ---
 
@@ -149,7 +149,7 @@ Write down this week's learning: of the three fundamentally different cooked-bee
 
 - **Read:** [Serious Eats — Steak au Poivre](https://www.seriouseats.com/steak-au-poivre) — follow it precisely your first time
 
-**Full Meal:** Steak au Poivre + [Serious Eats — Best Roast Potatoes Ever](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + grilled asparagus with olive oil and sea salt
+**Full Meal:** Steak au Poivre + [Serious Eats — Best Roast Potatoes Ever](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + [grilled asparagus](https://www.seriouseats.com/how-to-cook-asparagus-7487955) with olive oil and sea salt
 
 ---
 

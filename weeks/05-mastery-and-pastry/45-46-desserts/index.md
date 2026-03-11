@@ -35,7 +35,7 @@ This week is about cold and room-temperature desserts — the ones that reward a
 **What you're learning:** Panna cotta ("cooked cream") is Italy's most elegant simple dessert: cream + sugar + vanilla + bloomed gelatin, set in a mold and flipped. The gelatin amount must be precise — too much and it bounces; too little and it collapses when unmolded. The right amount: barely holds its shape and quivers when touched.
 
 **Full Meal:**
-- Panna Cotta with raspberry or strawberry coulis, fresh fruit, or simply excellent olive oil and sea salt (the Sicilian approach)
+- Panna Cotta with [raspberry or strawberry coulis](https://www.seriouseats.com/fresh-berry-coulis-recipe), fresh fruit, or simply excellent olive oil and sea salt (the Sicilian approach)
 
 ---
 

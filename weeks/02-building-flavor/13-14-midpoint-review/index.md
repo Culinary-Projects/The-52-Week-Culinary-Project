@@ -161,7 +161,7 @@ This is the most important reflection yet. Five questions, five sentences minimu
 **The Saturday menu:**
 1. **Duck confit legs** — crisped in a cast iron at high heat after the slow cook
 2. [Serious Eats — French Bistro Salad](https://www.seriouseats.com/french-bistro-salad-recipe-8707601) — frisée or endive, lardons, mustard vinaigrette, a poached egg if you feel like it
-3. **Lentils or white beans** cooked simply in the duck fat from the confit — this is called using the whole animal
+3. [Lentils or white beans](https://www.seriouseats.com/tuscan-white-beans-recipe) cooked simply in the duck fat from the confit — this is called using the whole animal
 
 *What you're proving to yourself: that patience and low heat create textures that no other method can.*
 

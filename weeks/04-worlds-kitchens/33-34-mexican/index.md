@@ -48,7 +48,7 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 
 **Full Meal:**
 - Guacamole + charred salsa verde served as dinner accompaniments
-- Pair with braised pinto beans (from scratch or canned), warm tortillas, queso fresco
+- Pair with [braised pinto beans](https://www.seriouseats.com/pinto-beans-recipe) (from scratch or canned), warm tortillas, queso fresco
 
 ---
 
@@ -67,7 +67,7 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 
 **Full Meal:**
 - Tacos al Pastor: pork, pineapple, white onion, cilantro, lime, corn tortillas
-- Refried beans alongside
+- [Refried beans](https://www.seriouseats.com/refried-beans-recipe) alongside
 
 ---
 
@@ -80,7 +80,7 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 
 **Full Meal:**
 - Enchiladas Rojas (beef or cheese and onion)
-- Mexican rice, refried beans or black beans
+- [Mexican rice](https://www.seriouseats.com/mexican-red-rice-recipe), [refried beans](https://www.seriouseats.com/refried-beans-recipe) or black beans
 - Crema, white onion, fresh cilantro, queso fresco
 
 ---
@@ -98,7 +98,7 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 
 **Full Meal:**
 - Birria tacos / quesabirria with consommé for dipping
-- Pickled onions, lime, cilantro, salsa
+- [Pickled onions](https://www.seriouseats.com/quick-pickled-red-onions-recipe), lime, cilantro, salsa
 
 ---
 
@@ -124,7 +124,7 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 
 **Full Meal:**
 - Tamales (makes 12–16) — eat some tonight; freeze the rest
-- Black beans, salsa, crema
+- [Black beans](https://www.seriouseats.com/cuban-black-beans-recipe), [salsa](https://www.seriouseats.com/pico-de-gallo-recipe), crema
 
 ---
 
@@ -141,7 +141,7 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 
 **Full Meal:**
 - Chiles Rellenos (cheese or picadillo filled)
-- Tomato salsa, rice, beans
+- [Tomato salsa](https://www.seriouseats.com/pico-de-gallo-recipe), rice, [beans](https://www.seriouseats.com/refried-beans-recipe)
 
 ---
 
