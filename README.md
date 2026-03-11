@@ -42,35 +42,35 @@ Each 2-week block has **three files**:
 
 | Weeks | Topic | Full Guide | Quick Ref | Shopping List |
 |-------|-------|------------|-----------|---------------|
-| 15–16 | Beef — Fundamentals | *(coming soon)* | *(coming soon)* | *(coming soon)* |
-| 17–18 | Beef — Advanced Cuts | *(coming soon)* | *(coming soon)* | *(coming soon)* |
-| 19–20 | Pork — All Cuts | *(coming soon)* | *(coming soon)* | *(coming soon)* |
-| 21–22 | Seafood — Fish | *(coming soon)* | *(coming soon)* | *(coming soon)* |
-| 23–24 | Seafood — Shellfish | *(coming soon)* | *(coming soon)* | *(coming soon)* |
-| 25–26 | Charcuterie & Curing + Quarterly Review | *(coming soon)* | *(coming soon)* | *(coming soon)* |
+| 15–16 | Beef — Fundamentals | [→ Guide](weeks/15-16-beef-fundamentals/index.md) | [→ Quick Ref](weeks/15-16-beef-fundamentals/quick-ref.md) | [→ Shopping](weeks/15-16-beef-fundamentals/shopping-list.md) |
+| 17–18 | Beef — Advanced Cuts | [→ Guide](weeks/17-18-beef-advanced/index.md) | [→ Quick Ref](weeks/17-18-beef-advanced/quick-ref.md) | [→ Shopping](weeks/17-18-beef-advanced/shopping-list.md) |
+| 19–20 | Pork — All Cuts | [→ Guide](weeks/19-20-pork/index.md) | [→ Quick Ref](weeks/19-20-pork/quick-ref.md) | [→ Shopping](weeks/19-20-pork/shopping-list.md) |
+| 21–22 | Seafood — Fish | [→ Guide](weeks/21-22-fish/index.md) | [→ Quick Ref](weeks/21-22-fish/quick-ref.md) | [→ Shopping](weeks/21-22-fish/shopping-list.md) |
+| 23–24 | Seafood — Shellfish | [→ Guide](weeks/23-24-shellfish/index.md) | [→ Quick Ref](weeks/23-24-shellfish/quick-ref.md) | [→ Shopping](weeks/23-24-shellfish/shopping-list.md) |
+| 25–26 | Charcuterie & Curing + Quarterly Review | [→ Guide](weeks/25-26-charcuterie-review/index.md) | [→ Quick Ref](weeks/25-26-charcuterie-review/quick-ref.md) | [→ Shopping](weeks/25-26-charcuterie-review/shopping-list.md) |
 
 ### 🌍 The World's Kitchens (Weeks 27–40)
 
 | Weeks | Topic | Full Guide | Quick Ref | Shopping List |
 |-------|-------|------------|-----------|---------------|
-| 27–28 | French | *(coming soon)* | *(coming soon)* | *(coming soon)* |
-| 29–30 | Italian | *(coming soon)* | *(coming soon)* | *(coming soon)* |
-| 31–32 | Japanese | *(coming soon)* | *(coming soon)* | *(coming soon)* |
-| 33–34 | Mexican | *(coming soon)* | *(coming soon)* | *(coming soon)* |
-| 35–36 | Indian | *(coming soon)* | *(coming soon)* | *(coming soon)* |
-| 37–38 | Middle Eastern | *(coming soon)* | *(coming soon)* | *(coming soon)* |
-| 39–40 | Southeast Asian + Quarterly Review | *(coming soon)* | *(coming soon)* | *(coming soon)* |
+| 27–28 | French | [→ Guide](weeks/27-28-french/index.md) | [→ Quick Ref](weeks/27-28-french/quick-ref.md) | [→ Shopping](weeks/27-28-french/shopping-list.md) |
+| 29–30 | Italian | [→ Guide](weeks/29-30-italian/index.md) | [→ Quick Ref](weeks/29-30-italian/quick-ref.md) | [→ Shopping](weeks/29-30-italian/shopping-list.md) |
+| 31–32 | Japanese | [→ Guide](weeks/31-32-japanese/index.md) | [→ Quick Ref](weeks/31-32-japanese/quick-ref.md) | [→ Shopping](weeks/31-32-japanese/shopping-list.md) |
+| 33–34 | Mexican | [→ Guide](weeks/33-34-mexican/index.md) | [→ Quick Ref](weeks/33-34-mexican/quick-ref.md) | [→ Shopping](weeks/33-34-mexican/shopping-list.md) |
+| 35–36 | Indian | [→ Guide](weeks/35-36-indian/index.md) | [→ Quick Ref](weeks/35-36-indian/quick-ref.md) | [→ Shopping](weeks/35-36-indian/shopping-list.md) |
+| 37–38 | Middle Eastern | [→ Guide](weeks/37-38-middle-eastern/index.md) | [→ Quick Ref](weeks/37-38-middle-eastern/quick-ref.md) | [→ Shopping](weeks/37-38-middle-eastern/shopping-list.md) |
+| 39–40 | Southeast Asian + Quarterly Review | [→ Guide](weeks/39-40-southeast-asian-review/index.md) | [→ Quick Ref](weeks/39-40-southeast-asian-review/quick-ref.md) | [→ Shopping](weeks/39-40-southeast-asian-review/shopping-list.md) |
 
 ### 🍞 Mastery & Pastry (Weeks 41–52)
 
 | Weeks | Topic | Full Guide | Quick Ref | Shopping List |
 |-------|-------|------------|-----------|---------------|
-| 41–42 | Bread — Fundamentals | *(coming soon)* | *(coming soon)* | *(coming soon)* |
-| 43–44 | Pastry | *(coming soon)* | *(coming soon)* | *(coming soon)* |
-| 45–46 | Desserts | *(coming soon)* | *(coming soon)* | *(coming soon)* |
-| 47–48 | Your Signature Dishes | *(coming soon)* | *(coming soon)* | *(coming soon)* |
-| 49–50 | Menus & Timing | *(coming soon)* | *(coming soon)* | *(coming soon)* |
-| 51–52 | The Final Exam | *(coming soon)* | *(coming soon)* | *(coming soon)* |
+| 41–42 | Bread — Fundamentals | [→ Guide](weeks/41-42-bread/index.md) | [→ Quick Ref](weeks/41-42-bread/quick-ref.md) | [→ Shopping](weeks/41-42-bread/shopping-list.md) |
+| 43–44 | Pastry | [→ Guide](weeks/43-44-pastry/index.md) | [→ Quick Ref](weeks/43-44-pastry/quick-ref.md) | [→ Shopping](weeks/43-44-pastry/shopping-list.md) |
+| 45–46 | Desserts | [→ Guide](weeks/45-46-desserts/index.md) | [→ Quick Ref](weeks/45-46-desserts/quick-ref.md) | [→ Shopping](weeks/45-46-desserts/shopping-list.md) |
+| 47–48 | Your Signature Dishes | [→ Guide](weeks/47-48-signature-dishes/index.md) | [→ Quick Ref](weeks/47-48-signature-dishes/quick-ref.md) | [→ Shopping](weeks/47-48-signature-dishes/shopping-list.md) |
+| 49–50 | Menus & Timing | [→ Guide](weeks/49-50-menus-and-timing/index.md) | [→ Quick Ref](weeks/49-50-menus-and-timing/quick-ref.md) | [→ Shopping](weeks/49-50-menus-and-timing/shopping-list.md) |
+| 51–52 | The Final Exam | [→ Guide](weeks/51-52-final-exam/index.md) | [→ Quick Ref](weeks/51-52-final-exam/quick-ref.md) | [→ Shopping](weeks/51-52-final-exam/shopping-list.md) |
 
 ---
 

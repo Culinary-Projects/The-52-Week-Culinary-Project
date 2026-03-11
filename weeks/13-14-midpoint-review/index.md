@@ -94,13 +94,82 @@ This is the most important reflection yet. Five questions, five sentences minimu
 
 ---
 
-**Week 14 coming soon.** Topics will cover: whole-bird roasting at high and low heat, spatchcocking for even cook and maximum crispness, poultry confiting (duck and chicken), and building deep pan sauces from fond.
+### Monday — High-Heat Whole-Bird Roast
 
-**Techniques you'll practice:**
-- High-heat roast vs. low-and-slow (two completely different results from the same bird)
-- Spatchcocking: why splitting the backbone matters and how to do it clean
-- Pan sauce from poultry drippings: reducing, mounting with butter, finishing with acid
-- Confit: patience-based cooking at low temperature in fat
+**Skill:** The classic high-heat roast — 450°F, bird dry-brined overnight, no basting. This produces crackling skin and juicy meat if you understand why: the high heat cooks so fast it dries the surface before the interior overcooks. A chicken at high heat is not an accident. It's physics.
+
+- **Read (before you cook):** [Serious Eats — The Science of Perfect Roast Chicken](https://www.seriouseats.com/perfect-roast-chicken-recipe-8384377)
+- Dry-brine the bird Sunday night: kosher salt inside and out, uncovered in the fridge
+- Roast at 450°F on a rack. No tent. No basting. Let it go.
+
+**Full Meal:** Roast chicken + [Serious Eats — The Best Roast Potatoes Ever](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + simple green salad
+
+*Skill note: Take the bird's temperature in three places — thigh near the joint, thickest part of the breast, and the cavity near the backbone. They'll never be the same reading. Understand the variance before you declare it "done."*
+
+---
+
+### Tuesday — Spatchcock: Why It Changes Everything
+
+**Skill:** Remove the backbone (kitchen shears, one firm cut down each side). Flatten the bird. Now roast it. Spatchcocking flattens the breast-to-thigh thickness differential — which is the single reason whole birds are so hard to cook to uniform doneness. When both parts hit the sheet pan at the same level, they cook much more evenly.
+
+- **Read:** [Serious Eats — Spatchcock Roast Chicken](https://www.seriouseats.com/lavender-lemon-honey-spatchcock-roast-chicken) — strip the flavor profile, study the method
+- Save the backbone: put it in a bag in the freezer. It will go in your next stock.
+
+**Full Meal:** Spatchcocked chicken (your own seasoning, not theirs) + [Serious Eats — Roasted Cauliflower with Pine Nuts, Raisins & Capers](https://www.seriouseats.com/roasted-cauliflower-pine-nut-raisin-caper-food-lab-recipe) + tahdig or rice
+
+*Side-by-side comparison optional: write down the cooking time and internal temp readings compared to Monday's whole bird. Did the spatchcock cook faster? More evenly? This is active learning.*
+
+---
+
+### Wednesday — Braised Poultry: Coq au Vin
+
+**Skill:** Braising breaks the poultry rules deliberately. Low and slow in liquid. The collagen in the legs and thighs converts to gelatin, creating body in the sauce that doesn't exist after a quick sear. This is why drumsticks and thighs are better braised and breasts are better roasted — they're different muscles with different fat and collagen content.
+
+- **Read:** [Serious Eats — Chicken Thigh Temperature & Technique](https://www.seriouseats.com/chicken-thigh-temperature-technique-11887963) — explains why thighs handle heat differently than breasts
+- [Serious Eats — Coq au Vin](https://www.seriouseats.com/coq-au-vin-chicken-red-wine-braise-recipe) — the classic
+
+**Full Meal:** Coq au Vin + crusty bread + simple green salad (the braise is the whole meal)
+
+*Skill note: Taste the braising liquid at three stages — raw, after it reduces by half, after the chicken has spent 45 minutes in it. The flavor evolution is the lesson.*
+
+---
+
+### Thursday — OFF
+
+📖 Rest. Or read: what's the difference between a braise and a stew? What does gelatin actually do to a sauce's texture? (Think back to your stock week — how did chilled stock behave?) Let the coq au vin from Wednesday's leftovers teach you how a braise improves overnight.
+
+---
+
+### Friday — Pan-Seared Chicken Breast + Pan Sauce
+
+**Skill:** The hardest everyday cook: a chicken breast at exactly the right temperature, seared in a pan, with a pan sauce built from the fond. Two proteins in two weeks — Monday's whole bird and tonight's breast — show you how different the same animal can be when you change the cut and the method.
+
+- **Read:** [Serious Eats — Pan-Seared Chicken Breast with White Wine Pan Sauce](https://www.seriouseats.com/easy-pan-seared-chicken-breast-white-wine-fines-herbes-pan-sauce-food-lab-recipe)
+- The pan sauce is the skill. Deglaze the fond. Reduce. Mount with butter. Taste. Fix.
+
+**Full Meal:** Pan-seared chicken breast + pan sauce + [Serious Eats — Honey-Roasted Carrots](https://www.seriouseats.com/honey-roasted-carrots-with-spring-herbs-recipe-11725322) + whatever grain you have
+
+---
+
+### Saturday — PROJECT: Duck Confit
+
+**Skill:** Confit is patience-based cooking. Duck legs cured overnight in salt and aromatics, then slow-cooked in their own fat (or olive oil, which works fine) for 2–3 hours at 200°F. The result is impossibly tender, deeply flavorful meat that also crisp-skins beautifully when you finish it in a hot pan.
+
+- **Read:** [Serious Eats — Classic Duck Confit](https://www.seriouseats.com/classic-duck-confit-recipe)
+- Start the cure Friday night. Saturday is a long, low project cook. This is the kind of thing you can only learn by doing it.
+
+**The Saturday menu:**
+1. **Duck confit legs** — crisped in a cast iron at high heat after the slow cook
+2. [Serious Eats — French Bistro Salad](https://www.seriouseats.com/french-bistro-salad-recipe-8707601) — frisée or endive, lardons, mustard vinaigrette, a poached egg if you feel like it
+3. **Lentils or white beans** cooked simply in the duck fat from the confit — this is called using the whole animal
+
+*What you're proving to yourself: that patience and low heat create textures that no other method can.*
+
+---
+
+### Sunday — OFF: Week 14 Reflection
+
+You've now cooked poultry four different ways in one week: high-heat whole roast, spatchcock, red-wine braise, pan sear, and duck confit. Write one paragraph: of everything in the first 14 weeks, what technique do you now feel like you actually *own*? What still feels like you're following instructions rather than cooking?
 
 ---
 
