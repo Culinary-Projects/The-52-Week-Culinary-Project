@@ -1,4 +1,4 @@
-# Weeks 51–52: The Final Exam — Shopping List
+# Weeks 51–52: Module 5 Capstone — The Final Exam: Shopping List
 
 ← [Weeks 49–50: Menus and Timing](../49-50-menus-and-timing/index.md)
 

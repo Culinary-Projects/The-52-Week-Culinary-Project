@@ -1,10 +1,10 @@
-# ⚡ Weeks 13–14 Quick Reference — Midpoint Review & Poultry
+# ⚡ Weeks 13–14 Quick Reference — Module 2 Capstone: Poultry & Flavor Review
 
 ← [Back to Full Guide](index.md) | [Back to Master Index](../../../README.md) | [Shopping List →](shopping-list.md)
 
 ---
 
-## Week 13 Recipes — The Midpoint Review Cook
+## Week 13 Recipes — The Module 2 Capstone Cook
 
 | Day | Dish | Skill | Link |
 |-----|------|-------|------|

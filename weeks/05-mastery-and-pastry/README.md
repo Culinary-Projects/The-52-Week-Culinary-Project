@@ -19,7 +19,7 @@ By the end of Week 52, you will have completed a full professional-level culinar
 | 45–46 | Desserts | [→ Guide](45-46-desserts/index.md) | [→ Quick Ref](45-46-desserts/quick-ref.md) | [→ Shopping](45-46-desserts/shopping-list.md) |
 | 47–48 | Your Signature Dishes | [→ Guide](47-48-signature-dishes/index.md) | [→ Quick Ref](47-48-signature-dishes/quick-ref.md) | [→ Shopping](47-48-signature-dishes/shopping-list.md) |
 | 49–50 | Menus & Timing | [→ Guide](49-50-menus-and-timing/index.md) | [→ Quick Ref](49-50-menus-and-timing/quick-ref.md) | [→ Shopping](49-50-menus-and-timing/shopping-list.md) |
-| 51–52 | The Final Exam | [→ Guide](51-52-final-exam/index.md) | [→ Quick Ref](51-52-final-exam/quick-ref.md) | [→ Shopping](51-52-final-exam/shopping-list.md) |
+| 51–52 | Module 5 Capstone: The Final Exam | [→ Guide](51-52-final-exam/index.md) | [→ Quick Ref](51-52-final-exam/quick-ref.md) | [→ Shopping](51-52-final-exam/shopping-list.md) |
 
 ---
 

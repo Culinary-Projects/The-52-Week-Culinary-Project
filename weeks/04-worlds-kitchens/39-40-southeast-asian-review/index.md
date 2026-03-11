@@ -1,4 +1,4 @@
-# Weeks 39–40: Southeast Asian + Third-Quarter Review
+# Weeks 39–40: Module 4 Capstone — Southeast Asian Cuisines
 
 ← [Weeks 37–38: Middle Eastern](../37-38-middle-eastern/index.md) | [Weeks 41–42: Bread →](../../05-mastery-and-pastry/41-42-bread/index.md)
 

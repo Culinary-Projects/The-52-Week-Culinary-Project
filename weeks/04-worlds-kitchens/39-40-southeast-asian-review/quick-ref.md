@@ -1,4 +1,4 @@
-# Quick Reference — Weeks 39–40: Southeast Asian + Review
+# Quick Reference — Weeks 39–40: Module 4 Capstone: Southeast Asian Cuisines
 
 ← [Back to Full Guide](index.md) | [Shopping List](shopping-list.md)
 

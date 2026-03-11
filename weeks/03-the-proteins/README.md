@@ -19,7 +19,7 @@ By the end of Week 26, you should be able to handle any cut of any animal with c
 | 19–20 | Pork — All Cuts | [→ Guide](19-20-pork/index.md) | [→ Quick Ref](19-20-pork/quick-ref.md) | [→ Shopping](19-20-pork/shopping-list.md) |
 | 21–22 | Seafood — Fish | [→ Guide](21-22-fish/index.md) | [→ Quick Ref](21-22-fish/quick-ref.md) | [→ Shopping](21-22-fish/shopping-list.md) |
 | 23–24 | Seafood — Shellfish | [→ Guide](23-24-shellfish/index.md) | [→ Quick Ref](23-24-shellfish/quick-ref.md) | [→ Shopping](23-24-shellfish/shopping-list.md) |
-| 25–26 | Charcuterie & Curing + Quarterly Review | [→ Guide](25-26-charcuterie-review/index.md) | [→ Quick Ref](25-26-charcuterie-review/quick-ref.md) | [→ Shopping](25-26-charcuterie-review/shopping-list.md) |
+| 25–26 | Module 3 Capstone: Charcuterie & Curing | [→ Guide](25-26-charcuterie-review/index.md) | [→ Quick Ref](25-26-charcuterie-review/quick-ref.md) | [→ Shopping](25-26-charcuterie-review/shopping-list.md) |
 
 ---
 

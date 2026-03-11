@@ -207,3 +207,46 @@ You've been cooking for eight weeks with deliberate intention. Before Week 9 (Se
 3. What recipe from the past 8 weeks did you want to make again?
 4. What did you learn that changed how you think about food?
 5. What do you want to tackle in the next 8 weeks?
+
+---
+
+## Module 1 Checkpoint
+
+> *Before you move on to Module 2 (Building Flavor), take stock of where you are. The next module assumes everything here is solid.*
+
+This is not graded. It is honest.
+
+### Knife Benchmark (repeat from Week 2)
+
+Set a timer. Brunoise one medium onion. Stop the timer when you're done.
+
+| Week 2 time | Today's time | Δ |
+|-------------|-------------|---|
+| _____ min | _____ min | _____ |
+
+If your time has improved by more than 20%, your knife skills are compounding. If not — that's useful information too, not a failure. Return to Week 2's onion exercise on a Saturday before Week 9.
+
+### Cook-From-Memory Test
+
+Without opening any recipe, cook **one** of the following from scratch:
+
+- A velouté or béchamel (one of the mother sauces from Weeks 5–6)
+- A properly seasoned chicken stock (Weeks 7–8)
+- A three-component dinner: seared protein + pan sauce + simply cooked vegetable
+
+The only rule: once anything goes on heat, no tabs open.
+
+### Skills Checklist
+
+Before Module 2, you should be able to answer yes to all of these:
+
+- [ ] I can julienne, brunoise, and chiffonade without looking up how
+- [ ] I understand the difference between sauté, sear, braise, poach, and steam — and when to use each
+- [ ] I can make at least two of the five mother sauces from memory
+- [ ] I can make a proper stock (bones, mirepoix, cold water, long simmer, strain)
+- [ ] I can cook an egg five different ways and explain what I'm doing and why
+- [ ] My knife is sharp and I know how to maintain it
+
+If you're checking all of these: you're ready for Module 2.
+
+If you have two or more unchecked: spend Week 9's first Monday revisiting the weak spots before committing to the new material. It's worth it.

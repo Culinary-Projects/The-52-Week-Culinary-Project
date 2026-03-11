@@ -38,7 +38,7 @@ Each 2-week block has **three files**:
 |-------|-------|------------|-----------|---------------|
 | 9–10 | Seasoning & Flavor Building | [→ Guide](weeks/02-building-flavor/09-10-seasoning-and-flavor/index.md) | [→ Quick Ref](weeks/02-building-flavor/09-10-seasoning-and-flavor/quick-ref.md) | [→ Shopping](weeks/02-building-flavor/09-10-seasoning-and-flavor/shopping-list.md) |
 | 11–12 | Pasta & Grains from Scratch | [→ Guide](weeks/02-building-flavor/11-12-pasta-and-grains/index.md) | [→ Quick Ref](weeks/02-building-flavor/11-12-pasta-and-grains/quick-ref.md) | [→ Shopping](weeks/02-building-flavor/11-12-pasta-and-grains/shopping-list.md) |
-| 13–14 | Midpoint Review + Poultry | [→ Guide](weeks/02-building-flavor/13-14-midpoint-review/index.md) | [→ Quick Ref](weeks/02-building-flavor/13-14-midpoint-review/quick-ref.md) | [→ Shopping](weeks/02-building-flavor/13-14-midpoint-review/shopping-list.md) |
+| 13–14 | Module 2 Capstone: Poultry & Flavor Review | [→ Guide](weeks/02-building-flavor/13-14-midpoint-review/index.md) | [→ Quick Ref](weeks/02-building-flavor/13-14-midpoint-review/quick-ref.md) | [→ Shopping](weeks/02-building-flavor/13-14-midpoint-review/shopping-list.md) |
 
 ### 🥩 [The Proteins](weeks/03-the-proteins/README.md) (Weeks 15–26)
 
@@ -49,7 +49,7 @@ Each 2-week block has **three files**:
 | 19–20 | Pork — All Cuts | [→ Guide](weeks/03-the-proteins/19-20-pork/index.md) | [→ Quick Ref](weeks/03-the-proteins/19-20-pork/quick-ref.md) | [→ Shopping](weeks/03-the-proteins/19-20-pork/shopping-list.md) |
 | 21–22 | Seafood — Fish | [→ Guide](weeks/03-the-proteins/21-22-fish/index.md) | [→ Quick Ref](weeks/03-the-proteins/21-22-fish/quick-ref.md) | [→ Shopping](weeks/03-the-proteins/21-22-fish/shopping-list.md) |
 | 23–24 | Seafood — Shellfish | [→ Guide](weeks/03-the-proteins/23-24-shellfish/index.md) | [→ Quick Ref](weeks/03-the-proteins/23-24-shellfish/quick-ref.md) | [→ Shopping](weeks/03-the-proteins/23-24-shellfish/shopping-list.md) |
-| 25–26 | Charcuterie & Curing + Quarterly Review | [→ Guide](weeks/03-the-proteins/25-26-charcuterie-review/index.md) | [→ Quick Ref](weeks/03-the-proteins/25-26-charcuterie-review/quick-ref.md) | [→ Shopping](weeks/03-the-proteins/25-26-charcuterie-review/shopping-list.md) |
+| 25–26 | Module 3 Capstone: Charcuterie & Curing | [→ Guide](weeks/03-the-proteins/25-26-charcuterie-review/index.md) | [→ Quick Ref](weeks/03-the-proteins/25-26-charcuterie-review/quick-ref.md) | [→ Shopping](weeks/03-the-proteins/25-26-charcuterie-review/shopping-list.md) |
 
 ### 🌍 [The World's Kitchens](weeks/04-worlds-kitchens/README.md) (Weeks 27–40)
 
@@ -61,7 +61,7 @@ Each 2-week block has **three files**:
 | 33–34 | Mexican | [→ Guide](weeks/04-worlds-kitchens/33-34-mexican/index.md) | [→ Quick Ref](weeks/04-worlds-kitchens/33-34-mexican/quick-ref.md) | [→ Shopping](weeks/04-worlds-kitchens/33-34-mexican/shopping-list.md) |
 | 35–36 | Indian | [→ Guide](weeks/04-worlds-kitchens/35-36-indian/index.md) | [→ Quick Ref](weeks/04-worlds-kitchens/35-36-indian/quick-ref.md) | [→ Shopping](weeks/04-worlds-kitchens/35-36-indian/shopping-list.md) |
 | 37–38 | Middle Eastern | [→ Guide](weeks/04-worlds-kitchens/37-38-middle-eastern/index.md) | [→ Quick Ref](weeks/04-worlds-kitchens/37-38-middle-eastern/quick-ref.md) | [→ Shopping](weeks/04-worlds-kitchens/37-38-middle-eastern/shopping-list.md) |
-| 39–40 | Southeast Asian + Quarterly Review | [→ Guide](weeks/04-worlds-kitchens/39-40-southeast-asian-review/index.md) | [→ Quick Ref](weeks/04-worlds-kitchens/39-40-southeast-asian-review/quick-ref.md) | [→ Shopping](weeks/04-worlds-kitchens/39-40-southeast-asian-review/shopping-list.md) |
+| 39–40 | Module 4 Capstone: Southeast Asian Cuisines | [→ Guide](weeks/04-worlds-kitchens/39-40-southeast-asian-review/index.md) | [→ Quick Ref](weeks/04-worlds-kitchens/39-40-southeast-asian-review/quick-ref.md) | [→ Shopping](weeks/04-worlds-kitchens/39-40-southeast-asian-review/shopping-list.md) |
 
 ### 🍞 [Mastery & Pastry](weeks/05-mastery-and-pastry/README.md) (Weeks 41–52)
 
@@ -72,7 +72,7 @@ Each 2-week block has **three files**:
 | 45–46 | Desserts | [→ Guide](weeks/05-mastery-and-pastry/45-46-desserts/index.md) | [→ Quick Ref](weeks/05-mastery-and-pastry/45-46-desserts/quick-ref.md) | [→ Shopping](weeks/05-mastery-and-pastry/45-46-desserts/shopping-list.md) |
 | 47–48 | Your Signature Dishes | [→ Guide](weeks/05-mastery-and-pastry/47-48-signature-dishes/index.md) | [→ Quick Ref](weeks/05-mastery-and-pastry/47-48-signature-dishes/quick-ref.md) | [→ Shopping](weeks/05-mastery-and-pastry/47-48-signature-dishes/shopping-list.md) |
 | 49–50 | Menus & Timing | [→ Guide](weeks/05-mastery-and-pastry/49-50-menus-and-timing/index.md) | [→ Quick Ref](weeks/05-mastery-and-pastry/49-50-menus-and-timing/quick-ref.md) | [→ Shopping](weeks/05-mastery-and-pastry/49-50-menus-and-timing/shopping-list.md) |
-| 51–52 | The Final Exam | [→ Guide](weeks/05-mastery-and-pastry/51-52-final-exam/index.md) | [→ Quick Ref](weeks/05-mastery-and-pastry/51-52-final-exam/quick-ref.md) | [→ Shopping](weeks/05-mastery-and-pastry/51-52-final-exam/shopping-list.md) |
+| 51–52 | Module 5 Capstone: The Final Exam | [→ Guide](weeks/05-mastery-and-pastry/51-52-final-exam/index.md) | [→ Quick Ref](weeks/05-mastery-and-pastry/51-52-final-exam/quick-ref.md) | [→ Shopping](weeks/05-mastery-and-pastry/51-52-final-exam/shopping-list.md) |
 
 ---
 

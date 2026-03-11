@@ -16,7 +16,7 @@ By the end of Week 14, your palate should be a tool as reliable as your knife.
 |-------|-------|------------|-----------|---------------|
 | 9–10 | Seasoning & Flavor Building | [→ Guide](09-10-seasoning-and-flavor/index.md) | [→ Quick Ref](09-10-seasoning-and-flavor/quick-ref.md) | [→ Shopping](09-10-seasoning-and-flavor/shopping-list.md) |
 | 11–12 | Pasta & Grains from Scratch | [→ Guide](11-12-pasta-and-grains/index.md) | [→ Quick Ref](11-12-pasta-and-grains/quick-ref.md) | [→ Shopping](11-12-pasta-and-grains/shopping-list.md) |
-| 13–14 | Midpoint Review + Poultry | [→ Guide](13-14-midpoint-review/index.md) | [→ Quick Ref](13-14-midpoint-review/quick-ref.md) | [→ Shopping](13-14-midpoint-review/shopping-list.md) |
+| 13–14 | Module 2 Capstone: Poultry & Flavor Review | [→ Guide](13-14-midpoint-review/index.md) | [→ Quick Ref](13-14-midpoint-review/quick-ref.md) | [→ Shopping](13-14-midpoint-review/shopping-list.md) |
 
 ---
 

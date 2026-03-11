@@ -1,14 +1,14 @@
-# 🏁 Weeks 13–14: Midpoint Review & Poultry
+# 🏁 Weeks 13–14: Module 2 Capstone — Poultry & Flavor Review
 
 ← [Back to Master Index](../../../README.md) | [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
 
 ---
 
-> *"You've been cooking for 12 weeks with deliberate intention. This week is your first real test: can you cook a full dinner for people you care about, with no recipes open in front of you during service?"*
+> *"You've been cooking with deliberate intention since Week 1. This week is your first real test: can you cook a full dinner for people you care about, with no recipes open in front of you during service? It also closes out Module 2 — Building Flavor. Before you enter the Proteins block, you should be able to season by instinct, not by instruction."*
 
 ---
 
-## Week 13 — The Midpoint Review Cook
+## Week 13 — The Module 2 Capstone Cook
 
 **The Week 13 rule:** Recipes are allowed for preparation and mise en place. Once service begins — meaning once anything goes on the heat — close the tabs.
 

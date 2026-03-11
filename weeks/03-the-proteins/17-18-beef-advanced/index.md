@@ -140,7 +140,7 @@ Write down: what's the actual difference between grilling and broiling? (They're
 
 ---
 
-### Saturday — PROJECT: The Quarterly Review Dinner #2
+### Saturday — PROJECT: Module 3 Skills Dinner
 
 You're 18 weeks in — nearly halfway through the proteins block. Tonight's project is a dinner for guests built entirely from techniques you now own across proteins and sauces.
 

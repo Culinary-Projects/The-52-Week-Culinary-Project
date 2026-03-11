@@ -20,7 +20,7 @@ By the end of Week 40, you should be able to cook with the grammar of seven worl
 | 33–34 | Mexican | [→ Guide](33-34-mexican/index.md) | [→ Quick Ref](33-34-mexican/quick-ref.md) | [→ Shopping](33-34-mexican/shopping-list.md) |
 | 35–36 | Indian | [→ Guide](35-36-indian/index.md) | [→ Quick Ref](35-36-indian/quick-ref.md) | [→ Shopping](35-36-indian/shopping-list.md) |
 | 37–38 | Middle Eastern | [→ Guide](37-38-middle-eastern/index.md) | [→ Quick Ref](37-38-middle-eastern/quick-ref.md) | [→ Shopping](37-38-middle-eastern/shopping-list.md) |
-| 39–40 | Southeast Asian + Quarterly Review | [→ Guide](39-40-southeast-asian-review/index.md) | [→ Quick Ref](39-40-southeast-asian-review/quick-ref.md) | [→ Shopping](39-40-southeast-asian-review/shopping-list.md) |
+| 39–40 | Module 4 Capstone: Southeast Asian Cuisines | [→ Guide](39-40-southeast-asian-review/index.md) | [→ Quick Ref](39-40-southeast-asian-review/quick-ref.md) | [→ Shopping](39-40-southeast-asian-review/shopping-list.md) |
 
 ---
 

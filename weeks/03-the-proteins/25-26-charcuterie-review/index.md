@@ -121,7 +121,7 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 
 ---
 
-### Wednesday — Midpoint Review: Six-Month Inventory
+### Wednesday — Module 3 Capstone: Six-Month Inventory
 
 **Note: This is a reflective cook day — pick one dish from weeks 1–25 that you want to redo.**
 

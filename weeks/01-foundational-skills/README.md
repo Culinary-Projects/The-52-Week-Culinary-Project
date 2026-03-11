@@ -17,7 +17,7 @@ By the end of Week 8, you should be able to walk into any kitchen and produce re
 | 1–2 | Knife Skills & Kitchen Setup | [→ Guide](01-02-knife-skills/index.md) | [→ Quick Ref](01-02-knife-skills/quick-ref.md) | [→ Shopping](01-02-knife-skills/shopping-list.md) |
 | 3–4 | Heat & Cooking Methods | [→ Guide](03-04-heat-and-cooking/index.md) | [→ Quick Ref](03-04-heat-and-cooking/quick-ref.md) | [→ Shopping](03-04-heat-and-cooking/shopping-list.md) |
 | 5–6 | The 5 Mother Sauces | [→ Guide](05-06-mother-sauces/index.md) | [→ Quick Ref](05-06-mother-sauces/quick-ref.md) | [→ Shopping](05-06-mother-sauces/shopping-list.md) |
-| 7–8 | Stocks & Eggs | [→ Guide](07-08-stocks-and-eggs/index.md) | [→ Quick Ref](07-08-stocks-and-eggs/quick-ref.md) | [→ Shopping](07-08-stocks-and-eggs/shopping-list.md) |
+| 7–8 | Stocks & Eggs *(includes Module 1 Checkpoint)* | [→ Guide](07-08-stocks-and-eggs/index.md) | [→ Quick Ref](07-08-stocks-and-eggs/quick-ref.md) | [→ Shopping](07-08-stocks-and-eggs/shopping-list.md) |
 
 ---
 
