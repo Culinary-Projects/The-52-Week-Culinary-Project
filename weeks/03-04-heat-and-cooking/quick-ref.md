@@ -1,6 +1,6 @@
 # ⚡ Weeks 3–4 Quick Reference — Heat & Cooking Methods
 
-← [Back to Full Guide](index.md) | [Back to Master Index](../../README.md)
+← [Back to Full Guide](index.md) | [Back to Master Index](../../README.md) | [Shopping List →](shopping-list.md)
 
 ---
 
@@ -8,12 +8,12 @@
 
 | Day | Dish | Method | Link |
 |-----|------|--------|------|
-| **Mon** | Sautéed Chicken Breasts with Pan Sauce + Sautéed Zucchini + Steamed Rice | Sauté | [Chicken](https://www.seriouseats.com/sauteed-chicken-breast-recipe) · [Zucchini](https://www.seriouseats.com/sauteed-zucchini-recipe) |
-| **Tue** | Sheet Pan Chicken Thighs + Roasted Veg + Green Salad | Roast (dry) | [Chicken](https://www.seriouseats.com/sheet-pan-chicken-thighs-recipe) · [Salad](https://www.seriouseats.com/how-to-make-salad-vinaigrette) |
-| **Wed** | Braised Chicken Thighs with Tomatoes and Capers + Bread/Polenta | Braise (wet) | [Recipe](https://www.seriouseats.com/braised-chicken-thighs-cacciatore) |
-| **Thu** | *OFF* | Read: cooking methods | [Article](https://www.seriouseats.com/guide-to-cooking-methods) |
-| **Fri** | Perfect Poached Salmon + Steamed Bok Choy + Rice | Poach / Steam | [Salmon](https://www.seriouseats.com/perfect-poached-salmon-recipe) · [Bok Choy](https://www.seriouseats.com/steamed-bok-choy-with-garlic-sauce) |
-| **Sat** | 🔨 **PROJECT: Spatchcocked Roast Chicken + Roasted Potatoes + Green Salad** | Roast | [Chicken](https://www.seriouseats.com/spatchcocked-butterflied-roast-chicken-recipe) · [Potatoes](https://www.seriouseats.com/the-best-roasted-potatoes-recipe) · [Salad](https://www.seriouseats.com/how-to-make-salad-vinaigrette) |
+| **Mon** | Sautéed Chicken Breasts with Pan Sauce + Sautéed Zucchini + Steamed Rice | Sauté | [Chicken](https://www.seriouseats.com/easy-pan-seared-chicken-breast-white-wine-fines-herbes-pan-sauce-food-lab-recipe) · [Zucchini](https://www.seriouseats.com/nice-and-easy-sauteed-summer-squash-zucchini-tomato-herbs-chilies) |
+| **Tue** | Sheet Pan Chicken Thighs + Roasted Veg + Green Salad | Roast (dry) | [Chicken](https://www.seriouseats.com/honey-mustard-sheet-pan-chicken-recipe-11780416) · [Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) |
+| **Wed** | Braised Chicken Thighs with Tomatoes and Capers + Bread/Polenta | Braise (wet) | [Recipe](https://www.seriouseats.com/chicken-cacciatore-red-peppers-recipe) |
+| **Thu** | *OFF* | Read: cooking methods | [Article](https://www.seriouseats.com/what-is-maillard-reaction-cooking-science) |
+| **Fri** | Perfect Poached Salmon + Steamed Bok Choy + Rice | Poach / Steam | [Salmon](https://www.seriouseats.com/poached-salmon-dill-yogurt-sauce-recipe) · [Bok Choy](https://www.seriouseats.com/stir-fried-greens-with-garlic-bok-choy-with-oyster-sauce-recipe) |
+| **Sat** | 🔨 **PROJECT: Spatchcocked Roast Chicken + Roasted Potatoes + Green Salad** | Roast | [Chicken](https://www.seriouseats.com/lavender-lemon-and-honey-spatchcocked-roast-chicken-recipe) · [Potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) · [Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) |
 
 ---
 
@@ -21,12 +21,12 @@
 
 | Day | Dish | Method | Link |
 |-----|------|--------|------|
-| **Mon** | Pan-Seared Steak (Butter Basted) + Mashed Potatoes + Green Beans | Sear (cast iron) | [Steak](https://www.seriouseats.com/perfect-pan-seared-steaks-recipe) · [Mash](https://www.seriouseats.com/the-best-mashed-potatoes-recipe) · [Beans](https://www.seriouseats.com/sauteed-green-beans-recipe) |
-| **Tue** | Crispy Pan-Seared Salmon + Roasted Asparagus + Arugula Salad | Sear (fish) | [Salmon](https://www.seriouseats.com/crispy-pan-seared-salmon-fillet-recipe) · [Asparagus](https://www.seriouseats.com/roasted-asparagus-recipe) |
-| **Wed** | Broiled Miso-Glazed Salmon + Bok Choy + Steamed Rice | Broil | [Salmon](https://www.seriouseats.com/easy-broiled-miso-glazed-fish-recipe) · [Bok Choy](https://www.seriouseats.com/steamed-bok-choy-with-garlic-sauce) |
-| **Thu** | *OFF* | ⏱️ Onion dice speed benchmark | [Read](https://www.seriouseats.com/guide-to-cooking-methods) |
+| **Mon** | Pan-Seared Steak (Butter Basted) + Mashed Potatoes + Green Beans | Sear (cast iron) | [Steak](https://www.seriouseats.com/perfect-pan-seared-steaks-recipe) · [Mash](https://www.seriouseats.com/rich-and-creamy-mashed-potatoes-recipe) · [Beans](https://www.seriouseats.com/cooks-illustrated-sauteed-green-beans-recipe) |
+| **Tue** | Crispy Pan-Seared Salmon + Roasted Asparagus + Arugula Salad | Sear (fish) | [Salmon](https://www.seriouseats.com/how-to-cook-salmon-pan-fry-fish-food-lab) · [Asparagus](https://www.seriouseats.com/how-to-cook-asparagus-7487955) |
+| **Wed** | Broiled Miso-Glazed Salmon + Bok Choy + Steamed Rice | Broil | [Salmon](https://www.seriouseats.com/miso-glazed-salmon-in-the-toaster-oven-recipe) · [Bok Choy](https://www.seriouseats.com/stir-fried-greens-with-garlic-bok-choy-with-oyster-sauce-recipe) |
+| **Thu** | *OFF* | ⏱️ Onion dice speed benchmark | [Read](https://www.seriouseats.com/what-is-maillard-reaction-cooking-science) |
 | **Fri** | **No-recipe recap cook** — use what's in your fridge | Your choice | — |
-| **Sat** | 🔨 **PROJECT: Braised Short Ribs + Creamy Polenta + Roasted Root Veg** | Braise | [Ribs](https://www.seriouseats.com/braised-short-ribs-recipe) · [Polenta](https://www.seriouseats.com/creamy-polenta-recipe) · [Veg](https://www.seriouseats.com/roasted-root-vegetables-recipe) |
+| **Sat** | 🔨 **PROJECT: Braised Short Ribs + Creamy Polenta + Roasted Root Veg** | Braise | [Ribs](https://www.seriouseats.com/red-wine-braised-beef-short-ribs-recipe) · [Polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe) · [Veg](https://www.seriouseats.com/roasted-root-vegetables-with-lime-dressing-8728919) |
 
 ---
 

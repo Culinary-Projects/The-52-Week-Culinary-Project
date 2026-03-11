@@ -24,7 +24,7 @@ Read this first:
 
 **Skill:** Sautéing means high heat, small amount of fat, food in a single layer, moving frequently. The most common home cook mistake: cold pan, crowded pan, food that steams instead of browns. Tonight, heat your pan until a drop of water evaporates immediately before adding oil. Cook in batches if needed.
 
-**Full Meal:** [Sautéed Chicken Breasts with Quick Pan Sauce](https://www.seriouseats.com/sauteed-chicken-breast-recipe) + [Sautéed Zucchini with Garlic and Herbs](https://www.seriouseats.com/sauteed-zucchini-recipe) + Steamed Rice
+**Full Meal:** [Sautéed Chicken Breasts with Quick Pan Sauce](https://www.seriouseats.com/easy-pan-seared-chicken-breast-white-wine-fines-herbes-pan-sauce-food-lab-recipe) + [Sautéed Zucchini with Garlic and Herbs](https://www.seriouseats.com/nice-and-easy-sauteed-summer-squash-zucchini-tomato-herbs-chilies) + Steamed Rice
 
 | Component | Recipe |
 |-----------|--------|
@@ -38,7 +38,7 @@ Read this first:
 
 **Skill:** Roasting is dry oven heat that circulates around food, browning all exposed surfaces. The two secrets: (1) high heat (400°F+) and (2) a *dry* surface on the food. Pat everything dry. Never roast wet food — the moisture steams before it can brown.
 
-**Full Meal:** [Sheet Pan Chicken Thighs with Roasted Vegetables](https://www.seriouseats.com/sheet-pan-chicken-thighs-recipe) + [Simple Green Salad](https://www.seriouseats.com/how-to-make-salad-vinaigrette)
+**Full Meal:** [Sheet Pan Chicken Thighs with Roasted Vegetables](https://www.seriouseats.com/honey-mustard-sheet-pan-chicken-recipe-11780416) + [Simple Green Salad](https://www.seriouseats.com/simple-vinaigrette-recipe)
 
 Use bone-in, skin-on thighs. Pat them completely dry. Compare the color and crispness tonight to Wednesday's braise — you'll eat the difference.
 
@@ -54,7 +54,7 @@ Use bone-in, skin-on thighs. Pat them completely dry. Compare the color and cris
 
 **Skill:** Braising is a two-step method. First, sear the meat in a very hot pan (dry heat, Maillard reaction). Then add a small amount of liquid, cover, and cook at low heat for a long time. The collagen in tough cuts breaks down into gelatin, making the meat spoon-tender and the braising liquid silky. Never rush a braise.
 
-**Full Meal:** [Braised Chicken Thighs with Tomatoes and Capers](https://www.seriouseats.com/braised-chicken-thighs-cacciatore) + Crusty bread or polenta
+**Full Meal:** [Braised Chicken Thighs with Tomatoes and Capers](https://www.seriouseats.com/chicken-cacciatore-red-peppers-recipe) + Crusty bread or polenta
 
 Notice the difference in texture from Tuesday's roasted thighs — same cut of meat, entirely different result because of heat and moisture.
 
@@ -67,7 +67,7 @@ Notice the difference in texture from Tuesday's roasted thighs — same cut of m
 
 ### Thursday — OFF
 
-📖 Read: [The Difference Between Sautéing, Frying, and Braising](https://www.seriouseats.com/guide-to-cooking-methods)
+📖 Read: [The Difference Between Sautéing, Frying, and Braising](https://www.seriouseats.com/what-is-maillard-reaction-cooking-science)
 
 Identify which of the three methods you used this week produced the best flavor on the same cut of chicken, and why.
 
@@ -77,7 +77,7 @@ Identify which of the three methods you used this week produced the best flavor 
 
 **Skill:** Wet heat keeps food moist and tender but produces no browning. It's ideal for delicate proteins and vegetables where you want to preserve texture and color. The trick: control your temperature. A hard boil beats up delicate proteins; a gentle simmer protects them.
 
-**Full Meal:** [Perfect Poached Salmon](https://www.seriouseats.com/perfect-poached-salmon-recipe) + [Steamed Bok Choy with Garlic Sauce](https://www.seriouseats.com/steamed-bok-choy-with-garlic-sauce) + Steamed rice
+**Full Meal:** [Perfect Poached Salmon](https://www.seriouseats.com/poached-salmon-dill-yogurt-sauce-recipe) + [Steamed Bok Choy with Garlic Sauce](https://www.seriouseats.com/stir-fried-greens-with-garlic-bok-choy-with-oyster-sauce-recipe) + Steamed rice
 
 | Component | Recipe |
 |-----------|--------|
@@ -91,7 +91,7 @@ Identify which of the three methods you used this week produced the best flavor 
 
 **Skill:** Spatchcocking (butterflying) a whole chicken removes the backbone, flattens the bird, and allows it to roast evenly in about half the time of a trussed bird. You'll use your knife skills from Weeks 1–2 and your roasting knowledge from this week. The result: the crispiest skin you've ever made at home.
 
-**Full Meal:** [Spatchcocked Roast Chicken](https://www.seriouseats.com/spatchcocked-butterflied-roast-chicken-recipe) + [Roasted Potatoes](https://www.seriouseats.com/the-best-roasted-potatoes-recipe) + [Simple Green Salad with Vinaigrette](https://www.seriouseats.com/how-to-make-salad-vinaigrette)
+**Full Meal:** [Spatchcocked Roast Chicken](https://www.seriouseats.com/lavender-lemon-and-honey-spatchcocked-roast-chicken-recipe) + [Roasted Potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + [Simple Green Salad with Vinaigrette](https://www.seriouseats.com/simple-vinaigrette-recipe)
 
 *Skill targets: Even butterflying, dry skin before roasting, proper resting time (10 minutes) before carving.*
 
@@ -113,7 +113,7 @@ Identify which of the three methods you used this week produced the best flavor 
 
 **Skill:** Put the steak in a screaming hot cast iron pan. Now don't touch it. The instinct to move, prod, and flip food constantly is the enemy of a good sear. Let the Maillard reaction happen. The steak will release from the pan when it's ready to flip. If you have to force it, it's not ready.
 
-**Full Meal:** [Perfect Pan-Seared Steak with Butter Basting](https://www.seriouseats.com/perfect-pan-seared-steaks-recipe) + [Creamy Mashed Potatoes](https://www.seriouseats.com/the-best-mashed-potatoes-recipe) + [Simple Sautéed Green Beans](https://www.seriouseats.com/sauteed-green-beans-recipe)
+**Full Meal:** [Perfect Pan-Seared Steak with Butter Basting](https://www.seriouseats.com/perfect-pan-seared-steaks-recipe) + [Creamy Mashed Potatoes](https://www.seriouseats.com/rich-and-creamy-mashed-potatoes-recipe) + [Simple Sautéed Green Beans](https://www.seriouseats.com/cooks-illustrated-sauteed-green-beans-recipe)
 
 | Component | Recipe |
 |-----------|--------|
@@ -127,7 +127,7 @@ Identify which of the three methods you used this week produced the best flavor 
 
 **Skill:** Fish with crispy skin requires a hot, *well-oiled* pan and patience. Press the fish gently against the pan for the first 30 seconds to prevent curling. Then leave it alone. Cook 80% of the way on the skin side. Flip only once, finish for 60 seconds on the flesh side.
 
-**Full Meal:** [Crispy Pan-Seared Salmon](https://www.seriouseats.com/crispy-pan-seared-salmon-fillet-recipe) + [Roasted Asparagus](https://www.seriouseats.com/roasted-asparagus-recipe) + [Simple Arugula and Fennel Salad](https://www.seriouseats.com/arugula-salad-with-shaved-parmesan-and-lemon-vinaigrette-recipe)
+**Full Meal:** [Crispy Pan-Seared Salmon](https://www.seriouseats.com/how-to-cook-salmon-pan-fry-fish-food-lab) + [Roasted Asparagus](https://www.seriouseats.com/how-to-cook-asparagus-7487955) + [Simple Arugula and Fennel Salad](https://www.seriouseats.com/fennel-orange-and-roasted-pepper-arugula-salad-recipe)
 
 | Component | Recipe |
 |-----------|--------|
@@ -141,7 +141,7 @@ Identify which of the three methods you used this week produced the best flavor 
 
 **Skill:** Broiling is essentially an upside-down grill — radiant heat comes from above. It's ideal for finishing dishes (melting cheese, charring a surface) or for cooking thin items quickly. Keep the rack close to the element and watch constantly. Broilers operate at max heat and burn food in seconds.
 
-**Full Meal:** [Broiled Salmon with Miso Glaze](https://www.seriouseats.com/easy-broiled-miso-glazed-fish-recipe) + [Sautéed Bok Choy](https://www.seriouseats.com/steamed-bok-choy-with-garlic-sauce) + Steamed rice
+**Full Meal:** [Broiled Salmon with Miso Glaze](https://www.seriouseats.com/miso-glazed-salmon-in-the-toaster-oven-recipe) + [Sautéed Bok Choy](https://www.seriouseats.com/stir-fried-greens-with-garlic-bok-choy-with-oyster-sauce-recipe) + Steamed rice
 
 | Component | Recipe |
 |-----------|--------|
@@ -155,7 +155,7 @@ Identify which of the three methods you used this week produced the best flavor 
 
 ⏱️ **Speed benchmark:** Dice one onion and time yourself. Compare to Week 2 Friday. Write both numbers down.
 
-📖 Read: [A Complete Guide to Cooking Methods](https://www.seriouseats.com/guide-to-cooking-methods)
+📖 Read: [A Complete Guide to Cooking Methods](https://www.seriouseats.com/what-is-maillard-reaction-cooking-science)
 
 ---
 
@@ -173,7 +173,7 @@ If you need to glance at times and temperatures, that's fine. But close the reci
 
 **Skill:** The full braise from start to finish. This is a long cook (3–4 hours) but almost entirely passive — you sear the ribs in batches, build the braising liquid, and let the oven do the rest. The hardest part is the patience.
 
-**Full Meal:** [Braised Short Ribs](https://www.seriouseats.com/braised-short-ribs-recipe) + [Creamy Polenta](https://www.seriouseats.com/creamy-polenta-recipe) + [Roasted Root Vegetables](https://www.seriouseats.com/roasted-root-vegetables-recipe)
+**Full Meal:** [Braised Short Ribs](https://www.seriouseats.com/red-wine-braised-beef-short-ribs-recipe) + [Creamy Polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe) + [Roasted Root Vegetables](https://www.seriouseats.com/roasted-root-vegetables-with-lime-dressing-8728919)
 
 | Component | Recipe |
 |-----------|--------|
