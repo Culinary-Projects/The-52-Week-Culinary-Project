@@ -20,4 +20,10 @@
 
 | Day | Learning (15 min) | The Full Meal (45 min) |
 | :--- | :--- | :--- |
-| **Mon** | [Thigh vs. Breast Science](https://www.seriouseats.com/the-food-lab-why-chicken-thighs-are-better-than-breasts) | [Crispy Chicken Thighs](
+| **Mon** | [Thigh vs. Breast Science](https://www.seriouseats.com/the-food-lab-why-chicken-thighs-are-better-than-breasts) | [Crispy Chicken Thighs](https://www.seriouseats.com/easy-pan-seared-chicken-thighs-with-parsley-lemon-and-capers-recipe) & [Glazed Carrots](https://www.seriouseats.com/classic-glazed-carrots-recipe) |
+| **Tue** | [The Sauté Method](https://www.seriouseats.com/how-to-saute-chicken-breast) | [Chicken Piccata](https://www.seriouseats.com/chicken-piccata-pan-sauce-recipe) over Pasta |
+| **Wed** | [Internal Temp Guide](https://www.seriouseats.com/chicken-internal-temperature-cooking-chart) | [Sesame Chicken Noodles](https://www.seriouseats.com/cold-sesame-noodles-shredded-chicken-recipe) & [Smashed Cucumber](https://www.seriouseats.com/taiwanese-smashed-cucumber-salad-recipe) |
+| **Thu** | [Marinade Science](https://www.seriouseats.com/how-to-marinate-food) | **Light:** [Chicken Souvlaki](https://www.seriouseats.com/grilled-chicken-souvlaki-recipe) & [Tzatziki](https://www.seriouseats.com/sauced-tzatziki-recipe) |
+| **Fri** | [Pan Sauce 101](https://www.seriouseats.com/how-to-make-a-pan-sauce) | [Chicken w/ Mushroom Pan Sauce](https://www.seriouseats.com/easy-pan-seared-chicken-breast-pan-sauce-recipe) & Spinach |
+| **Sat** | **Benchmark:** [Spatchcocking](https://www.seriouseats.com/how-to-spatchcock-re-butterfly-a-chicken) | [Roast Chicken](https://www.seriouseats.com/butterfiled-roasted-chicken-with-quick-jus-recipe) & [Roast Potatoes](https://www.seriouseats.com/the-best-roast-potatoes-recipe) |
+| **Sun** | [Stock vs. Broth](https://www.seriouseats.com/best-rich-chicken-stock-recipe) | **Light:** [Chicken Noodle Soup](https://www.seriouseats.com/the-best-chicken-noodle-soup-recipe) |
