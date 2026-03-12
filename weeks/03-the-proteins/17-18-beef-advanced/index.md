@@ -170,7 +170,6 @@ These aren't required reading — but if something from this block sparked a que
 Great grilling is about heat zoning, timing, and knowing when to leave the food alone. The science is the same whether you're using gas or charcoal.
 
 - 📖 [Dry-Brining Is the Best Way to Brine Meat, Poultry, and More](https://www.seriouseats.com/how-to-dry-brine) — Salting your steak 24 hours ahead (or even 45 minutes ahead) changes the texture. The guide explains why.
-- 📖 [The Right Way to Use a Meat Thermometer](https://www.seriouseats.com/how-to-take-meat-temperature-thermometer-cooking-doneness) — Especially important for cheaper cuts like hanger and skirt where temperature precision makes the difference between tender and chewy.
 
 ---
 
@@ -178,8 +177,8 @@ Great grilling is about heat zoning, timing, and knowing when to leave the food 
 
 Hanger, skirt, flank, and flat iron are the cuts that chefs reach for when they're cooking for themselves. They have more fat and connective tissue — which becomes flavor when handled right.
 
-- 📖 [The Food Lab on Resting Meat](https://www.seriouseats.com/how-to-have-juicy-meats-steaks-the-food-lab-the-importance-of-resting-grilling) — Resting matters even more for leaner cuts where moisture loss shows up immediately when sliced.
-- 📖 [Beef Guides (Master Index)](https://www.seriouseats.com/beef-guides-5118010) — The complete index of beef coverage on SE, organized by cut.
+- 📖 [The Best Inexpensive Steak for the Grill: Hanger Steak](https://www.seriouseats.com/the-best-inexpensive-steak-for-the-grill-hanger-steak-hangar) — Kenji's full breakdown of the hanger: where it comes from, how to trim the sinew down the middle, and why it needs a quick sear at high heat rather than slow cooking.
+- 📖 [Five Budget Cuts You Should Know](https://www.seriouseats.com/steak-for-grill-best-cuts-to-know-grilling) — The complete guide to the lesser-known cuts that punch above their weight: hanger, skirt, flat iron, chuck eye, and more, with technique notes for each.
 
 ---
 

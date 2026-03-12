@@ -201,7 +201,7 @@ Indian cooking is largely about controlling heat's interaction with spice. Whole
 
 Indian cooking draws on a pantry of 20–30 spices, but most dishes use the same core six: cumin, coriander, turmeric, chili, garam masala, and black mustard seed. Stocking these seven items puts 80% of the recipes within reach.
 
-- 📖 [Fats & Oil Guides (Master Index)](https://www.seriouseats.com/fats-oil-guides-5118004) — Ghee is clarified butter. This week you probably used it — here's the full guide to cooking fats and what makes ghee different from butter.
+- 📖 [How Ghee Makes Everything Taste Better](https://www.seriouseats.com/ghee-explainer-11826533) — Ghee is clarified butter with the milk solids removed — giving it a higher smoke point and a richer, nuttier flavor than butter. This explainer covers what it is, how to make it, and why Indian cooking depends on it.
 
 ---
 

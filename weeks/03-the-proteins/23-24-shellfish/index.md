@@ -178,8 +178,8 @@ These aren't required reading — but if something from this block sparked a que
 
 Live shellfish is the most time-sensitive ingredient in the kitchen. Knowing how to select, store, and clean it before you cook it is the bulk of the skill.
 
-- 📖 [Guide to Cooking With Wine](https://www.seriouseats.com/guide-to-cooking-with-wine-11921603) — White wine in clams and mussels isn't decorative. Understanding how acid and alcohol interact with the bivalve liquid explains the result.
-- 📖 [Fats & Oil Guides (Master Index)](https://www.seriouseats.com/fats-oil-guides-5118004) — Butter finishing for scallops and clams — the why behind the technique.
+- 📖 [How to Clean and Debeard Mussels](https://www.seriouseats.com/how-to-clean-debeard-mussels) — The step-by-step process for mussels: pulling the beard, testing for live ones, and storing properly before cooking. The same inspection logic applies to clams and oysters.
+- 📖 [A Comprehensive Guide to Buying Better Shrimp](https://www.seriouseats.com/how-to-pick-shrimp-varieties-freshness-guide) — What the labels actually mean, when fresh versus frozen matters, and how to read shrimp quality at the counter. The sourcing principles carry across all shellfish.
 
 ---
 

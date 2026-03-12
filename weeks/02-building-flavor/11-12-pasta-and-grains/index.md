@@ -205,7 +205,7 @@ Fresh pasta looks like pure craft but it's mostly chemistry. The ratio of egg yo
 
 Risotto is not about patience. It's about starch gelatinization and gradual liquid absorption. Once you understand the mechanism, you can make it in 18 minutes.
 
-- 📖 [Guide to Cooking With Wine](https://www.seriouseats.com/guide-to-cooking-with-wine-11921603) — White wine added at the start of risotto isn't optional — understanding why changes how you make it.
+- 📖 [The Key Techniques for Perfect Risotto](https://www.seriouseats.com/classic-risotto-recipe-8347844) — The full technical breakdown: why the stock goes in gradually, what the starch is actually doing, and how to read the risotto's texture at each stage rather than relying on a timer.
 
 ---
 

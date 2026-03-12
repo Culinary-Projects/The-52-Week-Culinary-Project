@@ -182,7 +182,7 @@ Bread baking is flour + water + time. But the mechanism is gluten development �
 
 No-knead and focaccia are gateway loaves. If you finished this week intrigued rather than intimidated, sourdough is the natural next project — wild yeast, longer fermentation, more complex crust.
 
-- 📖 [Fats & Oil Guides (Master Index)](https://www.seriouseats.com/fats-oil-guides-5118004) — Focaccia is the most olive-oil-forward bread there is. The guide to olive oil flavor and quality applies directly.
+- 📖 [Sourdough Starter](https://www.seriouseats.com/sourdough-starter) — The complete guide to building a culture from scratch: hydration, feeding schedules, flour types, and how to know when your starter is actually ready to bake with. Don't attempt your first sourdough before reading this.
 
 ---
 

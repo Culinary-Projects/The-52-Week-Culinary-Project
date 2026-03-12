@@ -181,7 +181,7 @@ Mexican cooking is a chile curriculum. Guajillo, ancho, pasilla, chipotle — ea
 
 Mole negro is typically a multi-day project in its native context. Understanding why each ingredient — chocolate, dried chiles, charred onion, toasted sesame, plantain — is there turns an intimidating recipe into a logical sequence.
 
-- 📖 [Guide to Cooking With Wine](https://www.seriouseats.com/guide-to-cooking-with-wine-11921603) — Useful context for the braised dishes (birria especially) where acid and liquid balance matters.
+- 📖 [A Comprehensive Guide to Mexican Chiles](https://www.seriouseats.com/guide-to-mexican-chiles-8756281) — The full vocabulary of dried chiles used in mole: ancho, mulato, pasilla, chipotle, guajillo, and more. Knowing the flavor profile of each one before you cook is how mole stops being frightening and starts being navigable.
 
 ---
 

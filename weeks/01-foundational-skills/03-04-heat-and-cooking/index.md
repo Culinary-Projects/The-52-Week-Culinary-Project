@@ -220,4 +220,4 @@ Oil isn't just oil. Fat choice affects flavor, smoke point, and technique — th
 
 ### A Book Worth Having
 
-- 📚 [***The Food Lab* by J. Kenji López-Alt**](https://www.amazon.com/dp/0393081087) — The definitive chapter on searing and Maillard is in here, alongside the science behind every major cooking technique. If you own one cookbook, make it this one.
+- 📚 [***CookWise* by Shirley Corriher**](https://www.amazon.com/dp/0688102298) — Corriher is a food scientist who explains not just how to cook, but *why* techniques work at a chemical level. The chapters on searing, browning, and fat behavior are the most practical food-science reading available for the exact techniques you did this week.

@@ -217,7 +217,6 @@ The five mother sauces aren't really recipes — they're frameworks. Understandi
 The reason hollandaise breaks and mayonnaise holds is the same — it's all about emulsification. Understanding the physics lets you rescue disasters and prevent them.
 
 - 📖 [Guide to Cooking With Wine](https://www.seriouseats.com/guide-to-cooking-with-wine-11921603) — Wine reductions are the backbone of dozens of French pan sauces. What wine does when it cooks is worth understanding.
-- 📖 [Fats & Oil Guides (Master Index)](https://www.seriouseats.com/fats-oil-guides-5118004) — The foundational resource on every fat you'll use in sauce-making.
 
 ---
 

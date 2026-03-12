@@ -182,8 +182,7 @@ French cuisine is a system. Understanding where hollandaise sits in the sauce fa
 
 Aioli made with patience and good olive oil is nothing like the commercial version. It's also a direct relative of hollandaise — same emulsion principle, different fat.
 
-- 📖 [Fats & Oil Guides (Master Index)](https://www.seriouseats.com/fats-oil-guides-5118004) — Olive oil quality matters enormously for aioli. The guide to buying, storing, and tasting.
-- 📖 [Cooking With Olive Oil: Should You Fry and Sear in It?](https://www.seriouseats.com/cooking-with-olive-oil-faq-safety-flavor) — Context for your aioli: what makes Provençal olive oil different from the standard supermarket bottle.
+- 📖 [Two-Minute Aioli](https://www.seriouseats.com/two-minute-foolproof-aioli-recipe) — Kenji's immersion blender method makes the emulsification nearly foolproof. Understanding why it works — and what causes it to break — is the more important lesson than the recipe itself.
 
 ---
 

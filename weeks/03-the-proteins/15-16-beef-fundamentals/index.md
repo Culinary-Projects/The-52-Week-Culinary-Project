@@ -192,7 +192,7 @@ Most home cooks buy whatever their supermarket stocks. Understanding the muscle 
 Most steak advice is either wrong or oversimplified. The Food Lab has done more careful testing on steak than anyone else.
 
 - 📖 [Old Wives' Tales About Cooking Steak, Debunked](https://www.seriouseats.com/old-wives-tales-about-cooking-steak) — Searing to "seal in juices," letting it come to room temperature, pressing with a finger for doneness — all tested, most debunked.
-- 📖 [The Food Lab on Resting Meat](https://www.seriouseats.com/how-to-have-juicy-meats-steaks-the-food-lab-the-importance-of-resting-grilling) — The science behind the 5-minute rest, and when it actually matters.
+
 
 ---
 

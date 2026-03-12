@@ -180,8 +180,7 @@ Middle Eastern cooking is organized around the table, not the plate. Mezze — t
 
 Two pantry ingredients define the flavors of this week's food. The quality of your tahini and olive oil shows up directly in everything you made.
 
-- 📖 [Fats & Oil Guides (Master Index)](https://www.seriouseats.com/fats-oil-guides-5118004) — The full guide to buying and storing olive oils, including what to look for for drizzling vs. cooking.
-- 📖 [Cooking With Olive Oil: Should You Fry and Sear in It?](https://www.seriouseats.com/cooking-with-olive-oil-faq-safety-flavor) — Covers whether the olive oil you used for your hummus finishing is the right choice for your shakshuka.
+- 📖 [Tahini Sauce With Garlic and Lemon](https://www.seriouseats.com/israeli-style-tahini-sauce-recipe) — Kenji's guide to tahini sauce covers the ratio, the thin-down technique with cold water, and why the sauce tightens before it loosens. All of this connects directly to your hummus and everything else you drizzled this week.
 
 ---
 

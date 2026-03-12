@@ -180,7 +180,6 @@ Sweet tart dough is the pastry equivalent of a mother sauce — once you can mak
 Tarte tatin requires caramelizing sugar in butter. It sounds terrifying. But caramel is just heated sucrose — and once you understand the temperature stages, you control it rather than fear it.
 
 - 📖 [Tarte Tatin](https://www.seriouseats.com/tarte-tatin-recipe-11844901) — The upside-down apple tart technique, including the caramel-base method, explained step by step.
-- 📖 [Chocolate Guides (Master Index)](https://www.seriouseats.com/chocolate-guides-5118007) — If this week's pastry work sparked interest in chocolate work, this is where to go next.
 
 ---
 

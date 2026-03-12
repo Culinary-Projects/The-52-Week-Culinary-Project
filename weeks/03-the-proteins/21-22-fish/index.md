@@ -161,8 +161,7 @@ These aren't required reading — but if something from this block sparked a que
 
 The most important fish skill happens before you cook. Knowing what fresh fish looks and smells like — and what to ask a fishmonger — matters more than technique.
 
-- 📖 [The Right Way to Use a Meat Thermometer](https://www.seriouseats.com/how-to-take-meat-temperature-thermometer-cooking-doneness) — Yes, for fish too. Internal temperature is the cleanest way to hit the window between translucent and perfectly flaking.
-- 📖 [Cooking With Olive Oil: Should You Fry and Sear in It?](https://www.seriouseats.com/cooking-with-olive-oil-faq-safety-flavor) — Relevant to your fish sears: the smoke point and flavor questions answered properly.
+- 📖 [How to Fillet a Whole Fish](https://www.seriouseats.com/how-to-fillet-a-fin-fish-perfectly-8761174) — The knife skill most home cooks never develop. Understanding the angle, pressure, and feel for running a blade along the spine changes how you approach any finned fish — whether you buy it whole or not.
 
 ---
 
@@ -170,7 +169,7 @@ The most important fish skill happens before you cook. Knowing what fresh fish l
 
 Bouillabaisse is a lesson in building shellfish stock, saffron, and rouille — three techniques that extend into a dozen other recipes.
 
-- 📖 [Fats & Oil Guides (Master Index)](https://www.seriouseats.com/fats-oil-guides-5118004) — Many finned fish preparations end with high-quality olive oil or butter. Understanding your fat options pays off here.
+- 📖 [Real Bouillabaisse (Bouillabaisse Marseillaise)](https://www.seriouseats.com/bouillabaisse-marseillaise-fish-stew-recipe) — The full recipe and process: building the saffron-shellfish broth, making the rouille, and understanding why the dish is served in two stages. The technique is transferable to any rich shellfish stew.
 
 ---
 

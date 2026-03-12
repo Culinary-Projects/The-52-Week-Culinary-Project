@@ -222,7 +222,7 @@ The single biggest improvement most home cooks can make is learning to salt earl
 
 Salt gets all the attention, but acid is what makes a dish taste complete. A squeeze of lemon or a splash of vinegar at the end is often all a dish needs.
 
-- 📖 [Guide to Cooking With Wine](https://www.seriouseats.com/guide-to-cooking-with-wine-11921603) — Wine is also an acid. Understanding how it deglazes, reduces, and concentrates connects back to this week's pan sauce work.
+- 📖 [6 Chemistry-Based Cooking Tricks That Actually Make Food Better](https://www.seriouseats.com/game-changing-ph-tips-11812345) — A quick tour of how pH affects color, texture, and flavor in cooking. The sections on finishing with acid and on blanching vegetables are directly applicable to everything you cooked this week.
 
 ---
 
