@@ -67,6 +67,8 @@ This block is structured differently. The first week is technical catch-up and d
 - Document the variable changed and the result
 - Freeze half the dough as "emergency cookies" for future dinner parties
 
+> 🎥 **Compare Notes:** [Broiled Chocolate Chip Cookies](https://www.youtube.com/watch?v=OnGrHD1hRkk) *(Adam Ragusea)* — His technique is the opposite instinct from the Food Lab method — intense top heat vs. even oven heat. Watch how the variable changes the cookie structure and ask yourself which result you'd rather eat.
+
 ---
 
 ### Thursday — Mise en Place: Full Professional Setup
@@ -110,6 +112,8 @@ Look back at your notes across 47 weeks. Which dish didn't go as planned? Which 
 - Research any remaining questions about it
 - Execute it cleanly and completely
 - Document: what's different, what's the same
+
+> 🎥 **Compare Notes:** [Three Salting Methods You Should Know](https://www.youtube.com/watch?v=HER4efpDCis) *(Samin Nosrat)* — Whatever dish you chose, salt is in it. Watch her explain the “when” and “how much” across different protein and cooking contexts — then apply it consciously to what you're making today.
 
 ---
 

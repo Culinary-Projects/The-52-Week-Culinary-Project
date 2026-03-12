@@ -72,6 +72,8 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 - Shrimp Scampi over linguine
 - Simple green salad
 
+> 🎥 **Compare Notes:** [Gambas al Ajillo (Spanish Garlic Shrimp)](https://www.youtube.com/watch?v=BiUh6AdxVoI) *(Helen Rennie)* — Spanish garlic shrimp vs. Italian scampi: same speed, same garlic-and-fat logic, completely different flavor. Watch the oil temperature and how briefly the shrimp touch the heat.
+
 ---
 
 ### Saturday — PROJECT: Lobster Night
@@ -85,6 +87,8 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 - Lobster, cooked your chosen method
 - Lobster bisque from shells (or shell butter to freeze)
 - Sides of your choice (drawn butter, lemon, herbs)
+
+> 🎥 **Compare Notes:** [How to Prepare and Cook a Lobster](https://www.youtube.com/watch?v=xVN130VEYhg) *(Jacques Pépin)* — Watch how he dispatches and breaks it down with total confidence. The technique is as much about handling a live animal as it is about cooking — there's no video that teaches that instinct better.
 
 ---
 

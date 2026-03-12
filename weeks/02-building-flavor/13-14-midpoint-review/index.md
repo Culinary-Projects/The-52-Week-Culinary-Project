@@ -136,6 +136,8 @@ This is the most important reflection yet. Five questions, five sentences minimu
 
 *Skill note: Taste the braising liquid at three stages — raw, after it reduces by half, after the chicken has spent 45 minutes in it. The flavor evolution is the lesson.*
 
+> 🎥 **Compare Notes:** [Coq au Vin](https://www.youtube.com/watch?v=0hntLmgN5m4) *(Jacques Pépin)* — Watch how he handles the braising liquid at each stage and the moment he decides the sauce is done — compare it to what your pot smells like halfway through.
+
 ---
 
 ### Thursday — OFF
@@ -170,6 +172,8 @@ This is the most important reflection yet. Five questions, five sentences minimu
 3. [Lentils or white beans](https://www.seriouseats.com/tuscan-white-beans-recipe) cooked simply in the duck fat from the confit — this is called using the whole animal
 
 *What you're proving to yourself: that patience and low heat create textures that no other method can.*
+
+> 🎥 **Compare Notes:** [Sunday Roasted Chicken, the Efficient Way](https://www.youtube.com/watch?v=Ksf5KqKeZms) *(Ethan Chlebowski)* — Before your confit, watch Ethan's reasoning about what heat does to poultry at each temperature — it gives direct context for why low-and-slow fat immersion produces such a different result.
 
 ---
 

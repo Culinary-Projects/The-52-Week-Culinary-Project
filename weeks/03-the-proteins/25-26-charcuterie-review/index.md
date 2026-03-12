@@ -125,6 +125,8 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 - [Chicken rillettes](https://www.seriouseats.com/duck-rillettes-recipe) on toast
 - [Simple pickled vegetable salad](https://www.seriouseats.com/quick-pickle-rapid-pickled-onion-recipe)
 
+> 🎥 **Compare Notes:** [Chicken Jardinière](https://www.youtube.com/watch?v=shvxFx5CRGQ) *(Jacques Pépin)* — Pépin shows poultry cooked low-and-slow in fat and aromatics — the same principle your rillette is built on. Watch how he reads texture rather than temperature.
+
 ---
 
 ### Wednesday — Module 3 Capstone: Six-Month Inventory
@@ -163,6 +165,8 @@ Write down: What are the three best things you cooked in the first 25 weeks? Wha
 - Curated cured meat tasting board with accompaniments
 - Crusty bread, mustards, cornichons, honey, fresh and dried fruits
 - The pancetta is now 5–6 days in — slice off one thin strip and taste (it's edible, just not fully penetrated yet)
+
+> 🎥 **Compare Notes:** [Pasta alla Carbonara: 3 Ricette](https://www.youtube.com/watch?v=elq1UYbJ-JQ) *(Italia Squisita)* — Three Michelin-starred chefs debate guanciale vs. pancetta vs. nothing else — the cured pork you've been making is the ingredient they fight over. Listen to the arguments.
 
 ---
 

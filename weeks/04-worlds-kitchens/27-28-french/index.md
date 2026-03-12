@@ -25,6 +25,8 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 - French Onion Soup, properly gratinéed with Gruyère and a crouton
 - Simple green salad
 
+> 🎥 **Compare Notes:** [This Video Will Change How You Think About Onions](https://www.youtube.com/watch?v=b0IvaSQUWIw) *(Ethan Chlebowski)* — The 45-minute caramelization time is the whole argument. Watch him document the color and smell at each interval — that's the evidence your patience is justified.
+
 ---
 
 ### Tuesday — Hollandaise and Eggs Benedict
@@ -129,6 +131,8 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 - Cheese soufflé (Gruyère + Parmesan) as main
 - Simple green salad
 
+> 🎥 **Compare Notes:** [Fast Cheese Soufflé](https://www.youtube.com/watch?v=xutqSiQri1g) *(Jacques Pépin)* — His efficiency is the point: he makes this look like a weeknight dish. Understand which steps he collapses vs. which ones he refuses to rush.
+
 ---
 
 ### Thursday — Rest Day
@@ -149,6 +153,8 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 **Full Meal:**
 - Salad Lyonnaise → Duck Breast → Chocolate Mousse
 - French baguette throughout
+
+> 🎥 **Compare Notes:** [Jacques Pépin Makes His Famous Crêpes](https://www.youtube.com/watch?v=V_okk5pOLp4) — Add crêpes Suzette or plain crêpes as an alternative dessert; watch the wrist movement and how little batter goes in the pan — bistro cooking done with zero fuss.
 
 ---
 

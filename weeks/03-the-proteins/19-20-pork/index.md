@@ -25,6 +25,8 @@
 
 **Full Meal:** Bone-in pork chop + pan sauce (apple cider or white wine, shallot, thyme) + [Serious Eats — Roasted Cauliflower with Pine Nuts and Capers](https://www.seriouseats.com/roasted-cauliflower-pine-nut-raisin-caper-food-lab-recipe) + simple salad
 
+> 🎥 **Compare Notes:** [Pork Chops with Madeira Mustard Pan Sauce](https://www.youtube.com/watch?v=uLaaNEr1Lq4) *(Helen Rennie)* — Watch her pan sauce construction after the sear — the deglazing sequence and butter mount are the same technique you're using, just with different liquid.
+
 ---
 
 ### Tuesday — Chashu Pork Belly: Low and Slow Japanese-Style
@@ -36,6 +38,8 @@
 - The leftover chashu will be used Thursday and works for ramen all week
 
 **Full Meal:** Chashu pork belly + steamed rice + quick pickled cucumbers + soft-boiled egg
+
+> 🎥 **Compare Notes:** [Why Lu Rou Fan is One of Taiwan's Favorite Comfort Foods](https://www.youtube.com/watch?v=Xqh7WpITRb0) *(Ethan Chlebowski)* — Different Asian tradition for braised pork belly. Compare how the five-spice and soy base contrasts with your chashu's mirin-sake approach — same ingredient, entirely different result.
 
 ---
 

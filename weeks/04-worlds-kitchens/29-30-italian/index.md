@@ -25,6 +25,8 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 - Mushroom Risotto (porcini + cremini, ideally)
 - Simple arugula salad with lemon and Parmesan
 
+> 🎥 **Compare Notes:** [Risotto — Two Chefs One Recipe](https://www.youtube.com/watch?v=ANZTOPW_j7k) *(Italia Squisita)* — Watch how two different chefs make the same dish diverge in texture and philosophy. The starch discussion alone changes how you hold your spoon at the mantecatura step.
+
 ---
 
 ### Tuesday — Minestrone (The Full Version)
@@ -52,6 +54,8 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 **Full Meal:**
 - Osso Buco alla Milanese
 - [Saffron risotto alla Milanese](https://www.seriouseats.com/pressure-cooker-risotto-milanese-recipe) (a simpler weeknight risotto)
+
+> 🎥 **Compare Notes:** [Ossobuco alla Milanese](https://www.youtube.com/watch?v=OStJ5KJsvRA) *(Italia Squisita)* — The gremolata moment at the end is what separates this from any other braise — watch when exactly he adds it and why freshness on top of richness is the whole idea.
 
 ---
 
@@ -105,6 +109,8 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 - Gnocchi with brown butter and sage (simplest and best)
 - [Roasted cherry tomatoes](https://www.seriouseats.com/tomato-raisins-oven-dried-whole-cherry-tomatoes) on the side
 
+> 🎥 **Compare Notes:** [Gnocchi di Patate: Veloce vs. Gourmet](https://www.youtube.com/watch?v=VOig8WT_SgQ) *(Italia Squisita)* — A quick weeknight version and a chef's version side by side — find where your dough lands on that spectrum and which version you'd choose again.
+
 ---
 
 ### Tuesday — Pasta Fresca (Fresh Egg Pasta)
@@ -117,6 +123,8 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 **Full Meal:**
 - Fresh ricotta and spinach ravioli with brown butter or sage cream sauce
 - Parmesan, black pepper
+
+> 🎥 **Compare Notes:** [Fresh Pasta from Scratch with a New York Chef](https://www.youtube.com/watch?v=QSCTMN2ydPw) *(Italia Squisita)* — Watch how he reads the dough by touch and feel, not by timing — the pasta you're making is the same recipe at the source.
 
 ---
 

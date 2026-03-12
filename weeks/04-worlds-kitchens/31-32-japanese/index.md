@@ -26,6 +26,8 @@ Japanese cooking builds on a different set of foundational principles than Frenc
 - Simple Japanese rice with furikake
 - Practice making the dashi twice to compare extraction timing
 
+> 🎥 **Compare Notes:** [Cheap, Quick and Easy Shoyu Ramen](https://www.youtube.com/watch?v=r3_tcQiyGG8) *(Way of Ramen)* — Watch the broth layering: the tare goes in after the stock, not during. That's the same logic as dashi — build a clean base, then season at service.
+
 ---
 
 ### Tuesday — Tonkatsu (Japanese Breaded Pork Cutlet)
@@ -107,6 +109,8 @@ Japanese cooking builds on a different set of foundational principles than Frenc
 - Miso butter ramen with soft-boiled eggs (marinated in soy + mirin)
 - Nori, corn, green onion, sesame on top
 
+> 🎥 **Compare Notes:** [Beginner Recipe for Rich Tonkotsu Ramen](https://www.youtube.com/watch?v=2fBs5MNlK2s) *(Way of Ramen)* — Tonkotsu broth is the opposite philosophy from your miso ramen — one is built on clarity, one on emulsified fat. Make the same toppings and taste the difference the broth alone makes.
+
 ---
 
 ### Tuesday — Teriyaki Sauce from Scratch + Chicken Thighs
@@ -166,6 +170,8 @@ Japanese cooking builds on a different set of foundational principles than Frenc
 **Full Meal:**
 - Simplified 4-course Japanese dinner (formal but achievable)
 - Green tea and wagashi (Japanese sweets) to close
+
+> 🎥 **Compare Notes:** [I Made Ramen From Scratch Using TRASH ft. Ramen Lord](https://www.youtube.com/watch?v=HNJEx0XM0VM) *(Alex French Guy Cooking)* — Alex and Ramen Lord turn kitchen scraps into serious broth. The mindset here — nothing is waste, everything extracts — is the kaiseki philosophy applied to ramen.
 
 ---
 

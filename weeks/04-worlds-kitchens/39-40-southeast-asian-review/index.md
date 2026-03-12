@@ -25,6 +25,8 @@ Southeast Asia is not one cuisine but a family of distinct traditions connected 
 - Pad Thai with shrimp (or tofu)
 - Bean sprouts, peanuts, lime, green onion served at the table for individual seasoning
 
+> 🎥 **Compare Notes:** [My BEST Authentic Pad Thai Recipe](https://www.youtube.com/watch?v=kBBnBF3sOws) *(Pailin's Kitchen)* — Watch her handling of the noodle-to-heat ratio and the tamarind sourcing decision. Her explanation of what "authentic" actually means in a Thai context is worth the full video.
+
 ---
 
 ### Tuesday — Traditional Beef Pho
@@ -71,6 +73,8 @@ Southeast Asia is not one cuisine but a family of distinct traditions connected 
 - Curry Laksa with tofu puffs, shrimp, bean sprouts, hard-boiled egg, laksa leaf
 - [Sambal](https://www.seriouseats.com/homemade-sambal-oelek-recipe) on the side
 
+> 🎥 **Compare Notes:** [Thai Green Curry Recipe — The Right Way](https://www.youtube.com/watch?v=LIbKVpBQKJI) *(Pailin's Kitchen)* — Coconut-based Southeast Asian curry vs. the laksa you just made: same base logic, different spice architecture. Watch how she blooms the paste before the coconut milk.
+
 ---
 
 ### Saturday — PROJECT: Thai Chicken Satay + Som Tam
@@ -84,6 +88,8 @@ Southeast Asia is not one cuisine but a family of distinct traditions connected 
 - Thai Chicken Satay with peanut sauce
 - Som Tam (green papaya salad)
 - Sticky rice if available
+
+> 🎥 **Compare Notes:** [Thai Pork Satay & Peanut Sauce](https://www.youtube.com/watch?v=bil2fAQ36dY) *(Pailin's Kitchen)* — Pork vs. chicken, same skewer. Her peanut sauce proportions are worth writing down — compare them directly to what you made.
 
 ---
 

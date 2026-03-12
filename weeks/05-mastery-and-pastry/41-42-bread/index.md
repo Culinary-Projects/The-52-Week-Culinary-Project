@@ -54,6 +54,8 @@ This week establishes the principles of bread-making through the two most forgiv
 - Focaccia with simple accompaniments
 - Serve with whatever soup or leftover protein you have — it elevates everything
 
+> 🎥 **Compare Notes:** [Extra-Flavorful Focaccia](https://www.youtube.com/watch?v=fE2sunDZhzg) *(Adam Ragusea)* — Watch his oil quantity and the dimpling logic — he explains why the fat pools create the crust they do. Compare to your bake: where did the oil go, and how did the surface behave?
+
 ---
 
 ### Thursday — Rest Day
@@ -73,6 +75,8 @@ This week establishes the principles of bread-making through the two most forgiv
 - Sliced Pullman bread, the ideal vehicle for anything
 - Make sandwiches from the week's proteins/leftovers — use your best bread for your best filling
 
+> 🎥 **Compare Notes:** [A Beginner's Guide to Making the Best Sandwich Bread](https://www.youtube.com/watch?v=Z18KxyTnIV8) *(Ethan Chlebowski)* — He documents the texture difference between enriched loaves at different hydrations. Slice yours next to a store loaf and notice what "structure" actually means.
+
 ---
 
 ### Saturday — PROJECT: Sourdough Starter + First Sourdough
@@ -87,6 +91,8 @@ This week establishes the principles of bread-making through the two most forgiv
 **Full Meal:**
 - Focaccia (make a second batch if desired — your no-knead skill is solid by now)
 - Saturday dinner designed around the focaccia
+
+> 🎥 **Compare Notes:** [A Non-Baker's Guide to Making Sourdough Bread](https://www.youtube.com/watch?v=APEavQg8rMw) *(Alex French Guy Cooking)* — His beginner lens matches yours right now. Watch when he knows the fermentation is right and how he reads the dough before shaping — that instinct is what you're building today.
 
 ---
 
@@ -149,6 +155,8 @@ This week establishes the principles of bread-making through the two most forgiv
 **Full Meal:**
 - Croissants (plain, butter, and chocolate-stuffed if you have pastry chocolate)
 - This is also dinner tonight
+
+> 🎥 **Compare Notes:** [How to Make Amazing French Baguettes at Home](https://www.youtube.com/watch?v=efqe9Umxopc) *(Alex French Guy Cooking)* — The lamination logic in croissants and the crust logic in baguettes come from the same place — steam and structure. Watch his scoring and look for the same "ear" on your croissants.
 
 ---
 

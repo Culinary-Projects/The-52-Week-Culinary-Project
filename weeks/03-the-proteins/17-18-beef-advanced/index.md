@@ -104,6 +104,8 @@ Write down: what's the actual difference between grilling and broiling? (They're
 
 **Full Meal:** Bolognese with fresh or dried pappardelle + simple salad + bread
 
+> 🎥 **Compare Notes:** [Carbonnade Flamande — Belgian Beef and Beer Stew](https://www.youtube.com/watch?v=xtrGqeqZ09o) *(Ethan Chlebowski)* — A European tradition of beef braised in liquid from a completely different direction. Compare how each culture uses liquid to transform tough cuts — and what the beer does that wine doesn't.
+
 ---
 
 ### Tuesday — Steak Salad: Beef as Accent
@@ -124,6 +126,8 @@ Write down: what's the actual difference between grilling and broiling? (They're
 - Start by 2:30 PM for a 7 PM dinner
 
 **Full Meal:** Tamarind short ribs + jasmine rice + [stir-fried bok choy or greens](https://www.seriouseats.com/stir-fried-greens-with-garlic-bok-choy-with-oyster-sauce-recipe)
+
+> 🎥 **Compare Notes:** [Glazed Braised Short Ribs](https://www.youtube.com/watch?v=BFaQbSlDM0k) *(Adam Ragusea)* — Same cut, different flavor vocabulary. Watch how he reads the braise for doneness and what the reduction glaze does to the surface — compare that technique to the tamarind version you just made.
 
 ---
 
