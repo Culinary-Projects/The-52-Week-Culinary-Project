@@ -25,6 +25,8 @@ The first week focuses on building the foundational components of a Middle Easte
 - Hummus b'Tahini with olive oil, cumin, paprika, and warm pita
 - Sliced cucumbers and tomatoes alongside
 
+> 🎥 **Compare Notes:** [How to LEVEL UP Hummus](https://www.youtube.com/watch?v=LQlXluaTMwY) *(Middle Eats)* — He focuses on the specific tricks that separate home hummus from restaurant hummus; compare his chickpea cooking approach and blending technique to yours.
+
 ---
 
 ### Tuesday — Shakshuka
@@ -50,6 +52,8 @@ The first week focuses on building the foundational components of a Middle Easte
 **Full Meal:**
 - Mezze board: baba ganoush + muhammara + hummus (from Monday) + pita
 - Falafel from the freezer or store (you'll make fresh on Friday)
+
+> 🎥 **Compare Notes:** [Creamiest Baba Ghanoush](https://www.youtube.com/watch?v=KZAFXT7sCJU) *(Middle Eats)* — Watch how long he lets the eggplant char; most home cooks stop too early and miss the smoke flavor that makes the dish what it is.
 
 ---
 
@@ -84,6 +88,8 @@ The first week focuses on building the foundational components of a Middle Easte
 **Full Meal:**
 - Beef Shawarma wraps with [garlic sauce (toum)](https://www.seriouseats.com/toum-lebanese-garlic-sauce-recipe) — mashed garlic + lemon + oil emulsion
 - Tabbouleh ([Tabbouleh Salad](https://www.seriouseats.com/tabbouleh-salad-recipe)) as a side — mostly fresh parsley, not mostly bulgur
+
+> 🎥 **Compare Notes:** [Legit Chicken Shawarma at Home](https://www.youtube.com/watch?v=kmjkkapeCX4) *(Middle Eats)* — He uses chicken; you used beef — the marinade spice logic is the same. Compare his thin-sear technique and how both versions replicate the spit char at home.
 
 ---
 

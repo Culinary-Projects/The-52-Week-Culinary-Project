@@ -26,6 +26,8 @@ The first Indian week focuses on three foundational preparations: a tomato-cream
 - Basmati rice
 - Store-bought naan (garlic naan is fine; you'll make fresh on Thursday)
 
+> 🎥 **Compare Notes:** [Lower-Calorie Butter Chicken](https://www.youtube.com/watch?v=K9Whv0oVMUw) *(Ethan Chlebowski)* — He approaches the same dish analytically — compare his sauce construction and fat tradeoffs to the SE version you made.
+
 ---
 
 ### Tuesday — Moong Dal (Yellow Split Lentils)
@@ -82,6 +84,8 @@ The first Indian week focuses on three foundational preparations: a tomato-cream
 - Basmati rice + naan (from Thursday's batch if any remain)
 - Chopped tomato, onion, cucumber salad alongside
 
+> 🎥 **Compare Notes:** [Dal Makhani](https://www.youtube.com/watch?v=dOiwccflDkY) *(Ranveer Brar)* — Restaurant-trained perspective on the long cook; pay attention to his point about why time — not more cream — is what makes dal makhani creamy.
+
 ---
 
 ### Saturday — PROJECT: North Indian Feast
@@ -119,6 +123,8 @@ South Indian cooking is different from North Indian in almost every way: less cr
 - [Puri](https://food52.com/recipes/21506-puris) (fried hollow puffy bread — or plain roti, or naan)
 - Sliced raw onion and lemon
 
+> 🎥 **Compare Notes:** [Quick Chole Masala](https://www.youtube.com/watch?v=zl8ShZmaaRg) *(Ranveer Brar)* — Watch his masala-building sequence and how long he cooks the tomato down; the amchur addition near the end is the technique note to compare against your version.
+
 ---
 
 ### Tuesday — Aloo Gobi (Potato and Cauliflower)
@@ -146,6 +152,8 @@ South Indian cooking is different from North Indian in almost every way: less cr
 - Lamb Biryani
 - Plain yogurt (raita) to cool against the spice
 - Simple green salad
+
+> 🎥 **Compare Notes:** [Chicken Dum Biryani](https://www.youtube.com/watch?v=EiVoWp5b93s) *(Ranveer Brar)* — He uses chicken; you used lamb. Watch the dum sealing technique and par-cook timing — those are what transfer directly regardless of protein.
 
 ---
 

@@ -23,6 +23,8 @@
 
 **Full Meal:** Crispy skin salmon + herb oil or lemon butter + [Serious Eats — Stir-Fried Garlic Spinach](https://www.seriouseats.com/stir-fried-garlic-spinach-with-mustard-seeds-recipe) + steamed rice
 
+> 🎥 **Compare Notes:** [How to Grill Salmon](https://www.youtube.com/watch?v=B1ucS4E5dB4) *(Helen Rennie)* — Different heat source, same goal as your pan sear; notice how she reads doneness and what she says about the margin for error.
+
 ---
 
 ### Tuesday — Sole Meunière: The French Lesson
@@ -33,6 +35,8 @@
 - The brown butter sauce: butter continues to cook in the hot pan after you remove the fish. Watch it turn amber. Smell it — it should smell nutty, like hazelnuts. Off the heat. Lemon juice. Pour immediately.
 
 **Full Meal:** Sole meunière + steamed haricots verts or asparagus + crusty bread to catch the sauce
+
+> 🎥 **Compare Notes:** [Sole Meunière](https://www.youtube.com/watch?v=uQ6U9uiP5go) *(Jacques Pépin)* — Watch the brown butter timing and how little it takes to cross from noisette to burned. This is the master class version of what you're cooking tonight.
 
 ---
 
@@ -73,6 +77,8 @@
 - Any whole fish works: snapper, branzino, sea bass, striped bass, or whatever is freshest
 
 **The Saturday meal:** Whole roasted or salt-baked fish + olive oil, lemon, and capers dressed over the top + [roasted potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) or simple rice + salad
+
+> 🎥 **Compare Notes:** [How to Grill and Eat a Whole Fish (Branzino)](https://www.youtube.com/watch?v=220Q_ppV8bs) *(Helen Rennie)* — Same fish, different heat source; pay attention to how she talks about the bones changing the cook time calculus compared to fillets.
 
 ---
 
@@ -131,6 +137,8 @@ Write: what was the biggest mental adjustment about fish cookery compared to bee
 
 **Full Meal:** Whole grilled branzino (or snapper) + [salsa verde](https://www.seriouseats.com/salsa-verde-italian-green-sauce-recipe) or [gremolata](https://www.seriouseats.com/gremolata-recipe) + [roasted potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + salad
 
+> 🎥 **Compare Notes:** [Go Fish](https://www.youtube.com/watch?v=H8jL9uRhIbI) *(Jacques Pépin)* — Watch how he reads the cooked fish and separates the fillet from the bone at the table; that's the finishing move that makes whole fish feel confident rather than awkward.
+
 ---
 
 ### Saturday — PROJECT: Bouillabaisse (The Grand Fish Stew)
@@ -142,6 +150,8 @@ This is a half-day project. Buy the bones/shells the same day (ask your fishmong
 - **Read:** [Serious Eats — Bouillabaisse Marseillaise](https://www.seriouseats.com/bouillabaisse-marseillaise-fish-stew-recipe) — the definitive home-cook version
 
 **The Saturday spread:** Bouillabaisse + rouille croutons + crusty bread + simple green salad
+
+> 🎥 **Compare Notes:** [Bouillabaisse and How to Make Fish Stock](https://www.youtube.com/watch?v=Ul_ymBC-cxk) *(Helen Rennie)* — The stock-building section is the real lesson; watch how she extracts flavor from bones and shells before anything else goes in the pot.
 
 ---
 

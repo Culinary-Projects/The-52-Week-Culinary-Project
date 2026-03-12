@@ -25,6 +25,8 @@ This week is about cold and room-temperature desserts — the ones that reward a
 - Crème Brûlée × 4 (make ahead; refrigerate; brûlée right before serving)
 - A savory dinner of your choice preceded it; this is dessert only
 
+> 🎥 **Compare Notes:** [Crème Brûlée & Crème Caramel](https://www.youtube.com/watch?v=dsjoULgoCf4) *(Claire Saffitz)* — She makes both in one session; the crème caramel comparison shows how the same custard base behaves completely differently without the brûlée crust.
+
 ---
 
 ### Tuesday — Panna Cotta
@@ -69,6 +71,8 @@ This week is about cold and room-temperature desserts — the ones that reward a
 - Pavlova with whipped cream, kiwi, passion fruit, strawberries
 - This is a Friday dinner: a big pavlova is a celebratory dessert
 
+> 🎥 **Compare Notes:** [Easy Pavlova](https://www.youtube.com/watch?v=jHkSIqm_Occ) *(Claire Saffitz)* — Watch how she handles the meringue stiffness and the oven door-crack finish; those two details are what create the marshmallowy interior.
+
 ---
 
 ### Saturday — PROJECT: Tiramisu + Layer Dessert Review
@@ -81,6 +85,8 @@ This week is about cold and room-temperature desserts — the ones that reward a
 **Full Meal:**
 - Tiramisu (make at least 4 hours ahead, ideally morning for evening service)
 - Espresso to accompany
+
+> 🎥 **Compare Notes:** [Classic Tiramisu](https://www.youtube.com/watch?v=Q0yIZ8pHfK4) *(Claire Saffitz)* — Compare her mascarpone cream technique to the SE version; the egg handling difference between the two approaches tells you exactly what structure you're building in each.
 
 ---
 
@@ -98,6 +104,8 @@ This week is about cold and room-temperature desserts — the ones that reward a
 **Full Meal:**
 - Use caramel sauce over vanilla ice cream, on crepes, or as a component in your dessert drawer this week
 - Butterscotch version comparison
+
+> 🎥 **Compare Notes:** [Perfect Stovetop Chocolate Caramels](https://www.youtube.com/watch?v=KXH2SFX_8Ts) *(Claire Saffitz)* — She's working at hard-crack stage rather than sauce stage; watch how she reads color as the primary signal and where she decides the thermometer is secondary.
 
 ---
 
@@ -123,6 +131,8 @@ This week is about cold and room-temperature desserts — the ones that reward a
 **Full Meal:**
 - The chocolate chip cookie session — bake some today, refrigerate the rest for tomorrow
 - Eat warm with milk or coffee
+
+> 🎥 **Compare Notes:** [Chocolate Chip Cookies](https://www.youtube.com/watch?v=kPauR6tP_cg) *(Claire Saffitz)* — Her flour and butter ratios differ from the SE brown-butter approach; bake both versions back-to-back and decide which texture you prefer.
 
 ---
 

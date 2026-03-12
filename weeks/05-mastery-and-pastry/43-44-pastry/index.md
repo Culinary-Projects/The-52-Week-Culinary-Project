@@ -38,6 +38,8 @@ French pastry week is the most technically demanding section of this program. Th
 - Eclairs or cream puffs using pastry cream (choux pastry — see Week 44 Friday for the full technique, or make a basic choux: butter + water + flour + eggs piped and baked at 400°F)
 - Chocolate glaze dipped
 
+> 🎥 **Compare Notes:** [How To Make A Fruit Tart](https://www.youtube.com/watch?v=DVh_EXHZsSQ) *(Claire Saffitz)* — Pastry cream is the central skill in this video; watch her tempering step and the moment she declares it done — that's the texture you're aiming for.
+
 ---
 
 ### Wednesday — Tarte Tatin
@@ -50,6 +52,8 @@ French pastry week is the most technically demanding section of this program. Th
 **Full Meal:**
 - Tarte Tatin with crème fraîche or vanilla ice cream
 - No other accompaniment needed — it's sufficient on its own
+
+> 🎥 **Compare Notes:** [Foolproof Tarte Tatin & Rough Puff Pastry](https://www.youtube.com/watch?v=eiQR-F5wqvk) *(Claire Saffitz)* — Note how far she lets the caramel darken before adding the apples, and her confidence at the inversion step — that's the point most people flinch.
 
 ---
 
@@ -142,6 +146,8 @@ French pastry week is the most technically demanding section of this program. Th
 **Full Meal:**
 - Chocolate-glazed éclairs with pastry cream filling (pastry cream already mastered Tuesday Week 43)
 - Or profiteroles (small choux balls) with ice cream + chocolate sauce
+
+> 🎥 **Compare Notes:** [Chocolate Éclairs / Pâte à Choux](https://www.youtube.com/watch?v=lB9X_nr2P7M) *(Claire Saffitz)* — Watch her dough consistency test — the ribbon drop off the spoon — that's the single diagnostic that tells you whether the choux will rise properly or collapse.
 
 ---
 
