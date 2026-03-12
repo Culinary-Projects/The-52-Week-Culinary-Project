@@ -280,4 +280,4 @@ You cooked eggs five ways this week. Understanding the protein science — why t
 
 ### A Book Worth Having
 
-- 📚 ***On Food and Cooking* by Harold McGee** — The original deep dive into food science. The egg chapter alone justifies the entire book. Not a cookbook — a reference work that explains *why* everything in the kitchen works.
+- 📚 [***On Food and Cooking* by Harold McGee**](https://www.amazon.com/dp/0684800012) — The original deep dive into food science. The egg chapter alone justifies the entire book. Not a cookbook — a reference work that explains *why* everything in the kitchen works.

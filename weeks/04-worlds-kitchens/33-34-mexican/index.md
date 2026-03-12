@@ -187,13 +187,13 @@ Mole negro is typically a multi-day project in its native context. Understanding
 
 ### Watching a Pro Do It
 
-- 📺 **Bayless on mole** (YouTube — Rick Bayless) — The foremost authority on Mexican cuisine in the American culinary world. His mole breakdowns are the clearest explanations available in English.
+- 📺 [**Bayless on mole**](https://www.youtube.com/@rickbayless) — The foremost authority on Mexican cuisine in the American culinary world. His mole breakdowns are the clearest explanations available in English.
 
 ---
 
 ### A Book Worth Having
 
-- 📚 ***Mexico: The Cookbook* by Margarita Carrillo Bosco** — The Phaidon comprehensive reference on Mexican regional cooking. If you want to understand the full diversity of what you started this week, this is the book.
+- 📚 [***Mexico: The Cookbook* by Margarita Carrillo Bosco**](https://www.amazon.com/dp/0714867497) — The Phaidon comprehensive reference on Mexican regional cooking. If you want to understand the full diversity of what you started this week, this is the book.
 
 ---
 

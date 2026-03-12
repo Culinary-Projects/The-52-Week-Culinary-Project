@@ -190,14 +190,14 @@ Japanese cooking is defined by restraint: fewer ingredients, better technique, m
 
 ### Watching a Pro Do It
 
-- 📺 **Ramen master at work** (YouTube — search "Ivan Ramen documentary" or "Sun Noodle ramen") — Understanding the scale of commitment that goes into a proper ramen bowl puts your home version in context.
-- 📺 **Knife sharpening in Japan** (YouTube — search "Japanese knife sharpening whetstone") — The knife skills block from Week 1 revisited through a Japanese lens.
+- 📺 [**Ramen master at work**](https://www.youtube.com/results?search_query=ivan+ramen+documentary) — Understanding the scale of commitment that goes into a proper ramen bowl puts your home version in context.
+- 📺 [**Knife sharpening in Japan**](https://www.youtube.com/results?search_query=japanese+knife+sharpening+whetstone) — The knife skills block from Week 1 revisited through a Japanese lens.
 
 ---
 
 ### A Book Worth Having
 
-- 📚 ***Japanese Farm Food* by Nancy Singleton Hachisu** — Home-style Japanese cooking that isn't intimidating. Goes deep on dashi, fermentation, and the logic of the Japanese kitchen.
+- 📚 [***Japanese Farm Food* by Nancy Singleton Hachisu**](https://www.amazon.com/dp/1449418295) — Home-style Japanese cooking that isn't intimidating. Goes deep on dashi, fermentation, and the logic of the Japanese kitchen.
 
 ---
 

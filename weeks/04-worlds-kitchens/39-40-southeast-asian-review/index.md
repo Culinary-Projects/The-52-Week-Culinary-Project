@@ -198,7 +198,7 @@ Wok hei — the breath of the wok — is the smoky, slightly charred flavor you 
 
 ### A Book Worth Having
 
-- 📚 ***Hot, Sour, Salty, Sweet* by Jeffrey Alford & Naomi Duguid** — A sprawling, beautiful book on SE Asian cooking organized by the flavors of the region rather than by country. Essential reading if this week sparked serious interest.
+- 📚 [***Hot, Sour, Salty, Sweet* by Jeffrey Alford & Naomi Duguid**](https://www.amazon.com/dp/1579652417) — A sprawling, beautiful book on SE Asian cooking organized by the flavors of the region rather than by country. Essential reading if this week sparked serious interest.
 
 ---
 

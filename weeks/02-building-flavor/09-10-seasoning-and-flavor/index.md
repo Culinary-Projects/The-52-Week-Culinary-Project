@@ -228,13 +228,13 @@ Salt gets all the attention, but acid is what makes a dish taste complete. A squ
 
 ### Watching a Pro Do It
 
-- 📺 **Samin Nosrat's *Salt Fat Acid Heat*** (Netflix) — Four episodes, each focused on one of this week's themes. Her episode on salt is the best explanation of when and how to salt that exists on screen.
+- 📺 [**Samin Nosrat's *Salt Fat Acid Heat***](https://www.netflix.com/title/80198377) — Four episodes, each focused on one of this week's themes. Her episode on salt is the best explanation of when and how to salt that exists on screen.
 
 ---
 
 ### A Book Worth Having
 
-- 📚 ***Salt Fat Acid Heat* by Samin Nosrat** — This week's curriculum in book form, written for exactly the stage you're at. Possibly the best cooking book of the last ten years for developing instinct rather than just technique.
+- 📚 [***Salt Fat Acid Heat* by Samin Nosrat**](https://www.amazon.com/dp/1476753830) — This week's curriculum in book form, written for exactly the stage you're at. Possibly the best cooking book of the last ten years for developing instinct rather than just technique.
 
 ---
 

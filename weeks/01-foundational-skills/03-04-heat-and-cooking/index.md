@@ -220,4 +220,4 @@ Oil isn't just oil. Fat choice affects flavor, smoke point, and technique — th
 
 ### A Book Worth Having
 
-- 📚 ***The Food Lab* by J. Kenji López-Alt** — The definitive chapter on searing and Maillard is in here, alongside the science behind every major cooking technique. If you own one cookbook, make it this one.
+- 📚 [***The Food Lab* by J. Kenji López-Alt**](https://www.amazon.com/dp/0393081087) — The definitive chapter on searing and Maillard is in here, alongside the science behind every major cooking technique. If you own one cookbook, make it this one.

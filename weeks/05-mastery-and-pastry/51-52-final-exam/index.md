@@ -224,14 +224,14 @@ The best cooks pick one thing and develop mastery. Not breadth — depth. Pick t
 
 ### Watching a Pro Do It
 
-- 📺 **Chef's Table** (Netflix) — Documentary portraits of the world's most interesting chefs. The best cooking education that isn't actually about cooking — it's about why a life in the kitchen matters.
+- 📺 [**Chef's Table**](https://www.netflix.com/title/80007667) — Documentary portraits of the world's most interesting chefs. The best cooking education that isn't actually about cooking — it's about why a life in the kitchen matters.
 
 ---
 
 ### Books for the Years Ahead
 
-- 📚 ***The Food Lab* by J. Kenji López-Alt** — If you haven't read it cover to cover yet, that's the next year of education right there.
-- 📚 ***On Food and Cooking* by Harold McGee** — The science behind everything you did this year. Read it once and you'll understand *why* at the level that makes you a better cook forever.
+- 📚 [***The Food Lab* by J. Kenji López-Alt**](https://www.amazon.com/dp/0393081087) — If you haven't read it cover to cover yet, that's the next year of education right there.
+- 📚 [***On Food and Cooking* by Harold McGee**](https://www.amazon.com/dp/0684800012) — The science behind everything you did this year. Read it once and you'll understand *why* at the level that makes you a better cook forever.
 
 ---
 

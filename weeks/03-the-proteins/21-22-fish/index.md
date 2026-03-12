@@ -176,14 +176,14 @@ Bouillabaisse is a lesson in building shellfish stock, saffron, and rouille — 
 
 ### Watching a Pro Do It
 
-- 📺 **Jacques Pépin fillets a fish** (YouTube — KQED) — Watch the knife angle and the way he reads the bones. This is the hand skill that separates cooks who buy fillets from cooks who buy whole fish.
-- 📺 **Sole meunière in real time** (YouTube — search "sole meunière technique") — Brown butter moves fast. Watching the color progression before attempting it is worth doing.
+- 📺 [**Jacques Pépin fillets a fish**](https://www.youtube.com/@KQEDFood) — Watch the knife angle and the way he reads the bones. This is the hand skill that separates cooks who buy fillets from cooks who buy whole fish.
+- 📺 [**Sole meunière in real time**](https://www.youtube.com/results?search_query=sole+meuniere+technique) — Brown butter moves fast. Watching the color progression before attempting it is worth doing.
 
 ---
 
 ### A Book Worth Having
 
-- 📚 ***The Whole Fish Cookbook* by Josh Niland** — Argues for cooking the entire fish, reduces waste, and teaches you to see fish the way butchers see meat. Transformative for serious fish cooks.
+- 📚 [***The Whole Fish Cookbook* by Josh Niland**](https://www.amazon.com/dp/0525559590) — Argues for cooking the entire fish, reduces waste, and teaches you to see fish the way butchers see meat. Transformative for serious fish cooks.
 
 ---
 

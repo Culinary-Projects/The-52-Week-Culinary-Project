@@ -184,7 +184,7 @@ Chocolate mousse is your introduction to working with chocolate structurally. Ch
 
 ### A Book Worth Having
 
-- 📚 ***The Physiology of Taste* by Jean Anthelme Brillat-Savarin** — The 19th-century French text that remains the most elegant meditation on the experience of eating and the philosophy of flavor. Not a cookbook — more like a sophisticated conversation with a great host.
+- 📚 [***The Physiology of Taste* by Jean Anthelme Brillat-Savarin**](https://www.amazon.com/dp/0307290913) — The 19th-century French text that remains the most elegant meditation on the experience of eating and the philosophy of flavor. Not a cookbook — more like a sophisticated conversation with a great host.
 
 ---
 

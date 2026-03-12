@@ -199,13 +199,13 @@ The midpoint capstone includes whole-bird cookery. If you want to go deeper on b
 
 ### Watching a Pro Do It
 
-- 📺 **Jacques Pépin breaks down a chicken** (YouTube — KQED) — The most efficient human alive demonstrates what this skill looks like at speed. Watching once is worth three hours of reading.
+- 📺 [**Jacques Pépin breaks down a chicken**](https://www.youtube.com/@KQEDFood) — The most efficient human alive demonstrates what this skill looks like at speed. Watching once is worth three hours of reading.
 
 ---
 
 ### A Book Worth Having
 
-- 📚 ***The Complete Robuchon* by Joël Robuchon** — The French culinary bible. Heavy reference for the classical techniques that anchor Module 2. Every major cooking method is here.
+- 📚 [***The Complete Robuchon* by Joël Robuchon**](https://www.amazon.com/dp/0307290697) — The French culinary bible. Heavy reference for the classical techniques that anchor Module 2. Every major cooking method is here.
 
 ---
 

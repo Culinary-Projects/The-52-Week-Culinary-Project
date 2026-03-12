@@ -211,13 +211,13 @@ Risotto is not about patience. It's about starch gelatinization and gradual liqu
 
 ### Watching a Pro Do It
 
-- 📺 **Pasta Grannies** (YouTube — Pasta Grannies) — Documentary-style videos of Italian grandmothers making regional pasta. No voiceover required — just watching the hand technique is the education.
+- 📺 [**Pasta Grannies**](https://www.youtube.com/@PastaGrannies) — Documentary-style videos of Italian grandmothers making regional pasta. No voiceover required — just watching the hand technique is the education.
 
 ---
 
 ### A Book Worth Having
 
-- 📚 ***Mastering Pasta* by Marc Vetri** — The most comprehensive English-language book on pasta. Goes deep on shapes, doughs, sauces, and the regional logic behind pairing them.
+- 📚 [***Mastering Pasta* by Marc Vetri**](https://www.amazon.com/dp/158008406X) — The most comprehensive English-language book on pasta. Goes deep on shapes, doughs, sauces, and the regional logic behind pairing them.
 
 ---
 

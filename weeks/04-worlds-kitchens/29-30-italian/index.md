@@ -191,13 +191,13 @@ Osso buco is a braise but it's also a study in gremolata — the lemon zest, gar
 
 ### Watching a Pro Do It
 
-- 📺 **Pasta Grannies** (YouTube — Pasta Grannies) — The most authentic window into Italian regional home cooking available on the internet.
+- 📺 [**Pasta Grannies**](https://www.youtube.com/@PastaGrannies) — The most authentic window into Italian regional home cooking available on the internet.
 
 ---
 
 ### A Book Worth Having
 
-- 📚 ***Essentials of Classic Italian Cooking* by Marcella Hazan** — The foundational Italian cookbook in English. Everything you cooked this week, at greater depth, in one volume.
+- 📚 [***Essentials of Classic Italian Cooking* by Marcella Hazan**](https://www.amazon.com/dp/0394584732) — The foundational Italian cookbook in English. Everything you cooked this week, at greater depth, in one volume.
 
 ---
 

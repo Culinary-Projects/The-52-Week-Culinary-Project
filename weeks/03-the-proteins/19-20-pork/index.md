@@ -175,13 +175,13 @@ This week is a natural gateway to charcuterie. Bacon, pancetta, and guanciale ar
 
 ### Watching a Pro Do It
 
-- 📺 **Kenji's carnitas** (YouTube — J. Kenji López-Alt) — The confit-braised-then-crisped method explained in real time. The key moment is the fat rendering at the end.
+- 📺 [**Kenji's carnitas**](https://www.youtube.com/@JKenjiLopezAlt) — The confit-braised-then-crisped method explained in real time. The key moment is the fat rendering at the end.
 
 ---
 
 ### A Book Worth Having
 
-- 📚 ***Charcuterie: The Craft of Salting, Smoking, and Curing* by Michael Ruhlman & Brian Polcyn** — The gateway book into everything you'll explore in Weeks 25–26. Covers the principles and science of every cured and preserved pork product.
+- 📚 [***Charcuterie: The Craft of Salting, Smoking, and Curing* by Michael Ruhlman & Brian Polcyn**](https://www.amazon.com/dp/0393058298) — The gateway book into everything you'll explore in Weeks 25–26. Covers the principles and science of every cured and preserved pork product.
 
 ---
 

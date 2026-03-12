@@ -186,7 +186,7 @@ Tarte tatin requires caramelizing sugar in butter. It sounds terrifying. But car
 
 ### A Book Worth Having
 
-- 📚 ***BraveTart* by Stella Parks** — The most scientifically rigorous American baking book ever written. Parks applies Food Lab-style testing to pastry. If you want to understand *why* your tart shell shrinks (and how to stop it), start here.
+- 📚 [***BraveTart* by Stella Parks**](https://www.amazon.com/dp/0393239861) — The most scientifically rigorous American baking book ever written. Parks applies Food Lab-style testing to pastry. If you want to understand *why* your tart shell shrinks (and how to stop it), start here.
 
 ---
 

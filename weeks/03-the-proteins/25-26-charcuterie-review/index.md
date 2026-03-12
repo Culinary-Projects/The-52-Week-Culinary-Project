@@ -185,13 +185,13 @@ Gravlax is the cleanest introduction to curing — no smoking, no casings, no sp
 
 ### Watching a Pro Do It
 
-- 📺 **How sausage is made** (YouTube — search "homemade sausage making technique") — The mechanical steps of grinding, emulsifying fat, and stuffing casings are easiest to understand visually.
+- 📺 [**How sausage is made**](https://www.youtube.com/results?search_query=homemade+sausage+making+technique) — The mechanical steps of grinding, emulsifying fat, and stuffing casings are easiest to understand visually.
 
 ---
 
 ### A Book Worth Having
 
-- 📚 ***Charcuterie: The Craft of Salting, Smoking, and Curing* by Michael Ruhlman & Brian Polcyn** — The foundational English-language charcuterie text. Covers every technique you did this week (and the next ten years of possible projects).
+- 📚 [***Charcuterie: The Craft of Salting, Smoking, and Curing* by Michael Ruhlman & Brian Polcyn**](https://www.amazon.com/dp/0393058298) — The foundational English-language charcuterie text. Covers every technique you did this week (and the next ten years of possible projects).
 
 ---
 

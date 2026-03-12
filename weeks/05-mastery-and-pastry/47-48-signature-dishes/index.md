@@ -207,13 +207,13 @@ The jump from following a recipe to owning a dish happens through iteration: mak
 
 ### Watching a Pro Do It
 
-- 📺 **Martin Yan's wok technique** (YouTube — Martin Yan) — The master of wok showmanship, but the technique underneath is real and careful. His one-handed chopping and wok tossing are aspirational benchmarks.
+- 📺 [**Martin Yan's wok technique**](https://www.youtube.com/@yancancook) — The master of wok showmanship, but the technique underneath is real and careful. His one-handed chopping and wok tossing are aspirational benchmarks.
 
 ---
 
 ### A Book Worth Having
 
-- 📚 ***The Wok: Recipes and Techniques* by J. Kenji López-Alt** — The most thorough wok cookbook ever written in English. Every heat level, every protein, every regional application. The natural follow-on from your Week 47–48 work.
+- 📚 [***The Wok: Recipes and Techniques* by J. Kenji López-Alt**](https://www.amazon.com/dp/0393541215) — The most thorough wok cookbook ever written in English. Every heat level, every protein, every regional application. The natural follow-on from your Week 47–48 work.
 
 ---
 

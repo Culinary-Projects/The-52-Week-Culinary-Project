@@ -189,13 +189,13 @@ Aioli made with patience and good olive oil is nothing like the commercial versi
 
 ### Watching a Pro Do It
 
-- 📺 **Cassoulet technique** (YouTube — search "cassoulet recipe technique") — The build order of cassoulet — confit, sausage, beans, breadcrumb crust — is visual. Look before you cook.
+- 📺 [**Cassoulet technique**](https://www.youtube.com/results?search_query=cassoulet+recipe+technique) — The build order of cassoulet — confit, sausage, beans, breadcrumb crust — is visual. Look before you cook.
 
 ---
 
 ### A Book Worth Having
 
-- 📚 ***Jacques Pépin: New Complete Techniques*** — The definitive classical French kitchen reference. Every sauce, every cut, every technique. If you're going deep into French cooking, this is the shelf book.
+- 📚 [***Jacques Pépin: New Complete Techniques***](https://www.amazon.com/dp/1579128769) — The definitive classical French kitchen reference. Every sauce, every cut, every technique. If you're going deep into French cooking, this is the shelf book.
 
 ---
 

@@ -188,13 +188,13 @@ No-knead and focaccia are gateway loaves. If you finished this week intrigued ra
 
 ### Watching a Pro Do It
 
-- 📺 **Chad Robertson shapes a loaf** (YouTube — search "Tartine bread shaping") — The hand technique for shaping sourdough loaves is completely visual. Watch the pre-shape and the final shape before you attempt them.
+- 📺 [**Chad Robertson shapes a loaf**](https://www.youtube.com/results?search_query=tartine+bread+shaping+chad+robertson) — The hand technique for shaping sourdough loaves is completely visual. Watch the pre-shape and the final shape before you attempt them.
 
 ---
 
 ### A Book Worth Having
 
-- 📚 ***Bread Science* by Emily Buehler** — The scientific explanation of everything that happens when you make bread — yeast activity, gluten networks, crust formation — written for home bakers who want to understand, not just follow instructions.
+- 📚 [***Bread Science* by Emily Buehler**](https://www.amazon.com/dp/0615136079) — The scientific explanation of everything that happens when you make bread — yeast activity, gluten networks, crust formation — written for home bakers who want to understand, not just follow instructions.
 
 ---
 

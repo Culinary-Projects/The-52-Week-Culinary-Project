@@ -207,13 +207,13 @@ Indian cooking draws on a pantry of 20–30 spices, but most dishes use the same
 
 ### Watching a Pro Do It
 
-- 📺 **Madhur Jaffrey's Indian Cooking** (search YouTube or streaming) — The woman who taught a generation of Western cooks to make Indian food at home. Every episode is a lesson in spice management.
+- 📺 [**Madhur Jaffrey's Indian Cooking**](https://www.youtube.com/results?search_query=madhur+jaffrey+indian+cooking) — The woman who taught a generation of Western cooks to make Indian food at home. Every episode is a lesson in spice management.
 
 ---
 
 ### A Book Worth Having
 
-- 📚 ***An Invitation to Indian Cooking* by Madhur Jaffrey** — The book that introduced Indian home cooking to the English-speaking world. Still the best starting point for building a usable Indian cooking repertoire.
+- 📚 [***An Invitation to Indian Cooking* by Madhur Jaffrey**](https://www.amazon.com/dp/0374527849) — The book that introduced Indian home cooking to the English-speaking world. Still the best starting point for building a usable Indian cooking repertoire.
 
 ---
 

@@ -223,11 +223,11 @@ The reason hollandaise breaks and mayonnaise holds is the same — it's all abou
 
 ### Watching a Pro Do It
 
-- 📺 **Jacques Pépin's omelette** (YouTube — Jacques Pépin) — His 30-second French omelette is a direct counterpart to what you've been building: technique over time, speed as the result of understanding.
-- 📺 **Gordon Ramsay's pan sauce** (YouTube — Gordon Ramsay) — Overexplained in some ways but very clear on the mechanics of building flavor in a pan after a sear.
+- 📺 [**Jacques Pépin's omelette**](https://www.youtube.com/@MrJacquesPepin) — His 30-second French omelette is a direct counterpart to what you've been building: technique over time, speed as the result of understanding.
+- 📺 [**Gordon Ramsay's pan sauce**](https://www.youtube.com/@gordonramsay) — Overexplained in some ways but very clear on the mechanics of building flavor in a pan after a sear.
 
 ---
 
 ### A Book Worth Having
 
-- 📚 ***Jacques Pépin: New Complete Techniques*** — The definitive classical French reference from the man who best bridges professional technique and home cooking. Goes deep on every sauce category.
+- 📚 [***Jacques Pépin: New Complete Techniques***](https://www.amazon.com/dp/1579128769) — The definitive classical French reference from the man who best bridges professional technique and home cooking. Goes deep on every sauce category.

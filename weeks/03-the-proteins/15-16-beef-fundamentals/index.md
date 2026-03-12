@@ -198,13 +198,13 @@ Most steak advice is either wrong or oversimplified. The Food Lab has done more 
 
 ### Watching a Pro Do It
 
-- 📺 **Kenji's reverse sear at home** (YouTube — J. Kenji López-Alt) — Watch the technique in real time. His narration explains the why behind each step better than any written recipe can.
+- 📺 [**Kenji's reverse sear at home**](https://www.youtube.com/@JKenjiLopezAlt) — Watch the technique in real time. His narration explains the why behind each step better than any written recipe can.
 
 ---
 
 ### A Book Worth Having
 
-- 📚 ***The Food Lab* by J. Kenji López-Alt** — The beef chapter is the most thorough analysis of home steak cookery ever written. If you haven't read it yet, start there.
+- 📚 [***The Food Lab* by J. Kenji López-Alt**](https://www.amazon.com/dp/0393081087) — The beef chapter is the most thorough analysis of home steak cookery ever written. If you haven't read it yet, start there.
 
 ---
 

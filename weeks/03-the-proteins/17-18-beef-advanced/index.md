@@ -185,13 +185,13 @@ Hanger, skirt, flank, and flat iron are the cuts that chefs reach for when they'
 
 ### Watching a Pro Do It
 
-- 📺 **Hanger steak preparation** (YouTube — search "hanger steak preparation") — Trimming the silver skin from a whole hanger is a technique that improves the texture significantly. Watch it once before you do it the first time.
+- 📺 [**Hanger steak preparation**](https://www.youtube.com/results?search_query=hanger+steak+preparation+technique) — Trimming the silver skin from a whole hanger is a technique that improves the texture significantly. Watch it once before you do it the first time.
 
 ---
 
 ### A Book Worth Having
 
-- 📚 ***Franklin Barbecue* by Aaron Franklin** — The grilling bible from the man who changed American barbecue. Even if you never own a smoker, his approach to heat management and patience applies to everything you do over fire.
+- 📚 [***Franklin Barbecue* by Aaron Franklin**](https://www.amazon.com/dp/1607747200) — The grilling bible from the man who changed American barbecue. Even if you never own a smoker, his approach to heat management and patience applies to everything you do over fire.
 
 ---
 

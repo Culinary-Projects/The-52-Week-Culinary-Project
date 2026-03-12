@@ -193,14 +193,14 @@ A properly seared scallop has a deep, dry crust on each flat side and remains tr
 
 ### Watching a Pro Do It
 
-- 📺 **Scallop sear technique** (YouTube — search "how to sear scallops perfectly") — The dry-pat, hot pan, single flip, no-fuss method explained step by step.
-- 📺 **Oyster shucking** (YouTube — search "how to shuck oysters") — Watch before you try. The knife angle and the location of the hinge are the whole skill.
+- 📺 [**Scallop sear technique**](https://www.youtube.com/results?search_query=how+to+sear+scallops+perfectly) — The dry-pat, hot pan, single flip, no-fuss method explained step by step.
+- 📺 [**Oyster shucking**](https://www.youtube.com/results?search_query=how+to+shuck+oysters) — Watch before you try. The knife angle and the location of the hinge are the whole skill.
 
 ---
 
 ### A Book Worth Having
 
-- 📚 ***The Joy of Cooking* by Irma Rombauer** — The shellfish chapter remains one of the most comprehensive references for home cooks. Every preparation covered, without unnecessary complexity.
+- 📚 [***The Joy of Cooking* by Irma Rombauer**](https://www.amazon.com/dp/1501169718) — The shellfish chapter remains one of the most comprehensive references for home cooks. Every preparation covered, without unnecessary complexity.
 
 ---
 

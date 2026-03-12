@@ -233,8 +233,8 @@ These aren't required reading — but if something from this block sparked a que
 
 Reading about knife technique only goes so far. These videos show you what the grip and motion actually look like at speed:
 
-- 📺 **Jacques Pépin — Knife Skills** (YouTube) — Search "Jacques Pépin knife skills KQED." He's filmed these sessions multiple times across decades. Watching a 90-year-old chef break down an onion is humbling and clarifying.
-- 📺 **Ethan Chlebowski — How to Actually Improve Your Knife Skills** (YouTube) — More data-driven and modern. Good on speed benchmarks and how deliberate practice actually works in the kitchen.
+- 📺 [**Jacques Pépin — Knife Skills**](https://www.youtube.com/results?search_query=jacques+pepin+knife+skills+kqed) — He's filmed these sessions multiple times across decades. Watching a 90-year-old chef break down an onion is humbling and clarifying.
+- 📺 [**Ethan Chlebowski — How to Actually Improve Your Knife Skills**](https://www.youtube.com/@EthanChlebowski) — More data-driven and modern. Good on speed benchmarks and how deliberate practice actually works in the kitchen.
 
 ---
 
@@ -248,4 +248,4 @@ The Friday session introduces mise en place but only as setup. The idea runs a l
 
 ### A Book Worth Having
 
-- 📚 **The Food Lab** by J. Kenji López-Alt — The first chapter covers knife skills and mise en place with the same scientific rigour as everything else in the book. If you're going to own one reference book for this program, this is it.
+- 📚 [***The Food Lab* by J. Kenji López-Alt**](https://www.amazon.com/dp/0393081087) — The first chapter covers knife skills and mise en place with the same scientific rigour as everything else in the book. If you're going to own one reference book for this program, this is it.

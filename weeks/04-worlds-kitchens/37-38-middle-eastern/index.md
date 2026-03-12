@@ -187,7 +187,7 @@ Two pantry ingredients define the flavors of this week's food. The quality of yo
 
 ### A Book Worth Having
 
-- 📚 ***Jerusalem* by Yotam Ottolenghi & Sami Tamimi** — The most influential Middle Eastern cookbook of the past two decades, blending Israeli and Palestinian food traditions. Every dish you cooked this week has a deeper version here.
+- 📚 [***Jerusalem* by Yotam Ottolenghi & Sami Tamimi**](https://www.amazon.com/dp/1607743949) — The most influential Middle Eastern cookbook of the past two decades, blending Israeli and Palestinian food traditions. Every dish you cooked this week has a deeper version here.
 
 ---
 

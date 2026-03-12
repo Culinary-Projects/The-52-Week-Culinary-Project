@@ -209,7 +209,7 @@ The ability to get three or four dishes to the table simultaneously — all at t
 
 ### A Book Worth Having
 
-- 📚 ***The Food Lab* by J. Kenji López-Alt** — The dinner-party section explains how to batch, hold, and time dishes that are normally cooked to order. Essential for hosting without panic.
+- 📚 [***The Food Lab* by J. Kenji López-Alt**](https://www.amazon.com/dp/0393081087) — The dinner-party section explains how to batch, hold, and time dishes that are normally cooked to order. Essential for hosting without panic.
 
 ---
 
