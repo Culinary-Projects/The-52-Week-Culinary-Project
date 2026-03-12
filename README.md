@@ -17,7 +17,7 @@ Each 2-week block has **three files**:
 - **Quick ref** — one-page recipe + link table for when you're in a rush
 - **Shopping list** — organized grocery list for both weeks in the block
 
-**New to the program?** Start with the [Kitchen Equipment Guide](equipment-guide.md) — it lists every tool you'll need, when you'll first use it, and how to buy in phases so you're not spending everything upfront.
+**New to the program?** Read [How to Get the Most Out of This Program](how-to-use.md) first — it covers the mindset, the reading habit, and how to use Claude throughout. Then check the [Kitchen Equipment Guide](equipment-guide.md) for every tool you'll need, when you'll first use it, and how to buy in phases.
 
 ---
 
