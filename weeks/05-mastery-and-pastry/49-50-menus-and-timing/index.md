@@ -184,5 +184,34 @@ No cooking today. Write or record:
 
 ---
 
+## Optional: Go Deeper
+
+These aren't required reading — but if something from this block sparked a question, here's where to go.
+
+---
+
+### Menu Design: The Architecture Behind the Meal
+
+A great dinner party menu isn't a collection of dishes — it's a narrative. Something light and sharp at the start, something rich and satisfying in the middle, something refreshing or sweet at the end. Understanding the rhythm of courses means every meal you host has an internal logic, even if guests can't articulate it.
+
+- 📖 [Guide to Cooking With Wine](https://www.seriouseats.com/guide-to-cooking-with-wine-11921603) — If you're building a menu, you're building wine pairings. This is the reference that covers the logic of pairing by texture, weight, and acidity.
+- 📖 [How to Set Up a Station Like a Pro](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro) — Mise en place from Week 1, revisited at the dinner party scale. The principle of prep-before-service is the same whether you're cooking for 2 or 8.
+
+---
+
+### Timing: The Separating Skill
+
+The ability to get three or four dishes to the table simultaneously — all at the right temperature, all finished, nothing holding — is the highest-level skill a home cook can develop. It's not talent. It's planning, a timeline, and practice.
+
+- 📖 [The Right Way to Use a Meat Thermometer](https://www.seriouseats.com/how-to-take-meat-temperature-thermometer-cooking-doneness) — In a multi-course dinner, the main protein's resting time is your plating window. Understanding when to pull it is central to timing.
+
+---
+
+### A Book Worth Having
+
+- 📚 ***The Food Lab* by J. Kenji López-Alt** — The dinner-party section explains how to batch, hold, and time dishes that are normally cooked to order. Essential for hosting without panic.
+
+---
+
 *Navigation:*
 ← [Weeks 47–48: Signature Dishes](../47-48-signature-dishes/index.md) | [Weeks 51–52: Final Exam →](../51-52-final-exam/index.md)

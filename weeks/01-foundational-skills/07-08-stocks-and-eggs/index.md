@@ -250,3 +250,34 @@ Before Module 2, you should be able to answer yes to all of these:
 If you're checking all of these: you're ready for Module 2.
 
 If you have two or more unchecked: spend Week 9's first Monday revisiting the weak spots before committing to the new material. It's worth it.
+
+---
+
+## Optional: Go Deeper
+
+These aren't required reading — but if something from this block sparked a question, here's where to go.
+
+---
+
+### The Truth About Stock
+
+Stock is the most important prep you can do. The difference between a sauce made with real stock versus carton stock is the difference between a restaurant dish and a home-cooked dish.
+
+- 📖 [Chicken Stock vs. Broth: What's the Difference?](https://www.seriouseats.com/chicken-stock-vs-broth-11899112) — This gets misunderstood constantly. Read this once and you'll never confuse them again.
+- 📖 [Egg Guides (Master Index)](https://www.seriouseats.com/egg-guides-5118005) — Everything SE has ever published about eggs, organized. A complete cooking education in one index.
+
+---
+
+### Egg Science
+
+You cooked eggs five ways this week. Understanding the protein science — why they set at different temperatures, why salting before vs. after matters — unlocks every egg technique that exists.
+
+- 📖 [Gordon Ramsay Was Wrong About Salting Scrambled Eggs](https://www.seriouseats.com/should-you-pre-salt-scrambled-eggs-11896793) — A properly controlled test on one of cooking's most debated questions. The answer will change how you make scrambled eggs.
+- 📖 [Do 'Better' Eggs Really Taste Better?](https://www.seriouseats.com/what-are-the-best-eggs) — Kenji runs the experiment so you don't have to. Includes what labels actually mean and when they matter.
+- 📖 [Perfect Hard-Boiled Eggs](https://www.seriouseats.com/the-secrets-to-peeling-hard-boiled-eggs) — Everything you need to know about the hidden complexity in the simplest egg preparation.
+
+---
+
+### A Book Worth Having
+
+- 📚 ***On Food and Cooking* by Harold McGee** — The original deep dive into food science. The egg chapter alone justifies the entire book. Not a cookbook — a reference work that explains *why* everything in the kitchen works.

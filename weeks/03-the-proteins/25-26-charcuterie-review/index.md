@@ -160,5 +160,40 @@ Write down: What are the three best things you cooked in the first 25 weeks? Wha
 
 ---
 
+## Optional: Go Deeper
+
+These aren't required reading — but if something from this block sparked a question, here's where to go.
+
+---
+
+### The Chemistry of Curing
+
+Salt draws out moisture, creates an inhospitable environment for bacteria, and transforms texture over days or weeks. Understanding the mechanism takes the mystery out of recipes that ask you to wait.
+
+- 📖 [Italian Cured Meats: Salumi Guide](https://www.seriouseats.com/salumi-guide-italian-cured-meats-salami-prosciutto) — The full vocabulary of Italian charcuterie: prosciutto, salami, guanciale, mortadella, and everything in between.
+- 📖 [Prosciutto di Parma: The Long Road](https://www.seriouseats.com/labor-of-love-the-long-road-to-prosciutto-di-parma) — A longform piece on what actually goes into making the world's most famous ham. Puts your pancetta project in context.
+
+---
+
+### Gravlax: Salt, Sugar, and Time
+
+Gravlax is the cleanest introduction to curing — no smoking, no casings, no specialized equipment. Salt, sugar, dill, and a weight. The endpoint speaks for itself.
+
+- 📖 [Bacon, Pancetta, and More: Cured Pork Products Explained](https://www.seriouseats.com/cured-pork-explainer) — The overlapping chemistry between fish curing and pork curing, laid out clearly.
+
+---
+
+### Watching a Pro Do It
+
+- 📺 **How sausage is made** (YouTube — search "homemade sausage making technique") — The mechanical steps of grinding, emulsifying fat, and stuffing casings are easiest to understand visually.
+
+---
+
+### A Book Worth Having
+
+- 📚 ***Charcuterie: The Craft of Salting, Smoking, and Curing* by Michael Ruhlman & Brian Polcyn** — The foundational English-language charcuterie text. Covers every technique you did this week (and the next ten years of possible projects).
+
+---
+
 *Navigation:*
 ← [Weeks 23–24: Shellfish](../23-24-shellfish/index.md) | [Weeks 27–28: French Classics →](../../04-worlds-kitchens/27-28-french/index.md)

@@ -151,4 +151,40 @@ Write: what is the universal fish truth you take away from these two weeks? (Sug
 
 ---
 
+## Optional: Go Deeper
+
+These aren't required reading — but if something from this block sparked a question, here's where to go.
+
+---
+
+### Buying Fish
+
+The most important fish skill happens before you cook. Knowing what fresh fish looks and smells like — and what to ask a fishmonger — matters more than technique.
+
+- 📖 [The Right Way to Use a Meat Thermometer](https://www.seriouseats.com/how-to-take-meat-temperature-thermometer-cooking-doneness) — Yes, for fish too. Internal temperature is the cleanest way to hit the window between translucent and perfectly flaking.
+- 📖 [Cooking With Olive Oil: Should You Fry and Sear in It?](https://www.seriouseats.com/cooking-with-olive-oil-faq-safety-flavor) — Relevant to your fish sears: the smoke point and flavor questions answered properly.
+
+---
+
+### The Bouillabaisse Deep Dive
+
+Bouillabaisse is a lesson in building shellfish stock, saffron, and rouille — three techniques that extend into a dozen other recipes.
+
+- 📖 [Fats & Oil Guides (Master Index)](https://www.seriouseats.com/fats-oil-guides-5118004) — Many finned fish preparations end with high-quality olive oil or butter. Understanding your fat options pays off here.
+
+---
+
+### Watching a Pro Do It
+
+- 📺 **Jacques Pépin fillets a fish** (YouTube — KQED) — Watch the knife angle and the way he reads the bones. This is the hand skill that separates cooks who buy fillets from cooks who buy whole fish.
+- 📺 **Sole meunière in real time** (YouTube — search "sole meunière technique") — Brown butter moves fast. Watching the color progression before attempting it is worth doing.
+
+---
+
+### A Book Worth Having
+
+- 📚 ***The Whole Fish Cookbook* by Josh Niland** — Argues for cooking the entire fish, reduces waste, and teaches you to see fish the way butchers see meat. Transformative for serious fish cooks.
+
+---
+
 ← [Weeks 19–20](../19-20-pork/index.md) | [Weeks 23–24 →](../23-24-shellfish/index.md)

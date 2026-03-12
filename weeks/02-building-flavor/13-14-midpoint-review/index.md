@@ -173,4 +173,40 @@ You've now cooked poultry four different ways in one week: high-heat whole roast
 
 ---
 
+## Optional: Go Deeper
+
+These aren't required reading — but if something from this block sparked a question, here's where to go.
+
+---
+
+### The Confit Technique
+
+Duck confit is the clearest example of a preserved food that gets better with time. The technique predates refrigeration — understanding the original purpose changes how you think about it.
+
+- 📖 [What the Heck Is Confit? | Ask The Food Lab](https://www.seriouseats.com/ask-the-food-lab-what-the-heck-is-confit) — Kenji explains the term, the technique, and why it produces results that other low-and-slow methods don't.
+- 📖 [Duck Guides (Master Index)](https://www.seriouseats.com/duck-guides-5118006) — Everything SE has published on duck: buying, breaking down, rendering fat, and cooking every cut.
+
+---
+
+### Breaking Down a Whole Chicken
+
+The midpoint capstone includes whole-bird cookery. If you want to go deeper on butchery, this is the guide.
+
+- 📖 [How to Break Down a Chicken](https://www.seriouseats.com/knife-skills-how-to-break-down-a-chicken) — The step-by-step visual guide. Do this a few times and it becomes muscle memory.
+- 📖 [Chicken Guides (Master Index)](https://www.seriouseats.com/chicken-guides-5118008) — The full SE index on chicken technique, covering every cut and cooking method.
+
+---
+
+### Watching a Pro Do It
+
+- 📺 **Jacques Pépin breaks down a chicken** (YouTube — KQED) — The most efficient human alive demonstrates what this skill looks like at speed. Watching once is worth three hours of reading.
+
+---
+
+### A Book Worth Having
+
+- 📚 ***The Complete Robuchon* by Joël Robuchon** — The French culinary bible. Heavy reference for the classical techniques that anchor Module 2. Every major cooking method is here.
+
+---
+
 ← [Weeks 11–12](../11-12-pasta-and-grains/index.md) | [Weeks 15–16 →](../../03-the-proteins/15-16-beef-fundamentals/index.md)

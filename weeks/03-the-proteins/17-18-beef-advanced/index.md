@@ -159,4 +159,40 @@ You're 18 weeks in — nearly halfway through the proteins block. Tonight's proj
 
 ---
 
+## Optional: Go Deeper
+
+These aren't required reading — but if something from this block sparked a question, here's where to go.
+
+---
+
+### Grilling: More Than Charcoal
+
+Great grilling is about heat zoning, timing, and knowing when to leave the food alone. The science is the same whether you're using gas or charcoal.
+
+- 📖 [Dry-Brining Is the Best Way to Brine Meat, Poultry, and More](https://www.seriouseats.com/how-to-dry-brine) — Salting your steak 24 hours ahead (or even 45 minutes ahead) changes the texture. The guide explains why.
+- 📖 [The Right Way to Use a Meat Thermometer](https://www.seriouseats.com/how-to-take-meat-temperature-thermometer-cooking-doneness) — Especially important for cheaper cuts like hanger and skirt where temperature precision makes the difference between tender and chewy.
+
+---
+
+### Cheaper Cuts: More Flavor, More Patience
+
+Hanger, skirt, flank, and flat iron are the cuts that chefs reach for when they're cooking for themselves. They have more fat and connective tissue — which becomes flavor when handled right.
+
+- 📖 [The Food Lab on Resting Meat](https://www.seriouseats.com/how-to-have-juicy-meats-steaks-the-food-lab-the-importance-of-resting-grilling) — Resting matters even more for leaner cuts where moisture loss shows up immediately when sliced.
+- 📖 [Beef Guides (Master Index)](https://www.seriouseats.com/beef-guides-5118010) — The complete index of beef coverage on SE, organized by cut.
+
+---
+
+### Watching a Pro Do It
+
+- 📺 **Hanger steak preparation** (YouTube — search "hanger steak preparation") — Trimming the silver skin from a whole hanger is a technique that improves the texture significantly. Watch it once before you do it the first time.
+
+---
+
+### A Book Worth Having
+
+- 📚 ***Franklin Barbecue* by Aaron Franklin** — The grilling bible from the man who changed American barbecue. Even if you never own a smoker, his approach to heat management and patience applies to everything you do over fire.
+
+---
+
 ← [Weeks 15–16](../15-16-beef-fundamentals/index.md) | [Weeks 19–20 →](../19-20-pork/index.md)

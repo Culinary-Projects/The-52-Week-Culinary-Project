@@ -197,5 +197,43 @@ The 52 weeks were a foundation — thorough, rigorous, intentional. But the cook
 
 ---
 
+## Optional: Go Deeper
+
+These aren't required reading — but if something from this block sparked a question, here's where to go.
+
+---
+
+### What Comes Next
+
+52 weeks of structured cooking builds a foundation. Where you go from here depends on what sparked genuine curiosity during the year.
+
+- 📖 [Chicken Guides (Master Index)](https://www.seriouseats.com/chicken-guides-5118008) — If poultry was a highlight, this is the full SE curriculum on every chicken technique.
+- 📖 [Beef Guides (Master Index)](https://www.seriouseats.com/beef-guides-5118010) — The full reference for everything from buying whole animals to aging at home.
+- 📖 [Egg Guides (Master Index)](https://www.seriouseats.com/egg-guides-5118005) — Eggs are a cooking topic that never fully runs out. This index leads to every corner of it.
+
+---
+
+### Deepening a Skill You Already Have
+
+The best cooks pick one thing and develop mastery. Not breadth — depth. Pick the area that felt most alive during the year and go further.
+
+- 📖 [Fats & Oil Guides (Master Index)](https://www.seriouseats.com/fats-oil-guides-5118004) — Fats underlie every cooking technique. A deeper understanding of fat is a deeper understanding of everything.
+- 📖 [How and When to Brine Vegetables](https://www.seriouseats.com/how-and-when-to-brine-vegetables-11898109) — A small technique that applies to nearly every vegetable preparation. Classic "go deeper" territory.
+
+---
+
+### Watching a Pro Do It
+
+- 📺 **Chef's Table** (Netflix) — Documentary portraits of the world's most interesting chefs. The best cooking education that isn't actually about cooking — it's about why a life in the kitchen matters.
+
+---
+
+### Books for the Years Ahead
+
+- 📚 ***The Food Lab* by J. Kenji López-Alt** — If you haven't read it cover to cover yet, that's the next year of education right there.
+- 📚 ***On Food and Cooking* by Harold McGee** — The science behind everything you did this year. Read it once and you'll understand *why* at the level that makes you a better cook forever.
+
+---
+
 *Navigation:*
 ← [Weeks 49–50: Menus and Timing](../49-50-menus-and-timing/index.md)

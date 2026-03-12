@@ -182,5 +182,40 @@ This is not a test. There is no grade. Failures here are valuable. The goal is t
 
 ---
 
+## Optional: Go Deeper
+
+These aren't required reading — but if something from this block sparked a question, here's where to go.
+
+---
+
+### Wok Mastery: Building the Foundation
+
+The wok is the most efficient cooking vessel ever designed. Seasoning it correctly, managing the heat zones, and developing the muscle memory for constant motion are the three skills required.
+
+- 📖 [Wok Skills 101: How to Season a Wok](https://www.seriouseats.com/wok-skills-101-how-to-season-a-wok) — The complete guide to the initial seasoning process and ongoing wok maintenance.
+- 📖 [How to Butter-Baste Steaks, Chops, and Fish](https://www.seriouseats.com/how-to-butter-baste-steaks-chops-fish) — Wok cooking and butter basting share the same principle: constant, deliberate application of fat over heat to build a crust and baste simultaneously.
+
+---
+
+### Developing a Signature Dish
+
+The jump from following a recipe to owning a dish happens through iteration: make it 3 times, tweak one thing each time, then make it from memory. The dishes that feel like yours come from this process.
+
+- 📖 [Dry-Brining Is the Best Way to Brine Meat, Poultry, and More](https://www.seriouseats.com/how-to-dry-brine) — One of the highest-leverage techniques to apply to your signature dish if it involves any protein — the results are dramatic enough to impress guests immediately.
+
+---
+
+### Watching a Pro Do It
+
+- 📺 **Martin Yan's wok technique** (YouTube — Martin Yan) — The master of wok showmanship, but the technique underneath is real and careful. His one-handed chopping and wok tossing are aspirational benchmarks.
+
+---
+
+### A Book Worth Having
+
+- 📚 ***The Wok: Recipes and Techniques* by J. Kenji López-Alt** — The most thorough wok cookbook ever written in English. Every heat level, every protein, every regional application. The natural follow-on from your Week 47–48 work.
+
+---
+
 *Navigation:*
 ← [Weeks 45–46: Desserts](../45-46-desserts/index.md) | [Weeks 49–50: Menus & Timing →](../49-50-menus-and-timing/index.md)

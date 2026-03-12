@@ -161,5 +161,35 @@ The first week focuses on building the foundational components of a Middle Easte
 
 ---
 
+## Optional: Go Deeper
+
+These aren't required reading — but if something from this block sparked a question, here's where to go.
+
+---
+
+### The Mezze Philosophy
+
+Middle Eastern cooking is organized around the table, not the plate. Mezze — the spread of small dishes — is an eating philosophy as much as a cooking style. Hummus, baba ganoush, and tabbouleh are designed to be eaten together with bread, not sequentially.
+
+- 📖 [The Best Baba Ganoush](https://www.seriouseats.com/the-best-baba-ganoush-recipe) — The technique that separates good baba ganoush (charred, smoky eggplant) from bad (oven-roasted, bland eggplant).
+- 📖 [Hummus with Tahini](https://www.seriouseats.com/hummus-b-tahini-hummus-tahini-recipe-11887965) — The recipe, plus the technique notes that explain why restaurant hummus is always smoother than yours (until now).
+
+---
+
+### Tahini and Olive Oil
+
+Two pantry ingredients define the flavors of this week's food. The quality of your tahini and olive oil shows up directly in everything you made.
+
+- 📖 [Fats & Oil Guides (Master Index)](https://www.seriouseats.com/fats-oil-guides-5118004) — The full guide to buying and storing olive oils, including what to look for for drizzling vs. cooking.
+- 📖 [Cooking With Olive Oil: Should You Fry and Sear in It?](https://www.seriouseats.com/cooking-with-olive-oil-faq-safety-flavor) — Covers whether the olive oil you used for your hummus finishing is the right choice for your shakshuka.
+
+---
+
+### A Book Worth Having
+
+- 📚 ***Jerusalem* by Yotam Ottolenghi & Sami Tamimi** — The most influential Middle Eastern cookbook of the past two decades, blending Israeli and Palestinian food traditions. Every dish you cooked this week has a deeper version here.
+
+---
+
 *Navigation:*
 ← [Weeks 35–36: Indian](../35-36-indian/index.md) | [Weeks 39–40: Southeast Asian →](../39-40-southeast-asian-review/index.md)

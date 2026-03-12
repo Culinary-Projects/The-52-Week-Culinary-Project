@@ -203,4 +203,39 @@ Before you plate everything, taste each component and ask: Is it salty enough? D
 
 ---
 
+## Optional: Go Deeper
+
+These aren't required reading — but if something from this block sparked a question, here's where to go.
+
+---
+
+### Salt: When to Add It and Why It Matters
+
+The single biggest improvement most home cooks can make is learning to salt earlier and more confidently. The science backs it up.
+
+- 📖 [Dry-Brining Is the Best Way to Brine Meat, Poultry, and More](https://www.seriouseats.com/how-to-dry-brine) — Salting in advance isn't just about flavor — it transforms texture. This is the technique that restaurants use.
+- 📖 [How and When to Brine Vegetables](https://www.seriouseats.com/how-and-when-to-brine-vegetables-11898109) — The same principle applied to produce. Salting a cucumber vs. a tomato vs. eggplant before cooking changes everything.
+
+---
+
+### Acid: The Underused Seasoning
+
+Salt gets all the attention, but acid is what makes a dish taste complete. A squeeze of lemon or a splash of vinegar at the end is often all a dish needs.
+
+- 📖 [Guide to Cooking With Wine](https://www.seriouseats.com/guide-to-cooking-with-wine-11921603) — Wine is also an acid. Understanding how it deglazes, reduces, and concentrates connects back to this week's pan sauce work.
+
+---
+
+### Watching a Pro Do It
+
+- 📺 **Samin Nosrat's *Salt Fat Acid Heat*** (Netflix) — Four episodes, each focused on one of this week's themes. Her episode on salt is the best explanation of when and how to salt that exists on screen.
+
+---
+
+### A Book Worth Having
+
+- 📚 ***Salt Fat Acid Heat* by Samin Nosrat** — This week's curriculum in book form, written for exactly the stage you're at. Possibly the best cooking book of the last ten years for developing instinct rather than just technique.
+
+---
+
 ← [Weeks 7–8](../../01-foundational-skills/07-08-stocks-and-eggs/index.md) | [Weeks 11–12 →](../11-12-pasta-and-grains/index.md)

@@ -160,5 +160,35 @@ French pastry week is the most technically demanding section of this program. Th
 
 ---
 
+## Optional: Go Deeper
+
+These aren't required reading — but if something from this block sparked a question, here's where to go.
+
+---
+
+### Pâte Sucrée: The Mother of Tart Doughs
+
+Sweet tart dough is the pastry equivalent of a mother sauce — once you can make it from memory, dozens of recipes open up. The gluten control (minimal mixing) and the fat distribution (workable but not warm) are the whole technique.
+
+- 📖 [Pâte Sucrée: Sweet Tart Shell](https://www.seriouseats.com/pate-sucree-tart-shell-recipe) — The full recipe with the technique notes that explain what blind baking is actually doing.
+- 📖 [Vanilla Pastry Cream (Crème Pâtissière)](https://www.seriouseats.com/vanilla-pastry-cream-creme-patissiere) — Pastry cream is thickened with egg yolks and starch. Understanding the ratio between those two thickeners explains how you can adjust the texture.
+
+---
+
+### Caramel: The Most Forgiving Hard Thing
+
+Tarte tatin requires caramelizing sugar in butter. It sounds terrifying. But caramel is just heated sucrose — and once you understand the temperature stages, you control it rather than fear it.
+
+- 📖 [Tarte Tatin](https://www.seriouseats.com/tarte-tatin-recipe-11844901) — The upside-down apple tart technique, including the caramel-base method, explained step by step.
+- 📖 [Chocolate Guides (Master Index)](https://www.seriouseats.com/chocolate-guides-5118007) — If this week's pastry work sparked interest in chocolate work, this is where to go next.
+
+---
+
+### A Book Worth Having
+
+- 📚 ***BraveTart* by Stella Parks** — The most scientifically rigorous American baking book ever written. Parks applies Food Lab-style testing to pastry. If you want to understand *why* your tart shell shrinks (and how to stop it), start here.
+
+---
+
 *Navigation:*
 ← [Weeks 41–42: Bread](../41-42-bread/index.md) | [Weeks 45–46: Desserts →](../45-46-desserts/index.md)

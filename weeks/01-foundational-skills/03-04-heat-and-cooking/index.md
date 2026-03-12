@@ -182,3 +182,42 @@ If you need to glance at times and temperatures, that's fine. But close the reci
 | Veg | Roasted root vegetables (carrots, parsnips, turnips) |
 
 *Skill targets: A deep, dark sear on every side of the ribs before braising. Correct liquid level (one-third up the meat, not submerged). Internal temp of 200°F+ for collagen breakdown.*
+
+---
+
+## Optional: Go Deeper
+
+These aren't required reading — but if something from this block sparked a question, here's where to go.
+
+---
+
+### The Science of the Sear
+
+Understanding *why* a brown crust forms changes how you cook everything forever. The Maillard reaction is probably the single most important piece of food science a home cook can learn.
+
+- 📖 [The Maillard Reaction Explained](https://www.seriouseats.com/what-is-maillard-reaction-cooking-science) — Kenji breaks down what's actually happening when meat browns. Not magic. Chemistry.
+- 📖 [The Right Way to Use a Meat Thermometer](https://www.seriouseats.com/how-to-take-meat-temperature-thermometer-cooking-doneness) — Temperature is the only honest answer to "is it done?" This is the guide.
+
+---
+
+### Braising: Why Low and Slow Works
+
+You did a full braise this week. Here's the architecture behind it.
+
+- 📖 [The Food Lab on Resting Meat](https://www.seriouseats.com/how-to-have-juicy-meats-steaks-the-food-lab-the-importance-of-resting-grilling) — Carries directly into braising logic: what happens to proteins and juice as meat cooks and rests.
+- 📖 [Cooking With Olive Oil: Should You Fry and Sear in It?](https://www.seriouseats.com/cooking-with-olive-oil-faq-safety-flavor) — The oil question every cook has. Answered properly.
+
+---
+
+### Understanding Cooking Fats
+
+Oil isn't just oil. Fat choice affects flavor, smoke point, and technique — this week you used several.
+
+- 📖 [What's a Smoke Point and Why Does It Matter?](https://www.seriouseats.com/cooking-fats-101-whats-a-smoke-point-and-why-does-it-matter) — The concept behind why you use butter for finishing but not for searing.
+- 📖 [Fats & Oil Guides (Master Index)](https://www.seriouseats.com/fats-oil-guides-5118004) — Every fat question you might ever have, organized and answered.
+
+---
+
+### A Book Worth Having
+
+- 📚 ***The Food Lab* by J. Kenji López-Alt** — The definitive chapter on searing and Maillard is in here, alongside the science behind every major cooking technique. If you own one cookbook, make it this one.

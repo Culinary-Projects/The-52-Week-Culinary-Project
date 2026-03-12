@@ -163,5 +163,40 @@ Then: make one more loaf of whatever bread felt most satisfying. Practice it aga
 
 ---
 
+## Optional: Go Deeper
+
+These aren't required reading — but if something from this block sparked a question, here's where to go.
+
+---
+
+### Gluten: The Thing You're Actually Working With
+
+Bread baking is flour + water + time. But the mechanism is gluten development — the protein network that traps CO₂ from yeast and gives bread its structure. Understanding what gluten is and how kneading, hydration, and fermentation affect it changes how you approach every recipe.
+
+- 📖 [Better No-Knead Bread](https://www.seriouseats.com/better-no-knead-bread-recipe) — The technique and the science, side by side. Why the long, cold ferment produces more complex flavor than a fast room-temperature rise.
+- 📖 [Easy No-Knead Focaccia](https://www.seriouseats.com/easy-no-knead-focaccia) — High hydration, olive oil, and air holes explained. This is also the template for every Roman-style pan bread.
+
+---
+
+### Sourdough: The Next Frontier
+
+No-knead and focaccia are gateway loaves. If you finished this week intrigued rather than intimidated, sourdough is the natural next project — wild yeast, longer fermentation, more complex crust.
+
+- 📖 [Fats & Oil Guides (Master Index)](https://www.seriouseats.com/fats-oil-guides-5118004) — Focaccia is the most olive-oil-forward bread there is. The guide to olive oil flavor and quality applies directly.
+
+---
+
+### Watching a Pro Do It
+
+- 📺 **Chad Robertson shapes a loaf** (YouTube — search "Tartine bread shaping") — The hand technique for shaping sourdough loaves is completely visual. Watch the pre-shape and the final shape before you attempt them.
+
+---
+
+### A Book Worth Having
+
+- 📚 ***Bread Science* by Emily Buehler** — The scientific explanation of everything that happens when you make bread — yeast activity, gluten networks, crust formation — written for home bakers who want to understand, not just follow instructions.
+
+---
+
 *Navigation:*
 ← [Weeks 39–40: Southeast Asian](../../04-worlds-kitchens/39-40-southeast-asian-review/index.md) | [Weeks 43–44: Pastry →](../43-44-pastry/index.md)

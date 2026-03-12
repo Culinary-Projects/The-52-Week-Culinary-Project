@@ -172,4 +172,40 @@ Reflection: You've now completed 16 weeks. Write one sentence for each of the fo
 
 ---
 
+## Optional: Go Deeper
+
+These aren't required reading — but if something from this block sparked a question, here's where to go.
+
+---
+
+### Understanding Beef Cuts
+
+Most home cooks buy whatever their supermarket stocks. Understanding the muscle map changes that.
+
+- 📖 [Beef Guides (Master Index)](https://www.seriouseats.com/beef-guides-5118010) — SE's complete index on beef: every cut, every cooking method, every question you might have.
+- 📖 [The Right Way to Use a Meat Thermometer](https://www.seriouseats.com/how-to-take-meat-temperature-thermometer-cooking-doneness) — Temperature, not touch or time, is the only honest signal for steak doneness. Read this once and use it every time.
+
+---
+
+### Steak Myths Worth Busting
+
+Most steak advice is either wrong or oversimplified. The Food Lab has done more careful testing on steak than anyone else.
+
+- 📖 [Old Wives' Tales About Cooking Steak, Debunked](https://www.seriouseats.com/old-wives-tales-about-cooking-steak) — Searing to "seal in juices," letting it come to room temperature, pressing with a finger for doneness — all tested, most debunked.
+- 📖 [The Food Lab on Resting Meat](https://www.seriouseats.com/how-to-have-juicy-meats-steaks-the-food-lab-the-importance-of-resting-grilling) — The science behind the 5-minute rest, and when it actually matters.
+
+---
+
+### Watching a Pro Do It
+
+- 📺 **Kenji's reverse sear at home** (YouTube — J. Kenji López-Alt) — Watch the technique in real time. His narration explains the why behind each step better than any written recipe can.
+
+---
+
+### A Book Worth Having
+
+- 📚 ***The Food Lab* by J. Kenji López-Alt** — The beef chapter is the most thorough analysis of home steak cookery ever written. If you haven't read it yet, start there.
+
+---
+
 ← [Weeks 13–14](../../02-building-flavor/13-14-midpoint-review/index.md) | [Weeks 17–18 →](../17-18-beef-advanced/index.md)

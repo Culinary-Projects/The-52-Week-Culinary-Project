@@ -149,4 +149,40 @@ One paragraph: What do you now understand about pork fat that you didn't before?
 
 ---
 
+## Optional: Go Deeper
+
+These aren't required reading — but if something from this block sparked a question, here's where to go.
+
+---
+
+### The Pork Map
+
+Pork is the most versatile animal in the kitchen. Understanding the cuts — shoulder vs. loin vs. belly vs. leg — explains why carnitas works but a pork loin doesn't shred.
+
+- 📖 [Pork Guides (Master Index)](https://www.seriouseats.com/pork-guides-5117995) — SE's complete index on pork: every cut, technique, and preparation.
+- 📖 [Pork Shoulder Demystified: Boston Butt vs. Picnic](https://www.seriouseats.com/what-is-pork-shoulder-boston-butt-picnic-shoulder) — The same cut, sold under different names — here's what the difference actually means for your cooking.
+
+---
+
+### Cured and Preserved Pork
+
+This week is a natural gateway to charcuterie. Bacon, pancetta, and guanciale are the same muscle treated differently — and understanding that difference changes how you cook with them.
+
+- 📖 [Bacon, Pancetta, and More: Cured Pork Products Explained](https://www.seriouseats.com/cured-pork-explainer) — A clear guide to all the cured pork products you'll encounter in Italian and French recipes and why they're not interchangeable.
+- 📖 [The Case for Pink Pork](https://www.seriouseats.com/case-for-raw-rare-pink-pork-food-safety) — The USDA updated its pork temperature guidelines. Most people still overcook it. This explains what medium-rare pork actually means for food safety.
+
+---
+
+### Watching a Pro Do It
+
+- 📺 **Kenji's carnitas** (YouTube — J. Kenji López-Alt) — The confit-braised-then-crisped method explained in real time. The key moment is the fat rendering at the end.
+
+---
+
+### A Book Worth Having
+
+- 📚 ***Charcuterie: The Craft of Salting, Smoking, and Curing* by Michael Ruhlman & Brian Polcyn** — The gateway book into everything you'll explore in Weeks 25–26. Covers the principles and science of every cured and preserved pork product.
+
+---
+
 ← [Weeks 17–18](../17-18-beef-advanced/index.md) | [Weeks 21–22 →](../21-22-fish/index.md)

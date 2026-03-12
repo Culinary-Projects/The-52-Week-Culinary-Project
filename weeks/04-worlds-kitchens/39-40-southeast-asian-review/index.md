@@ -172,5 +172,35 @@ Southeast Asia is not one cuisine but a family of distinct traditions connected 
 
 ---
 
+## Optional: Go Deeper
+
+These aren't required reading — but if something from this block sparked a question, here's where to go.
+
+---
+
+### Fish Sauce and Fermented Flavors
+
+Fish sauce is the backbone flavor of Thai, Vietnamese, and Indonesian cooking the way soy sauce is for Japanese and Chinese. Understanding how to use it — early for depth, late for brightness — is the central skill of SE Asian cooking.
+
+- 📖 [Pad Thai](https://www.seriouseats.com/pad-thai-recipe-11680356) — The full recipe and technique breakdown, including the proper sequence for tamarind, fish sauce, and sugar.
+- 📖 [Pad Kee Mao (Drunken Noodles)](https://www.seriouseats.com/pad-kee-mao-drunken-noodles-recipe-8782198) — Another noodle dish from the Thai canon, using similar technique with different aromatics.
+- 📖 [Pad See Ew](https://www.seriouseats.com/pad-see-ew-recipe-8784741) — The third of the major Thai noodle preparations. These three together cover the core wok-noodle technique at different heat levels.
+
+---
+
+### Wok Hei: The Impossible Home Kitchen Goal
+
+Wok hei — the breath of the wok — is the smoky, slightly charred flavor you taste at Thai and Chinese restaurants. It's produced by extremely high heat (above what most home burners can generate) and professional woks. You probably can't fully replicate it at home, but you can get closer.
+
+- 📖 [Traditional Beef Pho](https://www.seriouseats.com/traditional-beef-pho-recipe) — The 8-hour stock approach, the spice-toasting technique, and the charred ginger and onion that give pho its signature depth.
+
+---
+
+### A Book Worth Having
+
+- 📚 ***Hot, Sour, Salty, Sweet* by Jeffrey Alford & Naomi Duguid** — A sprawling, beautiful book on SE Asian cooking organized by the flavors of the region rather than by country. Essential reading if this week sparked serious interest.
+
+---
+
 *Navigation:*
 ← [Weeks 37–38: Middle Eastern](../37-38-middle-eastern/index.md) | [Weeks 41–42: Bread →](../../05-mastery-and-pastry/41-42-bread/index.md)

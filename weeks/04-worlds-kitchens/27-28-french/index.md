@@ -163,5 +163,41 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 
 ---
 
+## Optional: Go Deeper
+
+These aren't required reading — but if something from this block sparked a question, here's where to go.
+
+---
+
+### Classical French Sauce Logic
+
+French cuisine is a system. Understanding where hollandaise sits in the sauce family — warm emulsion, egg-yolk-stabilized, related to béarnaise by a flavor swap — shows how the system works.
+
+- 📖 [Foolproof 2-Minute Hollandaise](https://www.seriouseats.com/foolproof-2-minute-hollandaise-recipe) — The technique breakdown from SE, explaining why the blender method is actually more stable than the double-boiler version.
+- 📖 [Guide to Cooking With Wine](https://www.seriouseats.com/guide-to-cooking-with-wine-11921603) — Reduction sauces are at the heart of French bistro cooking. This is the wine guide that covers the how and why.
+
+---
+
+### Aioli and Emulsion Science
+
+Aioli made with patience and good olive oil is nothing like the commercial version. It's also a direct relative of hollandaise — same emulsion principle, different fat.
+
+- 📖 [Fats & Oil Guides (Master Index)](https://www.seriouseats.com/fats-oil-guides-5118004) — Olive oil quality matters enormously for aioli. The guide to buying, storing, and tasting.
+- 📖 [Cooking With Olive Oil: Should You Fry and Sear in It?](https://www.seriouseats.com/cooking-with-olive-oil-faq-safety-flavor) — Context for your aioli: what makes Provençal olive oil different from the standard supermarket bottle.
+
+---
+
+### Watching a Pro Do It
+
+- 📺 **Cassoulet technique** (YouTube — search "cassoulet recipe technique") — The build order of cassoulet — confit, sausage, beans, breadcrumb crust — is visual. Look before you cook.
+
+---
+
+### A Book Worth Having
+
+- 📚 ***Jacques Pépin: New Complete Techniques*** — The definitive classical French kitchen reference. Every sauce, every cut, every technique. If you're going deep into French cooking, this is the shelf book.
+
+---
+
 *Navigation:*
 ← [Weeks 25–26: Charcuterie & Curing](../../03-the-proteins/25-26-charcuterie-review/index.md) | [Weeks 29–30: Italian →](../29-30-italian/index.md)

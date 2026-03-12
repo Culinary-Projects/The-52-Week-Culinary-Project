@@ -182,5 +182,40 @@ South Indian cooking is different from North Indian in almost every way: less cr
 
 ---
 
+## Optional: Go Deeper
+
+These aren't required reading — but if something from this block sparked a question, here's where to go.
+
+---
+
+### Spice Blooming: Why the Order Matters
+
+Indian cooking is largely about controlling heat's interaction with spice. Whole spices into hot oil before anything else — tempering — unlocks volatile flavor compounds that grinding and adding late cannot reproduce.
+
+- 📖 [Stovetop Butter Chicken](https://www.seriouseats.com/stovetop-butter-chicken) — The full technique for the dish you cooked, with the science behind the spice sequencing.
+- 📖 [Moong Dal](https://www.seriouseats.com/moong-dal-recipe-8744764) — Dal is the most honest expression of Indian pantry cooking. This recipe shows exactly how the tarka (tempered spice) finishes the dish.
+
+---
+
+### The Indian Pantry
+
+Indian cooking draws on a pantry of 20–30 spices, but most dishes use the same core six: cumin, coriander, turmeric, chili, garam masala, and black mustard seed. Stocking these seven items puts 80% of the recipes within reach.
+
+- 📖 [Fats & Oil Guides (Master Index)](https://www.seriouseats.com/fats-oil-guides-5118004) — Ghee is clarified butter. This week you probably used it — here's the full guide to cooking fats and what makes ghee different from butter.
+
+---
+
+### Watching a Pro Do It
+
+- 📺 **Madhur Jaffrey's Indian Cooking** (search YouTube or streaming) — The woman who taught a generation of Western cooks to make Indian food at home. Every episode is a lesson in spice management.
+
+---
+
+### A Book Worth Having
+
+- 📚 ***An Invitation to Indian Cooking* by Madhur Jaffrey** — The book that introduced Indian home cooking to the English-speaking world. Still the best starting point for building a usable Indian cooking repertoire.
+
+---
+
 *Navigation:*
 ← [Weeks 33–34: Mexican](../33-34-mexican/index.md) | [Weeks 37–38: Middle Eastern →](../37-38-middle-eastern/index.md)

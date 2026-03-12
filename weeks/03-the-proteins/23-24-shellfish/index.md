@@ -168,5 +168,41 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 
 ---
 
+## Optional: Go Deeper
+
+These aren't required reading — but if something from this block sparked a question, here's where to go.
+
+---
+
+### Sourcing and Handling Shellfish
+
+Live shellfish is the most time-sensitive ingredient in the kitchen. Knowing how to select, store, and clean it before you cook it is the bulk of the skill.
+
+- 📖 [Guide to Cooking With Wine](https://www.seriouseats.com/guide-to-cooking-with-wine-11921603) — White wine in clams and mussels isn't decorative. Understanding how acid and alcohol interact with the bivalve liquid explains the result.
+- 📖 [Fats & Oil Guides (Master Index)](https://www.seriouseats.com/fats-oil-guides-5118004) — Butter finishing for scallops and clams — the why behind the technique.
+
+---
+
+### The Scallop Sear
+
+A properly seared scallop has a deep, dry crust on each flat side and remains translucent at the center. Getting there requires a very specific sequence.
+
+- 📖 [The Right Way to Use a Meat Thermometer](https://www.seriouseats.com/how-to-take-meat-temperature-thermometer-cooking-doneness) — Scallops at 115–125°F interior are perfect. Above 130°F they become rubbery. Temperature matters more for scallops than almost any other protein.
+
+---
+
+### Watching a Pro Do It
+
+- 📺 **Scallop sear technique** (YouTube — search "how to sear scallops perfectly") — The dry-pat, hot pan, single flip, no-fuss method explained step by step.
+- 📺 **Oyster shucking** (YouTube — search "how to shuck oysters") — Watch before you try. The knife angle and the location of the hinge are the whole skill.
+
+---
+
+### A Book Worth Having
+
+- 📚 ***The Joy of Cooking* by Irma Rombauer** — The shellfish chapter remains one of the most comprehensive references for home cooks. Every preparation covered, without unnecessary complexity.
+
+---
+
 *Navigation:*
 ← [Weeks 21–22: Fish](../21-22-fish/index.md) | [Weeks 25–26: Charcuterie & Curing →](../25-26-charcuterie-review/index.md)

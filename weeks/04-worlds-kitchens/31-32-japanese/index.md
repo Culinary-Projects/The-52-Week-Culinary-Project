@@ -165,5 +165,41 @@ Japanese cooking builds on a different set of foundational principles than Frenc
 
 ---
 
+## Optional: Go Deeper
+
+These aren't required reading — but if something from this block sparked a question, here's where to go.
+
+---
+
+### Dashi: The Foundation
+
+Dashi is made in 10 minutes and is the reason Japanese soups, braises, and sauces taste the way they do. Once you understand that katsuobushi and kombu are the primary umami sources, you start seeing them everywhere.
+
+- 📖 [Basic Japanese Dashi](https://www.seriouseats.com/basic-japanese-dashi-recipe) — The method and the reasoning, in Kenji's words. Also explains the difference between ichiban dashi (first extraction) and niban dashi (second extraction).
+- 📖 [Egg Guides (Master Index)](https://www.seriouseats.com/egg-guides-5118005) — Your tamagoyaki connects to everything in here. Japanese egg cookery is its own sub-discipline.
+
+---
+
+### The Japanese Approach to Simplicity
+
+Japanese cooking is defined by restraint: fewer ingredients, better technique, more precise execution. It's the cuisine that rewards preparation and penalizes carelessness most directly.
+
+- 📖 [How to Butter-Baste Steaks, Chops, and Fish](https://www.seriouseats.com/how-to-butter-baste-steaks-chops-fish) — Not Japanese, but the technique connects to the close-attention cooking style you're practicing this week with tonkatsu.
+
+---
+
+### Watching a Pro Do It
+
+- 📺 **Ramen master at work** (YouTube — search "Ivan Ramen documentary" or "Sun Noodle ramen") — Understanding the scale of commitment that goes into a proper ramen bowl puts your home version in context.
+- 📺 **Knife sharpening in Japan** (YouTube — search "Japanese knife sharpening whetstone") — The knife skills block from Week 1 revisited through a Japanese lens.
+
+---
+
+### A Book Worth Having
+
+- 📚 ***Japanese Farm Food* by Nancy Singleton Hachisu** — Home-style Japanese cooking that isn't intimidating. Goes deep on dashi, fermentation, and the logic of the Japanese kitchen.
+
+---
+
 *Navigation:*
 ← [Weeks 29–30: Italian](../29-30-italian/index.md) | [Weeks 33–34: Mexican →](../33-34-mexican/index.md)

@@ -158,5 +158,35 @@ This week is about cold and room-temperature desserts — the ones that reward a
 
 ---
 
+## Optional: Go Deeper
+
+These aren't required reading — but if something from this block sparked a question, here's where to go.
+
+---
+
+### Custard Science
+
+Crème brûlée and panna cotta are both custards, but they're set by different mechanisms: egg proteins vs. gelatin. Understanding the difference explains every texture variation in the entire custard family.
+
+- 📖 [Classic Crème Brûlée](https://www.seriouseats.com/creme-brulee-recipe-7107199) — The ratio, the water bath technique, and the blowtorch logistics all in one place.
+- 📖 [Classic Panna Cotta](https://www.seriouseats.com/classic-panna-cotta-vanilla-bean-recipe) — Gelatin sets at a specific concentration. This recipe explains how to dial the bloom and amount to land the texture you want.
+
+---
+
+### Chocolate: A Module of Its Own
+
+Chocolate mousse is your introduction to working with chocolate structurally. Chopping, melting, tempering, and folding are four separate skills that the mousse exercise touches on.
+
+- 📖 [Chocolate Mousse](https://www.seriouseats.com/chocolate-mousse-recipe-7109970) — The full recipe and technique, including the egg white folding method that creates the texture.
+- 📖 [Chocolate Guides (Master Index)](https://www.seriouseats.com/chocolate-guides-5118007) — Every SE article on chocolate: melting methods, tempering, types of chocolate, baking applications.
+
+---
+
+### A Book Worth Having
+
+- 📚 ***The Physiology of Taste* by Jean Anthelme Brillat-Savarin** — The 19th-century French text that remains the most elegant meditation on the experience of eating and the philosophy of flavor. Not a cookbook — more like a sophisticated conversation with a great host.
+
+---
+
 *Navigation:*
 ← [Weeks 43–44: Pastry](../43-44-pastry/index.md) | [Weeks 47–48: Signature Dishes →](../47-48-signature-dishes/index.md)

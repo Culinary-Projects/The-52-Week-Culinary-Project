@@ -186,4 +186,39 @@ The warm farro salad is a full grain side dish. The crispy salmon is the protein
 
 ---
 
+## Optional: Go Deeper
+
+These aren't required reading — but if something from this block sparked a question, here's where to go.
+
+---
+
+### Fresh Pasta: the Physics
+
+Fresh pasta looks like pure craft but it's mostly chemistry. The ratio of egg yolks to flour, how the gluten develops as you knead, and why resting the dough matters are all understandable and learnable.
+
+- 📖 [The Best Slow-Cooked Tomato Sauce](https://www.seriouseats.com/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe) — The sauce you pair with your fresh pasta defines the dish as much as the pasta itself. This is the canonical red sauce recipe.
+- 📖 [Fresh Egg Pasta](https://www.seriouseats.com/fresh-egg-pasta) — The full technical breakdown of fresh pasta from Kenji, including the science behind the dough.
+
+---
+
+### Risotto: Why the Stir Matters
+
+Risotto is not about patience. It's about starch gelatinization and gradual liquid absorption. Once you understand the mechanism, you can make it in 18 minutes.
+
+- 📖 [Guide to Cooking With Wine](https://www.seriouseats.com/guide-to-cooking-with-wine-11921603) — White wine added at the start of risotto isn't optional — understanding why changes how you make it.
+
+---
+
+### Watching a Pro Do It
+
+- 📺 **Pasta Grannies** (YouTube — Pasta Grannies) — Documentary-style videos of Italian grandmothers making regional pasta. No voiceover required — just watching the hand technique is the education.
+
+---
+
+### A Book Worth Having
+
+- 📚 ***Mastering Pasta* by Marc Vetri** — The most comprehensive English-language book on pasta. Goes deep on shapes, doughs, sauces, and the regional logic behind pairing them.
+
+---
+
 ← [Weeks 9–10](../09-10-seasoning-and-flavor/index.md) | [Weeks 13–14 →](../13-14-midpoint-review/index.md)

@@ -166,5 +166,40 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 
 ---
 
+## Optional: Go Deeper
+
+These aren't required reading — but if something from this block sparked a question, here's where to go.
+
+---
+
+### The Italian Pantry
+
+Italian cooking is defined by its pantry as much as its technique. Knowing what makes a San Marzano tomato different, why the olive oil matters for finishing, and what "00" flour does changes how you shop.
+
+- 📖 [The Best Slow-Cooked Tomato Sauce](https://www.seriouseats.com/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe) — The canonical red sauce breakdown, with the reasoning behind each ingredient choice.
+- 📖 [Guide to Cooking With Wine](https://www.seriouseats.com/guide-to-cooking-with-wine-11921603) — Gremolata, osso buco, and risotto all involve wine at different stages. This is the guide that explains when and why.
+
+---
+
+### Braising Italian-Style
+
+Osso buco is a braise but it's also a study in gremolata — the lemon zest, garlic, and parsley condiment added at the end that lifts the entire dish. Italian braising is different from French braising in that finishing acid and fresh herbs are always part of the architecture.
+
+- 📖 [Fats & Oil Guides (Master Index)](https://www.seriouseats.com/fats-oil-guides-5118004) — Finishing Italian braised dishes with excellent olive oil is non-negotiable. This is the buying guide.
+
+---
+
+### Watching a Pro Do It
+
+- 📺 **Pasta Grannies** (YouTube — Pasta Grannies) — The most authentic window into Italian regional home cooking available on the internet.
+
+---
+
+### A Book Worth Having
+
+- 📚 ***Essentials of Classic Italian Cooking* by Marcella Hazan** — The foundational Italian cookbook in English. Everything you cooked this week, at greater depth, in one volume.
+
+---
+
 *Navigation:*
 ← [Weeks 27–28: French Classics](../27-28-french/index.md) | [Weeks 31–32: Japanese →](../31-32-japanese/index.md)

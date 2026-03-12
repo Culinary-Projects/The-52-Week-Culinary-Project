@@ -162,5 +162,40 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 
 ---
 
+## Optional: Go Deeper
+
+These aren't required reading — but if something from this block sparked a question, here's where to go.
+
+---
+
+### The Chile Framework
+
+Mexican cooking is a chile curriculum. Guajillo, ancho, pasilla, chipotle — each dried chile has a distinct flavor profile, heat level, and application. Learning to distinguish them by taste is the single biggest skill jump in Mexican cooking.
+
+- 📖 [Carne Asada: The Food Lab Recipe](https://www.seriouseats.com/carne-asada-food-lab-recipe-kenji) — The science behind the marinade and the high-heat grill approach, explained in detail.
+- 📖 [Pozole Rojo](https://www.seriouseats.com/pozole-mexican-red-chile-pork-soup-recipe-8732258) — The full technique for the multi-chile broth. Understanding how the dried chiles are toasted, soaked, and blended is the core skill of Mexican sauce-making.
+
+---
+
+### Mole: One of the Most Complex Sauces in the World
+
+Mole negro is typically a multi-day project in its native context. Understanding why each ingredient — chocolate, dried chiles, charred onion, toasted sesame, plantain — is there turns an intimidating recipe into a logical sequence.
+
+- 📖 [Guide to Cooking With Wine](https://www.seriouseats.com/guide-to-cooking-with-wine-11921603) — Useful context for the braised dishes (birria especially) where acid and liquid balance matters.
+
+---
+
+### Watching a Pro Do It
+
+- 📺 **Bayless on mole** (YouTube — Rick Bayless) — The foremost authority on Mexican cuisine in the American culinary world. His mole breakdowns are the clearest explanations available in English.
+
+---
+
+### A Book Worth Having
+
+- 📚 ***Mexico: The Cookbook* by Margarita Carrillo Bosco** — The Phaidon comprehensive reference on Mexican regional cooking. If you want to understand the full diversity of what you started this week, this is the book.
+
+---
+
 *Navigation:*
 ← [Weeks 31–32: Japanese](../31-32-japanese/index.md) | [Weeks 35–36: Indian →](../35-36-indian/index.md)

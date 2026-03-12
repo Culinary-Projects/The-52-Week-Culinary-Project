@@ -194,3 +194,40 @@ Make the vinaigrette from scratch. Use it as the dressing *and* as a marinade fo
 | **Salad** | Classic Lyonnaise Salad (Frisée aux Lardons) | [Recipe](https://www.seriouseats.com/spring-salad-with-poached-eggs-and-bread-crumbs) |
 
 *Skill targets: Properly executed pan sauce. Vinaigrette made from memory. Everything on the table at the same time.*
+
+---
+
+## Optional: Go Deeper
+
+These aren't required reading — but if something from this block sparked a question, here's where to go.
+
+---
+
+### The Architecture of French Sauce
+
+The five mother sauces aren't really recipes — they're frameworks. Understanding the progression (mother → daughter sauces) transforms how you read any European recipe.
+
+- 📖 [Butter-Basting: The Technique Behind Restaurant Flavor](https://www.seriouseats.com/how-to-butter-baste-steaks-chops-fish) — A pan sauce technique that applies directly to everything you built this week.
+- 📖 [How to Make Brown Butter](https://www.seriouseats.com/how-to-make-brown-butter-technique) — Beurre noisette is one step past clarified butter and one of the most useful flavors in cooking.
+
+---
+
+### Emulsification: Why Sauces Break (and How to Fix Them)
+
+The reason hollandaise breaks and mayonnaise holds is the same — it's all about emulsification. Understanding the physics lets you rescue disasters and prevent them.
+
+- 📖 [Guide to Cooking With Wine](https://www.seriouseats.com/guide-to-cooking-with-wine-11921603) — Wine reductions are the backbone of dozens of French pan sauces. What wine does when it cooks is worth understanding.
+- 📖 [Fats & Oil Guides (Master Index)](https://www.seriouseats.com/fats-oil-guides-5118004) — The foundational resource on every fat you'll use in sauce-making.
+
+---
+
+### Watching a Pro Do It
+
+- 📺 **Jacques Pépin's omelette** (YouTube — Jacques Pépin) — His 30-second French omelette is a direct counterpart to what you've been building: technique over time, speed as the result of understanding.
+- 📺 **Gordon Ramsay's pan sauce** (YouTube — Gordon Ramsay) — Overexplained in some ways but very clear on the mechanics of building flavor in a pan after a sear.
+
+---
+
+### A Book Worth Having
+
+- 📚 ***Jacques Pépin: New Complete Techniques*** — The definitive classical French reference from the man who best bridges professional technique and home cooking. Goes deep on every sauce category.
