@@ -34,6 +34,8 @@ The prep is simple — garlic and parsley — which lets you focus entirely on y
 | Main | Parmesan-crusted pasta |
 | Veg | Wilted baby spinach, sautéed in the pasta pan with olive oil, garlic, and lemon |
 
+> 🎥 **Kenji's Take:** [POV Cacio e Pepe](https://www.youtube.com/watch?v=P6QWoOQMvE8) — Nearly the same dish. Watch how he builds the sauce with pasta water and keeps the heat low. Compare his approach to ours and see what you'd borrow.
+
 ---
 
 ### Tuesday — The Claw
@@ -49,6 +51,8 @@ A classic mirepoix — onion, carrot, celery — is the entire flavor base of th
 | Protein | Chicken, simmered and shredded into the broth |
 | Veg | Mirepoix (your drill), plus parsley |
 | Starch | Egg noodles, cooked directly in the soup |
+
+> 🎥 **Kenji's Take:** [Knife Skills: How to Slice and Dice an Onion](https://www.youtube.com/watch?v=BuebC0CfD8E) · [How to Make Chicken Noodle Soup](https://www.youtube.com/watch?v=cR36DqjOvig) — Watch the knife video for the claw grip in real time at speed. The soup video shows a completely different approach to the same dish — both are worth thinking about.
 
 ---
 
@@ -66,6 +70,8 @@ Shrimp scampi is built almost entirely on well-minced garlic and parsley. Your d
 | Veg | [Burst Cherry Tomatoes with Garlic and Olive Oil](https://www.seriouseats.com/fast-easy-pasta-blistered-cherry-tomato-sauce-recipe) — toss with a little pasta water and lemon |
 | Starch | Crusty bread or linguine |
 
+> 🎥 **Kenji's Take:** [Knife Skills: How to Mince Shallots](https://www.youtube.com/watch?v=3pPU_9dkCFw) — Shallots, garlic, parsley — same motions, different ingredient. Watch how he uses the rock chop and push cut interchangeably depending on the task.
+
 ---
 
 ### Thursday — OFF
@@ -73,6 +79,8 @@ Shrimp scampi is built almost entirely on well-minced garlic and parsley. Your d
 📖 Read: [How to Sharpen and Hone a Knife](https://www.seriouseats.com/knife-skills-how-to-sharpen-a-knife)
 
 Is your knife actually sharp? A dull knife is the #1 reason home cook technique looks worse than it is. If you don't own a honing steel, order one tonight.
+
+> 🎥 **Also watch:** [How to Sharpen a Knife with a Whetstone](https://www.youtube.com/watch?v=ixCnCvDUKQ8) — Kenji demonstrates the full whetstone process in his home kitchen. Pair with the reading above.
 
 ---
 
@@ -90,6 +98,8 @@ Stir-fries punish you for skipping mise en place. The heat is too high and thing
 | Veg | Broccoli florets, blanched then wok-tossed |
 | Starch | Steamed jasmine rice, started before you begin the stir-fry |
 
+> 🎥 **Kenji's Take:** [Beef with Broccoli](https://www.youtube.com/watch?v=iEs3qXQvg6M) — This is the exact dish. Watch it before you cook. Notice how everything is prepped and staged before the wok gets hot — mise en place isn't a warm-up, it's the whole game in a stir-fry.
+
 ---
 
 ### Saturday — PROJECT MEAL: French Onion Soup
@@ -101,6 +111,8 @@ Stir-fries punish you for skipping mise en place. The heat is too high and thing
 A self-contained stunning dinner — nothing else needed except a glass of red wine.
 
 *Skill targets: Uniform half-moon slices. Pinch grip maintained throughout. Knife honed before you start.*
+
+> 🎥 **Kenji's Take:** [The Mathematically Best Way to Cut an Onion](https://www.youtube.com/watch?v=rkMldsRcx0E) — He breaks down the geometry of onion-cutting and why the angle of your cuts determines whether pieces stay together or fall apart. Perfect viewing before 4–5 lbs of half-moons.
 
 ---
 
@@ -132,6 +144,8 @@ The grip is feeling more natural. Now we add vocabulary and intentionality to th
 | Veg | Your julienned carrots and scallions, plus bean sprouts |
 | Starch | Rice noodles, soaked per the recipe |
 
+> 🎥 **Kenji's Take:** [Get More Out of Your Broccoli With This Knife Trick](https://www.youtube.com/watch?v=B_TmqpsmH-M) — Not broccoli today, but the principle is the same: thin, even cuts change how a vegetable cooks and eats. Watch the logic, apply it to your julienne.
+
 ---
 
 ### Tuesday — The Dice (Small, Medium, Large)
@@ -148,6 +162,8 @@ The grip is feeling more natural. Now we add vocabulary and intentionality to th
 | Veg/Salad | [Classic Green Salad with Vinaigrette](https://www.seriouseats.com/simple-vinaigrette-recipe) |
 | Starch | Home fries (your dice drill is the recipe) |
 
+> 🎥 **Kenji's Take:** [The Food Lab: How to Roast the Best Potatoes of Your Life](https://www.youtube.com/watch?v=argKpeiKFfo) — He explains why cut size and uniformity determine texture and doneness — the exact lesson from your three-potato drill, applied to the oven.
+
 ---
 
 ### Wednesday — Breaking Down a Whole Chicken
@@ -163,6 +179,8 @@ The thighs and legs go in the fridge (use them Friday) or freeze for later. Noth
 | Protein | Chicken piccata using the breasts you broke down |
 | Veg/Salad | Arugula with shaved parmesan and lemon vinaigrette |
 | Starch | Buttered egg noodles or mashed potatoes |
+
+> 🎥 **Kenji's Take:** [POV How to Break Down a Chicken](https://www.youtube.com/watch?v=9FHHmx6kDGc) · [28-Second Chicken Breakdown](https://www.youtube.com/shorts/Oa_VmoJSX1c) — Watch the full POV version before you start. The short shows what the motion looks like fully internalized. You'll get somewhere between the two.
 
 ---
 
@@ -188,6 +206,8 @@ Shakshuka requires dicing onion, pepper, and garlic as its entire prep — your 
 | Veg | Onion, bell pepper, tomatoes (the shakshuka base) |
 | Starch | Crusty bread for dipping |
 
+> 🎥 **Kenji's Take:** [How to Make Shakshuka](https://www.youtube.com/watch?v=voinXU09-Ns) — The same dish. Notice that his onion and pepper dice is the entire prep step — the very thing you're timing today.
+
 ---
 
 ### Saturday — PROJECT MEAL: Provençal Vegetable Tian
@@ -203,6 +223,8 @@ Shakshuka requires dicing onion, pepper, and garlic as its entire prep — your 
 | Starch | Crusty baguette |
 
 *Skill targets: Consistent thickness on every slice. Go slow. This is about control, not speed.*
+
+> 🎥 **Kenji's Take:** [Knife Skills: How to Slice and Dice an Onion](https://www.youtube.com/watch?v=BuebC0CfD8E) — Not zucchini and squash, but every principle is the same: knuckles as the guide rail, consistent push-through pressure, same thickness on every stroke.
 
 ---
 
@@ -235,6 +257,9 @@ Reading about knife technique only goes so far. These videos show you what the g
 
 - 📺 [**Jacques Pépin — Knife Skills**](https://www.youtube.com/results?search_query=jacques+pepin+knife+skills+kqed) — He's filmed these sessions multiple times across decades. Watching a 90-year-old chef break down an onion is humbling and clarifying.
 - 📺 [**Ethan Chlebowski — How to Actually Improve Your Knife Skills**](https://www.youtube.com/@EthanChlebowski) — More data-driven and modern. Good on speed benchmarks and how deliberate practice actually works in the kitchen.
+- 📺 [**J. Kenji López-Alt — Knife Skills: How to Slice and Dice an Onion**](https://www.youtube.com/watch?v=BuebC0CfD8E) — POV home kitchen footage; what the claw grip and uniform slicing look like when fully internalized. No production value, pure technique.
+- 📺 [**J. Kenji López-Alt — The Mathematically Best Way to Cut an Onion**](https://www.youtube.com/watch?v=rkMldsRcx0E) — A short that takes the geometry of onion-cutting seriously. Watch it alongside the Pépin footage for a useful contrast in style: classical instinct vs. analytical reasoning.
+- 📺 [**J. Kenji López-Alt — How to Sharpen a Knife with a Whetstone**](https://www.youtube.com/watch?v=ixCnCvDUKQ8) — Pairs directly with Thursday's reading. His at-home whetstone setup is approachable and replicable.
 
 ---
 
