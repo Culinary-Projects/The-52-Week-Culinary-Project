@@ -209,3 +209,43 @@ Shakshuka requires dicing onion, pepper, and garlic as its entire prep — your 
 ### Sunday — OFF
 
 Compare this reflection to last week's. The grip should feel natural. You should know the difference between a julienne, a small dice, and a rock chop — not just in theory, but in your hands.
+
+---
+
+---
+
+## Optional: Go Deeper
+
+These aren't required reading — but if something from this block sparked a question, here's where to go.
+
+---
+
+### Buying & Maintaining Your Knife
+
+- 📖 [The Best Chef's Knives](https://www.seriouseats.com/the-best-chefs-knives) — Serious Eats' tested roundup. The short answer for most people: a 8" German-style knife (Wüsthof or Victorinox) to start.
+- 📖 [Wirecutter: The Best Chef's Knife](https://www.nytimes.com/wirecutter/reviews/the-best-chefs-knife/) — independent testing with a different methodology. Worth comparing both.
+- 📖 [German vs. Japanese Chef's Knives — What's the Difference?](https://www.seriouseats.com/german-vs-japanese-knives-differences) — harder steel, thinner bevel, more acute angle on Japanese; softer, more robust, easier to maintain on German. Useful context if you're buying soon.
+- 📖 [How to Store Your Knives](https://www.seriouseats.com/how-to-store-knives-safely) — magnetic strip vs. block vs. in-drawer protectors. The dishwasher is the enemy.
+
+---
+
+### Watching a Pro Do It
+
+Reading about knife technique only goes so far. These videos show you what the grip and motion actually look like at speed:
+
+- 📺 **Jacques Pépin — Knife Skills** (YouTube) — Search "Jacques Pépin knife skills KQED." He's filmed these sessions multiple times across decades. Watching a 90-year-old chef break down an onion is humbling and clarifying.
+- 📺 **Ethan Chlebowski — How to Actually Improve Your Knife Skills** (YouTube) — More data-driven and modern. Good on speed benchmarks and how deliberate practice actually works in the kitchen.
+
+---
+
+### The Broader Concept: Mise en Place
+
+The Friday session introduces mise en place but only as setup. The idea runs a lot deeper:
+
+- 📖 [What Is Mise en Place and Why Is It So Important?](https://www.seriouseats.com/mise-en-place-what-it-means-and-why-its-important) — Serious Eats on the full concept: not just prepping ingredients, but the mental organization that separates reactive cooking from intentional cooking.
+
+---
+
+### A Book Worth Having
+
+- 📚 **The Food Lab** by J. Kenji López-Alt — The first chapter covers knife skills and mise en place with the same scientific rigour as everything else in the book. If you're going to own one reference book for this program, this is it.
