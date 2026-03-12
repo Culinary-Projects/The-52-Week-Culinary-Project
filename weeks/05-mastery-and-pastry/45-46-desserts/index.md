@@ -188,7 +188,6 @@ Crème brûlée and panna cotta are both custards, but they're set by different 
 Chocolate mousse is your introduction to working with chocolate structurally. Chopping, melting, tempering, and folding are four separate skills that the mousse exercise touches on.
 
 - 📖 [Chocolate Mousse](https://www.seriouseats.com/chocolate-mousse-recipe-7109970) — The full recipe and technique, including the egg white folding method that creates the texture.
-- 📖 [Chocolate Guides (Master Index)](https://www.seriouseats.com/chocolate-guides-5118007) — Every SE article on chocolate: melting methods, tempering, types of chocolate, baking applications.
 
 ---
 

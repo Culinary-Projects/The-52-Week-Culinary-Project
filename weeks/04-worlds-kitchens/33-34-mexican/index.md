@@ -78,8 +78,6 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 ### Saturday — PROJECT: Enchiladas + Red Chile Sauce from Scratch
 
 **Skill:** Making a proper red chile sauce (not store-bought); enchilada rolling and baking  
-**Read first:** [Enchilada Recipes](https://www.seriouseats.com/enchilada-recipes-11897392)
-
 **What you're learning:** Real enchiladas are dipped in a chile sauce, not smothered in sauce after. The corn tortilla is briefly fried or softened in the sauce itself, then rolled around the filling, laid in a pan, and baked until the sauce caramelizes. The sauce is the skill — make it from at least two dried chile varieties.
 
 **Full Meal:**

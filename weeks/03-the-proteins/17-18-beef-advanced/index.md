@@ -54,8 +54,6 @@
 
 ### Thursday — OFF
 
-📖 Read: [Serious Eats — Beef Guides Hub](https://www.seriouseats.com/beef-guides-5118010). If there's a cut mentioned that you haven't cooked, bookmark it. You're building a mental library, not just recipes.
-
 ---
 
 ### Friday — Korean-Style Galbi (Grilled Short Ribs)

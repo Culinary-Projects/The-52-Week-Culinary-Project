@@ -10,8 +10,6 @@
 
 ## Week 19 — The Pork Fundamentals
 
-**Before Week 19:** Read [Serious Eats — Pork Guides](https://www.seriouseats.com/pork-guides-5117995) — an overview of the cuts and where they come from. Twenty minutes. Worth it.
-
 **The key principle of pork this week:** Pork ≠ tough. The modern farmed pig is different from 30 years ago — leaner, safer at lower internal temperatures. The new standard is 145°F (USDA updated this in 2011), which means medium pork — still slightly pink — is correct. Cooking pork to 165°F the way you might have learned produces dry, grey, flavorless meat.
 
 ---
@@ -169,7 +167,6 @@ These aren't required reading — but if something from this block sparked a que
 
 Pork is the most versatile animal in the kitchen. Understanding the cuts — shoulder vs. loin vs. belly vs. leg — explains why carnitas works but a pork loin doesn't shred.
 
-- 📖 [Pork Guides (Master Index)](https://www.seriouseats.com/pork-guides-5117995) — SE's complete index on pork: every cut, technique, and preparation.
 - 📖 [Pork Shoulder Demystified: Boston Butt vs. Picnic](https://www.seriouseats.com/what-is-pork-shoulder-boston-butt-picnic-shoulder) — The same cut, sold under different names — here's what the difference actually means for your cooking.
 
 ---

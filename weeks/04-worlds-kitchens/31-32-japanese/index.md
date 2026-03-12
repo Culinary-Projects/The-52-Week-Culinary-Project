@@ -186,7 +186,6 @@ These aren't required reading — but if something from this block sparked a que
 Dashi is made in 10 minutes and is the reason Japanese soups, braises, and sauces taste the way they do. Once you understand that katsuobushi and kombu are the primary umami sources, you start seeing them everywhere.
 
 - 📖 [Basic Japanese Dashi](https://www.seriouseats.com/basic-japanese-dashi-recipe) — The method and the reasoning, in Kenji's words. Also explains the difference between ichiban dashi (first extraction) and niban dashi (second extraction).
-- 📖 [Egg Guides (Master Index)](https://www.seriouseats.com/egg-guides-5118005) — Your tamagoyaki connects to everything in here. Japanese egg cookery is its own sub-discipline.
 
 ---
 

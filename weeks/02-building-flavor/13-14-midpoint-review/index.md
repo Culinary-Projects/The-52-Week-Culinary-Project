@@ -194,7 +194,6 @@ These aren't required reading — but if something from this block sparked a que
 Duck confit is the clearest example of a preserved food that gets better with time. The technique predates refrigeration — understanding the original purpose changes how you think about it.
 
 - 📖 [What the Heck Is Confit? | Ask The Food Lab](https://www.seriouseats.com/ask-the-food-lab-what-the-heck-is-confit) — Kenji explains the term, the technique, and why it produces results that other low-and-slow methods don't.
-- 📖 [Duck Guides (Master Index)](https://www.seriouseats.com/duck-guides-5118006) — Everything SE has published on duck: buying, breaking down, rendering fat, and cooking every cut.
 
 ---
 
@@ -203,7 +202,6 @@ Duck confit is the clearest example of a preserved food that gets better with ti
 The midpoint capstone includes whole-bird cookery. If you want to go deeper on butchery, this is the guide.
 
 - 📖 [How to Break Down a Chicken](https://www.seriouseats.com/knife-skills-how-to-break-down-a-chicken) — The step-by-step visual guide. Do this a few times and it becomes muscle memory.
-- 📖 [Chicken Guides (Master Index)](https://www.seriouseats.com/chicken-guides-5118008) — The full SE index on chicken technique, covering every cut and cooking method.
 
 ---
 

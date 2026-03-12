@@ -108,10 +108,6 @@ This Saturday you make three things — stock, soup, and a complete dinner — t
 
 ## Before You Start Week 8
 
-Read this first:
-
-- 📖 [The Egg Files: Everything You Need to Know](https://www.seriouseats.com/egg-guides-5118005)
-
 ---
 
 ### Monday — The French Scramble
@@ -271,7 +267,6 @@ These aren't required reading — but if something from this block sparked a que
 Stock is the most important prep you can do. The difference between a sauce made with real stock versus carton stock is the difference between a restaurant dish and a home-cooked dish.
 
 - 📖 [Chicken Stock vs. Broth: What's the Difference?](https://www.seriouseats.com/chicken-stock-vs-broth-11899112) — This gets misunderstood constantly. Read this once and you'll never confuse them again.
-- 📖 [Egg Guides (Master Index)](https://www.seriouseats.com/egg-guides-5118005) — Everything SE has ever published about eggs, organized. A complete cooking education in one index.
 
 ---
 

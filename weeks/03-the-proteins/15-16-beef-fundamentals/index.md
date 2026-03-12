@@ -12,8 +12,6 @@
 
 **The central question this week:** Why does a ribeye require a different approach than a strip? Why does a two-inch-thick steak need different handling than a thin one? Beef cuts are not interchangeable — their fat content, fiber direction, and thickness all dictate the method.
 
-**Before Week 15 starts:** Read [Serious Eats — Beef Guides](https://www.seriouseats.com/beef-guides-5118010). It won't take long and it will give you a framework that makes the whole week more coherent.
-
 ---
 
 ### Monday — The Dry Brine + Reverse Sear Method
@@ -192,7 +190,6 @@ These aren't required reading — but if something from this block sparked a que
 
 Most home cooks buy whatever their supermarket stocks. Understanding the muscle map changes that.
 
-- 📖 [Beef Guides (Master Index)](https://www.seriouseats.com/beef-guides-5118010) — SE's complete index on beef: every cut, every cooking method, every question you might have.
 - 📖 [The Right Way to Use a Meat Thermometer](https://www.seriouseats.com/how-to-take-meat-temperature-thermometer-cooking-doneness) — Temperature, not touch or time, is the only honest signal for steak doneness. Read this once and use it every time.
 
 ---

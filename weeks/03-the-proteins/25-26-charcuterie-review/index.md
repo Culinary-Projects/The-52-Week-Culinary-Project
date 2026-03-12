@@ -32,7 +32,7 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 ### Tuesday — Sausage Making Fundamentals
 
 **Skill:** Sausage stuffing, emulsification, seasoning, casing handling  
-**Read first:** [Homemade Merguez Sausage](https://www.seriouseats.com/homemade-merguez-sausage-recipe) | [Homemade Sausage Guide](https://www.seriouseats.com/homemade-sausage-recipes-5117553)
+**Read first:** [Homemade Merguez Sausage](https://www.seriouseats.com/homemade-merguez-sausage-recipe)
 
 **What you're learning:** Sausage is ground and seasoned meat, packed into casings. The fat content matters (25–30% for juicy links). Temperature control during grinding matters (keep everything cold — fat smearing is the enemy). Spice blooming matters. This is your first step into charcuterie production.
 

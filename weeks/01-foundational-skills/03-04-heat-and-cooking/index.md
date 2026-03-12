@@ -225,7 +225,6 @@ You did a full braise this week. Here's the architecture behind it.
 Oil isn't just oil. Fat choice affects flavor, smoke point, and technique — this week you used several.
 
 - 📖 [What's a Smoke Point and Why Does It Matter?](https://www.seriouseats.com/cooking-fats-101-whats-a-smoke-point-and-why-does-it-matter) — The concept behind why you use butter for finishing but not for searing.
-- 📖 [Fats & Oil Guides (Master Index)](https://www.seriouseats.com/fats-oil-guides-5118004) — Every fat question you might ever have, organized and answered.
 
 ---
 
