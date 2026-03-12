@@ -23,7 +23,7 @@
 |-----|------|-------|------|
 | **Mon** | The Best Pad Thai | Julienne cut | [Recipe](https://www.seriouseats.com/pad-thai-recipe-11680356) |
 | **Tue** | Home Fries + Crispy Pan-Seared Chicken Thighs + Green Salad | Small/medium/large dice | [Home Fries](https://www.seriouseats.com/crispy-potato-home-fries-red-onion-poblano-pepper-recipe) · [Chicken](https://www.seriouseats.com/easy-pan-roasted-chicken-breast-lemon-rosemary-pan-sauce-recipe) · [Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) |
-| **Wed** | Chicken Piccata + Watercress Salad | Break down whole chicken | [Piccata](https://www.seriouseats.com/chicken-piccata-italian-fried-cutlet-recipe) · [Breakdown](https://www.seriouseats.com/knife-skills-how-to-break-down-a-chicken) · [Salad](https://www.seriouseats.com/watercress-salad-lemon-olive-oil-recipe) |
+| **Wed** | Chicken Piccata + Arugula Salad | Break down whole chicken | [Piccata](https://www.seriouseats.com/chicken-piccata-italian-fried-cutlet-recipe) · [Breakdown](https://www.seriouseats.com/knife-skills-how-to-break-down-a-chicken) · [Salad](https://www.seriouseats.com/fennel-orange-and-roasted-pepper-arugula-salad-recipe) |
 | **Thu** | *OFF* | Read: what dulls a knife | [Article](https://www.seriouseats.com/knife-skills-how-to-sharpen-a-knife) |
 | **Fri** | Shakshuka + Leftover Chicken Thighs | Speed benchmark — time your onion dice | [Recipe](https://www.seriouseats.com/shakshuka-north-african-shirred-eggs-tomato-pepper-recipe) |
 | **Sat** | 🔨 **PROJECT: Provençal Vegetable Tian** + Bread | Uniform round slices | [Tian](https://www.seriouseats.com/summer-vegetable-tian-ratatouille-recipe) |

@@ -154,14 +154,14 @@ The grip is feeling more natural. Now we add vocabulary and intentionality to th
 
 **Skill:** Buy a whole chicken. Read [How to Break Down a Chicken](https://www.seriouseats.com/knife-skills-how-to-break-down-a-chicken) first, then do it. You'll get two bone-in breasts, two thighs, two drumsticks, two wings, and a carcass. **Put the carcass in a zip-lock in the freezer — that's Week 7 stock material.** Follow the joints, not the bones. Let the knife find the natural seams.
 
-**Full Meal:** [Chicken Piccata](https://www.seriouseats.com/chicken-piccata-italian-fried-cutlet-recipe) (use the breasts) + [Watercress Salad with Lemon and Olive Oil](https://www.seriouseats.com/watercress-salad-lemon-olive-oil-recipe)
+**Full Meal:** [Chicken Piccata](https://www.seriouseats.com/chicken-piccata-italian-fried-cutlet-recipe) (use the breasts) + [Simple Arugula Salad](https://www.seriouseats.com/fennel-orange-and-roasted-pepper-arugula-salad-recipe)
 
 The thighs and legs go in the fridge (use them Friday) or freeze for later. Nothing wasted.
 
 | Component | Recipe |
 |-----------|--------|
 | Protein | Chicken piccata using the breasts you broke down |
-| Veg/Salad | Watercress with lemon and olive oil — the peppery bite pairs well with piccata's lemon-caper sauce |
+| Veg/Salad | Arugula with shaved parmesan and lemon vinaigrette |
 | Starch | Buttered egg noodles or mashed potatoes |
 
 ---
