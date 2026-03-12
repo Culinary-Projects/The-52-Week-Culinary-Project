@@ -1,6 +1,6 @@
 # 🍝 Weeks 11–12: Pasta & Grains from Scratch
 
-← [Back to Master Index](../../../README.md) | [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
+← [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
 
 ---
 
@@ -32,6 +32,8 @@ Make a basic egg pasta dough. Rest it for 30 minutes. Roll it by hand or with a 
 - **Sauce:** Slow-cooked tomato sugo (can be made on the weekend and reheated, or made earlier in the week in a big batch)
 - **Salad:** Simple green salad
 
+> 🎥 **Compare Notes:** [Quick and Easy Pasta With Cherry Tomato Sauce](https://www.youtube.com/watch?v=7zS5Wj7ZfIY) — A fast tomato sauce versus your slow sugo — watch what the high heat does to the tomatoes in minutes and compare the result to your 3-hour cook.
+
 ---
 
 ### Tuesday — Ravioli: Pasta as a Vessel
@@ -62,6 +64,8 @@ The gnocchi themselves are the project. The sage butter sauce takes 5 minutes. T
 - **Veg:** Roasted broccolini
 - **Salad:** Simple green salad
 
+> 🎥 **Compare Notes:** [How to Make Ricotta Gnocchi](https://www.youtube.com/watch?v=-QXRJrf9Bys) — Different base ingredient (ricotta vs. potato), but the key instruction is the same: handle it as little as possible. Watch why overworking kills gnocchi.
+
 ---
 
 ### Thursday — OFF
@@ -85,6 +89,8 @@ Aglio e olio is garlic, olive oil, pasta water, pasta, chili flakes, and parsley
 - **Veg:** Sautéed spinach with garlic and lemon
 - **Salad:** Tomato and cucumber salad, bright and acidic alongside the rich pasta
 
+> 🎥 **Compare Notes:** [Spaghetti Aglio Olio e Fried Shallot](https://www.youtube.com/watch?v=eXWg2mF0TmE) — Same dish with one addition — watch the emulsification move: that moment when pasta water, oil, and garlic become a sauce instead of a greasy tangle.
+
 ---
 
 ### Saturday — PROJECT MEAL: A Full Italian Pasta Dinner
@@ -99,6 +105,8 @@ Aglio e olio is garlic, olive oil, pasta water, pasta, chili flakes, and parsley
 4. **Salad:** [Serious Eats — Classic Italian Green Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) with a simple lemon and olive oil dressing
 
 *Skill targets: Bolognese seasoned in layers throughout a 3-hour cook. Fresh pasta cut to even width. Cacio e Pepe silky and sauce-y, not dry and clumpy.*
+
+> 🎥 **Compare Notes:** [How to Make Ragù Bolognese (Northern Italian Meat Sauce)](https://www.youtube.com/watch?v=MS_IdAevyMY) — Watch the sequence of liquid additions — milk first, then wine, then stock — and why the order matters for the final texture.
 
 ---
 
@@ -119,6 +127,8 @@ The soy sauce called for in the Serious Eats mushroom risotto recipe is delibera
 - **Protein:** Mushrooms and parmesan carry the savory weight; add a fried egg on top if you want more substance
 - **Starch:** The risotto is the dish
 - **Salad:** Bitter greens with gorgonzola and walnuts to cut through the richness
+
+> 🎥 **Compare Notes:** [How to Pause Risotto Halfway Through to Finish Later](https://www.youtube.com/shorts/JFngi1BKzy4) — A 60-second technique that changes how you host. Watch the starch behavior when he stops and restarts — that's what you're riding on every stir.
 
 ---
 
@@ -147,6 +157,8 @@ The polenta goes underneath. The braise goes on top. The salad cuts the richness
 - **Protein:** Braised short ribs or lamb ragu (use Tuesday's lamb leftovers if you have them)
 - **Starch:** Slow-cooked creamy polenta
 - **Salad:** Simple green salad
+
+> 🎥 **Compare Notes:** [POV Polenta Soup With Whatever You Want](https://www.youtube.com/watch?v=cVAPjUHW9xk) — A looser, brothier version of the same grain — watch how he adjusts the liquid ratio and seasoning as it cooks down. Same instincts, different texture target.
 
 ---
 

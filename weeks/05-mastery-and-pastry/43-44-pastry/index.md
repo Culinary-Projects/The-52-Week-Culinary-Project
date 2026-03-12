@@ -111,6 +111,8 @@ French pastry week is the most technically demanding section of this program. Th
 - Apple Pie with vanilla ice cream
 - This is a Tuesday, and that's fine
 
+> 🎥 **Compare Notes:** [How to Make an Apple Pie — Sous Vide Method](https://www.youtube.com/watch?v=DkRMDdcddf0) — He uses sous vide to pre-cook the filling so it's never soupy; compare his fat rationale for the crust to the approach you chose.
+
 ---
 
 ### Wednesday — Pâte Brisée (Savory Shortcrust) + Lemon Tart

@@ -1,6 +1,6 @@
 # 🐷 Weeks 19–20: Pork — All Cuts
 
-← [Back to Master Index](../../../README.md) | [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
+← [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
 
 ---
 
@@ -75,6 +75,8 @@
 
 **The Saturday spread:** Pulled/sliced pork shoulder + whatever sides feel right — slaw, pickled jalapeños, fresh tortillas, or a simple potato salad. This is a meal for the table.
 
+> 🎥 **Compare Notes:** [Easy Oven-Pulled Pork (Plus Four Ways to Use the Leftovers)](https://www.youtube.com/watch?v=-07gtGrdeyE) — Compare his oven temperature and internal temp target to yours — two different paths to the same falling-apart shoulder, and the differences are instructive.
+
 ---
 
 ### Sunday — OFF
@@ -130,6 +132,8 @@ Write: what was the biggest surprise about pork this week? Did the chashu (Tuesd
 
 **Full Meal:** Pork meatballs + [simple tomato sugo](https://www.seriouseats.com/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe) + fresh pasta or spaghetti
 
+> 🎥 **Compare Notes:** [The Key to Tender Balls: How to Make Excellent Meatballs](https://www.youtube.com/watch?v=m8sBAIdJGFw) — Watch how he handles the mix — the less you work the meat, the more tender the result, and that principle applies to your pork meatballs too.
+
 ---
 
 ### Saturday — PROJECT: Carnitas and the Whole Shoulder Taco Dinner
@@ -140,6 +144,8 @@ Write: what was the biggest surprise about pork this week? Did the chashu (Tuesd
 - Serve with: [Serious Eats — Charred Tomatillo Salsa Verde](https://www.seriouseats.com/charred-salsa-verde-tomatillo-salsa) + [guacamole](https://www.seriouseats.com/serious-eats-guacamole-recipe) + pickled jalapeños + fresh white onion and cilantro + warm corn tortillas
 
 *The real skill: the warm tortilla is important. Wrap them in a cloth. Keep them warm. The taco is only as good as the tortilla.*
+
+> 🎥 **Compare Notes:** [Carnitas are Easy, Inexpensive, and Delicious](https://www.youtube.com/watch?v=JRlmQdRN0G8) — Watch the final fat-frying step closely — that's the moment the pork goes from braised to both tender AND crispy simultaneously.
 
 ---
 

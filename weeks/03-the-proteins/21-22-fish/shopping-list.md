@@ -1,6 +1,6 @@
 # 🛒 Shopping List — Weeks 21–22: Seafood Fish
 
-← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md) | [Back to Master Index](../../../README.md)
+← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)
 
 ---
 

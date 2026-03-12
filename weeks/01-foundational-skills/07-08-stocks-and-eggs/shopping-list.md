@@ -1,6 +1,6 @@
 # 🛒 Shopping List — Weeks 7–8: Stocks & Eggs
 
-← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md) | [Back to Master Index](../../../README.md)
+← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)
 
 ---
 

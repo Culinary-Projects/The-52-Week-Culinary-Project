@@ -1,6 +1,5 @@
 # Module 4: The World's Kitchens (Weeks 27–40)
 
-← [Back to Master Index](../../README.md)
 
 ---
 

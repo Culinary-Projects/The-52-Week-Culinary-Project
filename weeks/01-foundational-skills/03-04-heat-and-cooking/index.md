@@ -2,7 +2,6 @@
 
 > *"Understanding heat is understanding cooking. Everything else is detail."*
 
-← [Back to Master Index](../../../README.md)
 
 **Quick Reference:** [→ Week 3–4 Recipe Quick Ref](quick-ref.md)
 
@@ -31,6 +30,8 @@ Read this first:
 | Protein | Sautéed boneless chicken breast, finished with a quick pan sauce of shallot, white wine, and butter |
 | Veg | Sautéed zucchini — notice how a hot pan gives you color on the outside while keeping the inside tender |
 | Starch | Steamed jasmine rice |
+
+> 🎥 **Compare Notes:** [Pan-Seared Chicken Breasts with Pan Sauce and Spring Vegetables](https://www.youtube.com/watch?v=Bt8YgEr-9is) — Same cut, same pan sauce technique — notice how he builds flavor in the pan after pulling the chicken.
 
 ---
 
@@ -62,6 +63,8 @@ Notice the difference in texture from Tuesday's roasted thighs — same cut of m
 |-----------|--------|
 | Protein | Braised chicken thighs in a rich tomato-caper sauce |
 | Starch | Crusty bread to mop the sauce, or polenta |
+
+> 🎥 **Compare Notes:** [Crispy Braised Chicken with Tomatoes, Carrots, and Kale](https://www.youtube.com/watch?v=4BPkJQgtHRE) — Different vegetables, same braising logic — notice the deep sear he builds before any liquid goes in.
 
 ---
 
@@ -95,6 +98,8 @@ Identify which of the three methods you used this week produced the best flavor 
 
 *Skill targets: Even butterflying, dry skin before roasting, proper resting time (10 minutes) before carving.*
 
+> 🎥 **Compare Notes:** [How to Cook a Perfect Roast Chicken (Spatchcock it!)](https://www.youtube.com/watch?v=bbqZJZOUM6I) · [Spatchcock Roast Chicken — The Fastest, Juiciest Method](https://www.youtube.com/watch?v=yUcZqyGrWYw) — He's done this twice; compare both approaches and borrow what you like.
+
 ---
 
 ### Sunday — OFF
@@ -120,6 +125,8 @@ Identify which of the three methods you used this week produced the best flavor 
 | Protein | Ribeye or NY strip, pan-seared in cast iron, basted in butter, thyme, and garlic |
 | Starch | Ultra-creamy mashed potatoes (use more butter than you're comfortable with) |
 | Veg | Green beans sautéed in the steak pan drippings |
+
+> 🎥 **Compare Notes:** [POV How to Cook a Steak](https://www.youtube.com/watch?v=INiAM1u925E) — Watch before you turn on the pan. Notice what "don't touch it" actually looks like in real time.
 
 ---
 
@@ -148,6 +155,8 @@ Identify which of the three methods you used this week produced the best flavor 
 | Protein | Miso-glazed salmon under the broiler — 8 minutes, no flipping needed |
 | Veg | Sautéed or steamed bok choy |
 | Starch | Steamed rice |
+
+> 🎥 **Compare Notes:** [Kenji's Cooking Show | Miso-Glazed Salmon](https://www.youtube.com/watch?v=51GpBG4iJcA) — This is the exact dish — compare his glaze timing and broiler distance to yours.
 
 ---
 
@@ -180,6 +189,8 @@ If you need to glance at times and temperatures, that's fine. But close the reci
 | Protein | Bone-in beef short ribs braised in red wine and beef stock until they collapse |
 | Starch | Creamy parmesan polenta (the perfect landing pad for the braising liquid) |
 | Veg | Roasted root vegetables (carrots, parsnips, turnips) |
+
+> 🎥 **Compare Notes:** [How Braises Get Tender](https://www.youtube.com/shorts/9l790_Ga7hs) · [Ask Kenji | How Can I Tell If My Braise Is Done?](https://www.youtube.com/watch?v=pU8-PiojG0U) — Watch before you start; the short explains collagen breakdown in 60 seconds.
 
 *Skill targets: A deep, dark sear on every side of the ribs before braising. Correct liquid level (one-third up the meat, not submerged). Internal temp of 200°F+ for collagen breakdown.*
 

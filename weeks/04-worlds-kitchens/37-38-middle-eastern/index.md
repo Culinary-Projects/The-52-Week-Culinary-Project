@@ -70,6 +70,8 @@ The first week focuses on building the foundational components of a Middle Easte
 - Falafel in warm pita with tahini sauce, tomato, cucumber, pickled onions
 - Fattoush salad alongside ([Fattoush](https://www.seriouseats.com/fattoush-recipe-8638102)) — fried pita + fresh vegetables + sumac dressing
 
+> 🎥 **Compare Notes:** [How to Make Falafel](https://www.youtube.com/watch?v=F9RczIcY_1c) — He's emphatic about dried vs. canned chickpeas; watch the texture difference he describes and why canned ones fail.
+
 ---
 
 ### Saturday — PROJECT: Beef Shawarma
@@ -112,6 +114,8 @@ The first week focuses on building the foundational components of a Middle Easte
 **Full Meal:**
 - Fattoush + Tabbouleh (a vegetarian evening)
 - Hummus, pita, labneh to round it out
+
+> 🎥 **Compare Notes:** [Fattoush Lebanese Chopped Salad](https://www.youtube.com/watch?v=NWJjt1AJwCA) — Notice how the fried pita and sumac define the dish; compare his ratios to tabbouleh's herb-forward logic and see how different they actually are.
 
 ---
 

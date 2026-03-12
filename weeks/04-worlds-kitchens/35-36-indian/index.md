@@ -66,6 +66,8 @@ The first Indian week focuses on three foundational preparations: a tomato-cream
 **Full Meal:**
 - Garlic Naan × 8–10 (it's flatbread night — pair with leftover dal from Tuesday or butter chicken)
 
+> 🎥 **Compare Notes:** [Naan in a Pizza Oven](https://www.youtube.com/watch?v=Ikz9l_7q-_s) — Watch how he manages extreme heat and why the char spots are a feature, not a mistake.
+
 ---
 
 ### Friday — Dal Makhani (All-Day Slow Dal)

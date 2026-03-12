@@ -1,6 +1,6 @@
 # 🥩 Weeks 17–18: Beef — Advanced Cuts
 
-← [Back to Master Index](../../../README.md) | [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
+← [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
 
 ---
 
@@ -47,6 +47,8 @@
 - Always cut against the visible grain — very pronounced in this cut
 
 **Full Meal:** Hanger steak + [Serious Eats — Chimichurri](https://www.seriouseats.com/sauced-chimichurri-sauce-recipe) OR [bagna cauda sauce](https://www.seriouseats.com/bagna-cauda-recipe) + [roasted potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) or [frites](https://www.seriouseats.com/french-fries-recipe)
+
+> 🎥 **Compare Notes:** [Hanger Steak, and One Good Way to Cook it](https://www.youtube.com/watch?v=jvEZD9sF7Xc) — Watch how he handles the seam of sinew before cooking — removing it is the one step most people skip that actually changes the eating experience.
 
 ---
 
@@ -109,6 +111,8 @@ Write down: what's the actual difference between grilling and broiling? (They're
 **Skill:** A steak salad is fundamentally different from a beef entrée — the steak is sliced thin, at most a supporting element in a composed dish with acid, crunch, and fresh contrast. Tonight: cook the steak to medium-rare, rest it, thin-slice it, and build around it.
 
 **Full Meal:** Sliced steak salad — arugula, shaved parmesan, [roasted tomatoes](https://www.seriouseats.com/tomato-raisins-oven-dried-whole-cherry-tomatoes), lemon vinaigrette + grilled bread
+
+> 🎥 **Compare Notes:** [POV Thai-ish Steak Salad](https://www.youtube.com/watch?v=rRnW7ot9z4E) — A different flavor direction on the same idea — compare how the acid and herb balance changes completely depending on whether you go Italian (lemon, parmesan) or Southeast Asian (lime, fish sauce, herbs).
 
 ---
 

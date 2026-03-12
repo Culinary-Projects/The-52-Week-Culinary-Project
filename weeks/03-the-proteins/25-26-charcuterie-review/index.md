@@ -40,6 +40,8 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 - Pan-fried merguez with [roasted peppers](https://www.seriouseats.com/how-to-roast-peppers-recipe) and [couscous](https://www.seriouseats.com/couscous-recipe-5217571)
 - [Yogurt sauce](https://www.seriouseats.com/easy-tzatziki-recipe) and harissa on the side
 
+> 🎥 **Compare Notes:** [8 Rules for Sausages](https://www.youtube.com/watch?v=rwlvVTzbbbw) — The fat temperature and emulsification rules apply to merguez even if the spice profile is different — pay attention to rule #1 and #3.
+
 ---
 
 ### Wednesday — Taste the Gravlax / Cured Charcuterie Board
@@ -71,6 +73,8 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 **Full Meal:**
 - Sausage and pickled pepper sandwiches (use leftover merguez or store-bought sausage)
 - Quick pickles from today's session on the side
+
+> 🎥 **Compare Notes:** [Kosher Dill Pickles](https://www.youtube.com/watch?v=qOZzZmEzNm4) — His brine ratio and timing explain the chemistry behind quick pickles vs. fermentation — the acid vs. salt distinction changes everything about how long they keep.
 
 ---
 
@@ -105,6 +109,8 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 
 **Full Meal:**
 - Pasta carbonara using store-bought pancetta while yours cures (perfect comparison for next week)
+
+> 🎥 **Compare Notes:** [Sous Chef Erik's Pancetta Class, Part One](https://www.youtube.com/watch?v=aZeAvstli-8) — Watch the cure application and the fridge setup — uncovered and elevated is not optional, it's how the surface dries for proper curing.
 
 ---
 

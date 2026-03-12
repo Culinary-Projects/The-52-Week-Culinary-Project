@@ -39,6 +39,8 @@ Japanese cooking builds on a different set of foundational principles than Frenc
 - Tonkatsu with shredded cabbage slaw and tonkatsu sauce
 - White rice and pickled ginger
 
+> 🎥 **Compare Notes:** [How to Make Tonkatsu](https://www.youtube.com/watch?v=9Dg7kSKrSnk) — Pay attention to his breading station setup and why the panko matters more than you'd expect.
+
 ---
 
 ### Wednesday — Tamagoyaki (Japanese Rolled Omelette)
@@ -85,6 +87,8 @@ Japanese cooking builds on a different set of foundational principles than Frenc
 - Miso soup
 - Pickled vegetables
 - Finish: matcha with a Japanese confection (mochi, yokan, whatever's available)
+
+> 🎥 **Compare Notes:** [How to Make Oyakodon](https://www.youtube.com/watch?v=kSmH01K76lY) — Notice the moment he kills the heat and how far the eggs are from done — that's the whole trick.
 
 ---
 

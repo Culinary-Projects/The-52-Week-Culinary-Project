@@ -1,6 +1,6 @@
 # ⚡ Weeks 1–2 Quick Reference — Knife Skills & Kitchen Setup
 
-← [Back to Full Guide](index.md) | [Back to Master Index](../../../README.md) | [Shopping List →](shopping-list.md)
+← [Back to Full Guide](index.md) | [Shopping List →](shopping-list.md)
 
 ---
 

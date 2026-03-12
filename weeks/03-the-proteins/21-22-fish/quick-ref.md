@@ -1,6 +1,6 @@
 # ⚡ Weeks 21–22 Quick Reference — Seafood: Fish
 
-← [Back to Full Guide](index.md) | [Back to Master Index](../../../README.md) | [Shopping List →](shopping-list.md)
+← [Back to Full Guide](index.md) | [Shopping List →](shopping-list.md)
 
 ---
 

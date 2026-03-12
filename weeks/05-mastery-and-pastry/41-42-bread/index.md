@@ -27,6 +27,8 @@ This week establishes the principles of bread-making through the two most forgiv
 - No-Knead Bread, first loaf
 - Tear and eat warm with cultured butter and good olive oil. That's the meal.
 
+> 🎥 **Compare Notes:** [No-Knead Bread, Revisited](https://www.youtube.com/watch?v=6RUDa0FKplk) — He updates the original technique with a few small tweaks; compare his rationale for the changes to what you experience with your own first loaf.
+
 ---
 
 ### Tuesday — No-Knead Bread Variation (Folding Technique Upgrade)

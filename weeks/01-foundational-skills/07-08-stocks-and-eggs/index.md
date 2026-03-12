@@ -2,7 +2,6 @@
 
 > *"Stocks are the foundation of professional cooking. Eggs are the chef's ultimate test."*
 
-← [Back to Master Index](../../../README.md)
 
 **Quick Reference:** [→ Week 7–8 Recipe Quick Ref](quick-ref.md)
 
@@ -129,6 +128,8 @@ A French scramble dinner is a legitimately elegant meal when served with smoked 
 | Starch | Toasted sourdough |
 | Salad | Simple green salad |
 
+> 🎥 **Compare Notes:** [Really Good Scrambled Eggs](https://www.youtube.com/watch?v=CXTnq7srJRs) — Same goal, different execution — notice how often he's moving the pan and when he pulls it off the heat entirely.
+
 ---
 
 ### Tuesday — The Perfect Poached Egg
@@ -142,6 +143,8 @@ A French scramble dinner is a legitimately elegant meal when served with smoked 
 | Protein | Poached eggs + crispy bacon |
 | Veg | Wilted greens (kale or spinach), roasted cherry tomatoes |
 | Starch | Good toast |
+
+> 🎥 **Compare Notes:** [Truly Foolproof Poached Eggs](https://www.youtube.com/watch?v=S60GxA9JpLk) — Watch the water temperature and the swirl — two details that determine whether you get a poached egg or a cloud of egg white.
 
 ---
 
@@ -159,6 +162,8 @@ A properly made omelette with a glass of wine and a green salad is one of the mo
 | Filling | Gruyère, herbs, or mushrooms |
 | Salad | Classic green salad with vinaigrette |
 | Starch | Crusty bread |
+
+> 🎥 **Compare Notes:** [How to Make a French Omelette](https://www.youtube.com/watch?v=onFC-DlCA9k) · [Want Perfect French Omelettes? Start With Water](https://www.youtube.com/watch?v=2fWXrpkoFes) — Watch the wrist and the pan angle. The fold happens faster than you think it should.
 
 ---
 
@@ -181,6 +186,8 @@ Carbonara is a savory egg custard sauce — eggs, pasta water, guanciale or panc
 | Protein | Guanciale or pancetta (built into the sauce) |
 | Starch | Spaghetti or rigatoni |
 | Salad | Bitter greens with anchovy vinaigrette |
+
+> 🎥 **Compare Notes:** [How to Make Classic Pasta Carbonara](https://www.youtube.com/watch?v=k1Np28NnP40) — Watch how he tempers the eggs using pasta water — this is the move that prevents scrambling.
 
 ---
 

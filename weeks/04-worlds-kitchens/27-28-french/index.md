@@ -38,6 +38,8 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 - Eggs Benedict with blender hollandaise
 - [Simple roasted potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) or hash browns
 
+> 🎥 **Compare Notes:** [How to Make Eggs Benedict for a Crowd](https://www.youtube.com/watch?v=pWL2ctIxtYk) — Watch how he poaches eggs in batches and holds them in water — the hollandaise staying warm while eggs wait is the real challenge of the dish.
+
 ---
 
 ### Wednesday — Béarnaise Sauce with Steak
@@ -160,6 +162,8 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 **Full Meal:**
 - Le Grand Aioli: scratch-made garlic aioli + blanched vegetables + hard-boiled eggs + bread + whatever protein you choose
 - White wine from Provence if possible
+
+> 🎥 **Compare Notes:** [Old-Fashioned Handmade Aioli is Perfect for Spring Asparagus](https://www.youtube.com/watch?v=sVWBqy657TE) — Watch the mortar and pestle technique and compare it to your blender version — the texture and flavor absorption are genuinely different.
 
 ---
 

@@ -1,6 +1,6 @@
 # ⚡ Weeks 13–14 Quick Reference — Module 2 Capstone: Poultry & Flavor Review
 
-← [Back to Full Guide](index.md) | [Back to Master Index](../../../README.md) | [Shopping List →](shopping-list.md)
+← [Back to Full Guide](index.md) | [Shopping List →](shopping-list.md)
 
 ---
 

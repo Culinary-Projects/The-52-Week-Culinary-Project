@@ -1,6 +1,6 @@
 # ⚡ Weeks 15–16 Quick Reference — Beef Fundamentals
 
-← [Back to Full Guide](index.md) | [Back to Master Index](../../../README.md) | [Shopping List →](shopping-list.md)
+← [Back to Full Guide](index.md) | [Shopping List →](shopping-list.md)
 
 ---
 

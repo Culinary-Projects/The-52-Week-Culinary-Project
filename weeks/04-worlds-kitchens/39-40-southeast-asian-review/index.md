@@ -36,7 +36,7 @@ Southeast Asia is not one cuisine but a family of distinct traditions connected 
 
 **Full Meal:**
 - Traditional Beef Pho with full herb plate: Thai basil, cilantro, bean sprouts, lime, jalapeño, hoisin, sriracha
-
+> 🎥 **Compare Notes:** [Southern-Style Vietnamese Chicken Pho](https://www.youtube.com/watch?v=3ZgnKg8pEaI) — He makes the chicken version; compare the broth-building logic and see how the aromatic charring technique carries across both.
 ---
 
 ### Wednesday — Nasi Goreng (Indonesian Fried Rice)
@@ -49,6 +49,8 @@ Southeast Asia is not one cuisine but a family of distinct traditions connected 
 **Full Meal:**
 - Nasi Goreng topped with a fried egg (mandatory) and prawn crackers (krupuk)
 - Pickled cucumber + sliced tomato on the side
+
+> 🎥 **Compare Notes:** [Egg Fried Rice Three Ways](https://www.youtube.com/watch?v=u2MJzEuI0vI) — He shows the same day-old rice technique across three styles; notice what changes and what the wok heat is really doing in each version.
 
 ---
 

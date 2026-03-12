@@ -1,6 +1,5 @@
 # Module 1: Foundational Skills (Weeks 1–8)
 
-← [Back to Master Index](../../README.md)
 
 ---
 

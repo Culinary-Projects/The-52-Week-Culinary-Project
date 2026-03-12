@@ -1,6 +1,6 @@
 # 🧂 Weeks 9–10: Seasoning & Flavor Building
 
-← [Back to Master Index](../../../README.md) | [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
+← [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
 
 ---
 
@@ -44,6 +44,8 @@ Before you season the broccoli, taste a raw floret. Season it with salt and tast
 - **Veg:** Roasted broccoli, each floret seasoned before roasting
 - **Salad:** Arugula with shaved parmesan and a sharp lemon vinaigrette
 
+> 🎥 **Compare Notes:** [Dry Brining Is the Easiest Way to Improve Any Roast](https://www.youtube.com/shorts/QcWCXVZJ0sk) — A 60-second demonstration of the exact technique you're using tonight — notice that the salt goes on much earlier than most people think.
+
 ---
 
 ### Tuesday — During Salt: Layered Seasoning
@@ -57,6 +59,8 @@ Amatriciana is one of the great Roman pasta sauces — guanciale (or pancetta), 
 - **Protein:** Guanciale or pancetta, crisped in the pan and layered through the sauce
 - **Starch:** Bucatini or rigatoni — both are traditional
 - **Salad:** Classic Caesar alongside — learn to taste and adjust the dressing before it goes on the leaves
+
+> 🎥 **Compare Notes:** [Food Lab Basics: POV Bucatini All'Amatriciana](https://www.youtube.com/watch?v=0SxlESaak_Q) — Watch when he seasons at each stage — count how many separate times salt or salty ingredients go in before the dish is done.
 
 ---
 
@@ -94,6 +98,8 @@ Cacio e Pepe is three ingredients: pasta, pecorino, black pepper. There is nowhe
 - **Starch:** Tonnarelli or spaghetti
 - **Veg:** Roasted cauliflower with crispy capers — the capers add a salty, briny pop that is the finishing-salt concept in action
 - **Salad:** Bitter greens to cut through the richness
+
+> 🎥 **Compare Notes:** [How to Make Cacio e Pepe](https://www.youtube.com/watch?v=Sap5IKEGHDA) — Three ingredients. Watch how he uses pasta water to build a sauce, not just coat the noodles. That emulsification is the whole technique.
 
 ---
 
@@ -162,6 +168,8 @@ Brown butter is fat transformed — milk solids toasted to a deep hazelnut color
 - **Veg:** Roasted mushrooms alongside
 - **Salad:** Bitter greens to cut through all that butter
 
+> 🎥 **Compare Notes:** [Spring Vegetable Gnocchi](https://www.youtube.com/watch?v=hit26kbaDYk) — Different filling, same brown butter sauce technique — watch how the butter goes from golden to hazelnut and how the gnocchi absorb the fat.
+
 ---
 
 ### Thursday — OFF
@@ -184,6 +192,8 @@ This pasta uses anchovies (umami), mushrooms (umami), and tomato (umami) in comb
 - **Starch:** Spaghetti or rigatoni
 - **Veg:** Asparagus with shaved parmesan — the parmesan is doing seasoning work here
 - **Salad:** Arugula with more parmesan and lemon
+
+> 🎥 **Compare Notes:** [How to Make Pasta Puttanesca](https://www.youtube.com/watch?v=ZJMUIDEJ6ls) — Same principle: anchovies and olives as hidden umami, not as the headline flavors. Watch how they disappear into the sauce while deepening it.
 
 ---
 

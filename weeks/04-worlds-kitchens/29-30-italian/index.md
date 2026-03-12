@@ -38,6 +38,8 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 - Minestrone with Parmesan rind broth
 - Crusty bread, additional Parmesan on top
 
+> 🎥 **Compare Notes:** [How to Make Minestrone Soup](https://www.youtube.com/watch?v=vaiKwrQRam4) — Watch how he stages the vegetables by cook time — the architecture of the soup is the lesson, not the ingredient list.
+
 ---
 
 ### Wednesday — Osso Buco alla Milanese

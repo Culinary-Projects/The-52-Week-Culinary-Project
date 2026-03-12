@@ -1,6 +1,6 @@
 # 🏁 Weeks 13–14: Module 2 Capstone — Poultry & Flavor Review
 
-← [Back to Master Index](../../../README.md) | [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
+← [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
 
 ---
 
@@ -106,6 +106,8 @@ This is the most important reflection yet. Five questions, five sentences minimu
 
 *Skill note: Take the bird's temperature in three places — thigh near the joint, thickest part of the breast, and the cavity near the backbone. They'll never be the same reading. Understand the variance before you declare it "done."*
 
+> 🎥 **Compare Notes:** [How to Properly Roast a Chicken](https://www.youtube.com/watch?v=0Mss7hxdqvQ) — Watch his setup before the bird goes in — dry skin, rack position, pan underneath. Every step is a reason.
+
 ---
 
 ### Tuesday — Spatchcock: Why It Changes Everything
@@ -118,6 +120,8 @@ This is the most important reflection yet. Five questions, five sentences minimu
 **Full Meal:** Spatchcocked chicken (your own seasoning, not theirs) + [Serious Eats — Roasted Cauliflower with Pine Nuts, Raisins & Capers](https://www.seriouseats.com/roasted-cauliflower-pine-nut-raisin-caper-food-lab-recipe) + tahdig or rice
 
 *Side-by-side comparison optional: write down the cooking time and internal temp readings compared to Monday's whole bird. Did the spatchcock cook faster? More evenly? This is active learning.*
+
+> 🎥 **Compare Notes:** [For the Best Roast Chicken, Slather Your Spatchcock in Mayo](https://www.youtube.com/watch?v=2Sz40WqBg8E) — A twist on the technique you're using — watch how the mayo acts as a fat and protein barrier that crisps differently than dry-brined skin.
 
 ---
 
@@ -148,6 +152,8 @@ This is the most important reflection yet. Five questions, five sentences minimu
 - The pan sauce is the skill. Deglaze the fond. Reduce. Mount with butter. Taste. Fix.
 
 **Full Meal:** Pan-seared chicken breast + pan sauce + [Serious Eats — Honey-Roasted Carrots](https://www.seriouseats.com/honey-roasted-carrots-with-spring-herbs-recipe-11725322) + whatever grain you have
+
+> 🎥 **Compare Notes:** [The Secret Technique for the Juiciest Chicken Cutlets](https://www.youtube.com/watch?v=l49qlJV7VoM) — Watch how he controls the sear to hit exactly 160°F without overcooking — the same logic applies to your breast tonight.
 
 ---
 

@@ -2,7 +2,6 @@
 
 > *"Master these five sauces and you can make virtually any sauce on earth."*
 
-← [Back to Master Index](../../../README.md)
 
 **Quick Reference:** [→ Week 5–6 Recipe Quick Ref](quick-ref.md)
 
@@ -69,6 +68,8 @@ Bolognese takes 3–4 hours. Make it on a Wednesday when you can let it simmer w
 | Starch | Fresh tagliatelle or good dried pasta |
 | Veg | Mirepoix (in the sauce) + [Classic Caesar Salad](https://www.seriouseats.com/the-best-caesar-salad-recipe) alongside |
 
+> 🎥 **Compare Notes:** [Ragù Bolognese is Easy, Actually](https://www.youtube.com/watch?v=cvROmO5ODnQ) — Compare how he builds the soffrito and when he adds each liquid — the patience is the technique.
+
 ---
 
 ### Thursday — OFF
@@ -90,6 +91,8 @@ The pan sauce is your simplified Espagnole: browned bits from the steak, deglaze
 | Protein | Pan-seared steak with a red wine reduction pan sauce |
 | Starch | Ultra-creamy mashed potatoes |
 | Veg | Roasted broccolini |
+
+> 🎥 **Compare Notes:** [The Best Way to Cook Steak: The Reverse Sear](https://www.youtube.com/watch?v=pO8TUuSv7HA) — A different approach to the same result — watch how he thinks about internal temperature versus crust formation.
 
 ---
 
@@ -129,6 +132,8 @@ The pan sauce is your simplified Espagnole: browned bits from the steak, deglaze
 | Starch | English muffins, toasted |
 | Veg/Salad | [Simple Watercress Salad](https://www.seriouseats.com/five-minute-radicchio-watercress-arugula-salad-recipe) alongside |
 
+> 🎥 **Compare Notes:** [How to Make Eggs Benedict the Classic Way](https://www.youtube.com/watch?v=pkzRzrxYtMo) — Watch how he handles the hollandaise temperature — the moment it breaks and how to rescue it.
+
 ---
 
 ### Tuesday — Mayonnaise: Emulsion Without Heat
@@ -145,6 +150,8 @@ Make the mayo from scratch. Use it in the roll filling and the coleslaw.
 | Veg | [Coleslaw](https://www.seriouseats.com/the-best-creamy-coleslaw-recipe) made with your homemade mayo |
 | Starch | Brioche or potato rolls |
 
+> 🎥 **Compare Notes:** [How to Make Mayonnaise](https://www.youtube.com/watch?v=9TnIeYc2CWU) — Watch the oil addition speed — this is where the emulsion either forms or breaks.
+
 ---
 
 ### Wednesday — The Vinaigrette: A Temporary Emulsion
@@ -160,6 +167,8 @@ Make the vinaigrette from scratch. Use it as the dressing *and* as a marinade fo
 | Protein | Seared salmon or tuna |
 | Veg | Green beans, olives, tomatoes, hard-boiled eggs |
 | Starch | Boiled potatoes (dressed warm with the vinaigrette — they absorb it better) |
+
+> 🎥 **Compare Notes:** [How to Make a Niçoise Salad](https://www.youtube.com/watch?v=qr-EzBiljnU) — This is the exact dish — compare how he sequences the components and when the vinaigrette goes on.
 
 ---
 
@@ -180,6 +189,8 @@ Make the vinaigrette from scratch. Use it as the dressing *and* as a marinade fo
 | Protein | Pan-seared pork chops with apple-cider pan sauce |
 | Starch | Roasted sweet potatoes |
 | Salad | Simple green salad with your from-scratch vinaigrette |
+
+> 🎥 **Compare Notes:** [Pan-Seared Pork Chops with Apple Pan Sauce](https://www.youtube.com/watch?v=nHDNtxvrhHc) — This is the exact dish — compare when he deglazes and how he reduces the sauce to a glaze.
 
 ---
 

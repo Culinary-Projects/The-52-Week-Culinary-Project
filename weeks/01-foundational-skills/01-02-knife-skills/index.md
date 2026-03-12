@@ -2,7 +2,6 @@
 
 > *"Learn to hold a knife properly and half the battle is won."*
 
-← [Back to Master Index](../../../README.md)
 
 **Quick Reference:** [→ Week 1–2 Recipe Quick Ref](quick-ref.md)
 
@@ -224,7 +223,7 @@ Shakshuka requires dicing onion, pepper, and garlic as its entire prep — your 
 
 *Skill targets: Consistent thickness on every slice. Go slow. This is about control, not speed.*
 
-> 🎥 **Compare Notes:** [Knife Skills: How to Slice and Dice an Onion](https://www.youtube.com/watch?v=BuebC0CfD8E) — Not zucchini and squash, but every principle is the same: knuckles as the guide rail, consistent push-through pressure, same thickness on every stroke.
+> 🎥 **Compare Notes:** [Knife Skills: How to Dice Butternut Squash](https://www.youtube.com/watch?v=-ehLtsfL8Fc) — Same family of vegetable, same slicing challenge. Watch the board control and how he maintains consistent pressure through each stroke.
 
 ---
 
@@ -257,9 +256,6 @@ Reading about knife technique only goes so far. These videos show you what the g
 
 - 📺 [**Jacques Pépin — Knife Skills**](https://www.youtube.com/results?search_query=jacques+pepin+knife+skills+kqed) — He's filmed these sessions multiple times across decades. Watching a 90-year-old chef break down an onion is humbling and clarifying.
 - 📺 [**Ethan Chlebowski — How to Actually Improve Your Knife Skills**](https://www.youtube.com/@EthanChlebowski) — More data-driven and modern. Good on speed benchmarks and how deliberate practice actually works in the kitchen.
-- 📺 [**J. Kenji López-Alt — Knife Skills: How to Slice and Dice an Onion**](https://www.youtube.com/watch?v=BuebC0CfD8E) — POV home kitchen footage; what the claw grip and uniform slicing look like when fully internalized. No production value, pure technique.
-- 📺 [**J. Kenji López-Alt — The Mathematically Best Way to Cut an Onion**](https://www.youtube.com/watch?v=rkMldsRcx0E) — A short that takes the geometry of onion-cutting seriously. Watch it alongside the Pépin footage for a useful contrast in style: classical instinct vs. analytical reasoning.
-- 📺 [**J. Kenji López-Alt — How to Sharpen a Knife with a Whetstone**](https://www.youtube.com/watch?v=ixCnCvDUKQ8) — Pairs directly with Thursday's reading. His at-home whetstone setup is approachable and replicable.
 
 ---
 

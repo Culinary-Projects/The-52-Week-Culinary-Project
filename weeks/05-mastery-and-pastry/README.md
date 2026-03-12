@@ -1,6 +1,5 @@
 # Module 5: Mastery & Pastry (Weeks 41–52)
 
-← [Back to Master Index](../../README.md)
 
 ---
 

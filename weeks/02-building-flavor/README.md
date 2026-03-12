@@ -1,6 +1,5 @@
 # Module 2: Building Flavor (Weeks 9–14)
 
-← [Back to Master Index](../../README.md)
 
 ---
 

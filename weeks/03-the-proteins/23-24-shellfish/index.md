@@ -24,7 +24,7 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 **Full Meal:**
 - Spaghetti alle Vongole
 - Crusty bread for the broth at the bottom of the bowl
-
+> 🎥 **Compare Notes:** [How to Make Pasta alle Vongole](https://www.youtube.com/watch?v=8q8M60LXMtY) — Watch when he adds the pasta to the clam pan — the starchy pasta water is the sauce, not an afterthought.
 ---
 
 ### Tuesday — Moules Marinière (Mussels, French Style)
@@ -50,6 +50,8 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 **Full Meal:**
 - Roasted Oysters (appetizer quantity — 6–12)
 - Caesar salad or simple green salad for a full dinner
+
+> 🎥 **Compare Notes:** [How to Grill Oysters](https://www.youtube.com/watch?v=Kbm2yeA1_C4) — The heat-opening approach is the same whether grilling or roasting — compare when he calls them done and why the timing matters for bivalves.
 
 ---
 
@@ -129,6 +131,8 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 **Full Meal:**
 - New England–style clam chowder or clam-corn linguine
 - Oyster crackers or crusty bread
+
+> 🎥 **Compare Notes:** [Thicc Clam Chowder](https://www.youtube.com/watch?v=P90jTVaA6YU) — Watch how he builds the potato-and-cream base before the clams go in — timing the clams last prevents the rubbery texture that ruins most chowder.
 
 ---
 

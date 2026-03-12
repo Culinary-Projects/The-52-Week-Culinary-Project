@@ -1,6 +1,6 @@
 # 🥩 Weeks 15–16: Beef — Fundamentals
 
-← [Back to Master Index](../../../README.md) | [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
+← [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
 
 ---
 
@@ -30,6 +30,8 @@ The reverse sear — low oven first, then high-heat sear — gives you precise t
 
 *Skill check: Take the steak's internal temperature in three places before searing. Write the readings down. This is how you learn to stop cutting into steak to check doneness.*
 
+> 🎥 **Compare Notes:** [The Reverse Sear is Still the Best Way to Cook Steak](https://www.youtube.com/watch?v=Azarsj8xlBk) — Follow his oven temp and timer — then compare your internal temp curve to his. The reverse sear is consistent precisely because you can watch it happen.
+
 ---
 
 ### Tuesday — Pan-Seared Strip Steak + Compound Butter
@@ -54,6 +56,8 @@ The reverse sear — low oven first, then high-heat sear — gives you precise t
 
 *Skill note: Make the patties with one hand. Loose, barely formed. No mix-ins. Salt only. Then smash.*
 
+> 🎥 **Compare Notes:** [How to make a smash burger](https://www.youtube.com/watch?v=rsIlzNqN0ok) — Watch how hard he smashes and how fast the crust forms — that's the Maillard reaction happening in real time.
+
 ---
 
 ### Thursday — OFF
@@ -72,6 +76,8 @@ The reverse sear — low oven first, then high-heat sear — gives you precise t
 
 **Full Meal:** Skirt steak + chimichurri + grilled or roasted peppers + rice or tortillas
 
+> 🎥 **Compare Notes:** [Grilled Skirt Steak with Herb Sauce](https://www.youtube.com/watch?v=PTCfv3aZyR8) — Compare his sear time and resting method to yours — skirt steak is thin enough that even 30 seconds matters.
+
 ---
 
 ### Saturday — PROJECT: The Prime Rib
@@ -88,6 +94,8 @@ The reverse sear — low oven first, then high-heat sear — gives you precise t
 4. Roasted garlic mashed potatoes (use Monday's mashed potato technique)
 
 *What you learn today: cooking to temperature on an expensive cut. If it's wrong, you know immediately. That's the best teacher.*
+
+> 🎥 **Compare Notes:** [The Food Lab's Reverse-Seared Prime Rib](https://www.youtube.com/watch?v=KCHpiHmOXyU) — Watch how the internal temperature climbs through the overnight rest — that carry-over on a roast this size is part of the method, not a mistake.
 
 ---
 
@@ -112,6 +120,8 @@ Write down this week's learning: of the three fundamentally different cooked-bee
 - Start by 2 PM if you're eating at 7
 
 **Full Meal:** Braised short ribs + egg noodles or [creamy polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe) + whatever vegetables are in season
+
+> 🎥 **Compare Notes:** [Forget Short Ribs, Try Red Wine-Braised Chuck Instead](https://www.youtube.com/watch?v=0yRT1vlwFfI) — A direct comparison of the same braise technique on a different cut — watch what the different fat and collagen content does to the final texture.
 
 ---
 

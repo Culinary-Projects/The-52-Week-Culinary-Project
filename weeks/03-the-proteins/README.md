@@ -1,6 +1,5 @@
 # Module 3: The Proteins (Weeks 15–26)
 
-← [Back to Master Index](../../README.md)
 
 ---
 

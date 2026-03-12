@@ -37,6 +37,8 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 **Full Meal:**
 - Pozole Rojo with whatever garnishes you have: shredded cabbage, sliced radish, dried oregano, lime juice, tostadas
 
+> 🎥 **Compare Notes:** [Pozole Verde de Pollo](https://www.youtube.com/watch?v=u536QQp4oQ4) — He makes the verde version; compare the green vs. red chile logic and notice how the hominy transforms the texture of the broth.
+
 ---
 
 ### Wednesday — Guacamole + Salsa Verde (The Fundamentals)
@@ -49,6 +51,8 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 **Full Meal:**
 - Guacamole + charred salsa verde served as dinner accompaniments
 - Pair with [braised pinto beans](https://www.seriouseats.com/pinto-beans-recipe) (from scratch or canned), warm tortillas, queso fresco
+
+> 🎥 **Compare Notes:** [How to Make Great Guacamole](https://www.youtube.com/watch?v=PFu7r-MTh-I) — Watch specifically how he handles the acid and salt timing — it's the thing most people get backwards.
 
 ---
 
@@ -83,6 +87,8 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 - [Mexican rice](https://www.seriouseats.com/mexican-red-rice-recipe), [refried beans](https://www.seriouseats.com/refried-beans-recipe) or black beans
 - Crema, white onion, fresh cilantro, queso fresco
 
+> 🎥 **Compare Notes:** [Crispy-Edged Enchiladas](https://www.youtube.com/watch?v=XcPLyXyALHQ) — Notice the dipping-not-smothering technique; that's the structural difference between real enchiladas and the casserole version most people make.
+
 ---
 
 ## Week 34 — Deeper Mexico: Birria, Mole, and Tamales
@@ -99,6 +105,8 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 **Full Meal:**
 - Birria tacos / quesabirria with consommé for dipping
 - [Pickled onions](https://www.seriouseats.com/quick-pickled-red-onions-recipe), lime, cilantro, salsa
+
+> 🎥 **Compare Notes:** [Tacos de Birria](https://www.youtube.com/watch?v=eD-MmetkOSQ) — Watch how he builds the consommé and the importance of the chile marinade penetrating the meat before braising.
 
 ---
 
@@ -142,6 +150,8 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 **Full Meal:**
 - Chiles Rellenos (cheese or picadillo filled)
 - [Tomato salsa](https://www.seriouseats.com/pico-de-gallo-recipe), rice, [beans](https://www.seriouseats.com/refried-beans-recipe)
+
+> 🎥 **Compare Notes:** [Chiles Rellenos](https://www.youtube.com/watch?v=fTCbeNQN9k8) — Pay attention to his egg-white batter technique and what "stiff peaks" actually does for the fry structure.
 
 ---
 
