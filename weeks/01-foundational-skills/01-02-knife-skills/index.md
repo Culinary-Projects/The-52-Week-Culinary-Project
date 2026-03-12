@@ -63,7 +63,7 @@ Shrimp scampi is built almost entirely on well-minced garlic and parsley. Your d
 | Component | Recipe |
 |-----------|--------|
 | Protein | Shrimp, sautéed in garlic butter and white wine |
-| Veg | [Burst Cherry Tomatoes with Garlic and Olive Oil](https://www.seriouseats.com/burst-cherry-tomato-sauce-pasta-recipe) — toss with a little pasta water and lemon |
+| Veg | [Burst Cherry Tomatoes with Garlic and Olive Oil](https://www.seriouseats.com/fast-easy-pasta-blistered-cherry-tomato-sauce-recipe) — toss with a little pasta water and lemon |
 | Starch | Crusty bread or linguine |
 
 ---
@@ -224,8 +224,8 @@ These aren't required reading — but if something from this block sparked a que
 
 - 📖 [The Best Chef's Knives](https://www.seriouseats.com/the-best-chefs-knives) — Serious Eats' tested roundup. The short answer for most people: a 8" German-style knife (Wüsthof or Victorinox) to start.
 - 📖 [Wirecutter: The Best Chef's Knife](https://www.nytimes.com/wirecutter/reviews/the-best-chefs-knife/) — independent testing with a different methodology. Worth comparing both.
-- 📖 [German vs. Japanese Chef's Knives — What's the Difference?](https://www.seriouseats.com/german-vs-japanese-knives-differences) — harder steel, thinner bevel, more acute angle on Japanese; softer, more robust, easier to maintain on German. Useful context if you're buying soon.
-- 📖 [How to Store Your Knives](https://www.seriouseats.com/how-to-store-knives-safely) — magnetic strip vs. block vs. in-drawer protectors. The dishwasher is the enemy.
+- 📖 [German vs. Japanese Chef's Knives — What's the Difference?](https://www.seriouseats.com/western-versus-japanese-style-chefs-knives-6751328) — harder steel, thinner bevel, more acute angle on Japanese; softer, more robust, easier to maintain on German. Useful context if you're buying soon.
+- 📖 [How to Store Your Knives](https://www.seriouseats.com/how-to-store-knives) — magnetic strip vs. block vs. in-drawer protectors. The dishwasher is the enemy.
 
 ---
 
