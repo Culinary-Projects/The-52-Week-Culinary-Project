@@ -242,7 +242,7 @@ Reading about knife technique only goes so far. These videos show you what the g
 
 The Friday session introduces mise en place but only as setup. The idea runs a lot deeper:
 
-- 📖 [What Is Mise en Place and Why Is It So Important?](https://www.seriouseats.com/mise-en-place-what-it-means-and-why-its-important) — Serious Eats on the full concept: not just prepping ingredients, but the mental organization that separates reactive cooking from intentional cooking.
+- 📖 [How to Set Up a Prep Station Like a Pro Cook](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro) — Sohla El-Waylly on the practical side of mise en place: how professional kitchens organize their workspace for vegetables, proteins, frying, and more. The Friday session introduces the habit; this shows you what it looks like fully applied.
 
 ---
 
