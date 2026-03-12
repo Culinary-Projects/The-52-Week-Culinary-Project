@@ -37,7 +37,7 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 **What you're learning:** Sausage is ground and seasoned meat, packed into casings. The fat content matters (25–30% for juicy links). Temperature control during grinding matters (keep everything cold — fat smearing is the enemy). Spice blooming matters. This is your first step into charcuterie production.
 
 **Full Meal:**
-- Pan-fried merguez with roasted peppers and [couscous](https://www.seriouseats.com/how-to-cook-couscous-recipe-8771679)
+- Pan-fried merguez with [roasted peppers](https://www.bbcgoodfood.com/howto/guide/how-to-roast-peppers) and [couscous](https://www.seriouseats.com/how-to-cook-couscous-recipe-8771679)
 - [Yogurt sauce](https://www.seriouseats.com/greek-yogurt-tzatziki-recipe) and harissa on the side
 
 > 🎥 **Compare Notes:** [8 Rules for Sausages](https://www.youtube.com/watch?v=rwlvVTzbbbw) — The fat temperature and emulsification rules apply to merguez even if the spice profile is different — pay attention to rule #1 and #3.

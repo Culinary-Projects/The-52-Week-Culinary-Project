@@ -120,7 +120,7 @@ South Indian cooking is different from North Indian in almost every way: less cr
 
 **Full Meal:**
 - Chana Masala
-- Puri (fried hollow puffy bread — or plain roti, or naan)
+- [Puri](https://www.indianhealthyrecipes.com/poori-recipe-puri-recipe/) (fried hollow puffy bread — or plain roti, or naan)
 - Sliced raw onion and lemon
 
 > 🎥 **Compare Notes:** [Quick Chole Masala](https://www.youtube.com/watch?v=zl8ShZmaaRg) *(Ranveer Brar)* — Watch his masala-building sequence and how long he cooks the tomato down; the amchur addition near the end is the technique note to compare against your version.
@@ -183,7 +183,7 @@ South Indian cooking is different from North Indian in almost every way: less cr
 **Goal:** Try a South Indian preparation:
 
 - Masala dosa: fermented lentil and rice batter crepe filled with spiced potato (requires batter made Thursday or Friday night in advance — or use fast-sour version)
-- Sambar: Toor dal-based vegetable soup / curry (tamarind-based, South Indian)
+- [Sambar](https://www.spiceupthecurry.com/sambar-recipe/): Toor dal-based vegetable soup / curry (tamarind-based, South Indian)
 - [Coconut chutney](https://www.seriouseats.com/coconut-chutney-recipe-8690338): Fresh coconut + green chiles + curry leaves
 
 **Full Meal:**

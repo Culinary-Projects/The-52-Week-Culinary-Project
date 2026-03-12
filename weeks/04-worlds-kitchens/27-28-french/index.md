@@ -53,7 +53,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 
 **Full Meal:**
 - Pan seared strip or sirloin steak with Béarnaise sauce
-- Oven fries or [sautéed haricots verts](https://www.seriouseats.com/cooks-illustrated-sauteed-green-beans-recipe)
+- [Oven fries](https://www.bbcgoodfood.com/recipes/ultimate-oven-chips) or [sautéed haricots verts](https://www.seriouseats.com/cooks-illustrated-sauteed-green-beans-recipe)
 
 ---
 
@@ -71,7 +71,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 **What you're learning:** Steak frites is deceptively hard to execute at home at restaurant quality because it requires parallel timing: the fries can't sit, the steak needs rest time, and a pan sauce is nice but adds another layer of complexity. This is a timing and plate management exercise as much as a cooking one.
 
 **Full Meal:**
-- Steak frites: steak of your choice + twice-fried or oven fries
+- Steak frites: steak of your choice + twice-fried or [oven fries](https://www.bbcgoodfood.com/recipes/ultimate-oven-chips)
 - Simple Dijon vinaigrette salad alongside
 
 ---
@@ -116,7 +116,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 
 **Full Meal:**
 - Duck à l'Orange with rendered skin
-- [Braised red cabbage](https://www.seriouseats.com/braised-red-cabbage-with-apples-and-raisins-recipe) and potato gratin as sides
+- [Braised red cabbage](https://www.seriouseats.com/braised-red-cabbage-with-apples-and-raisins-recipe) and [potato gratin](https://www.bbcgoodfood.com/recipes/dauphinoise-potatoes) as sides
 
 ---
 

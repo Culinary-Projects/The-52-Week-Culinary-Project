@@ -54,7 +54,7 @@ Japanese cooking builds on a different set of foundational principles than Frenc
 
 **Full Meal:**
 - Tamagoyaki with white rice and miso soup (a full Japanese breakfast-style dinner)
-- Quick cucumber sunomono (rice vinegar, sesame, cucumber)
+- Quick [cucumber sunomono](https://norecipes.com/sunomono/) (rice vinegar, sesame, cucumber)
 
 ---
 
@@ -162,7 +162,7 @@ Japanese cooking builds on a different set of foundational principles than Frenc
 **Skill:** Multi-component Japanese meal; balance of flavors and textures across courses  
 **Goal:** Build a simplified kaiseki-inspired meal across 4 courses:
 
-1. **Sakizuke:** Small aperitif bite — tamagoyaki slice + cucumber sunomono
+1. **Sakizuke:** Small aperitif bite — tamagoyaki slice + [cucumber sunomono](https://norecipes.com/sunomono/)
 2. **Soup:** Clear dashi soup with tofu, mitsuba, yuzu zest
 3. **Main:** Teriyaki salmon or yakitori selection
 4. **Shokuji:** Rice + miso soup + tsukemono (pickles)

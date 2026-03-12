@@ -160,7 +160,7 @@ French pastry week is the most technically demanding section of this program. Th
 2. Petit fours or [madeleine cookies](https://www.seriouseats.com/madeleines-6951118) (easy to add; baked in madeleine pan with browned butter batter)
 3. Lemon tart (from Wednesday) sliced
 4. Eclairs or mille-feuille from this week
-5. Scones with clotted cream and jam (or plain croissants from Week 42)
+5. [Scones](https://www.bbcgoodfood.com/recipes/classic-scones-jam-clotted-cream) with clotted cream and jam (or plain croissants from Week 42)
 
 **Full Meal:**
 - Full afternoon tea service

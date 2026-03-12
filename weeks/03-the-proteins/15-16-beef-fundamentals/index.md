@@ -72,7 +72,7 @@ The reverse sear — low oven first, then high-heat sear — gives you precise t
 - Marinade is not optional here. Acid (lime/citrus), oil, aromatics — at least 30 minutes, preferably overnight.
 - Finish with [Serious Eats — Chimichurri](https://www.seriouseats.com/sauced-chimichurri-sauce-recipe)
 
-**Full Meal:** Skirt steak + chimichurri + grilled or roasted peppers + rice or tortillas
+**Full Meal:** Skirt steak + chimichurri + grilled or [roasted peppers](https://www.bbcgoodfood.com/howto/guide/how-to-roast-peppers) + rice or tortillas
 
 > 🎥 **Compare Notes:** [Grilled Skirt Steak with Herb Sauce](https://www.youtube.com/watch?v=PTCfv3aZyR8) — Compare his sear time and resting method to yours — skirt steak is thin enough that even 30 seconds matters.
 

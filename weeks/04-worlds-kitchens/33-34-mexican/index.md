@@ -50,7 +50,7 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 
 **Full Meal:**
 - Guacamole + charred salsa verde served as dinner accompaniments
-- Pair with braised pinto beans (from scratch or canned), warm tortillas, queso fresco
+- Pair with [braised pinto beans](https://www.budgetbytes.com/pinto-beans/) (from scratch or canned), warm tortillas, queso fresco
 
 > 🎥 **Compare Notes:** [How to Make Great Guacamole](https://www.youtube.com/watch?v=PFu7r-MTh-I) — Watch specifically how he handles the acid and salt timing — it's the thing most people get backwards.
 

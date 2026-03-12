@@ -156,7 +156,7 @@ Southeast Asia is not one cuisine but a family of distinct traditions connected 
 **Full Meal:**
 - Beef Rendang
 - Steamed jasmine rice and [coconut rice](https://www.seriouseats.com/nasi-lemak-malaysian-coconut-rice-recipe-7197924) (variation)
-- Cucumber and tomato kachumber
+- Cucumber and tomato [kachumber](https://www.spiceupthecurry.com/kachumber-salad-recipe/)
 
 ---
 

@@ -150,7 +150,7 @@ The first week focuses on building the foundational components of a Middle Easte
 **What you're learning:** Kabsa is the national dish of Saudi Arabia — a one-pot preparation where chicken is braised in a spiced tomato broth, then rice is cooked in that same broth, absorbing all the flavor. The spice profile (cardamom, cloves, cinnamon, black lime, rosewater) is distinct from any other "spiced rice and meat" dish you've made.
 
 **Full Meal:**
-- Kabsa with charred tomato salsa (dakka) on the side
+- Kabsa with [charred tomato salsa (dakka)](https://zaatarandzaytoun.com/dakka-saudi-tomato-pepper-salsa/) on the side
 - Yogurt, flatbread
 
 ---
