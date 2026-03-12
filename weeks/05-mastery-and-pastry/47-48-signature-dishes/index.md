@@ -30,7 +30,7 @@ This block is structured differently. The first week is technical catch-up and d
 ### Monday — Advanced Wok Technique
 
 **Skill:** High-heat wok work; "wok hei" production; toss technique; seasoning a wok  
-**Read first:** [Wok Skills 101](https://www.seriouseats.com/wok-skills-101-how-to-season-a-wok)
+**Read first:** [How to Buy, Season, and Care for a Wok](https://www.seriouseats.com/equipment-how-to-buy-a-wok-which-wok-is-the-best)
 
 **What you're learning:** Wok hei (literally "breath of the wok") is the smoky, slightly charred, Maillard-browned quality you get only from extremely high heat applied briefly. It requires a seasoned wok, maximum burner heat, dry ingredients, and decisive action. Today: season your wok if you haven't; cook a simple stir-fry at maximum heat and study what happens. No recipe — technique only.
 
@@ -192,7 +192,7 @@ These aren't required reading — but if something from this block sparked a que
 
 The wok is the most efficient cooking vessel ever designed. Seasoning it correctly, managing the heat zones, and developing the muscle memory for constant motion are the three skills required.
 
-- 📖 [Wok Skills 101: How to Season a Wok](https://www.seriouseats.com/wok-skills-101-how-to-season-a-wok) — The complete guide to the initial seasoning process and ongoing wok maintenance.
+- 📖 [How to Buy, Season, and Care for a Wok](https://www.seriouseats.com/equipment-how-to-buy-a-wok-which-wok-is-the-best) — The complete guide to buying, seasoning, and maintaining a wok — from initial cure to ongoing care.
 - 📖 [How to Butter-Baste Steaks, Chops, and Fish](https://www.seriouseats.com/how-to-butter-baste-steaks-chops-fish) — Wok cooking and butter basting share the same principle: constant, deliberate application of fat over heat to build a crust and baste simultaneously.
 
 ---

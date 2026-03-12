@@ -224,7 +224,7 @@ The best cooks pick one thing and develop mastery. Not breadth — depth. Pick t
 
 ### Watching a Pro Do It
 
-- 📺 [**Chef's Table**](https://www.netflix.com/title/80007667) — Documentary portraits of the world's most interesting chefs. The best cooking education that isn't actually about cooking — it's about why a life in the kitchen matters.
+- 📺 [**Chef's Table**](https://www.imdb.com/title/tt4058402/) — Documentary portraits of the world's most interesting chefs. The best cooking education that isn't actually about cooking — it's about why a life in the kitchen matters.
 
 ---
 
