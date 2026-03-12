@@ -93,7 +93,7 @@ The first Indian week focuses on three foundational preparations: a tomato-cream
 **Skill:** Coordinating multiple Indian dishes for simultaneous service  
 **Goal:** Recreate a North Indian restaurant spread at home:
 
-1. **Starters:** Samosas (store-bought is fine, focus on chutney — make a [tamarind chutney](https://www.seriouseats.com/tamarind-chutney-recipe) and [mint chutney](https://www.seriouseats.com/cilantro-mint-chutney-recipe))
+1. **Starters:** Samosas (store-bought is fine, focus on chutney — make a [tamarind chutney](https://www.seriouseats.com/sweet-tamarind-chutney-recipe) and [mint chutney](https://www.seriouseats.com/mint-chutney-recipe))
 2. **Main dal:** Dal makhani or moong dal
 3. **Main curry:** Butter chicken or tikka masala (from batch earlier in week)
 4. **Bread:** Fresh naan from Thursday
@@ -120,7 +120,7 @@ South Indian cooking is different from North Indian in almost every way: less cr
 
 **Full Meal:**
 - Chana Masala
-- [Puri](https://food52.com/recipes/21506-puris) (fried hollow puffy bread — or plain roti, or naan)
+- Puri (fried hollow puffy bread — or plain roti, or naan)
 - Sliced raw onion and lemon
 
 > 🎥 **Compare Notes:** [Quick Chole Masala](https://www.youtube.com/watch?v=zl8ShZmaaRg) *(Ranveer Brar)* — Watch his masala-building sequence and how long he cooks the tomato down; the amchur addition near the end is the technique note to compare against your version.
@@ -183,8 +183,8 @@ South Indian cooking is different from North Indian in almost every way: less cr
 **Goal:** Try a South Indian preparation:
 
 - Masala dosa: fermented lentil and rice batter crepe filled with spiced potato (requires batter made Thursday or Friday night in advance — or use fast-sour version)
-- [Sambar](https://food52.com/recipes/87832-sambar): Toor dal-based vegetable soup / curry (tamarind-based, South Indian)
-- [Coconut chutney](https://food52.com/recipes/70891-coconut-chutney): Fresh coconut + green chiles + curry leaves
+- Sambar: Toor dal-based vegetable soup / curry (tamarind-based, South Indian)
+- [Coconut chutney](https://www.seriouseats.com/coconut-chutney-recipe-8690338): Fresh coconut + green chiles + curry leaves
 
 **Full Meal:**
 - Masala Dosa + Sambar + Coconut Chutney (South Indian thali)

@@ -37,8 +37,8 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 **What you're learning:** Sausage is ground and seasoned meat, packed into casings. The fat content matters (25–30% for juicy links). Temperature control during grinding matters (keep everything cold — fat smearing is the enemy). Spice blooming matters. This is your first step into charcuterie production.
 
 **Full Meal:**
-- Pan-fried merguez with [roasted peppers](https://www.seriouseats.com/how-to-roast-peppers-recipe) and [couscous](https://www.seriouseats.com/couscous-recipe-5217571)
-- [Yogurt sauce](https://www.seriouseats.com/easy-tzatziki-recipe) and harissa on the side
+- Pan-fried merguez with roasted peppers and [couscous](https://www.seriouseats.com/how-to-cook-couscous-recipe-8771679)
+- [Yogurt sauce](https://www.seriouseats.com/greek-yogurt-tzatziki-recipe) and harissa on the side
 
 > 🎥 **Compare Notes:** [8 Rules for Sausages](https://www.youtube.com/watch?v=rwlvVTzbbbw) — The fat temperature and emulsification rules apply to merguez even if the spice profile is different — pay attention to rule #1 and #3.
 
@@ -83,7 +83,7 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 **Skill:** Making rillettes (pork potted in its own fat); assembling a composed spread  
 **Goal:** Cook a rillette-style spread using pork shoulder or duck (slow cook in fat, shred, pot in fat with seasoning). This is beginner charcuterie production. Plus, compose a full charcuterie spread featuring the week's cured products.
 
-**Reference:** [Pork Rillettes](https://www.seriouseats.com/pork-rillettes-recipe) — season generously, cook low and slow in fat (300°F / 3–4 hours), shred while warm, mix with rendered fat, pot and chill.
+**Reference:** [Pork Rillettes](https://www.seriouseats.com/easy-pork-rillettes-recipe) — season generously, cook low and slow in fat (300°F / 3–4 hours), shred while warm, mix with rendered fat, pot and chill.
 
 **Full Meal:**
 - Pork rillettes on toasted baguette
@@ -122,7 +122,7 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 **What you're learning:** Chicken thighs confited in duck fat (or vegetable oil), then shredded and packed in their own fat, become rillettes. Lighter than pork rillettes, equally rich. This builds on the poultry confiting technique from Week 14.
 
 **Full Meal:**
-- [Chicken rillettes](https://www.seriouseats.com/duck-rillettes-recipe) on toast
+- [Chicken rillettes](https://www.seriouseats.com/easy-pork-rillettes-recipe) on toast
 - [Simple pickled vegetable salad](https://www.seriouseats.com/quick-pickle-rapid-pickled-onion-recipe)
 
 > 🎥 **Compare Notes:** [Chicken Jardinière](https://www.youtube.com/watch?v=shvxFx5CRGQ) *(Jacques Pépin)* — Pépin shows poultry cooked low-and-slow in fat and aromatics — the same principle your rillette is built on. Watch how he reads texture rather than temperature.

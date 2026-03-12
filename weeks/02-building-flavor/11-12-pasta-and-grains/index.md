@@ -229,7 +229,7 @@ Risotto is not about patience. It's about starch gelatinization and gradual liqu
 
 ### A Book Worth Having
 
-- 📚 [***Mastering Pasta* by Marc Vetri**](https://www.amazon.com/dp/158008406X) — The most comprehensive English-language book on pasta. Goes deep on shapes, doughs, sauces, and the regional logic behind pairing them.
+- 📚 [***Mastering Pasta* by Marc Vetri**](https://www.amazon.com/dp/1607745712) — The most comprehensive English-language book on pasta. Goes deep on shapes, doughs, sauces, and the regional logic behind pairing them.
 
 ---
 

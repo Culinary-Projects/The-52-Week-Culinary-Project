@@ -140,14 +140,14 @@ The pan sauce is your simplified Espagnole: browned bits from the steak, deglaze
 
 **Skill:** Mayo is a cold emulsion — egg yolk, acid (lemon or vinegar), and oil, whisked until stable. Same principle as hollandaise (fat suspended in water-based liquid via lecithin) but much more forgiving. Start with a small amount of oil and add it *very slowly* at first to establish the emulsion before adding more quickly.
 
-**Full Meal:** [Seafood Rolls with Homemade Mayo](https://www.seriouseats.com/perfect-new-england-lobster-rolls-recipe) + [Classic Coleslaw](https://www.seriouseats.com/the-best-creamy-coleslaw-recipe)
+**Full Meal:** [Seafood Rolls with Homemade Mayo](https://www.seriouseats.com/perfect-new-england-lobster-rolls-recipe) + [Classic Coleslaw](https://www.seriouseats.com/creamy-cole-slaw)
 
 Make the mayo from scratch. Use it in the roll filling and the coleslaw.
 
 | Component | Recipe |
 |-----------|--------|
 | Protein | Shrimp, scallop, or lobster roll |
-| Veg | [Coleslaw](https://www.seriouseats.com/the-best-creamy-coleslaw-recipe) made with your homemade mayo |
+| Veg | [Coleslaw](https://www.seriouseats.com/creamy-cole-slaw) made with your homemade mayo |
 | Starch | Brioche or potato rolls |
 
 > 🎥 **Compare Notes:** [How to Make Mayonnaise](https://www.youtube.com/watch?v=9TnIeYc2CWU) — Watch the oil addition speed — this is where the emulsion either forms or breaks.

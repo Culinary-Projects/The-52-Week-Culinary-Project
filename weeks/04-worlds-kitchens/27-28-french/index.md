@@ -53,7 +53,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 
 **Full Meal:**
 - Pan seared strip or sirloin steak with Béarnaise sauce
-- [Oven fries](https://www.seriouseats.com/oven-fries-recipe) or [sautéed haricots verts](https://www.seriouseats.com/sauteed-green-beans-recipe)
+- Oven fries or [sautéed haricots verts](https://www.seriouseats.com/cooks-illustrated-sauteed-green-beans-recipe)
 
 ---
 
@@ -116,7 +116,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 
 **Full Meal:**
 - Duck à l'Orange with rendered skin
-- [Braised red cabbage](https://www.seriouseats.com/braised-red-cabbage-recipe) and [potato gratin](https://www.seriouseats.com/potato-gratin-dauphinoise-recipe) as sides
+- [Braised red cabbage](https://www.seriouseats.com/braised-red-cabbage-with-apples-and-raisins-recipe) and potato gratin as sides
 
 ---
 

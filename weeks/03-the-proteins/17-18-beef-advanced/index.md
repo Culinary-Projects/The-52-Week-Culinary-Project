@@ -46,7 +46,7 @@
 - Remove the silverskin seam before cooking if your butcher hasn't
 - Always cut against the visible grain — very pronounced in this cut
 
-**Full Meal:** Hanger steak + [Serious Eats — Chimichurri](https://www.seriouseats.com/sauced-chimichurri-sauce-recipe) OR [bagna cauda sauce](https://www.seriouseats.com/bagna-cauda-recipe) + [roasted potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) or [frites](https://www.seriouseats.com/french-fries-recipe)
+**Full Meal:** Hanger steak + [Serious Eats — Chimichurri](https://www.seriouseats.com/sauced-chimichurri-sauce-recipe) OR [bagna cauda sauce](https://www.seriouseats.com/bagna-cauda-northern-italian-anchovy-garlic-dip) + [roasted potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) or [frites](https://www.seriouseats.com/perfect-french-fries-recipe)
 
 > 🎥 **Compare Notes:** [Hanger Steak, and One Good Way to Cook it](https://www.youtube.com/watch?v=jvEZD9sF7Xc) — Watch how he handles the seam of sinew before cooking — removing it is the one step most people skip that actually changes the eating experience.
 
@@ -63,7 +63,7 @@
 - **Read:** [Serious Eats — Grilled Beef Galbi](https://www.seriouseats.com/grilled-beef-galbi-korean-style-marinated-short-ribs)
 - Marinate overnight; the grated pear or Asian pear is traditional and also tenderizes
 
-**Full Meal:** Galbi + steamed white rice + quick kimchi (store-bought is fine) + [sesame cucumber salad](https://www.seriouseats.com/smashed-cucumber-salad-recipe)
+**Full Meal:** Galbi + steamed white rice + quick kimchi (store-bought is fine) + [sesame cucumber salad](https://www.seriouseats.com/sichuan-style-smashed-cucumber-salad-recipe)
 
 ---
 

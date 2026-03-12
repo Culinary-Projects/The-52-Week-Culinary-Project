@@ -53,7 +53,7 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 
 **Full Meal:**
 - Osso Buco alla Milanese
-- [Saffron risotto alla Milanese](https://www.seriouseats.com/pressure-cooker-risotto-milanese-recipe) (a simpler weeknight risotto)
+- [Saffron risotto alla Milanese](https://www.seriouseats.com/risotto-alla-milanese-saffron-recipe) (a simpler weeknight risotto)
 
 > 🎥 **Compare Notes:** [Ossobuco alla Milanese](https://www.youtube.com/watch?v=OStJ5KJsvRA) *(Italia Squisita)* — The gremolata moment at the end is what separates this from any other braise — watch when exactly he adds it and why freshness on top of richness is the whole idea.
 

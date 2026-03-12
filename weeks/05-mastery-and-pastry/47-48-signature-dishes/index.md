@@ -44,7 +44,7 @@ This block is structured differently. The first week is technical catch-up and d
 ### Tuesday — Knife Skills: Where Are You Now?
 
 **Skill:** Speed and accuracy assessment; brunoise; chiffonade; the "claw" grip  
-**Read first:** [How to Chop an Onion](https://www.seriouseats.com/how-to-chop-an-onion-the-right-way), compare your Week 1 time
+**Read first:** [How to Chop an Onion](https://www.seriouseats.com/knife-skills-how-to-slice-and-dice-an-onion), compare your Week 1 time
 
 **What you're learning:** Return to the first skill you practiced in Week 1. Dice an onion and track time and uniformity. Chiffonade a stack of basil leaves. Cut a carrot into fine brunoise (2mm cubes). Speed is less important than consistency — uniform cuts cook evenly; uneven cuts produce uneven results. You have cooked for 47 weeks. How much faster and cleaner is your knife technique?
 
@@ -74,7 +74,7 @@ This block is structured differently. The first week is technical catch-up and d
 ### Thursday — Mise en Place: Full Professional Setup
 
 **Skill:** Station organization; timing a multi-dish dinner from scratch; cook-to-plate flow  
-**Read first:** [Mise en Place](https://www.seriouseats.com/mise-en-place)
+**Read first:** [Mise en Place](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro)
 
 **What you're learning:** Professional kitchens work because everything is prepped before service begins. Your mise en place practice has evolved through the year — tonight, apply it formally to a 3-course dinner. Write out every prep step before you start cooking. Time the sequence. Identify what can be done ahead vs. what is last-minute. This is the cognitive skill that separates capable home cooks from experienced ones.
 

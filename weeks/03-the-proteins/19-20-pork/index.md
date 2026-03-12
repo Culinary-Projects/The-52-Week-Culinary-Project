@@ -64,7 +64,7 @@
 - **Read:** [Serious Eats — Vietnamese Grilled Pork Chop](https://www.seriouseats.com/vietnamese-grilled-pork-chop-thit-heo-nuong-xa-recipe)
 - Marinate overnight for best results
 
-**Full Meal:** Grilled pork chops + steamed jasmine rice + [nuoc cham dipping sauce](https://www.seriouseats.com/nuoc-cham-vietnamese-dipping-sauce-recipe) + cucumber slices and herbs
+**Full Meal:** Grilled pork chops + steamed jasmine rice + [nuoc cham dipping sauce](https://www.seriouseats.com/sauced-nuoc-cham-recipe) + cucumber slices and herbs
 
 ---
 
@@ -97,7 +97,7 @@ Write: what was the biggest surprise about pork this week? Did the chashu (Tuesd
 
 - Cut into lardons (1cm x 4cm batons). Render slowly in a dry pan (no oil). Let the fat render out. Finish high heat for the crust.
 
-**Full Meal:** Crispy pork belly lardons over [white beans and wilted greens](https://www.seriouseats.com/tuscan-white-beans-recipe) + crusty bread
+**Full Meal:** Crispy pork belly lardons over [white beans and wilted greens](https://www.seriouseats.com/30-minute-tuscan-white-bean-soup-recipe) + crusty bread
 
 ---
 
@@ -107,7 +107,7 @@ Write: what was the biggest surprise about pork this week? Did the chashu (Tuesd
 
 - **Read:** [Serious Eats — Sous Vide Pork Ribs](https://www.seriouseats.com/sous-vide-pork-ribs-recipe-food-lab) — even if you're not sous viding, the texture targets and timing are instructive
 
-**Full Meal:** Ribs (your choice of spare or baby back) + [coleslaw](https://www.seriouseats.com/the-best-creamy-coleslaw-recipe) + [cornbread](https://www.seriouseats.com/cast-iron-skillet-cornbread-recipe) or [baked beans](https://www.seriouseats.com/baked-beans-recipe)
+**Full Meal:** Ribs (your choice of spare or baby back) + [coleslaw](https://www.seriouseats.com/creamy-cole-slaw) + [cornbread](https://www.seriouseats.com/moist-and-tender-brown-butter-cornbread-recipe) or [baked beans](https://www.seriouseats.com/boston-baked-beans-recipe)
 
 ---
 
@@ -118,7 +118,7 @@ Write: what was the biggest surprise about pork this week? Did the chashu (Tuesd
 - **Read:** [Serious Eats — All-Belly Porchetta](https://www.seriouseats.com/all-belly-porchetta-recipe-italian-roast-pork)
 - Prep and roll Thursday or Friday and refrigerate uncovered — the drying is critical for the skin.
 
-**Full Meal:** Porchetta slices + [braised white beans](https://www.seriouseats.com/tuscan-white-beans-recipe) + simple arugula salad with lemon
+**Full Meal:** Porchetta slices + [braised white beans](https://www.seriouseats.com/30-minute-tuscan-white-bean-soup-recipe) + simple arugula salad with lemon
 
 ---
 
@@ -143,7 +143,7 @@ Write: what was the biggest surprise about pork this week? Did the chashu (Tuesd
 **Skill:** Carnitas — Mexican lard-braised pork shoulder — is one of the finest applications of cheap pork in any cuisine. The shoulder goes into a Dutch oven with lard (or a combination of water + lard), orange, lime, bay, and cumin. The water evaporates and the pork fries in its own fat at the end, creating both tender interior and hard-crisped exterior simultaneously.
 
 - **Read (and mostly follow):** [Serious Eats — No-Waste Tacos de Carnitas](https://www.seriouseats.com/no-waste-tacos-de-carnitas-with-salsa-verde-recipe)
-- Serve with: [Serious Eats — Charred Tomatillo Salsa Verde](https://www.seriouseats.com/charred-salsa-verde-tomatillo-salsa) + [guacamole](https://www.seriouseats.com/serious-eats-guacamole-recipe) + pickled jalapeños + fresh white onion and cilantro + warm corn tortillas
+- Serve with: [Serious Eats — Charred Tomatillo Salsa Verde](https://www.seriouseats.com/charred-salsa-verde-tomatillo-salsa) + [guacamole](https://www.seriouseats.com/the-best-basic-guacamole-recipe) + pickled jalapeños + fresh white onion and cilantro + warm corn tortillas
 
 *The real skill: the warm tortilla is important. Wrap them in a cloth. Keep them warm. The taco is only as good as the tortilla.*
 

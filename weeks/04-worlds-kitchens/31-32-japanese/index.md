@@ -54,7 +54,7 @@ Japanese cooking builds on a different set of foundational principles than Frenc
 
 **Full Meal:**
 - Tamagoyaki with white rice and miso soup (a full Japanese breakfast-style dinner)
-- [Quick cucumber sunomono](https://www.seriouseats.com/sunomono-japanese-cucumber-salad-recipe) (rice vinegar, sesame, cucumber)
+- Quick cucumber sunomono (rice vinegar, sesame, cucumber)
 
 ---
 

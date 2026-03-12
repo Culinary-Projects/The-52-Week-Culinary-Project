@@ -30,7 +30,7 @@ The final two weeks of this program are structured as a culmination and a retros
 4. What technique do you still find genuinely difficult?
 5. What do you now do without thinking that required real concentration in Week 1?
 
-**Read first:** [The Serious Eats Knife Tutorial](https://www.seriouseats.com/knife-skills-the-claw-technique) — your original knife skill reference. Time yourself on an onion dice. Compare.
+**Read first:** [The Serious Eats Knife Tutorial](https://www.seriouseats.com/knife-skills-how-to-slice-and-dice-an-onion) — your original knife skill reference. Time yourself on an onion dice. Compare.
 
 **Session:** Write at least one page (or record notes). This is the benchmark that gives meaning to everything else.
 
@@ -178,7 +178,7 @@ The 52 weeks were a foundation — thorough, rigorous, intentional. But the cook
 **Resources to continue:**
 
 - [Serious Eats](https://www.seriouseats.com) — your primary source throughout; continue using it
-- [Kenji López-Alt's work](https://www.seriouseats.com/author/j-kenji-lopez-alt) — the Food Lab framework; apply it to any new recipe you encounter
+- [Kenji López-Alt's work](https://www.seriouseats.com/j-kenji-lopez-alt-5117805) — the Food Lab framework; apply it to any new recipe you encounter
 - The recipe you want to make next — start there
 
 **The cook you are now:**

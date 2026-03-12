@@ -141,7 +141,7 @@ Write down this week's learning: of the three fundamentally different cooked-bee
 
 - **Read:** [Serious Eats — Brisket Cooking Methods Tested](https://www.seriouseats.com/brisket-cooking-methods-tested-11869530) — compare the approaches and understand why they produce different results
 
-**Full Meal:** Braised brisket slices + [quick-pickled onions](https://www.seriouseats.com/quick-pickle-rapid-pickled-onion-recipe) + [coleslaw](https://www.seriouseats.com/the-best-creamy-coleslaw-recipe) + rye bread
+**Full Meal:** Braised brisket slices + [quick-pickled onions](https://www.seriouseats.com/quick-pickle-rapid-pickled-onion-recipe) + [coleslaw](https://www.seriouseats.com/creamy-cole-slaw) + rye bread
 
 ---
 

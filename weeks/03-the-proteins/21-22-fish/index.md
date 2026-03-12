@@ -109,7 +109,7 @@ Write: what was the biggest mental adjustment about fish cookery compared to bee
 - **Read:** [Serious Eats — Baja Fish Tacos](https://www.seriouseats.com/baja-fish-tacos-recipe-8682282)
 - Set up a simple deep-fry station: Dutch oven, 3 inches of neutral oil, thermometer. Don't skip the thermometer.
 
-**Full Meal:** Baja fish tacos + pickled jalapeños + [guacamole](https://www.seriouseats.com/serious-eats-guacamole-recipe) or avocado crema + cold beer (optional)
+**Full Meal:** Baja fish tacos + pickled jalapeños + [guacamole](https://www.seriouseats.com/the-best-basic-guacamole-recipe) or avocado crema + cold beer (optional)
 
 ---
 
@@ -135,7 +135,7 @@ Write: what was the biggest mental adjustment about fish cookery compared to bee
 
 - **Read:** [Serious Eats — Whole Grilled Fish](https://www.seriouseats.com/whole-grilled-fish-recipe-11744350)
 
-**Full Meal:** Whole grilled branzino (or snapper) + [salsa verde](https://www.seriouseats.com/salsa-verde-italian-green-sauce-recipe) or [gremolata](https://www.seriouseats.com/gremolata-recipe) + [roasted potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + salad
+**Full Meal:** Whole grilled branzino (or snapper) + [salsa verde](https://www.seriouseats.com/italian-salsa-verde-with-parsley-and-capers) or [gremolata](https://www.seriouseats.com/gremolata-sauce-recipe) + [roasted potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + salad
 
 > 🎥 **Compare Notes:** [Go Fish](https://www.youtube.com/watch?v=H8jL9uRhIbI) *(Jacques Pépin)* — Watch how he reads the cooked fish and separates the fillet from the bone at the table; that's the finishing move that makes whole fish feel confident rather than awkward.
 

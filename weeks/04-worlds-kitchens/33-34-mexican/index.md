@@ -50,7 +50,7 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 
 **Full Meal:**
 - Guacamole + charred salsa verde served as dinner accompaniments
-- Pair with [braised pinto beans](https://www.seriouseats.com/pinto-beans-recipe) (from scratch or canned), warm tortillas, queso fresco
+- Pair with braised pinto beans (from scratch or canned), warm tortillas, queso fresco
 
 > 🎥 **Compare Notes:** [How to Make Great Guacamole](https://www.youtube.com/watch?v=PFu7r-MTh-I) — Watch specifically how he handles the acid and salt timing — it's the thing most people get backwards.
 
@@ -71,7 +71,7 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 
 **Full Meal:**
 - Tacos al Pastor: pork, pineapple, white onion, cilantro, lime, corn tortillas
-- [Refried beans](https://www.seriouseats.com/refried-beans-recipe) alongside
+- [Refried beans](https://www.seriouseats.com/perfect-refried-beans) alongside
 
 ---
 
@@ -82,7 +82,7 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 
 **Full Meal:**
 - Enchiladas Rojas (beef or cheese and onion)
-- [Mexican rice](https://www.seriouseats.com/mexican-red-rice-recipe), [refried beans](https://www.seriouseats.com/refried-beans-recipe) or black beans
+- [Mexican rice](https://www.seriouseats.com/arroz-rojo-mexican-red-rice-recipe-11723710), [refried beans](https://www.seriouseats.com/perfect-refried-beans) or black beans
 - Crema, white onion, fresh cilantro, queso fresco
 
 > 🎥 **Compare Notes:** [Crispy-Edged Enchiladas](https://www.youtube.com/watch?v=XcPLyXyALHQ) — Notice the dipping-not-smothering technique; that's the structural difference between real enchiladas and the casserole version most people make.
@@ -102,7 +102,7 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 
 **Full Meal:**
 - Birria tacos / quesabirria with consommé for dipping
-- [Pickled onions](https://www.seriouseats.com/quick-pickled-red-onions-recipe), lime, cilantro, salsa
+- [Pickled onions](https://www.seriouseats.com/quick-pickle-rapid-pickled-onion-recipe), lime, cilantro, salsa
 
 > 🎥 **Compare Notes:** [Tacos de Birria](https://www.youtube.com/watch?v=eD-MmetkOSQ) — Watch how he builds the consommé and the importance of the chile marinade penetrating the meat before braising.
 
@@ -130,7 +130,7 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 
 **Full Meal:**
 - Tamales (makes 12–16) — eat some tonight; freeze the rest
-- [Black beans](https://www.seriouseats.com/cuban-black-beans-recipe), [salsa](https://www.seriouseats.com/pico-de-gallo-recipe), crema
+- [Black beans](https://www.seriouseats.com/cuban-black-beans-and-rice-soup-recipe), [salsa](https://www.seriouseats.com/classic-pico-de-gallo-salsa-fresca-recipe), crema
 
 ---
 
@@ -147,7 +147,7 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 
 **Full Meal:**
 - Chiles Rellenos (cheese or picadillo filled)
-- [Tomato salsa](https://www.seriouseats.com/pico-de-gallo-recipe), rice, [beans](https://www.seriouseats.com/refried-beans-recipe)
+- [Tomato salsa](https://www.seriouseats.com/classic-pico-de-gallo-salsa-fresca-recipe), rice, [beans](https://www.seriouseats.com/perfect-refried-beans)
 
 > 🎥 **Compare Notes:** [Chiles Rellenos](https://www.youtube.com/watch?v=fTCbeNQN9k8) — Pay attention to his egg-white batter technique and what "stiff peaks" actually does for the fry structure.
 
