@@ -63,7 +63,7 @@ Shrimp scampi is built almost entirely on well-minced garlic and parsley. Your d
 | Component | Recipe |
 |-----------|--------|
 | Protein | Shrimp, sautéed in garlic butter and white wine |
-| Veg/Salad | [Arugula Salad with Shaved Parmesan and Lemon](https://www.seriouseats.com/fennel-orange-and-roasted-pepper-arugula-salad-recipe) |
+| Veg | [Burst Cherry Tomatoes with Garlic and Olive Oil](https://www.seriouseats.com/burst-cherry-tomato-sauce-pasta-recipe) — toss with a little pasta water and lemon |
 | Starch | Crusty bread or linguine |
 
 ---
@@ -154,14 +154,14 @@ The grip is feeling more natural. Now we add vocabulary and intentionality to th
 
 **Skill:** Buy a whole chicken. Read [How to Break Down a Chicken](https://www.seriouseats.com/knife-skills-how-to-break-down-a-chicken) first, then do it. You'll get two bone-in breasts, two thighs, two drumsticks, two wings, and a carcass. **Put the carcass in a zip-lock in the freezer — that's Week 7 stock material.** Follow the joints, not the bones. Let the knife find the natural seams.
 
-**Full Meal:** [Chicken Piccata](https://www.seriouseats.com/chicken-piccata-italian-fried-cutlet-recipe) (use the breasts) + [Simple Arugula Salad](https://www.seriouseats.com/fennel-orange-and-roasted-pepper-arugula-salad-recipe)
+**Full Meal:** [Chicken Piccata](https://www.seriouseats.com/chicken-piccata-italian-fried-cutlet-recipe) (use the breasts) + [Watercress Salad with Lemon and Olive Oil](https://www.seriouseats.com/watercress-salad-lemon-olive-oil-recipe)
 
 The thighs and legs go in the fridge (use them Friday) or freeze for later. Nothing wasted.
 
 | Component | Recipe |
 |-----------|--------|
 | Protein | Chicken piccata using the breasts you broke down |
-| Veg/Salad | Arugula with shaved parmesan and lemon vinaigrette |
+| Veg/Salad | Watercress with lemon and olive oil — the peppery bite pairs well with piccata's lemon-caper sauce |
 | Starch | Buttered egg noodles or mashed potatoes |
 
 ---
@@ -194,13 +194,12 @@ Shakshuka requires dicing onion, pepper, and garlic as its entire prep — your 
 
 **Skill:** Slice eggplant, zucchini, yellow squash, and tomatoes into rounds of *identical* thickness — ideally ⅛ to ¼ inch. The beauty of the finished dish is a direct function of your slicing precision. Uniform slices = a dish that looks like a restaurant made it.
 
-**Full Meal:** [Provençal Summer Vegetable Tian](https://www.seriouseats.com/summer-vegetable-tian-ratatouille-recipe) + [Simple Green Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) + crusty bread
+**Full Meal:** [Provençal Summer Vegetable Tian](https://www.seriouseats.com/summer-vegetable-tian-ratatouille-recipe) + crusty bread
 
 | Component | Recipe |
 |-----------|--------|
 | Protein | Optional — serve with good burrata or a soft-boiled egg on top |
 | Veg | The tian (eggplant, zucchini, squash, tomato) |
-| Salad | Simple green salad with Dijon vinaigrette |
 | Starch | Crusty baguette |
 
 *Skill targets: Consistent thickness on every slice. Go slow. This is about control, not speed.*

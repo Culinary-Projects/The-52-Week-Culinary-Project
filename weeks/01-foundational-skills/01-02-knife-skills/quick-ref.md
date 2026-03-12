@@ -10,7 +10,7 @@
 |-----|------|-------|------|
 | **Mon** | Pasta with Butter and Parmesan + Wilted Spinach | Pinch grip | [Recipe](https://www.seriouseats.com/pasta-cacio-e-uovo-vegetarian-carbonara) |
 | **Tue** | The Best Chicken Noodle Soup | The claw / mirepoix | [Recipe](https://www.seriouseats.com/the-ultimate-chicken-noodle-soup) |
-| **Wed** | Shrimp Scampi + Arugula Salad | Rock chop vs. push cut | [Scampi](https://www.seriouseats.com/shrimp-scampi-butter-garlic-recipe) · [Salad](https://www.seriouseats.com/fennel-orange-and-roasted-pepper-arugula-salad-recipe) |
+| **Wed** | Shrimp Scampi + Burst Cherry Tomatoes | Rock chop vs. push cut | [Scampi](https://www.seriouseats.com/shrimp-scampi-butter-garlic-recipe) · [Tomatoes](https://www.seriouseats.com/burst-cherry-tomato-sauce-pasta-recipe) |
 | **Thu** | *OFF* | Read: knife sharpening | [Article](https://www.seriouseats.com/knife-skills-how-to-sharpen-a-knife) |
 | **Fri** | Stir-Fried Beef and Broccoli | Mise en place | [Recipe](https://www.seriouseats.com/chinese-american-beef-and-broccoli-with-oyster-sauce-recipe) |
 | **Sat** | 🔨 **PROJECT: French Onion Soup** | Uniform half-moon slices | [Recipe](https://www.seriouseats.com/french-onion-soup-recipe) |
@@ -23,10 +23,10 @@
 |-----|------|-------|------|
 | **Mon** | The Best Pad Thai | Julienne cut | [Recipe](https://www.seriouseats.com/pad-thai-recipe-11680356) |
 | **Tue** | Home Fries + Crispy Pan-Seared Chicken Thighs + Green Salad | Small/medium/large dice | [Home Fries](https://www.seriouseats.com/crispy-potato-home-fries-red-onion-poblano-pepper-recipe) · [Chicken](https://www.seriouseats.com/easy-pan-roasted-chicken-breast-lemon-rosemary-pan-sauce-recipe) · [Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) |
-| **Wed** | Chicken Piccata + Arugula Salad | Break down whole chicken | [Piccata](https://www.seriouseats.com/chicken-piccata-italian-fried-cutlet-recipe) · [Breakdown](https://www.seriouseats.com/knife-skills-how-to-break-down-a-chicken) · [Salad](https://www.seriouseats.com/fennel-orange-and-roasted-pepper-arugula-salad-recipe) |
+| **Wed** | Chicken Piccata + Watercress Salad | Break down whole chicken | [Piccata](https://www.seriouseats.com/chicken-piccata-italian-fried-cutlet-recipe) · [Breakdown](https://www.seriouseats.com/knife-skills-how-to-break-down-a-chicken) · [Salad](https://www.seriouseats.com/watercress-salad-lemon-olive-oil-recipe) |
 | **Thu** | *OFF* | Read: what dulls a knife | [Article](https://www.seriouseats.com/knife-skills-how-to-sharpen-a-knife) |
 | **Fri** | Shakshuka + Leftover Chicken Thighs | Speed benchmark — time your onion dice | [Recipe](https://www.seriouseats.com/shakshuka-north-african-shirred-eggs-tomato-pepper-recipe) |
-| **Sat** | 🔨 **PROJECT: Provençal Vegetable Tian** + Green Salad + Bread | Uniform round slices | [Tian](https://www.seriouseats.com/summer-vegetable-tian-ratatouille-recipe) · [Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) |
+| **Sat** | 🔨 **PROJECT: Provençal Vegetable Tian** + Bread | Uniform round slices | [Tian](https://www.seriouseats.com/summer-vegetable-tian-ratatouille-recipe) |
 
 ---
 
