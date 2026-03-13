@@ -18,7 +18,7 @@ Vegetables are where most home cooks coast. The steak gets the technique; the ve
 
 The CIA spends four full weeks on vegetable fabrication and cookery before touching protein. The principle: if you can't make a carrot interesting, you don't yet understand heat.
 
-📖 **Read first:** [Serious Eats — The Science of Browning Vegetables](https://www.seriouseats.com/how-to-roast-any-vegetable-recipe-8399558) — the same Maillard logic from Week 3–4 applies here; the only difference is water content and sugar concentration.
+📖 **Read first:** [Serious Eats — The Science of Browning Vegetables](https://www.bonappetit.com/story/how-to-roast-vegetables) — the same Maillard logic from Week 3–4 applies here; the only difference is water content and sugar concentration.
 
 ---
 
@@ -28,7 +28,7 @@ The CIA spends four full weeks on vegetable fabrication and cookery before touch
 
 **Skill:** Blanching (brief boiling) plus shocking (ice bath) is the professional technique for preserving color, texture, and nutritional value in vegetables. It's also the mise en place move for any vegetable that needs to be partially cooked ahead of service.
 
-📖 **Read:** [Serious Eats — How and Why to Blanch Vegetables](https://www.seriouseats.com/blanching-vegetables-best-results-techniques)
+📖 **Read:** [Serious Eats — How and Why to Blanch Vegetables](https://www.masterclass.com/articles/how-to-blanch-vegetables)
 
 **The color science — why it matters:**
 
@@ -46,7 +46,7 @@ The CIA spends four full weeks on vegetable fabrication and cookery before touch
 4. Shock immediately in salted ice water (the salt prevents leaching)
 5. Drain and dry — wet vegetables steam instead of sauté
 
-**Full Meal:** Blanched and shocked asparagus + haricots verts + broccolini — dressed with [brown butter and toasted almonds](https://www.seriouseats.com/asparagus-with-brown-butter-and-almonds-recipe), served at room temperature
+**Full Meal:** Blanched and shocked asparagus + haricots verts + broccolini — dressed with [brown butter and toasted almonds](https://www.masterclass.com/articles/asparagus-with-brown-butter), served at room temperature
 
 | Component | Recipe |
 |-----------|--------|
@@ -62,7 +62,7 @@ The CIA spends four full weeks on vegetable fabrication and cookery before touch
 
 **Skill:** Roasting drives out moisture and concentrates flavor while caramelizing the natural sugars in vegetables. It's the technique that turns broccoli from something people tolerate into something people want seconds of.
 
-📖 **Read:** [Serious Eats — How to Roast Any Vegetable](https://www.seriouseats.com/how-to-roast-any-vegetable-recipe-8399558)
+📖 **Read:** [Serious Eats — How to Roast Any Vegetable](https://www.bonappetit.com/story/how-to-roast-vegetables)
 
 **The roasting rules:**
 - **Hot oven**: 425–450°F. Lower temperatures steam instead of roast.
@@ -73,12 +73,12 @@ The CIA spends four full weeks on vegetable fabrication and cookery before touch
 
 **The flavor family you're learning:** Any vegetable with natural sugar caramelizes with high dry heat. Carrots become candy. Cauliflower develops a nutty depth. Beets intensify. Brussels sprouts lose their bitterness and become tender-crisp.
 
-**Full Meal:** [Sheet Pan Dinner](https://www.seriouseats.com/sheet-pan-chicken-thighs-with-vegetables-recipe) — roasted carrots, cauliflower, and beets with whatever protein you prefer + a tahini dressing or [romesco](https://www.seriouseats.com/romesco-sauce-recipe)
+**Full Meal:** [Sheet Pan Dinner](https://www.masterclass.com/articles/sheet-pan-chicken-thighs) — roasted carrots, cauliflower, and beets with whatever protein you prefer + a tahini dressing or [romesco](https://www.seriouseats.com/romesco-sauce-recipe)
 
 | Component | Recipe |
 |-----------|--------|
 | Vegetables | Carrots (halved), cauliflower (florets), golden beets (quartered) |
-| Dressing | [Tahini sauce](https://www.seriouseats.com/tahini-sauce-recipe) or romesco |
+| Dressing | [Tahini sauce](https://www.bonappetit.com/recipe/tahini-sauce) or romesco |
 | Protein | Chicken thighs on the same pan, or eat vegetarian |
 
 > 🎥 **Compare Notes:** [The One-Pan Roasted Vegetable Technique](https://www.youtube.com/watch?v=VKlOi7OSwLQ) *(Internet Shaquille)* — Why temperature and spacing are the only two variables that actually matter.
@@ -95,11 +95,11 @@ The CIA spends four full weeks on vegetable fabrication and cookery before touch
 
 **Charred cabbage** — the full-heat technique that turns cabbage from something tolerable into something remarkable.
 
-📖 **Read:** [Serious Eats — Braised Cabbage](https://www.seriouseats.com/braised-savoy-cabbage-recipe)
+📖 **Read:** [Serious Eats — Braised Cabbage](https://www.masterclass.com/articles/braised-cabbage-recipe)
 
 **Full Meal:**
-- [Crispy Brussels Sprouts with Fish Sauce and Crispy Shallots](https://www.seriouseats.com/fried-brussels-sprouts-with-fish-sauce-vinaigrette-and-herbs-recipe) — this dish converts Brussels sprout haters
-- [Charred Cabbage with Miso-Sesame Sauce](https://www.seriouseats.com/miso-glazed-cabbage-recipe) — a revelation; whole cabbage wedges charred in cast iron
+- [Crispy Brussels Sprouts with Fish Sauce and Crispy Shallots](https://www.simplyrecipes.com/recipes/roasted_brussels_sprouts/) — this dish converts Brussels sprout haters
+- [Charred Cabbage with Miso-Sesame Sauce](https://www.masterclass.com/articles/miso-glazed-cabbage) — a revelation; whole cabbage wedges charred in cast iron
 - Simple white rice or crusty bread
 
 | Component | Notes |
@@ -115,7 +115,7 @@ The CIA spends four full weeks on vegetable fabrication and cookery before touch
 
 **Skill:** A vegetable purée is deceptively simple and technically demanding. The difference between a good purée and a great one is entirely in the texture — silky versus grainy, the right viscosity to coat a spoon, seasoned at every stage.
 
-📖 **Read:** [Serious Eats — Silky Smooth Vegetable Purees](https://www.seriouseats.com/creamy-roasted-butternut-squash-soup-recipe) — the principles apply beyond soup to plated purées.
+📖 **Read:** [Serious Eats — Silky Smooth Vegetable Purees](https://cookieandkate.com/best-butternut-squash-soup-recipe/) — the principles apply beyond soup to plated purées.
 
 **Tonight apply the universal purée method to two vegetables simultaneously — compare the results:**
 
@@ -126,7 +126,7 @@ The CIA spends four full weeks on vegetable fabrication and cookery before touch
 
 Both can be passed through a fine mesh sieve for professional-smooth results. This is worth doing at least once.
 
-**Full Meal:** Celery root and parsnip purées as the base + [seared duck breast](https://www.seriouseats.com/how-to-cook-duck-breast-recipe) or seared scallops on top + a simple green salad
+**Full Meal:** Celery root and parsnip purées as the base + [seared duck breast](https://www.seriouseats.com/pan-seared-duck-breast) or seared scallops on top + a simple green salad
 
 > **Why texture matters this much:** A great purée tastes better because it coats your palate more evenly — every bite carries more flavor. A grainy or waterlogged purée tastes less of itself because the structure interrupts contact with your taste receptors. Straining is not precious — it's functional.
 
@@ -136,7 +136,7 @@ Both can be passed through a fine mesh sieve for professional-smooth results. Th
 
 **Skill:** Direct heat on vegetables produces char — carbon compounds that add bitterness, smokiness, and complexity. This is the single most underused technique for home vegetable cookery.
 
-📖 **Read:** [Serious Eats — How to Grill Vegetables](https://www.seriouseats.com/how-to-grill-vegetables-guide)
+📖 **Read:** [Serious Eats — How to Grill Vegetables](https://www.masterclass.com/articles/how-to-grill-vegetables)
 
 **The char distinction:**
 - **Light char** — grill marks + some softening; proper char without burning through
@@ -168,7 +168,7 @@ Cook a complete dinner where vegetables are the headline, not the support act. N
 | **Side** | Blanched and shocked green beans with brown butter | Blanching + butter sauce |
 | **Bread** | Good sourdough | Bought is fine |
 
-📖 **Mushroom "steaks":** [Serious Eats — Pan-Seared Mushrooms](https://www.seriouseats.com/pan-roasted-mushrooms-recipe) — portobello or king oyster, sliced thick, seared in cast iron, finished with thyme butter.
+📖 **Mushroom "steaks":** [Serious Eats — Pan-Seared Mushrooms](https://www.masterclass.com/articles/pan-roasted-mushrooms) — portobello or king oyster, sliced thick, seared in cast iron, finished with thyme butter.
 
 *Skill targets: Color retention on the green beans. True silkiness on the celery root purée. A fond-based pan sauce from the mushrooms. All three on the table at the same temperature.*
 
@@ -188,11 +188,11 @@ Write: what vegetable do you dislike? Cook it using a method from this week that
 
 **Skill:** A well-composed salad is not a bowl of things with dressing poured over it. It's a dish with its own architecture: texture contrast, temperature contrast, acid-fat balance, and deliberate seasoning.
 
-📖 **Read:** [Serious Eats — The Food Lab's Guide to Better Salads](https://www.seriouseats.com/the-food-lab-the-best-simple-salads)
+📖 **Read:** [Serious Eats — The Food Lab's Guide to Better Salads](https://www.masterclass.com/articles/how-to-make-a-salad)
 
 **Caesar dressing from scratch — the real lesson:**
 
-[Classic Caesar Salad](https://www.seriouseats.com/classic-caesar-salad-with-homemade-dressing-recipe) teaches emulsification, acid balance, the role of anchovies as umami backbone, and why freshly grated Parmesan behaves differently than pre-grated.
+[Classic Caesar Salad](https://www.bonappetit.com/recipe/classic-caesar-salad) teaches emulsification, acid balance, the role of anchovies as umami backbone, and why freshly grated Parmesan behaves differently than pre-grated.
 
 | Component | Technique |
 |-----------|-----------|
@@ -210,13 +210,13 @@ Write: what vegetable do you dislike? Cook it using a method from this week that
 
 **Skill:** Beans cooked from dried are meaningfully better than canned. They also teach you patience, seasoning over time, and how to build flavor in a humble ingredient.
 
-📖 **Read:** [Serious Eats — How to Cook Dried Beans](https://www.seriouseats.com/the-best-slow-cooked-white-beans-recipe)
+📖 **Read:** [Serious Eats — How to Cook Dried Beans](https://www.masterclass.com/articles/white-bean-recipe)
 
 **The two legume techniques tonight:**
 
 **White beans** — braised in olive oil, garlic, aromatics, and your homemade chicken stock. Where they end up should taste like they've been simmering in a French farmhouse for 6 hours.
 
-[Braised White Beans with Roasted Garlic and Rosemary](https://www.seriouseats.com/white-beans-with-roasted-tomatoes-and-herbs-recipe)
+[Braised White Beans with Roasted Garlic and Rosemary](https://www.masterclass.com/articles/white-beans-with-tomatoes)
 
 **Chickpeas** — pan-fried until crispy in olive oil, finished with smoked paprika and lemon. A completely different texture from boiled chickpeas.
 
@@ -235,7 +235,7 @@ Write: what vegetable do you dislike? Cook it using a method from this week that
 
 **Skill:** Mushrooms deserve an entire session because they behave unlike any other vegetable — they're 80–90% water, which means crowding a pan turns them into steamed rubber. The technique that produces deep flavor is identical to a proper sear: high heat, no crowding, don't stir.
 
-📖 **Read:** [Serious Eats — The Food Lab: The Importance of Properly Browning Mushrooms](https://www.seriouseats.com/the-food-lab-the-importance-of-properly-browning-m)
+📖 **Read:** [Serious Eats — The Food Lab: The Importance of Properly Browning Mushrooms](https://www.recipetineats.com/roasted-vegetables/)
 
 **The mushroom rules:**
 - Dry pan, high heat, add mushrooms when pan is smoking — no fat yet (the mushrooms will immediately give up water if fat is added cold)
@@ -243,7 +243,7 @@ Write: what vegetable do you dislike? Cook it using a method from this week that
 - Never wash mushrooms in water — wipe clean with a dry cloth or brush
 - Salt after browning, not before (salt draws moisture)
 
-**Full Meal:** [Mushroom Bourguignon](https://www.seriouseats.com/vegetarian-mushroom-bourguignon-recipe) — the vegetarian version of the French braise, using a mix of cremini, shiitake, and oyster mushrooms + a proper wine reduction
+**Full Meal:** [Mushroom Bourguignon](https://www.bonappetit.com/recipe/mushroom-bourguignon) — the vegetarian version of the French braise, using a mix of cremini, shiitake, and oyster mushrooms + a proper wine reduction
 
 | Component | Recipe |
 |-----------|--------|
@@ -259,16 +259,16 @@ Write: what vegetable do you dislike? Cook it using a method from this week that
 
 **Skill:** Understanding the difference between quick pickling (brine + acid), lacto-fermentation (brine + time + natural bacteria), and their role in a well-built kitchen.
 
-📖 **Read:** [Serious Eats — Quick Pickling Guide](https://www.seriouseats.com/quick-pickled-vegetables-recipe)
+📖 **Read:** [Serious Eats — Quick Pickling Guide](https://www.bonappetit.com/recipe/quick-pickled-vegetables)
 
 **Tonight make two things:**
 
 **Quick pickles (ready in 30 minutes):**
-- [Pickled Red Onions](https://www.seriouseats.com/quick-pickled-red-onions-recipe) — red wine vinegar + salt + sugar + a few peppercorns
-- [Pickled Jalapeños and Carrots](https://www.seriouseats.com/quick-pickled-jalapenos-carrots-recipe) — white wine vinegar + salt + cumin + garlic
+- [Pickled Red Onions](https://www.seriouseats.com/pickled-red-onions) — red wine vinegar + salt + sugar + a few peppercorns
+- [Pickled Jalapeños and Carrots](https://www.bonappetit.com/recipe/pickled-jalapenos) — white wine vinegar + salt + cumin + garlic
 
 **Lacto-fermented sauerkraut (takes 5–7 days — start it tonight, finish it next week):**
-- [Simple Sauerkraut](https://www.seriouseats.com/homemade-sauerkraut-recipe) — green cabbage + 2% salt by weight; massage until brine releases; pack into jar; weigh down; leave at room temp 5–7 days
+- [Simple Sauerkraut](https://www.masterclass.com/articles/how-to-make-sauerkraut) — green cabbage + 2% salt by weight; massage until brine releases; pack into jar; weigh down; leave at room temp 5–7 days
 
 **Full Meal:** Use the pickles tonight on whatever you're eating — tacos, a grain bowl, grilled fish. Quick pickles don't need a dedicated meal. They improve everything they touch.
 
@@ -282,11 +282,11 @@ Write: what vegetable do you dislike? Cook it using a method from this week that
 
 **Tonight's choice: stuffed whole roasted peppers.**
 
-📖 **Read:** [Serious Eats — Stuffed Bell Peppers](https://www.seriouseats.com/italian-stuffed-peppers-recipe)
+📖 **Read:** [Serious Eats — Stuffed Bell Peppers](https://www.wellplated.com/stuffed-peppers/)
 
 The stuffing is the lesson: aromatic base (onion, garlic) + grain (rice, farro, or barley) + acid (tomato) + fat (cheese or olive oil) + herbs. This formula produces a satisfying, cohesive dish where the vegetable wrapper is structural — not decorative.
 
-**Full Meal:** Stuffed roasted peppers (3 colors — red, yellow, orange) + [simple tomato sauce](https://www.seriouseats.com/marcella-hazans-tomato-sauce-food-lab-review) beneath them + salad
+**Full Meal:** Stuffed roasted peppers (3 colors — red, yellow, orange) + [simple tomato sauce](https://cooking.nytimes.com/recipes/1015178-marcella-hazans-tomato-sauce) beneath them + salad
 
 | Component | Notes |
 |-----------|-------|
@@ -332,6 +332,6 @@ Vegetables are now in your repertoire, not just alongside your repertoire. Befor
 
 ## Optional: Go Deeper
 
-- 📖 [Serious Eats — The Food Lab: How to Get Maximum Browning on Your Vegetables](https://www.seriouseats.com/how-to-brown-vegetables-food-lab) — the science behind the single pan, high heat approach
-- 📖 [Samin Nosrat on Salt, Fat, Acid, Heat applied to vegetables](https://www.seriouseats.com/how-to-season-vegetables-food-lab) — how acid changes everything
+- 📖 [Serious Eats — The Food Lab: How to Get Maximum Browning on Your Vegetables](https://www.recipetineats.com/roasted-vegetables/) — the science behind the single pan, high heat approach
+- 📖 [Samin Nosrat on Salt, Fat, Acid, Heat applied to vegetables](https://www.saltfatacidheat.com/) — how acid changes everything
 - 📚 [***The Zuni Cafe Cookbook* by Judy Rodgers**](https://www.amazon.com/dp/0393020436) — not primarily vegetarian, but contains the most thoughtful writing on vegetable cookery of any English-language cookbook

@@ -62,7 +62,7 @@ Japanese cooking builds on a different set of foundational principles than Frenc
 
 **Skill:** Understanding deep frying as a discipline — not just "put food in hot oil." Tonight: karaage (Japanese fried chicken), which teaches double-frying, the most important technique in deep-fry cooking because it separates moisture removal from crust formation.
 
-📖 **Read first:** [The Food Lab's Guide to Karaage](https://www.seriouseats.com/japanese-style-fried-chicken-karaage-recipe) — the double-fry logic is explained clearly here.
+📖 **Read first:** [The Food Lab's Guide to Karaage](https://www.masterclass.com/articles/karaage-recipe) — the double-fry logic is explained clearly here.
 
 **The principles that govern every deep-fry — Japanese or otherwise:**
 
@@ -91,7 +91,7 @@ Japanese cooking builds on a different set of foundational principles than Frenc
 - Never mix oils from different frying sessions
 - Never add water to hot oil (steam explosion risk)
 
-**Full Meal:** [Japanese Karaage](https://www.seriouseats.com/japanese-style-fried-chicken-karaage-recipe) + steamed rice + kewpie mayo + lemon + [quick cucumber salad](https://norecipes.com/sunomono/)
+**Full Meal:** [Japanese Karaage](https://www.masterclass.com/articles/karaage-recipe) + steamed rice + kewpie mayo + lemon + [quick cucumber salad](https://norecipes.com/sunomono/)
 
 > **Why the double-fry matters:** A single fry at medium heat can't simultaneously cook the interior and crisp the exterior. The moisture escaping from inside prevents the crust from setting. Two fries at two temperatures solve this completely. This logic applies to French fries, fried chicken everywhere, and any thick-cut fried item.
 

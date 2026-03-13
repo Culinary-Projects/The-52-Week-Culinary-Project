@@ -9,7 +9,7 @@
 | Day | Dish | Technique | Key Point |
 |-----|------|-----------|-----------|
 | Mon | [Carne Asada Tacos](https://www.seriouseats.com/carne-asada-food-lab-recipe-kenji) | Citrus marinade; extreme-heat grill or cast iron | Thin cut; rest; slice against grain |
-| Tue | [Pozole Rojo](https://www.seriouseats.com/pozole-mexican-red-chile-pork-soup-recipe-8732258) | [Dried chile rehydration + blend; hominy braise](https://www.budgetbytes.com/pinto-beans/) | Toast chiles; don't burn |
+| Tue | [Pozole Rojo](https://www.seriouseats.com/pozole-mexican-red-chile-pork-soup-recipe-8732258) | [Dried chile rehydration + blend; hominy braise](https://www.loveandlemons.com/pinto-beans/) | Toast chiles; don't burn |
 | Wed | [Guacamole + Salsa Verde](https://www.seriouseats.com/classic-pico-de-gallo-salsa-fresca-recipe) | Acid + salt timing; charred tomatillos | Rinse onion before adding to guac |
 | Thu | **Rest** | [—](https://www.seriouseats.com/carne-asada-food-lab-recipe-kenji) | [—](https://www.seriouseats.com/carne-asada-food-lab-recipe-kenji) |
 | Fri | [Tacos al Pastor](https://www.seriouseats.com/tacos-al-pastor-recipe) | Achiote marinade; comal/broiler finish | Pineapple chunk is not optional |
@@ -19,7 +19,7 @@
 
 | Day | Dish | Technique | Key Point |
 |-----|------|-----------|-----------|
-| Mon | [Birria de Res](https://www.seriouseats.com/birria-de-res-beef-birria-recipe-8362004) | [All-day braise in chile marinade; consommé](https://www.budgetbytes.com/pinto-beans/) | Save broth for dipping |
+| Mon | [Birria de Res](https://www.seriouseats.com/birria-de-res-beef-birria-recipe-8362004) | [All-day braise in chile marinade; consommé](https://www.loveandlemons.com/pinto-beans/) | Save broth for dipping |
 | Tue | [Simplified Mole Negro](https://www.seriouseats.com/mole-negro-recipe-11739614) | Multi-chile; chocolate; long simmer | Balance bitter (chile) + sweet (chocolate, raisins) |
 | Wed | [Tamales](https://www.seriouseats.com/tamales-recipe-8649579) | Masa dough; corn husks; steam 1.5 hrs | Spread masa thin; test one float test |
 | Thu | **Rest** | [—](https://www.seriouseats.com/carne-asada-food-lab-recipe-kenji) | [—](https://www.seriouseats.com/carne-asada-food-lab-recipe-kenji) |

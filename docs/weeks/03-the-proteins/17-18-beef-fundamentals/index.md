@@ -62,7 +62,7 @@ The reverse sear — low oven first, then high-heat sear — gives you precise t
 
 **Skill:** Understanding the beef primal map — where every cut comes from and why it costs what it costs. Tonight is theory and light hands-on work: you'll trim and portion a short rib rack or fabricate a chuck roast into uniform braising pieces.
 
-📖 **Read first:** [Beef Cuts Explained: A Guide to the Different Cuts of Beef](https://www.seriouseats.com/best-beef-cuts-for-steak) — understand why the same animal produces both a $6/lb chuck and a $30/lb tenderloin.
+📖 **Read first:** [Beef Cuts Explained: A Guide to the Different Cuts of Beef](https://www.beefitswhatsfordinner.com/cuts) — understand why the same animal produces both a $6/lb chuck and a $30/lb tenderloin.
 
 **The primal cut map — every beef cut descends from 8 primals:**
 
@@ -99,7 +99,7 @@ The reverse sear — low oven first, then high-heat sear — gives you precise t
 - Marinade is not optional here. Acid (lime/citrus), oil, aromatics — at least 30 minutes, preferably overnight.
 - Finish with [Serious Eats — Chimichurri](https://www.seriouseats.com/sauced-chimichurri-sauce-recipe)
 
-**Full Meal:** Skirt steak + chimichurri + grilled or [roasted peppers](https://www.bbcgoodfood.com/howto/guide/how-to-roast-peppers) + rice or tortillas
+**Full Meal:** Skirt steak + chimichurri + grilled or [roasted peppers](https://www.bbcgoodfood.com/recipes/collection/roasted-pepper-recipes) + rice or tortillas
 
 > 🎥 **Compare Notes:** [Grilled Skirt Steak with Herb Sauce](https://www.youtube.com/watch?v=PTCfv3aZyR8) — Compare his sear time and resting method to yours — skirt steak is thin enough that even 30 seconds matters.
 

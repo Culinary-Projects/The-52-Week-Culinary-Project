@@ -8,14 +8,14 @@
 
 | Technique | What it produces | Key rule |
 |-----------|-----------------|----------|
-| [**Stir-fry (wok)**](https://www.seriouseats.com/chinese-american-beef-and-broccoli-recipe) | Crisp-tender vegetables, silky protein | Smoking hot wok; small batches; keep moving |
-| **Velveting** | [Silky, tender chicken or beef](https://www.seriouseats.com/chinese-american-beef-and-broccoli-recipe) | Egg white + cornstarch + Shaoxing wine; 15-min marinade |
+| [**Stir-fry (wok)**](https://thewoksoflife.com/beef-with-broccoli/) | Crisp-tender vegetables, silky protein | Smoking hot wok; small batches; keep moving |
+| **Velveting** | [Silky, tender chicken or beef](https://thewoksoflife.com/beef-with-broccoli/) | Egg white + cornstarch + Shaoxing wine; 15-min marinade |
 | **Red-braising (hong shao)** | Dark, lacquered, meltingly tender pork | Blanch first; caramelize sugar; low low heat; long time |
-| [**Cantonese steaming**](https://www.seriouseats.com/cantonese-steamed-fish-recipe) | Delicate, fresh-flavored fish | Tight lid; boiling water beneath; sizzling oil finish |
-| [**Egg fried rice**](https://www.seriouseats.com/the-best-fried-rice-ever-recipe) | Separated, slightly smoky grains | Cold day-old rice only; eggs before they fully set |
+| [**Cantonese steaming**](https://thewoksoflife.com/cantonese-steamed-fish/) | Delicate, fresh-flavored fish | Tight lid; boiling water beneath; sizzling oil finish |
+| [**Egg fried rice**](https://thewoksoflife.com/fried-rice/) | Separated, slightly smoky grains | Cold day-old rice only; eggs before they fully set |
 | **Egg ribbons** | Feathery egg strands in soup | Thin stream + circular stirring motion |
 | **Cornstarch thickening** | Glossy, coating sauce | Mix cold water 1:1 with starch; add to simmering liquid gradually |
-| [**Congee**](https://www.seriouseats.com/congee-chinese-rice-porridge-recipe) | [Silky, broken-down rice porridge](https://www.seriouseats.com/congee-chinese-rice-porridge-recipe) | 1 cup rice : 10–12 cups liquid; low simmer 45+ minutes |
+| [**Congee**](https://www.masterclass.com/articles/congee-recipe) | [Silky, broken-down rice porridge](https://www.masterclass.com/articles/congee-recipe) | 1 cup rice : 10–12 cups liquid; low simmer 45+ minutes |
 
 ---
 
@@ -36,7 +36,7 @@
 | 2. Caramelize sugar | Rock sugar in neutral oil over medium; swirl to amber |
 | 3. Coat pork | Add pork; toss in caramel until coated |
 | 4. Add liquids | Shaoxing wine + light soy + dark soy + aromatics + water to cover |
-| [5. Braise](https://www.seriouseats.com/hong-shao-rou-red-braised-pork-belly-recipe) | Simmer VERY low, partially covered, 60–90 min |
+| [5. Braise](https://thewoksoflife.com/red-braised-pork/) | Simmer VERY low, partially covered, 60–90 min |
 | 6. Reduce | Remove pork; boil liquid until thick and glossy |
 | 7. Return + coat | Pork back in; toss to glaze |
 
@@ -47,7 +47,7 @@
 | Component | Flavor role | Can't substitute |
 |-----------|------------|-----------------|
 | Doubanjiang | Fermented chilli-bean heat, umami depth | Use Pixian brand ideally |
-| [Sichuan peppercorns](https://www.seriouseats.com/sichuan-peppercorn-tingleness-mouth-numbing-mala-flavor) | Numbing (málà) sensation; floral, citrus | No substitute |
+| [Sichuan peppercorns](https://thewoksoflife.com/sichuan-peppercorn/) | Numbing (málà) sensation; floral, citrus | No substitute |
 | Chinkiang black vinegar | Sharp, smoky sourness | Balsamic is NOT a substitute |
 | Chilli oil | Heat + color + aroma | Make or buy; not plain vegetable oil |
 | Ya cai | Fermented mustard greens; crunch | Tianjin preserved vegetable or skip |
@@ -89,7 +89,7 @@
 | Light soy sauce | 2 tbsp |
 | Chinkiang black vinegar | 1 tbsp |
 | Chilli oil | 1–2 tbsp (to taste) |
-| [Ground Sichuan peppercorns](https://www.seriouseats.com/sichuan-peppercorn-tingleness-mouth-numbing-mala-flavor) | ½ tsp |
+| [Ground Sichuan peppercorns](https://thewoksoflife.com/sichuan-peppercorn/) | ½ tsp |
 | Sugar | 1 tsp |
 | Toasted sesame oil | 1 tsp |
 | Hot stock or water | 4–6 tbsp (adjust to texture) |
@@ -115,15 +115,15 @@ Mix thoroughly; taste; adjust heat/sour/sweet. Spoon over noodles.
 
 | Week | Day | Dish | Technique |
 |------|-----|------|-----------|
-| 35 | Mon | [Chicken and broccoli stir-fry](https://www.seriouseats.com/chinese-american-beef-and-broccoli-recipe) | Wok + velveting |
-| 35 | Tue | [Hong shao rou (red-braised pork belly)](https://www.seriouseats.com/hong-shao-rou-red-braised-pork-belly-recipe) | [Red braise](https://www.seriouseats.com/hong-shao-rou-red-braised-pork-belly-recipe) |
-| 35 | Wed | [Cantonese steamed whole fish](https://www.seriouseats.com/cantonese-steamed-fish-recipe) | Steaming |
-| 35 | Thu | [Dan dan noodles](https://www.seriouseats.com/dan-dan-mian-sichuan-noodles-with-pork-and-sesame-recipe) | [Sichuan sauce building](https://www.seriouseats.com/sichuan-peppercorn-tingleness-mouth-numbing-mala-flavor) |
-| 35 | Fri | [Mapo tofu](https://www.seriouseats.com/the-real-mapo-dofu-recipe) | Doubanjiang base + soft tofu |
-| 35 | Sat | [Sichuan dinner party](https://www.seriouseats.com/sichuan-peppercorn-tingleness-mouth-numbing-mala-flavor) | Multi-technique |
-| 36 | Mon | [Congee (rice porridge)](https://www.seriouseats.com/congee-chinese-rice-porridge-recipe) | Long simmer |
+| 35 | Mon | [Chicken and broccoli stir-fry](https://thewoksoflife.com/beef-with-broccoli/) | Wok + velveting |
+| 35 | Tue | [Hong shao rou (red-braised pork belly)](https://thewoksoflife.com/red-braised-pork/) | [Red braise](https://thewoksoflife.com/red-braised-pork/) |
+| 35 | Wed | [Cantonese steamed whole fish](https://thewoksoflife.com/cantonese-steamed-fish/) | Steaming |
+| 35 | Thu | [Dan dan noodles](https://thewoksoflife.com/dan-dan-noodles/) | [Sichuan sauce building](https://thewoksoflife.com/sichuan-peppercorn/) |
+| 35 | Fri | [Mapo tofu](https://www.recipetineats.com/mapo-tofu/) | Doubanjiang base + soft tofu |
+| 35 | Sat | [Sichuan dinner party](https://thewoksoflife.com/sichuan-peppercorn/) | Multi-technique |
+| 36 | Mon | [Congee (rice porridge)](https://www.masterclass.com/articles/congee-recipe) | Long simmer |
 | 36 | Tue | Har gow + char siu bao | Dim sum dough + steaming |
-| 36 | Wed | [Egg fried rice](https://www.seriouseats.com/the-best-fried-rice-ever-recipe) | Wok + egg integration |
-| 36 | Thu | [Kung pao chicken](https://www.seriouseats.com/kung-pao-chicken-recipe) | [Stir-fry + nut garnish](https://www.seriouseats.com/chinese-american-beef-and-broccoli-recipe) |
-| 36 | Fri | [Hot and sour soup](https://www.seriouseats.com/hot-and-sour-soup-recipe-5224072) | Egg ribbon + thickening |
-| 36 | Sat | [Full Chinese banquet](https://www.seriouseats.com/essential-chinese-pantry-ingredients) | Multi-dish timing |
+| 36 | Wed | [Egg fried rice](https://thewoksoflife.com/fried-rice/) | Wok + egg integration |
+| 36 | Thu | [Kung pao chicken](https://thewoksoflife.com/kung-pao-chicken/) | [Stir-fry + nut garnish](https://thewoksoflife.com/beef-with-broccoli/) |
+| 36 | Fri | [Hot and sour soup](https://thewoksoflife.com/hot-sour-soup/) | Egg ribbon + thickening |
+| 36 | Sat | [Full Chinese banquet](https://thewoksoflife.com/chinese-pantry/) | Multi-dish timing |

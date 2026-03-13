@@ -211,7 +211,7 @@ The jump from following a recipe to owning a dish happens through iteration: mak
 
 ### Watching a Pro Do It
 
-- 📺 [**Martin Yan's wok technique**](https://www.youtube.com/@yancancook) — The master of wok showmanship, but the technique underneath is real and careful. His one-handed chopping and wok tossing are aspirational benchmarks.
+- 📺 [**Martin Yan's wok technique**](https://www.youtube.com/c/YanCanCook) — The master of wok showmanship, but the technique underneath is real and careful. His one-handed chopping and wok tossing are aspirational benchmarks.
 
 ---
 

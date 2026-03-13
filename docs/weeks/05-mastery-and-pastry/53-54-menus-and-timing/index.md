@@ -113,7 +113,7 @@ No cooking today. Write or record:
 ### Monday — Scaling Recipes
 
 **Skill:** Scaling a recipe from 4 to 8 to 12 servings; understanding what doesn't scale linearly  
-**Read first:** [How to Scale a Recipe](https://www.thekitchn.com/how-to-scale-a-recipe-247673)
+**Read first:** [How to Scale a Recipe](https://www.tastingtable.com/1047393/tips-for-scaling-recipes-up-or-down/)
 
 **What you're learning:** Most recipes scale linearly in ingredients — double the recipe, double the quantities. But timing does not scale linearly: a 2-inch-thick steak and a 4-pound roast don't take twice as long in proportion; they take 4× longer. Braising liquid doesn't always need to double. Seasoning perception can shift when quantities are large. Baking, especially, does not always scale simply.
 

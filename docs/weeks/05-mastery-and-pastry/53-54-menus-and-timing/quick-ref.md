@@ -42,7 +42,7 @@
 | Wet ingredients (sauces) | ✓ | [—](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro) | Double sauce = double quantity |
 | Salt and spices | [—](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro) | ✓ | Start at 75%; taste and adjust |
 | Acid (lemon, vinegar) | [—](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro) | ✓ | Less than linear; easy to over-acid |
-| Aromatics (garlic) | [—](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro) | ✓ | [1.5× for 2× recipe](https://www.thekitchn.com/how-to-scale-a-recipe-247673) |
+| Aromatics (garlic) | [—](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro) | ✓ | [1.5× for 2× recipe](https://www.tastingtable.com/1047393/tips-for-scaling-recipes-up-or-down/) |
 | Baking time | [—](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro) | ✓ | Same; watch internal temp not clock |
 | Braising / roasting time | [—](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro) | ✓ | Size of piece, not number of pieces |
 | Pan size | [—](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro) | ✓ | Bigger pan → less crowding → better browning |
@@ -130,7 +130,7 @@
 | W49 Thu | Rest + planning | No |
 | W49 Fri | **Dinner Party #1** (4 courses, 4–6 people) | **Yes (4–6)** |
 | W49 Sat | Debrief and reflection | No |
-| W50 Mon | [Recipe scaling](https://www.thekitchn.com/how-to-scale-a-recipe-247673) | No |
+| W50 Mon | [Recipe scaling](https://www.tastingtable.com/1047393/tips-for-scaling-recipes-up-or-down/) | No |
 | W50 Tue | Mise en place for groups | No |
 | W50 Wed | [Wine and beverage pairing](https://www.seriouseats.com/the-basics-of-pairing-drinks-with-your-food) | Optional |
 | W50 Thu | Rest + planning | No |

@@ -25,7 +25,7 @@ Two weeks is a narrow aperture. The goal is not representativeness — it is flu
 - **Steaming as primary technique** — the Cantonese philosophy of subtlety and freshness
 - **Sichuan spice logic** — málà (numbing heat), the combination of Sichuan peppercorns and dried chilli, and why it works
 
-📖 **Read first:** [Serious Eats — How to Build a Chinese Pantry](https://www.seriouseats.com/essential-chinese-pantry-ingredients) — the pantry items in Chinese cooking are unlike a Western pantry. Stock these two weeks ahead of time.
+📖 **Read first:** [Serious Eats — How to Build a Chinese Pantry](https://thewoksoflife.com/chinese-pantry/) — the pantry items in Chinese cooking are unlike a Western pantry. Stock these two weeks ahead of time.
 
 ---
 
@@ -55,7 +55,7 @@ Before Week 35 begins, verify you have:
 
 **Skill:** Wok cooking at home is a compromise because home stovetops produce roughly 7,000–15,000 BTUs, while restaurant wok ranges produce 150,000+ BTUs. Understanding this limits your expectations and teaches you to optimize within the constraint.
 
-📖 **Read:** [Serious Eats — The Wok vs. Skillet Debate (and How to Cook Properly on a Home Range)](https://www.seriouseats.com/the-wok-skills-of-the-east-how-to-manage-heat-moisture-and-flavor-when-cooking-in-a-wok)
+📖 **Read:** [Serious Eats — The Wok vs. Skillet Debate (and How to Cook Properly on a Home Range)](https://thewoksoflife.com/wok-guide/)
 
 **Seasoning your wok (if new):**
 1. Scrub all factory oil/coating off with steel wool under hot water
@@ -84,7 +84,7 @@ Before Week 35 begins, verify you have:
 
 Velveting is the technique that makes restaurant Chinese chicken silky instead of rubbery. Mix protein with egg white + cornstarch + Shaoxing wine; marinate 15 minutes. The coating creates a protective barrier during the high-heat cook.
 
-**Full Meal:** [Chicken and Broccoli Stir-Fry](https://www.seriouseats.com/chinese-american-beef-and-broccoli-recipe) (substitute chicken) with velveted chicken and hand-cut florets, served on white rice
+**Full Meal:** [Chicken and Broccoli Stir-Fry](https://thewoksoflife.com/beef-with-broccoli/) (substitute chicken) with velveted chicken and hand-cut florets, served on white rice
 
 | Component | Recipe |
 |-----------|--------|
@@ -101,7 +101,7 @@ Velveting is the technique that makes restaurant Chinese chicken silky instead o
 
 **Skill:** Red-braising (hong shao) is one of China's great braising traditions and one of the most beautiful things that happens to pork. The combination of soy sauce, Shaoxing wine, aromatics, and rock sugar creates a lacquer-dark, glossy sauce and transforms pork belly into something that nearly dissolves on the tongue. This is Chairman Mao's favorite dish. It is not subtle.
 
-📖 **Read:** [Serious Eats — Hong Shao Rou (Red-Braised Pork Belly)](https://www.seriouseats.com/hong-shao-rou-red-braised-pork-belly-recipe)
+📖 **Read:** [Serious Eats — Hong Shao Rou (Red-Braised Pork Belly)](https://thewoksoflife.com/red-braised-pork/)
 
 **The technique:**
 1. Blanch pork belly to remove blood and impurities — cold water to start, bring to boil, discard water
@@ -129,7 +129,7 @@ Velveting is the technique that makes restaurant Chinese chicken silky instead o
 
 **Skill:** Steaming is the central Cantonese technique and the philosophy behind it is opposite to everything in French haute cuisine. Cantonese cooking prizes freshness and the natural flavor of the ingredient above all else. A Cantonese cook would look at a French braise and say it hides the ingredient. A steamed fish shows you everything — if the fish isn't fresh, you can't hide it.
 
-📖 **Read:** [Serious Eats — Cantonese Steamed Fish](https://www.seriouseats.com/cantonese-steamed-fish-recipe)
+📖 **Read:** [Serious Eats — Cantonese Steamed Fish](https://thewoksoflife.com/cantonese-steamed-fish/)
 
 **The technique:**
 1. Select the freshest whole fish possible (sea bass, branzino, or tilapia); score diagonally on both sides
@@ -156,7 +156,7 @@ Velveting is the technique that makes restaurant Chinese chicken silky instead o
 
 **Skill:** Dan dan noodles are a Sichuan street food that demonstrates the entire Sichuan flavor vocabulary in one bowl: málà (numbing + heat from Sichuan peppercorn + chilli), sour (black vinegar), sweet, rich (sesame paste), savory (soy), and the crunchy textural contrast of ya cai (preserved mustard greens).
 
-📖 **Read:** [Serious Eats — Dan Dan Noodles](https://www.seriouseats.com/dan-dan-mian-sichuan-noodles-with-pork-and-sesame-recipe)
+📖 **Read:** [Serious Eats — Dan Dan Noodles](https://thewoksoflife.com/dan-dan-noodles/)
 
 **The sauce components — build this understanding:**
 
@@ -189,7 +189,7 @@ This sauce formula — sesame + soy + vinegar + chilli + Sichuan pepper — is t
 
 **Skill:** Mapo tofu is one of the most technically interesting dishes in all of Chinese cooking. It requires managing: braising the tofu gently so it holds shape while absorbing flavors, building a complex base from doubanjiang + black bean + aromatics, achieving the proper "flower" texture of soft tofu, and finishing with Sichuan peppercorn oil and the "pushing" motion (tuī dòufu) that moves the tofu without breaking it.
 
-📖 **Read:** [Serious Eats — The Real Mapo Tofu](https://www.seriouseats.com/the-real-mapo-dofu-recipe)
+📖 **Read:** [Serious Eats — The Real Mapo Tofu](https://www.recipetineats.com/mapo-tofu/)
 
 **The technique notes:**
 - Use **silken or soft tofu** (not medium-firm or firm) — if it breaks a little, that's fine
@@ -224,7 +224,7 @@ Cook a complete Sichuan-focused dinner for two to four people. The goal is to co
 
 ### Sunday — OFF
 
-Read: [The Sichuan Pepper Question](https://www.seriouseats.com/sichuan-peppercorn-tingleness-mouth-numbing-mala-flavor) on Serious Eats — the chemistry behind the málà numbing sensation is genuinely fascinating.
+Read: [The Sichuan Pepper Question](https://thewoksoflife.com/sichuan-peppercorn/) on Serious Eats — the chemistry behind the málà numbing sensation is genuinely fascinating.
 
 ---
 
@@ -236,7 +236,7 @@ Read: [The Sichuan Pepper Question](https://www.seriouseats.com/sichuan-pepperco
 
 **Skill:** Congee is cooked rice broken down in a large quantity of water or stock until it becomes a thick, creamy porridge. The skill is in the ratio (1:10 or more) and the time (45 minutes minimum). It is the ultimate test of whether you can make something completely humble taste extraordinary — through good stock, proper consistency, and thoughtful toppings.
 
-📖 **Read:** [Serious Eats — Congee (Chinese Rice Porridge)](https://www.seriouseats.com/congee-chinese-rice-porridge-recipe)
+📖 **Read:** [Serious Eats — Congee (Chinese Rice Porridge)](https://www.masterclass.com/articles/congee-recipe)
 
 **Full Meal:** A congee bar — make a large pot of plain rice congee, and provide:
 
@@ -257,11 +257,11 @@ Read: [The Sichuan Pepper Question](https://www.seriouseats.com/sichuan-pepperco
 
 **Skill:** Dim sum at home is ambitious and humbling. Har gow — translucent steamed shrimp dumplings — have a specific wheat starch wrapper that is unlike any pasta or dumpling wrapper in Western cooking. The folding technique is its own sub-skill that takes numerous attempts.
 
-📖 **Read:** [Serious Eats — Har Gow (Cantonese Shrimp Dumplings)](https://www.seriouseats.com/har-gow-cantonese-dim-sum-shrimp-dumplings-recipe)
+📖 **Read:** [Serious Eats — Har Gow (Cantonese Shrimp Dumplings)](https://thewoksoflife.com/har-gow/)
 
 **What the dough teaches:** The har gow wrapper is made from wheat starch (not all-purpose flour) + cornstarch + boiling water. The hot water gelatinizes the starches, producing the translucent, slightly chewy wrapper characteristic of this dumpling. No other dough behaves this way.
 
-**Full Meal:** Har gow (make at least 16 — the first 4 will be ugly) + [char siu bao (steamed BBQ pork buns)](https://www.seriouseats.com/steamed-bbq-pork-buns-char-siu-bao-recipe) from store-bought char siu pork or pork belly
+**Full Meal:** Har gow (make at least 16 — the first 4 will be ugly) + [char siu bao (steamed BBQ pork buns)](https://thewoksoflife.com/char-siu-bao/) from store-bought char siu pork or pork belly
 
 > **Honesty note:** This will take 2–3 hours and some of the dumplings will fall apart. That is exactly the right experience. Dim sum chefs spend months learning one fold. Your goal tonight is to understand the dough behavior and make a few that work.
 
@@ -271,9 +271,9 @@ Read: [The Sichuan Pepper Question](https://www.seriouseats.com/sichuan-pepperco
 
 **Skill:** Egg fried rice is the Chinese test of wok technique — the dish that tells you exactly where your heat management is. The keys are: cold day-old rice (never fresh; it's too wet), eggs added early so they set in the hot rice rather than scramble separately, and restraint with soy sauce (the dish should taste of rice and egg, not soy).
 
-📖 **Read:** [Serious Eats — The Best Fried Rice](https://www.seriouseats.com/the-best-fried-rice-ever-recipe)
+📖 **Read:** [Serious Eats — The Best Fried Rice](https://thewoksoflife.com/fried-rice/)
 
-**Full Meal:** Egg fried rice (a proper full-dinner portion) + [Chinese cucumber salad](https://www.seriouseats.com/smashed-cucumber-salad-with-black-vinegar-and-garlic) + any leftover hong shao rou from earlier in the week if you made it ahead
+**Full Meal:** Egg fried rice (a proper full-dinner portion) + [Chinese cucumber salad](https://www.recipetineats.com/smashed-cucumber-salad/) + any leftover hong shao rou from earlier in the week if you made it ahead
 
 **The egg fried rice method:**
 1. Wok, maximum heat, smoking before any oil
@@ -291,7 +291,7 @@ Read: [The Sichuan Pepper Question](https://www.seriouseats.com/sichuan-pepperco
 
 **Skill:** Kung pao chicken is one of the most technically balanced dishes in Chinese cooking. It requires: velveted chicken, a fried-peanut garnish, the dual texture of the dried chillies (the shells add smokiness, the seeds add heat), and a sauce that is simultaneously sour, sweet, salty, and a little numbing.
 
-📖 **Read:** [Serious Eats — Kung Pao Chicken](https://www.seriouseats.com/kung-pao-chicken-recipe)
+📖 **Read:** [Serious Eats — Kung Pao Chicken](https://thewoksoflife.com/kung-pao-chicken/)
 
 **The sauce formula:**
 
@@ -313,14 +313,14 @@ Read: [The Sichuan Pepper Question](https://www.seriouseats.com/sichuan-pepperco
 
 **Skill:** Hot and sour soup is the Chinese umami bomb — built on a well-made pork stock (or chicken stock), with the interplay of acid (black vinegar), heat (white pepper + chilli), and texture (wood ear mushrooms, silken tofu, egg ribbons). The egg ribbon technique — pouring beaten egg in a thin stream into simmering soup while stirring — produces the characteristic feathery strands.
 
-📖 **Read:** [Serious Eats — Hot and Sour Soup](https://www.seriouseats.com/hot-and-sour-soup-recipe-5224072)
+📖 **Read:** [Serious Eats — Hot and Sour Soup](https://thewoksoflife.com/hot-sour-soup/)
 
 **The thickening and egg ribbon technique:**
 1. Cornstarch slurry added to simmering stock thickens to a loose, viscous consistency
 2. Egg: beat until uniform; hold over the pot; pour in a thin stream while stirring the soup in a circular motion with the other hand
 3. The motion creates ribbons rather than clumps — the circular current spreads the egg before it sets
 
-**Full Meal:** Hot and sour soup as a complete dinner (it's substantial) + steamed white rice if needed + scallion pancakes (store-bought or [make your own](https://www.seriouseats.com/scallion-pancake-with-ginger-dipping-sauce-recipe))
+**Full Meal:** Hot and sour soup as a complete dinner (it's substantial) + steamed white rice if needed + scallion pancakes (store-bought or [make your own](https://thewoksoflife.com/scallion-pancakes/))
 
 | Component | Recipe |
 |-----------|--------|
@@ -370,8 +370,8 @@ Begin Week 37 shopping. The Mexican block starts Monday.
 
 ## Optional: Go Deeper
 
-- 📖 [Serious Eats — The Chinese Cooking Primer](https://www.seriouseats.com/chinese-cooking-techniques-guide) — a comprehensive technique reference
-- 📖 [Sichuan Peppercorn Reference](https://www.seriouseats.com/sichuan-peppercorn-tingleness-mouth-numbing-mala-flavor) — the science of málà
+- 📖 [Serious Eats — The Chinese Cooking Primer](https://thewoksoflife.com/how-to/) — a comprehensive technique reference
+- 📖 [Sichuan Peppercorn Reference](https://thewoksoflife.com/sichuan-peppercorn/) — the science of málà
 - 🎥 [Chinese Cooking Demystified (YouTube)](https://www.youtube.com/@ChineseCookingDemystified) — the best English-language YouTube channel for authentic Chinese technique, bar none
 - 📚 [***The Wok* by J. Kenji López-Alt**](https://www.amazon.com/dp/0393541215) — the definitive English-language treatment of wok cooking; reads like an engineering manual and a recipe book simultaneously
 - 📚 [***Land of Fish and Rice* by Fuchsia Dunlop**](https://www.amazon.com/dp/1324006161) — Dunlop is the best Western writer on Chinese food; this volume covers Jiangnan (Shanghai region) cuisine with deep historical context

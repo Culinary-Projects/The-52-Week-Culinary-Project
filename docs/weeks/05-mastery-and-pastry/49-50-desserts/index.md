@@ -58,7 +58,7 @@ This week is about cold and room-temperature desserts — the ones that reward a
 
 **Skill:** Chocolate tempering — the technique that gives chocolate its gloss, snap, and professional finish. And truffles, which are the most accessible entry point into chocolate confectionery.
 
-📖 **Read first:** [How to Temper Chocolate](https://www.seriouseats.com/how-to-temper-chocolate-7371145)
+📖 **Read first:** [How to Temper Chocolate](https://www.masterclass.com/articles/how-to-temper-chocolate)
 
 **What tempering actually is:** Chocolate contains cocoa butter that crystallizes in six different forms depending on how it cools. Only Form V crystals (beta crystals) produce the glossy, snappy chocolate you recognize from a chocolate bar. Untempered chocolate (melted and cooled carelessly) produces Form IV or VI crystals — dull, streaky, soft. Tempering means bringing the chocolate to the right temperature sequence so only Form V crystals form.
 
@@ -78,7 +78,7 @@ This week is about cold and room-temperature desserts — the ones that reward a
 
 **Full Meal — Chocolate Truffles:**
 
-📖 **Recipe:** [Dark Chocolate Truffles](https://www.seriouseats.com/dark-chocolate-truffles-recipe)
+📖 **Recipe:** [Dark Chocolate Truffles](https://www.bbcgoodfood.com/recipes/chocolate-truffles)
 
 Truffles are the truest test of tempering: a ganache center (cream + chocolate emulsion) coated in a thin tempered chocolate shell. The shell requires tempered chocolate to set cleanly without fingerprints showing.
 
@@ -231,7 +231,7 @@ Chocolate mousse is your introduction to working with chocolate structurally. Ch
 
 ### A Book Worth Having
 
-- 📚 [***The Physiology of Taste* by Jean Anthelme Brillat-Savarin**](https://www.amazon.com/dp/0307290913) — The 19th-century French text that remains the most elegant meditation on the experience of eating and the philosophy of flavor. Not a cookbook — more like a sophisticated conversation with a great host.
+- 📚 [***The Physiology of Taste* by Jean Anthelme Brillat-Savarin**](https://www.amazon.com/dp/0375703004) — The 19th-century French text that remains the most elegant meditation on the experience of eating and the philosophy of flavor. Not a cookbook — more like a sophisticated conversation with a great host.
 
 ---
 

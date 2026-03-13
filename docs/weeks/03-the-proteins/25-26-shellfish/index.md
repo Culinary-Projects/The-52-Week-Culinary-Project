@@ -108,7 +108,7 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 **Full Meal:**
 - Singaporean Chili Crab
 - Steamed white rice
-- [Fried mantou buns](https://thewoksoflife.com/mantou/) or crusty bread for sauce dipping
+- [Fried mantou buns](https://www.masterclass.com/articles/mantou-recipe) or crusty bread for sauce dipping
 
 ---
 
