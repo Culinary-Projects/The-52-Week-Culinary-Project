@@ -70,8 +70,8 @@
 | Chewier center | More brown sugar; bread flour; underbake slightly |
 | More complex flavor | Brown butter; overnight rest (minimum); flaky salt on top |
 | Crunchy throughout | Lower temp (325°F); longer bake; fully cool before eating |
-| Deeper chocolate | Chopped dark chocolate instead of chips; chips melt different |
-| Bigger pools of chocolate | Chopped wafers; reserve chunks for pressing on top before baking |
+| [Deeper chocolate](https://www.seriouseats.com/the-food-lab-best-chocolate-chip-cookie-recipe) | [Chopped dark chocolate instead of chips; chips melt different](https://www.seriouseats.com/the-food-lab-best-chocolate-chip-cookie-recipe) |
+| [Bigger pools of chocolate](https://www.seriouseats.com/the-food-lab-best-chocolate-chip-cookie-recipe) | Chopped wafers; reserve chunks for pressing on top before baking |
 
 ---
 
@@ -107,13 +107,13 @@ When deciding if a dish is "yours," ask:
 
 | Day | Session | Key Skill |
 |---|---|---|
-| W47 Mon | Wok technique deep dive | Wok hei, seasoning |
+| W47 Mon | [Wok technique deep dive](https://www.amazon.com/dp/0393541215) | Wok hei, seasoning |
 | W47 Tue | Knife skills assessment | Self-audit; brunoise |
-| W47 Wed | Chocolate chip cookies (refined) | Variable adjustment |
-| W47 Thu | Mise en place — formal setup | 3-course timing |
+| W47 Wed | [Chocolate chip cookies (refined)](https://www.seriouseats.com/the-food-lab-best-chocolate-chip-cookie-recipe) | Variable adjustment |
+| W47 Thu | [Mise en place — formal setup](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro) | 3-course timing |
 | W47 Fri | Caramel sauce (repeated) | Automation via repetition |
 | W47 Sat | The difficult dish revisited | Weak point attack |
 | W48 Mon | Define your signatures | Reflection + writing |
 | W48 Tue–Wed | Refine signatures #1 and #2 | Intentional repetition |
-| W48 Fri | Develop a new recipe | Creative synthesis |
+| W48 Fri | [Develop a new recipe](https://www.amazon.com/dp/0393541215) | Creative synthesis |
 | W48 Sat | Personal Tasting Menu (4 courses) | Full dinner party |

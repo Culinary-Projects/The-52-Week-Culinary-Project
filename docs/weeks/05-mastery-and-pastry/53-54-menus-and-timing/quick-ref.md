@@ -38,14 +38,14 @@
 
 | Element | Scales Linearly | Scales Non-Linearly | Notes |
 |---|---|---|---|
-| Dry ingredients | ✓ | — | Simple multiplication |
-| Wet ingredients (sauces) | ✓ | — | Double sauce = double quantity |
-| Salt and spices | — | ✓ | Start at 75%; taste and adjust |
-| Acid (lemon, vinegar) | — | ✓ | Less than linear; easy to over-acid |
-| Aromatics (garlic) | — | ✓ | 1.5× for 2× recipe |
-| Baking time | — | ✓ | Same; watch internal temp not clock |
-| Braising / roasting time | — | ✓ | Size of piece, not number of pieces |
-| Pan size | — | ✓ | Bigger pan → less crowding → better browning |
+| Dry ingredients | ✓ | [—](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro) | Simple multiplication |
+| Wet ingredients (sauces) | ✓ | [—](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro) | Double sauce = double quantity |
+| Salt and spices | [—](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro) | ✓ | Start at 75%; taste and adjust |
+| Acid (lemon, vinegar) | [—](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro) | ✓ | Less than linear; easy to over-acid |
+| Aromatics (garlic) | [—](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro) | ✓ | [1.5× for 2× recipe](https://www.thekitchn.com/how-to-scale-a-recipe-247673) |
+| Baking time | [—](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro) | ✓ | Same; watch internal temp not clock |
+| Braising / roasting time | [—](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro) | ✓ | Size of piece, not number of pieces |
+| Pan size | [—](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro) | ✓ | Bigger pan → less crowding → better browning |
 
 ---
 
@@ -60,7 +60,7 @@
 | 5:30 PM | Final pre-heat oven; sauces warming; clean kitchen |
 | 6:00 PM | Canapés out; guest arrival |
 | 7:00 PM | Guests sit; starter plated and served |
-| 7:30 PM | Main course cooking begins (protein to oven or pan) |
+| 7:30 PM | [Main course cooking begins (protein to oven or pan)](https://www.seriouseats.com/guide-to-cooking-with-wine-11921603) |
 | 8:00 PM | Mains served; sides complete |
 | 8:45 PM | Dessert plated during table clearing |
 | 9:00 PM | Dessert served |
@@ -114,7 +114,7 @@
 | Sauce broken (butter) | Whisk ice cube in; or start from emulsified base |
 | Overcooked protein | Thin-slice and serve with assertive sauce; never apologize at the table |
 | Underseasoned dish | Salt at the table (offer Maldon); squeeze lemon on anything savory |
-| Sticking / burning stuck | Deglaze with wine or stock; incorporate the fond into sauce |
+| Sticking / burning stuck | [Deglaze with wine or stock; incorporate the fond into sauce](https://www.seriouseats.com/guide-to-cooking-with-wine-11921603) |
 | Dessert didn't set | Serve in glasses as "deconstructed"; add texture on top |
 | Completely failed component | Fill with charcuterie, cheese, bread, olives — always keep these in reserve |
 
@@ -130,9 +130,9 @@
 | W49 Thu | Rest + planning | No |
 | W49 Fri | **Dinner Party #1** (4 courses, 4–6 people) | **Yes (4–6)** |
 | W49 Sat | Debrief and reflection | No |
-| W50 Mon | Recipe scaling | No |
+| W50 Mon | [Recipe scaling](https://www.thekitchn.com/how-to-scale-a-recipe-247673) | No |
 | W50 Tue | Mise en place for groups | No |
-| W50 Wed | Wine and beverage pairing | Optional |
+| W50 Wed | [Wine and beverage pairing](https://www.seriouseats.com/the-basics-of-pairing-drinks-with-your-food) | Optional |
 | W50 Thu | Rest + planning | No |
 | W50 Fri | Full advance prep day | No |
 | W50 Sat | **Dinner Party #2** (5 courses, 6–10 people) | **Yes (6–10)** |

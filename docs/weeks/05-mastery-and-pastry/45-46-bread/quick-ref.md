@@ -8,22 +8,22 @@
 
 | Day | Bread | Hydration | Method | Timing |
 |-----|-------|-----------|--------|--------|
-| Mon | No-Knead Boule | ~80% | Mix Sun night; bake Mon | 12–18 hr ferment + 45 min bake |
-| Tue | No-Knead (stretch-and-fold upgrade) | ~80% | 3–4 folds in first 2 hrs | Compare crumb to Monday's |
-| Wed | No-Knead Focaccia | ~80–85% | Pan bake; oil-slicked | Mix morning; dimple + bake same day |
-| Thu | **Rest** | — | — | — |
-| Fri | Pullman Sandwich Loaf | ~65% | Enriched; Pullman pan | Standard 2-hour proof |
-| Sat | **Sourdough Starter** (start) | n/a | Mix flour + water; 5–7 day culture | Won't use until Week 42 |
+| Mon | [No-Knead Boule](https://www.seriouseats.com/better-no-knead-bread-recipe) | ~80% | Mix Sun night; bake Mon | 12–18 hr ferment + 45 min bake |
+| Tue | [No-Knead (stretch-and-fold upgrade)](https://www.seriouseats.com/better-no-knead-bread-recipe) | ~80% | 3–4 folds in first 2 hrs | Compare crumb to Monday's |
+| Wed | [No-Knead Focaccia](https://www.seriouseats.com/easy-no-knead-focaccia) | ~80–85% | Pan bake; oil-slicked | Mix morning; dimple + bake same day |
+| Thu | **Rest** | [—](https://www.seriouseats.com/better-no-knead-bread-recipe) | [—](https://www.seriouseats.com/better-no-knead-bread-recipe) | [—](https://www.seriouseats.com/better-no-knead-bread-recipe) |
+| Fri | [Pullman Sandwich Loaf](https://www.seriouseats.com/bread-baking-pullman-loaf-recipe) | ~65% | [Enriched; Pullman pan](https://www.seriouseats.com/bread-baking-pullman-loaf-recipe) | Standard 2-hour proof |
+| Sat | [**Sourdough Starter** (start)](https://www.seriouseats.com/sourdough-starter) | n/a | Mix flour + water; 5–7 day culture | Won't use until Week 42 |
 
 ## Week 42 — Sourdough, Brioche, Croissants
 
 | Day | Bread | Method | Key Milestone |
 |-----|-------|--------|---------------|
-| Mon | Sourdough — levain build + mix | Levain 4–6 hrs; bulk ferment; refrigerate overnight | Check starter is bubbly before mixing |
-| Tue | Sourdough — Bake | Dutch oven; 250°C; covered then uncovered | Score before loading; wait 1 hr to cut |
-| Wed | Brioche | Enriched; butter added gradually; refrigerate overnight | Butter must be room temp |
-| Thu | **Rest** | — | — |
-| Fri | Croissants | Laminated; 3+ book folds; refrigerate between | Keep everything cold; block out full day |
+| Mon | [Sourdough — levain build + mix](https://www.seriouseats.com/sourdough-starter) | Levain 4–6 hrs; bulk ferment; refrigerate overnight | [Check starter is bubbly before mixing](https://www.seriouseats.com/sourdough-starter) |
+| Tue | [Sourdough — Bake](https://www.seriouseats.com/sourdough-starter) | Dutch oven; 250°C; covered then uncovered | Score before loading; wait 1 hr to cut |
+| Wed | [Brioche](https://www.seriouseats.com/brioche-loaf-recipe-6755249) | Enriched; butter added gradually; refrigerate overnight | Butter must be room temp |
+| Thu | **Rest** | [—](https://www.seriouseats.com/better-no-knead-bread-recipe) | [—](https://www.seriouseats.com/better-no-knead-bread-recipe) |
+| Fri | [Croissants](https://www.seriouseats.com/croissants-recipe-11863500) | Laminated; 3+ book folds; refrigerate between | Keep everything cold; block out full day |
 | Sat | **PROJECT:** Bread Board + Rebake | Taste + evaluate; rebake best loaf | Compare all five breads side by side |
 
 ---
@@ -32,12 +32,12 @@
 
 | Bread | Hydration | Texture | Shape |
 |-------|-----------|---------|-------|
-| Pullman / sandwich | 60–65% | Soft, tight crumb | Loaf pan |
-| No-knead boule | 75–80% | Open, irregular crumb | Free-form or Dutch oven |
-| Focaccia | 80–85% | Soft, airy, oily | Sheet pan |
-| Sourdough | 70–80% | Open crumb, chewy | Banneton → Dutch oven |
-| Brioche | 65–70% (enriched) | Tender, rich | Loaf tin |
-| Croissant dough | 55–60% | Layered, laminated | Rolled + shaped |
+| [Pullman / sandwich](https://www.seriouseats.com/bread-baking-pullman-loaf-recipe) | 60–65% | Soft, tight crumb | Loaf pan |
+| [No-knead boule](https://www.seriouseats.com/better-no-knead-bread-recipe) | 75–80% | Open, irregular crumb | Free-form or Dutch oven |
+| [Focaccia](https://www.seriouseats.com/easy-no-knead-focaccia) | 80–85% | Soft, airy, oily | Sheet pan |
+| [Sourdough](https://www.seriouseats.com/sourdough-starter) | 70–80% | Open crumb, chewy | Banneton → Dutch oven |
+| [Brioche](https://www.seriouseats.com/brioche-loaf-recipe-6755249) | 65–70% (enriched) | Tender, rich | Loaf tin |
+| [Croissant dough](https://www.seriouseats.com/croissants-recipe-11863500) | 55–60% | Layered, laminated | Rolled + shaped |
 
 ## Baker's Troubleshooting
 
@@ -46,5 +46,5 @@
 | Dense, gummy crumb | Underbaked; too much water | Bake longer; check internal temp (210°F) |
 | No oven spring | Weak yeast; didn't proof enough | Use active starter/yeast; proper proof time |
 | Thick crust, no crunch | Insufficient steam | Use Dutch oven or steam pan |
-| Flat croissants | Butter melted into dough during folds | Keep dough cold; rest between folds |
-| Sourdough not rising | Inactive starter | Feed starter 2× daily until bubbly before using |
+| [Flat croissants](https://www.seriouseats.com/croissants-recipe-11863500) | Butter melted into dough during folds | Keep dough cold; rest between folds |
+| [Sourdough not rising](https://www.seriouseats.com/sourdough-starter) | [Inactive starter](https://www.seriouseats.com/sourdough-starter) | [Feed starter 2× daily until bubbly before using](https://www.seriouseats.com/sourdough-starter) |
