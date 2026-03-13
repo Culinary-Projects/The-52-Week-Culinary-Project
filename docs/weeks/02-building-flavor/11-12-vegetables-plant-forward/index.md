@@ -95,7 +95,7 @@ The CIA spends four full weeks on vegetable fabrication and cookery before touch
 
 **Charred cabbage** — the full-heat technique that turns cabbage from something tolerable into something remarkable.
 
-📖 **Read:** [Serious Eats — Braised Cabbage](https://www.seriouseats.com/how-tos-5118034/braised-cabbage-recipe)
+📖 **Read:** [Serious Eats — Charred Miso Cabbage](https://www.seriouseats.com/grilled-cabbage-wedges-ginger-miso-dressing-recipe)
 
 **Full Meal:**
 - [Crispy Brussels Sprouts with Fish Sauce and Crispy Shallots](https://www.simplyrecipes.com/recipes/roasted_brussels_sprouts/) — this dish converts Brussels sprout haters
@@ -282,7 +282,7 @@ Write: what vegetable do you dislike? Cook it using a method from this week that
 
 **Tonight's choice: stuffed whole roasted peppers.**
 
-📖 **Read:** [Serious Eats — Stuffed Bell Peppers](https://www.wellplated.com/stuffed-peppers/)
+📖 **Read:** [Bon Appétit — Stuffed Peppers](https://www.bonappetit.com/recipe/stuffed-peppers)
 
 The stuffing is the lesson: aromatic base (onion, garlic) + grain (rice, farro, or barley) + acid (tomato) + fat (cheese or olive oil) + herbs. This formula produces a satisfying, cohesive dish where the vegetable wrapper is structural — not decorative.
 
