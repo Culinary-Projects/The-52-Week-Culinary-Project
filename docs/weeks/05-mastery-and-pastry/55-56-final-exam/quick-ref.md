@@ -83,8 +83,8 @@ Answer before cooking your final exam dish:
 |---|---|
 | [Serious Eats](https://www.seriouseats.com) | Primary reference; continue using indefinitely |
 | [The Food Lab articles (Kenji)](https://www.kenjilopezalt.com/) | Deep-dive technique science on any topic |
-| [SE Recipe Index](https://www.seriouseats.com/recipes) | Find any specific dish |
-| [SE Techniques](https://www.masterclass.com/articles) | Searchable by skill |
+| [SE Recipe Index](https://www.seriouseats.com/all-recipes-5117985) | Find any specific dish |
+| [SE Techniques](https://www.seriouseats.com/how-tos-5118034) | Searchable by skill |
 | Local farmers market | Seasonal ingredients teach more than recipes |
 | A notebook | It always comes back to writing things down |
 

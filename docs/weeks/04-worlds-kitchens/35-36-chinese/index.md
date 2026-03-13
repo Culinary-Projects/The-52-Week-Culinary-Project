@@ -189,7 +189,7 @@ This sauce formula — sesame + soy + vinegar + chilli + Sichuan pepper — is t
 
 **Skill:** Mapo tofu is one of the most technically interesting dishes in all of Chinese cooking. It requires managing: braising the tofu gently so it holds shape while absorbing flavors, building a complex base from doubanjiang + black bean + aromatics, achieving the proper "flower" texture of soft tofu, and finishing with Sichuan peppercorn oil and the "pushing" motion (tuī dòufu) that moves the tofu without breaking it.
 
-📖 **Read:** [Serious Eats — The Real Mapo Tofu](https://www.recipetineats.com/mapo-tofu/)
+📖 **Read:** [Serious Eats — The Real Mapo Tofu](https://www.seriouseats.com/real-deal-mapo-dofu-tofu-chinese-sichuan-recipe)
 
 **The technique notes:**
 - Use **silken or soft tofu** (not medium-firm or firm) — if it breaks a little, that's fine
@@ -236,7 +236,7 @@ Read: [The Sichuan Pepper Question](https://thewoksoflife.com/sichuan-peppercorn
 
 **Skill:** Congee is cooked rice broken down in a large quantity of water or stock until it becomes a thick, creamy porridge. The skill is in the ratio (1:10 or more) and the time (45 minutes minimum). It is the ultimate test of whether you can make something completely humble taste extraordinary — through good stock, proper consistency, and thoughtful toppings.
 
-📖 **Read:** [Serious Eats — Congee (Chinese Rice Porridge)](https://www.masterclass.com/articles/congee-recipe)
+📖 **Read:** [Serious Eats — Congee (Chinese Rice Porridge)](https://www.seriouseats.com/congee-rice-porridge-minced-pork-crispy-shallots-recipe)
 
 **Full Meal:** A congee bar — make a large pot of plain rice congee, and provide:
 
@@ -261,7 +261,7 @@ Read: [The Sichuan Pepper Question](https://thewoksoflife.com/sichuan-peppercorn
 
 **What the dough teaches:** The har gow wrapper is made from wheat starch (not all-purpose flour) + cornstarch + boiling water. The hot water gelatinizes the starches, producing the translucent, slightly chewy wrapper characteristic of this dumpling. No other dough behaves this way.
 
-**Full Meal:** Har gow (make at least 16 — the first 4 will be ugly) + [char siu bao (steamed BBQ pork buns)](https://thewoksoflife.com/char-siu-bao/) from store-bought char siu pork or pork belly
+**Full Meal:** Har gow (make at least 16 — the first 4 will be ugly) + [char siu bao (steamed BBQ pork buns)](https://thewoksoflife.com/steamed-bbq-pork-buns-char-siu-bao/) from store-bought char siu pork or pork belly
 
 > **Honesty note:** This will take 2–3 hours and some of the dumplings will fall apart. That is exactly the right experience. Dim sum chefs spend months learning one fold. Your goal tonight is to understand the dough behavior and make a few that work.
 
@@ -271,7 +271,7 @@ Read: [The Sichuan Pepper Question](https://thewoksoflife.com/sichuan-peppercorn
 
 **Skill:** Egg fried rice is the Chinese test of wok technique — the dish that tells you exactly where your heat management is. The keys are: cold day-old rice (never fresh; it's too wet), eggs added early so they set in the hot rice rather than scramble separately, and restraint with soy sauce (the dish should taste of rice and egg, not soy).
 
-📖 **Read:** [Serious Eats — The Best Fried Rice](https://thewoksoflife.com/fried-rice/)
+📖 **Read:** [Serious Eats — The Best Fried Rice](https://thewoksoflife.com/egg-fried-rice/)
 
 **Full Meal:** Egg fried rice (a proper full-dinner portion) + [Chinese cucumber salad](https://www.recipetineats.com/smashed-cucumber-salad/) + any leftover hong shao rou from earlier in the week if you made it ahead
 

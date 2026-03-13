@@ -56,7 +56,7 @@
 
 **Skill:** Breaking down a whole round fish into two clean fillets. This is the single most useful fish skill you can own — when you can fillet, you buy whole fish (cheaper, fresher, more honest), and you understand why a halibut fillet costs what it does.
 
-📖 **Read and watch before starting:** [Serious Eats — How to Fillet a Fish](https://www.masterclass.com/articles/how-to-fillet-a-fish) — the Kenji walkthrough is the clearest English-language video on this.
+📖 **Read and watch before starting:** [Serious Eats — How to Fillet a Fish](https://www.seriouseats.com/how-to-fillet-a-fin-fish-perfectly-8761174) — the Kenji walkthrough is the clearest English-language video on this.
 
 **The technique for a round fish (salmon, sea bass, snapper, branzino):**
 1. **Find the backbone** — place the fish belly-down; feel the spine through the flesh

@@ -12,10 +12,10 @@
 | **Velveting** | [Silky, tender chicken or beef](https://thewoksoflife.com/beef-with-broccoli/) | Egg white + cornstarch + Shaoxing wine; 15-min marinade |
 | **Red-braising (hong shao)** | Dark, lacquered, meltingly tender pork | Blanch first; caramelize sugar; low low heat; long time |
 | [**Cantonese steaming**](https://thewoksoflife.com/cantonese-steamed-fish/) | Delicate, fresh-flavored fish | Tight lid; boiling water beneath; sizzling oil finish |
-| [**Egg fried rice**](https://thewoksoflife.com/fried-rice/) | Separated, slightly smoky grains | Cold day-old rice only; eggs before they fully set |
+| [**Egg fried rice**](https://thewoksoflife.com/egg-fried-rice/) | Separated, slightly smoky grains | Cold day-old rice only; eggs before they fully set |
 | **Egg ribbons** | Feathery egg strands in soup | Thin stream + circular stirring motion |
 | **Cornstarch thickening** | Glossy, coating sauce | Mix cold water 1:1 with starch; add to simmering liquid gradually |
-| [**Congee**](https://www.masterclass.com/articles/congee-recipe) | [Silky, broken-down rice porridge](https://www.masterclass.com/articles/congee-recipe) | 1 cup rice : 10–12 cups liquid; low simmer 45+ minutes |
+| [**Congee**](https://www.seriouseats.com/congee-rice-porridge-minced-pork-crispy-shallots-recipe) | [Silky, broken-down rice porridge](https://www.seriouseats.com/congee-rice-porridge-minced-pork-crispy-shallots-recipe) | 1 cup rice : 10–12 cups liquid; low simmer 45+ minutes |
 
 ---
 
@@ -119,11 +119,11 @@ Mix thoroughly; taste; adjust heat/sour/sweet. Spoon over noodles.
 | 35 | Tue | [Hong shao rou (red-braised pork belly)](https://thewoksoflife.com/red-braised-pork/) | [Red braise](https://thewoksoflife.com/red-braised-pork/) |
 | 35 | Wed | [Cantonese steamed whole fish](https://thewoksoflife.com/cantonese-steamed-fish/) | Steaming |
 | 35 | Thu | [Dan dan noodles](https://thewoksoflife.com/dan-dan-noodles/) | [Sichuan sauce building](https://thewoksoflife.com/sichuan-peppercorn/) |
-| 35 | Fri | [Mapo tofu](https://www.recipetineats.com/mapo-tofu/) | Doubanjiang base + soft tofu |
+| 35 | Fri | [Mapo tofu](https://www.seriouseats.com/real-deal-mapo-dofu-tofu-chinese-sichuan-recipe) | Doubanjiang base + soft tofu |
 | 35 | Sat | [Sichuan dinner party](https://thewoksoflife.com/sichuan-peppercorn/) | Multi-technique |
-| 36 | Mon | [Congee (rice porridge)](https://www.masterclass.com/articles/congee-recipe) | Long simmer |
+| 36 | Mon | [Congee (rice porridge)](https://www.seriouseats.com/congee-rice-porridge-minced-pork-crispy-shallots-recipe) | Long simmer |
 | 36 | Tue | Har gow + char siu bao | Dim sum dough + steaming |
-| 36 | Wed | [Egg fried rice](https://thewoksoflife.com/fried-rice/) | Wok + egg integration |
+| 36 | Wed | [Egg fried rice](https://thewoksoflife.com/egg-fried-rice/) | Wok + egg integration |
 | 36 | Thu | [Kung pao chicken](https://thewoksoflife.com/kung-pao-chicken/) | [Stir-fry + nut garnish](https://thewoksoflife.com/beef-with-broccoli/) |
 | 36 | Fri | [Hot and sour soup](https://thewoksoflife.com/hot-sour-soup/) | Egg ribbon + thickening |
 | 36 | Sat | [Full Chinese banquet](https://thewoksoflife.com/chinese-pantry/) | Multi-dish timing |

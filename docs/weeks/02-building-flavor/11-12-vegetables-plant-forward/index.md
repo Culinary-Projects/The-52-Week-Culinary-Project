@@ -28,7 +28,7 @@ The CIA spends four full weeks on vegetable fabrication and cookery before touch
 
 **Skill:** Blanching (brief boiling) plus shocking (ice bath) is the professional technique for preserving color, texture, and nutritional value in vegetables. It's also the mise en place move for any vegetable that needs to be partially cooked ahead of service.
 
-📖 **Read:** [Serious Eats — How and Why to Blanch Vegetables](https://www.masterclass.com/articles/how-to-blanch-vegetables)
+📖 **Read:** [Serious Eats — How and Why to Blanch Vegetables](https://www.seriouseats.com/food-lab-spring-produce-how-to-blanch)
 
 **The color science — why it matters:**
 
@@ -46,7 +46,7 @@ The CIA spends four full weeks on vegetable fabrication and cookery before touch
 4. Shock immediately in salted ice water (the salt prevents leaching)
 5. Drain and dry — wet vegetables steam instead of sauté
 
-**Full Meal:** Blanched and shocked asparagus + haricots verts + broccolini — dressed with [brown butter and toasted almonds](https://www.masterclass.com/articles/asparagus-with-brown-butter), served at room temperature
+**Full Meal:** Blanched and shocked asparagus + haricots verts + broccolini — dressed with [brown butter and toasted almonds](https://www.seriouseats.com/the-food-lab-all-about-asparagus), served at room temperature
 
 | Component | Recipe |
 |-----------|--------|
@@ -73,7 +73,7 @@ The CIA spends four full weeks on vegetable fabrication and cookery before touch
 
 **The flavor family you're learning:** Any vegetable with natural sugar caramelizes with high dry heat. Carrots become candy. Cauliflower develops a nutty depth. Beets intensify. Brussels sprouts lose their bitterness and become tender-crisp.
 
-**Full Meal:** [Sheet Pan Dinner](https://www.masterclass.com/articles/sheet-pan-chicken-thighs) — roasted carrots, cauliflower, and beets with whatever protein you prefer + a tahini dressing or [romesco](https://www.seriouseats.com/romesco-sauce-recipe)
+**Full Meal:** [Sheet Pan Dinner](https://www.seriouseats.com/sheet-pan-chicken-potato-fennel-gratin-dinner) — roasted carrots, cauliflower, and beets with whatever protein you prefer + a tahini dressing or [romesco](https://www.seriouseats.com/romesco-sauce-recipe)
 
 | Component | Recipe |
 |-----------|--------|
@@ -95,11 +95,11 @@ The CIA spends four full weeks on vegetable fabrication and cookery before touch
 
 **Charred cabbage** — the full-heat technique that turns cabbage from something tolerable into something remarkable.
 
-📖 **Read:** [Serious Eats — Braised Cabbage](https://www.masterclass.com/articles/braised-cabbage-recipe)
+📖 **Read:** [Serious Eats — Braised Cabbage](https://www.seriouseats.com/how-tos-5118034/braised-cabbage-recipe)
 
 **Full Meal:**
 - [Crispy Brussels Sprouts with Fish Sauce and Crispy Shallots](https://www.simplyrecipes.com/recipes/roasted_brussels_sprouts/) — this dish converts Brussels sprout haters
-- [Charred Cabbage with Miso-Sesame Sauce](https://www.masterclass.com/articles/miso-glazed-cabbage) — a revelation; whole cabbage wedges charred in cast iron
+- [Charred Cabbage with Miso-Sesame Sauce](https://www.seriouseats.com/grilled-cabbage-wedges-ginger-miso-dressing-recipe) — a revelation; whole cabbage wedges charred in cast iron
 - Simple white rice or crusty bread
 
 | Component | Notes |
@@ -115,7 +115,7 @@ The CIA spends four full weeks on vegetable fabrication and cookery before touch
 
 **Skill:** A vegetable purée is deceptively simple and technically demanding. The difference between a good purée and a great one is entirely in the texture — silky versus grainy, the right viscosity to coat a spoon, seasoned at every stage.
 
-📖 **Read:** [Serious Eats — Silky Smooth Vegetable Purees](https://cookieandkate.com/best-butternut-squash-soup-recipe/) — the principles apply beyond soup to plated purées.
+📖 **Read:** [Serious Eats — Silky Smooth Vegetable Purees](https://www.seriouseats.com/classic-butternut-squash-soup-recipe) — the principles apply beyond soup to plated purées.
 
 **Tonight apply the universal purée method to two vegetables simultaneously — compare the results:**
 
@@ -136,7 +136,7 @@ Both can be passed through a fine mesh sieve for professional-smooth results. Th
 
 **Skill:** Direct heat on vegetables produces char — carbon compounds that add bitterness, smokiness, and complexity. This is the single most underused technique for home vegetable cookery.
 
-📖 **Read:** [Serious Eats — How to Grill Vegetables](https://www.masterclass.com/articles/how-to-grill-vegetables)
+📖 **Read:** [Serious Eats — How to Grill Vegetables](https://www.seriouseats.com/the-serious-eats-guide-to-grilling)
 
 **The char distinction:**
 - **Light char** — grill marks + some softening; proper char without burning through
@@ -168,7 +168,7 @@ Cook a complete dinner where vegetables are the headline, not the support act. N
 | **Side** | Blanched and shocked green beans with brown butter | Blanching + butter sauce |
 | **Bread** | Good sourdough | Bought is fine |
 
-📖 **Mushroom "steaks":** [Serious Eats — Pan-Seared Mushrooms](https://www.masterclass.com/articles/pan-roasted-mushrooms) — portobello or king oyster, sliced thick, seared in cast iron, finished with thyme butter.
+📖 **Mushroom "steaks":** [Serious Eats — Pan-Seared Mushrooms](https://www.seriouseats.com/easy-roasted-mushroom-food-lab-recipe) — portobello or king oyster, sliced thick, seared in cast iron, finished with thyme butter.
 
 *Skill targets: Color retention on the green beans. True silkiness on the celery root purée. A fond-based pan sauce from the mushrooms. All three on the table at the same temperature.*
 
@@ -188,7 +188,7 @@ Write: what vegetable do you dislike? Cook it using a method from this week that
 
 **Skill:** A well-composed salad is not a bowl of things with dressing poured over it. It's a dish with its own architecture: texture contrast, temperature contrast, acid-fat balance, and deliberate seasoning.
 
-📖 **Read:** [Serious Eats — The Food Lab's Guide to Better Salads](https://www.masterclass.com/articles/how-to-make-a-salad)
+📖 **Read:** [Serious Eats — The Food Lab's Guide to Better Salads](https://www.seriouseats.com/how-to-make-the-perfect-salad-11722529)
 
 **Caesar dressing from scratch — the real lesson:**
 
@@ -210,13 +210,13 @@ Write: what vegetable do you dislike? Cook it using a method from this week that
 
 **Skill:** Beans cooked from dried are meaningfully better than canned. They also teach you patience, seasoning over time, and how to build flavor in a humble ingredient.
 
-📖 **Read:** [Serious Eats — How to Cook Dried Beans](https://www.masterclass.com/articles/white-bean-recipe)
+📖 **Read:** [Serious Eats — How to Cook Dried Beans](https://www.seriouseats.com/how-to-cook-dried-beans)
 
 **The two legume techniques tonight:**
 
 **White beans** — braised in olive oil, garlic, aromatics, and your homemade chicken stock. Where they end up should taste like they've been simmering in a French farmhouse for 6 hours.
 
-[Braised White Beans with Roasted Garlic and Rosemary](https://www.masterclass.com/articles/white-beans-with-tomatoes)
+[Braised White Beans with Roasted Garlic and Rosemary](https://www.seriouseats.com/beans-legumes-pulses-varieties-recipes-cooking-tips)
 
 **Chickpeas** — pan-fried until crispy in olive oil, finished with smoked paprika and lemon. A completely different texture from boiled chickpeas.
 
@@ -268,7 +268,7 @@ Write: what vegetable do you dislike? Cook it using a method from this week that
 - [Pickled Jalapeños and Carrots](https://www.bonappetit.com/recipe/pickled-jalapenos) — white wine vinegar + salt + cumin + garlic
 
 **Lacto-fermented sauerkraut (takes 5–7 days — start it tonight, finish it next week):**
-- [Simple Sauerkraut](https://www.masterclass.com/articles/how-to-make-sauerkraut) — green cabbage + 2% salt by weight; massage until brine releases; pack into jar; weigh down; leave at room temp 5–7 days
+- [Simple Sauerkraut](https://www.seriouseats.com/homemade-fermented-sauerkraut-recipe) — green cabbage + 2% salt by weight; massage until brine releases; pack into jar; weigh down; leave at room temp 5–7 days
 
 **Full Meal:** Use the pickles tonight on whatever you're eating — tacos, a grain bowl, grilled fish. Quick pickles don't need a dedicated meal. They improve everything they touch.
 

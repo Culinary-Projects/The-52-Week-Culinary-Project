@@ -68,7 +68,7 @@ This takes time but is mostly passive. Start it when you get home, let it simmer
 
 **Skill:** Understanding soup as a category — not recipes, but architecture. Tonight you make one purée soup and learn how the same structure produces every purée soup in existence.
 
-📖 **Read first:** [How to Make Any Purée Soup](https://cookieandkate.com/best-butternut-squash-soup-recipe/) — the technique scales to any vegetable.
+📖 **Read first:** [How to Make Any Purée Soup](https://www.seriouseats.com/classic-butternut-squash-soup-recipe) — the technique scales to any vegetable.
 
 **The five soup families — know these and you can improvise forever:**
 
@@ -88,7 +88,7 @@ This takes time but is mostly passive. Start it when you get home, let it simmer
 5. Blend (immersion blender in the pot, or batches in a blender with the vent cracked)
 6. Adjust consistency with stock; adjust seasoning. Finish with cream, butter, or acid.
 
-**Full Meal:** [Roasted Butternut Squash Soup](https://cookieandkate.com/best-butternut-squash-soup-recipe/) + crusty bread + simple salad
+**Full Meal:** [Roasted Butternut Squash Soup](https://www.seriouseats.com/classic-butternut-squash-soup-recipe) + crusty bread + simple salad
 
 The roasting step is optional but worth it: it caramelizes the squash and adds depth a boiled purée can't match.
 

@@ -58,7 +58,7 @@ This week is about cold and room-temperature desserts — the ones that reward a
 
 **Skill:** Chocolate tempering — the technique that gives chocolate its gloss, snap, and professional finish. And truffles, which are the most accessible entry point into chocolate confectionery.
 
-📖 **Read first:** [How to Temper Chocolate](https://www.masterclass.com/articles/how-to-temper-chocolate)
+📖 **Read first:** [How to Temper Chocolate](https://www.seriouseats.com/the-food-lab-best-way-to-temper-chocolate)
 
 **What tempering actually is:** Chocolate contains cocoa butter that crystallizes in six different forms depending on how it cools. Only Form V crystals (beta crystals) produce the glossy, snappy chocolate you recognize from a chocolate bar. Untempered chocolate (melted and cooled carelessly) produces Form IV or VI crystals — dull, streaky, soft. Tempering means bringing the chocolate to the right temperature sequence so only Form V crystals form.
 

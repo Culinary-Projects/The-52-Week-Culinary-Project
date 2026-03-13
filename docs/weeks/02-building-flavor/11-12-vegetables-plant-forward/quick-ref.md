@@ -8,15 +8,15 @@
 
 | Technique | Best for | Key rule |
 |-----------|----------|----------|
-| [**Blanch & shock**](https://www.masterclass.com/articles/how-to-blanch-vegetables) | Green vegetables, par-cooking | Salted boiling water → salted ice water immediately |
+| [**Blanch & shock**](https://www.seriouseats.com/food-lab-spring-produce-how-to-blanch) | Green vegetables, par-cooking | Salted boiling water → salted ice water immediately |
 | **Roasting** | Root veg, cruciferous, anything with sugar | 425–450°F, single layer, dry surface |
 | **Panroasting** | [Brussels sprouts, mushrooms, dense cuts](https://www.simplyrecipes.com/recipes/roasted_brussels_sprouts/) | Cast iron or stainless, very hot, don't move |
 | **Pan-braising** | Cabbage, fennel, leeks | Sear → small splash of liquid → cover → finish |
-| **Charring** | [Eggplant, peppers, scallions, cabbage](https://www.masterclass.com/articles/braised-cabbage-recipe) | Open flame or broiler; the burnt outside is removed or eaten |
+| **Charring** | [Eggplant, peppers, scallions, cabbage](https://www.seriouseats.com/how-tos-5118034/braised-cabbage-recipe) | Open flame or broiler; the burnt outside is removed or eaten |
 | **Purée** | [Any cooked vegetable](https://www.bonappetit.com/story/how-to-roast-vegetables) | Simmer until dead-soft, blend very fine, strain through sieve |
 | **Grilling** | Zucchini, asparagus, corn, halved lemons | Dry surface, oiled grate, high heat |
 | [**Quick pickle**](https://www.seriouseats.com/pickled-red-onions) | [Onions, cucumbers, jalapeños, carrots](https://www.bonappetit.com/recipe/pickled-jalapenos) | Warm brine (water + vinegar + salt + sugar); ready in 20–30 min |
-| **Lacto-ferment** | [Cabbage (sauerkraut), brine-packed anything](https://www.masterclass.com/articles/braised-cabbage-recipe) | 2% salt by weight; room temp; 5–7 days |
+| **Lacto-ferment** | [Cabbage (sauerkraut), brine-packed anything](https://www.seriouseats.com/how-tos-5118034/braised-cabbage-recipe) | 2% salt by weight; room temp; 5–7 days |
 
 ---
 
@@ -102,15 +102,15 @@
 
 | Week | Day | Dish | Technique |
 |------|-----|------|-----------|
-| 11 | Mon | [Brown butter asparagus + haricots verts](https://www.masterclass.com/articles/asparagus-with-brown-butter) | [Blanch + shock + beurre noisette](https://www.masterclass.com/articles/how-to-blanch-vegetables) |
+| 11 | Mon | [Brown butter asparagus + haricots verts](https://www.seriouseats.com/the-food-lab-all-about-asparagus) | [Blanch + shock + beurre noisette](https://www.seriouseats.com/food-lab-spring-produce-how-to-blanch) |
 | 11 | Tue | Sheet pan carrots, cauliflower, beets | Roasting |
 | 11 | Wed | [Crispy Brussels + charred cabbage with miso](https://www.simplyrecipes.com/recipes/roasted_brussels_sprouts/) | Pan sear + char |
 | 11 | Thu | Celery root + parsnip purées | Purée + strain |
 | 11 | Fri | Baba ganoush + grilled veg spread | Charring + grilling |
-| 11 | Sat | [Plant-forward dinner party](https://www.masterclass.com/articles/sheet-pan-chicken-thighs) | Multi-technique |
+| 11 | Sat | [Plant-forward dinner party](https://www.seriouseats.com/sheet-pan-chicken-potato-fennel-gratin-dinner) | Multi-technique |
 | 12 | Mon | [Caesar salad from scratch](https://www.bonappetit.com/recipe/classic-caesar-salad) | Emulsification + dressing |
-| 12 | Tue | [Braised white beans + crispy chickpeas](https://www.masterclass.com/articles/white-beans-with-tomatoes) | Braising + pan-frying legumes |
-| 12 | Wed | [Mushroom Bourguignon](https://www.bonappetit.com/recipe/mushroom-bourguignon) | [Sear + braise](https://www.masterclass.com/articles/braised-cabbage-recipe) |
-| 12 | Thu | [Quick pickles + start sauerkraut](https://www.masterclass.com/articles/how-to-make-sauerkraut) | [Pickling + fermentation](https://www.bonappetit.com/recipe/quick-pickled-vegetables) |
+| 12 | Tue | [Braised white beans + crispy chickpeas](https://www.seriouseats.com/beans-legumes-pulses-varieties-recipes-cooking-tips) | Braising + pan-frying legumes |
+| 12 | Wed | [Mushroom Bourguignon](https://www.bonappetit.com/recipe/mushroom-bourguignon) | [Sear + braise](https://www.seriouseats.com/how-tos-5118034/braised-cabbage-recipe) |
+| 12 | Thu | [Quick pickles + start sauerkraut](https://www.seriouseats.com/homemade-fermented-sauerkraut-recipe) | [Pickling + fermentation](https://www.bonappetit.com/recipe/quick-pickled-vegetables) |
 | 12 | Fri | [Stuffed roasted peppers](https://www.wellplated.com/stuffed-peppers/) | Roasting + grain stuffing |
 | 12 | Sat | [5-course vegetable tasting menu](https://www.bonappetit.com/story/how-to-roast-vegetables) | Multi-technique |
