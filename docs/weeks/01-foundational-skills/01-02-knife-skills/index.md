@@ -97,7 +97,7 @@ The four things to understand before you finish Week 1:
 
 4. **Internal temperatures are not optional suggestions.** Poultry must reach 165°F. Pork at least 145°F. Ground beef 160°F. Whole muscle beef (steaks) can be cooked to lower temperatures because bacteria live on the surface and are killed by the sear. Knowing why these numbers differ is as useful as knowing the numbers themselves.
 
-📖 **Read:** [FDA Food Safety for Consumers](https://www.fda.gov/food/consumers) — start with the "Are You Storing Food Safely?" and "Safe Food Handling" sections. 10 minutes of reading.
+📖 **Read:** [Safe Food Handling: What You Need to Know](https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling-what-you-need-know) — covers danger zones, safe storage, and cross-contamination. 10 minutes of reading.
 
 > **The professional standard:** CIA students spend their first week on food safety before they touch a knife in a hot kitchen. We're doing this here, at the end of Week 1, because now you understand what you're actually handling. A cook who knows safe temperatures is not being paranoid. They're being professional.
 
