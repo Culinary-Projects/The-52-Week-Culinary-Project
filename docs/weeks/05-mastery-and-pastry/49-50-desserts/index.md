@@ -54,9 +54,47 @@ This week is about cold and room-temperature desserts — the ones that reward a
 
 ---
 
-### Thursday — Rest Day
+### Thursday — Chocolate Tempering & Confections
 
-**Reflect:** Three cold desserts that are all about texture control. Crème brûlée was about heat. Panna cotta was about gelatin. Mousse was about air. Which concept felt most fragile? Which would you most confidently serve at a dinner party right now?
+**Skill:** Chocolate tempering — the technique that gives chocolate its gloss, snap, and professional finish. And truffles, which are the most accessible entry point into chocolate confectionery.
+
+📖 **Read first:** [How to Temper Chocolate](https://www.seriouseats.com/how-to-temper-chocolate-7371145)
+
+**What tempering actually is:** Chocolate contains cocoa butter that crystallizes in six different forms depending on how it cools. Only Form V crystals (beta crystals) produce the glossy, snappy chocolate you recognize from a chocolate bar. Untempered chocolate (melted and cooled carelessly) produces Form IV or VI crystals — dull, streaky, soft. Tempering means bringing the chocolate to the right temperature sequence so only Form V crystals form.
+
+**Two methods — both produce the same result:**
+
+| Method | Technique | Best for |
+|--------|-----------|----------|
+| **Tabling** | Melt completely, pour 2/3 onto marble slab, work with spatula until cool, add back to remaining third | Professional; fastest if you have marble |
+| **Seeding** | Melt 2/3 of chocolate, add finely chopped unmelted chocolate (the “seed”) in stages, stir until smooth | Home kitchen; easier to control |
+
+**The seeding method — what you'll do tonight:**
+1. Chop 300g dark chocolate (70%+) finely. Reserve 100g.
+2. Melt 200g over a double boiler to 115°F (46°C) — fully liquid, no lumps
+3. Remove from heat. Add reserved 100g chopped chocolate in three additions, stirring until each melts
+4. Check temperature: should reach 88–90°F (31–32°C). This is the working temperature
+5. **The snap test:** Dip a teaspoon, let set 3–5 minutes at room temperature. It should be glossy with a sharp snap when you break it. Streaky or soft = not in temper; reheat gently to 88°F and try again
+
+**Full Meal — Chocolate Truffles:**
+
+📖 **Recipe:** [Dark Chocolate Truffles](https://www.seriouseats.com/dark-chocolate-truffles-recipe)
+
+Truffles are the truest test of tempering: a ganache center (cream + chocolate emulsion) coated in a thin tempered chocolate shell. The shell requires tempered chocolate to set cleanly without fingerprints showing.
+
+| Component | Notes |
+|-----------|-------|
+| **Ganache (filling)** | 200g dark chocolate + 100ml heavy cream; heat cream, pour over chocolate, emulsify with a stir — not a whisk; cool until firm enough to scoop |
+| **Shell** | Tempered chocolate; dip each truffle, tap off excess, set on parchment |
+| **Finish** | Roll in cocoa powder, crushed nuts, or flaky salt — your call |
+
+**The confection vocabulary — know these:**
+- **Ganache** — chocolate + cream emulsion; ratio determines texture (thick for truffles, thin for glaze)
+- **Tempered chocolate** — Form V crystals; gloss + snap
+- **Bonbon** — tempered chocolate shell with flavored ganache inside; requires a mold
+- **Bark** — tempered chocolate poured flat, topped before it sets; no skill requirement beyond tempering
+
+> **The connection to the rest of the year:** The emulsification in ganache is the same principle as hollandaise and mayonnaise — fat + water held stable by an emulsifier, in this case the lecithin in the cocoa solids. You've been building toward this all year.
 
 ---
 

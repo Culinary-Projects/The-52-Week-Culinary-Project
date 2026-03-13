@@ -52,9 +52,30 @@
 
 ---
 
-### Thursday — OFF
+### Thursday — Fish Butchery: Filleting a Whole Fish
 
-📖 Think about freshness: why does fish quality matter more than beef or pork quality? What should fresh fish smell like (or not smell like)? What does "sushi-grade" actually mean? If you have a good fishmonger nearby, consider visiting and asking them what's freshest — most good fishmongers will talk to you.
+**Skill:** Breaking down a whole round fish into two clean fillets. This is the single most useful fish skill you can own — when you can fillet, you buy whole fish (cheaper, fresher, more honest), and you understand why a halibut fillet costs what it does.
+
+📖 **Read and watch before starting:** [Serious Eats — How to Fillet a Fish](https://www.seriouseats.com/how-to-fillet-a-round-fish-video) — the Kenji walkthrough is the clearest English-language video on this.
+
+**The technique for a round fish (salmon, sea bass, snapper, branzino):**
+1. **Find the backbone** — place the fish belly-down; feel the spine through the flesh
+2. **First cut** — score behind the head diagonally to the backbone; don't cut through
+3. **Run the knife along the spine** — blade angled slightly toward the bone, long smooth strokes, let the backbone guide you; use the rib cage as a fence
+4. **Fillet off the ribcage** — once past the spine, angle the knife to follow the rib curve; you should hear the blade scraping bone (that's correct — you're not wasting meat that way)
+5. **Pin bones** — run your finger down the centerline of the fillet; tiny bones perpendicular to the flesh. Pull with needle-nose pliers or fish tweezers, always pulling in the direction the bone points
+6. **Repeat for the second fillet**
+
+**Freshness signals — know these before you go to the fishmonger:**
+- Eyes: clear and slightly bulging. Cloudy or sunken = not fresh
+- Gills: bright red when fresh; brown or grey = older fish
+- Smell: clean, oceanic, or neutral. "Fishy" smell is TMA (trimethylamine) — bacterial decomposition. Fresh fish smells like the sea, not like fish
+- Flesh: springs back when pressed; doesn't hold the indentation
+- "Sushi-grade" has no legal definition — it means the seller is comfortable selling it raw. Ask your fishmonger directly
+
+**Full Meal:** Fillet and cook the fish in whatever style you prefer tonight — the miso glaze is already prepped for Friday, or use the Wednesday technique (crispy skin pan sear). You've broken it down yourself. That changes how it tastes.
+
+> **Why this matters beyond skills:** A whole 2 lb branzino costs $12–14 at a good fishmonger. The same fish sold as fillets costs $18–22. You just learned where $6–8 of the price comes from — and you can have fresher fish for less money.
 
 ---
 

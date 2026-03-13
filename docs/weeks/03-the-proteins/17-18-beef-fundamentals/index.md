@@ -58,9 +58,36 @@ The reverse sear — low oven first, then high-heat sear — gives you precise t
 
 ---
 
-### Thursday — OFF
+### Thursday — Beef Butchery: Primal Cuts & Fabrication
 
-📖 Optional read: [Serious Eats — Should You Bring Steaks to Room Temperature Before Cooking?](https://www.seriouseats.com/should-you-bring-steaks-and-roasts-to-room-temperature-before-cooking-11873888). The answer is more interesting than you expect.
+**Skill:** Understanding the beef primal map — where every cut comes from and why it costs what it costs. Tonight is theory and light hands-on work: you'll trim and portion a short rib rack or fabricate a chuck roast into uniform braising pieces.
+
+📖 **Read first:** [Beef Cuts Explained: A Guide to the Different Cuts of Beef](https://www.seriouseats.com/best-beef-cuts-for-steak) — understand why the same animal produces both a $6/lb chuck and a $30/lb tenderloin.
+
+**The primal cut map — every beef cut descends from 8 primals:**
+
+| Primal | Characteristics | Cuts it yields |
+|--------|----------------|----------------|
+| **Chuck** (shoulder) | Well-worked muscle, lots of collagen | Chuck roast, short ribs, flat iron |
+| **Rib** | Less-worked, heavily marbled | Ribeye, prime rib, ribeye cap |
+| **Short loin** | Tender, central back | T-bone, porterhouse, strip steak |
+| **Sirloin** | Moderately worked | Sirloin steak, tri-tip |
+| **Round** (rear leg) | Lean, tough | Round roast, top round, eye of round |
+| **Brisket** (chest) | Very tough, collagen-heavy | Whole brisket, flat, point |
+| **Flank/plate** | Flat, thin, fibrous | Skirt steak, flank steak, hanger |
+| **Shank** | Very tough, maximum gelatin | Osso buco (cross-cut shank) |
+
+**The fabrication principle:** Tough cuts (chuck, brisket, shank) need low heat and long time to convert collagen to gelatin. Tender cuts (rib, loin) need high heat and short time. The method should always match the muscle's work history.
+
+**Hands-on tonight:** Buy a rack of bone-in short ribs from your butcher as a slab (not pre-cut English style). Practice:
+1. Identifying the grain direction of the meat
+2. Trimming excess fat cap (leave ¼" — flavor, not waste)
+3. Portioning between bones for even braising pieces
+4. Asking yourself: could I have bought these pre-portioned? Yes. But now you understand what you're paying for when you don't.
+
+**Full Meal:** The short ribs you trim tonight — braise them tomorrow or this weekend (see Week 16 for the full recipe). Tonight pair with whatever you have: bread and a salad is fine.
+
+📖 **Also worth reading:** [Serious Eats — Should You Bring Steaks to Room Temperature Before Cooking?](https://www.seriouseats.com/should-you-bring-steaks-and-roasts-to-room-temperature-before-cooking-11873888) — the answer is more interesting than you expect.
 
 ---
 

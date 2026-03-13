@@ -1,5 +1,5 @@
-site_name: The 52-Week Culinary Project
-site_description: A 52-week home culinary school for the cook who already cooks.
+site_name: The 56-Week Culinary Project
+site_description: A 56-week home culinary school for the cook who already cooks.
 site_url: https://culinary-projects.github.io/The-52-Week-Culinary-Project/
 repo_url: https://github.com/Culinary-Projects/The-52-Week-Culinary-Project
 repo_name: Culinary-Projects/The-52-Week-Culinary-Project
@@ -65,96 +65,104 @@ nav:
       - Full Guide: weeks/02-building-flavor/09-10-seasoning-and-flavor/index.md
       - Quick Reference: weeks/02-building-flavor/09-10-seasoning-and-flavor/quick-ref.md
       - Shopping List: weeks/02-building-flavor/09-10-seasoning-and-flavor/shopping-list.md
-    - "Weeks 11–12: Pasta & Grains":
-      - Full Guide: weeks/02-building-flavor/11-12-pasta-and-grains/index.md
-      - Quick Reference: weeks/02-building-flavor/11-12-pasta-and-grains/quick-ref.md
-      - Shopping List: weeks/02-building-flavor/11-12-pasta-and-grains/shopping-list.md
-    - "Weeks 13–14: Midpoint Review":
-      - Full Guide: weeks/02-building-flavor/13-14-midpoint-review/index.md
-      - Quick Reference: weeks/02-building-flavor/13-14-midpoint-review/quick-ref.md
-      - Shopping List: weeks/02-building-flavor/13-14-midpoint-review/shopping-list.md
+    - "Weeks 11–12: Vegetables & Plant-Forward":
+      - Full Guide: weeks/02-building-flavor/11-12-vegetables-plant-forward/index.md
+      - Quick Reference: weeks/02-building-flavor/11-12-vegetables-plant-forward/quick-ref.md
+      - Shopping List: weeks/02-building-flavor/11-12-vegetables-plant-forward/shopping-list.md
+    - "Weeks 13–14: Pasta & Grains":
+      - Full Guide: weeks/02-building-flavor/13-14-pasta-and-grains/index.md
+      - Quick Reference: weeks/02-building-flavor/13-14-pasta-and-grains/quick-ref.md
+      - Shopping List: weeks/02-building-flavor/13-14-pasta-and-grains/shopping-list.md
+    - "Weeks 15–16: Midpoint Review":
+      - Full Guide: weeks/02-building-flavor/15-16-midpoint-review/index.md
+      - Quick Reference: weeks/02-building-flavor/15-16-midpoint-review/quick-ref.md
+      - Shopping List: weeks/02-building-flavor/15-16-midpoint-review/shopping-list.md
 
   - "Unit 3 — The Proteins":
     - Overview: weeks/03-the-proteins/README.md
-    - "Weeks 15–16: Beef Fundamentals":
-      - Full Guide: weeks/03-the-proteins/15-16-beef-fundamentals/index.md
-      - Quick Reference: weeks/03-the-proteins/15-16-beef-fundamentals/quick-ref.md
-      - Shopping List: weeks/03-the-proteins/15-16-beef-fundamentals/shopping-list.md
-    - "Weeks 17–18: Beef Advanced":
-      - Full Guide: weeks/03-the-proteins/17-18-beef-advanced/index.md
-      - Quick Reference: weeks/03-the-proteins/17-18-beef-advanced/quick-ref.md
-      - Shopping List: weeks/03-the-proteins/17-18-beef-advanced/shopping-list.md
-    - "Weeks 19–20: Pork":
-      - Full Guide: weeks/03-the-proteins/19-20-pork/index.md
-      - Quick Reference: weeks/03-the-proteins/19-20-pork/quick-ref.md
-      - Shopping List: weeks/03-the-proteins/19-20-pork/shopping-list.md
-    - "Weeks 21–22: Fish":
-      - Full Guide: weeks/03-the-proteins/21-22-fish/index.md
-      - Quick Reference: weeks/03-the-proteins/21-22-fish/quick-ref.md
-      - Shopping List: weeks/03-the-proteins/21-22-fish/shopping-list.md
-    - "Weeks 23–24: Shellfish":
-      - Full Guide: weeks/03-the-proteins/23-24-shellfish/index.md
-      - Quick Reference: weeks/03-the-proteins/23-24-shellfish/quick-ref.md
-      - Shopping List: weeks/03-the-proteins/23-24-shellfish/shopping-list.md
-    - "Weeks 25–26: Charcuterie Review":
-      - Full Guide: weeks/03-the-proteins/25-26-charcuterie-review/index.md
-      - Quick Reference: weeks/03-the-proteins/25-26-charcuterie-review/quick-ref.md
-      - Shopping List: weeks/03-the-proteins/25-26-charcuterie-review/shopping-list.md
+    - "Weeks 17–18: Beef Fundamentals":
+      - Full Guide: weeks/03-the-proteins/17-18-beef-fundamentals/index.md
+      - Quick Reference: weeks/03-the-proteins/17-18-beef-fundamentals/quick-ref.md
+      - Shopping List: weeks/03-the-proteins/17-18-beef-fundamentals/shopping-list.md
+    - "Weeks 19–20: Beef Advanced":
+      - Full Guide: weeks/03-the-proteins/19-20-beef-advanced/index.md
+      - Quick Reference: weeks/03-the-proteins/19-20-beef-advanced/quick-ref.md
+      - Shopping List: weeks/03-the-proteins/19-20-beef-advanced/shopping-list.md
+    - "Weeks 21–22: Pork":
+      - Full Guide: weeks/03-the-proteins/21-22-pork/index.md
+      - Quick Reference: weeks/03-the-proteins/21-22-pork/quick-ref.md
+      - Shopping List: weeks/03-the-proteins/21-22-pork/shopping-list.md
+    - "Weeks 23–24: Fish":
+      - Full Guide: weeks/03-the-proteins/23-24-fish/index.md
+      - Quick Reference: weeks/03-the-proteins/23-24-fish/quick-ref.md
+      - Shopping List: weeks/03-the-proteins/23-24-fish/shopping-list.md
+    - "Weeks 25–26: Shellfish":
+      - Full Guide: weeks/03-the-proteins/25-26-shellfish/index.md
+      - Quick Reference: weeks/03-the-proteins/25-26-shellfish/quick-ref.md
+      - Shopping List: weeks/03-the-proteins/25-26-shellfish/shopping-list.md
+    - "Weeks 27–28: Charcuterie Review":
+      - Full Guide: weeks/03-the-proteins/27-28-charcuterie-review/index.md
+      - Quick Reference: weeks/03-the-proteins/27-28-charcuterie-review/quick-ref.md
+      - Shopping List: weeks/03-the-proteins/27-28-charcuterie-review/shopping-list.md
 
   - "Unit 4 — World's Kitchens":
     - Overview: weeks/04-worlds-kitchens/README.md
-    - "Weeks 27–28: French":
-      - Full Guide: weeks/04-worlds-kitchens/27-28-french/index.md
-      - Quick Reference: weeks/04-worlds-kitchens/27-28-french/quick-ref.md
-      - Shopping List: weeks/04-worlds-kitchens/27-28-french/shopping-list.md
-    - "Weeks 29–30: Italian":
-      - Full Guide: weeks/04-worlds-kitchens/29-30-italian/index.md
-      - Quick Reference: weeks/04-worlds-kitchens/29-30-italian/quick-ref.md
-      - Shopping List: weeks/04-worlds-kitchens/29-30-italian/shopping-list.md
-    - "Weeks 31–32: Japanese":
-      - Full Guide: weeks/04-worlds-kitchens/31-32-japanese/index.md
-      - Quick Reference: weeks/04-worlds-kitchens/31-32-japanese/quick-ref.md
-      - Shopping List: weeks/04-worlds-kitchens/31-32-japanese/shopping-list.md
-    - "Weeks 33–34: Mexican":
-      - Full Guide: weeks/04-worlds-kitchens/33-34-mexican/index.md
-      - Quick Reference: weeks/04-worlds-kitchens/33-34-mexican/quick-ref.md
-      - Shopping List: weeks/04-worlds-kitchens/33-34-mexican/shopping-list.md
-    - "Weeks 35–36: Indian":
-      - Full Guide: weeks/04-worlds-kitchens/35-36-indian/index.md
-      - Quick Reference: weeks/04-worlds-kitchens/35-36-indian/quick-ref.md
-      - Shopping List: weeks/04-worlds-kitchens/35-36-indian/shopping-list.md
-    - "Weeks 37–38: Middle Eastern":
-      - Full Guide: weeks/04-worlds-kitchens/37-38-middle-eastern/index.md
-      - Quick Reference: weeks/04-worlds-kitchens/37-38-middle-eastern/quick-ref.md
-      - Shopping List: weeks/04-worlds-kitchens/37-38-middle-eastern/shopping-list.md
-    - "Weeks 39–40: SE Asian Review":
-      - Full Guide: weeks/04-worlds-kitchens/39-40-southeast-asian-review/index.md
-      - Quick Reference: weeks/04-worlds-kitchens/39-40-southeast-asian-review/quick-ref.md
-      - Shopping List: weeks/04-worlds-kitchens/39-40-southeast-asian-review/shopping-list.md
+    - "Weeks 29–30: French":
+      - Full Guide: weeks/04-worlds-kitchens/29-30-french/index.md
+      - Quick Reference: weeks/04-worlds-kitchens/29-30-french/quick-ref.md
+      - Shopping List: weeks/04-worlds-kitchens/29-30-french/shopping-list.md
+    - "Weeks 31–32: Italian":
+      - Full Guide: weeks/04-worlds-kitchens/31-32-italian/index.md
+      - Quick Reference: weeks/04-worlds-kitchens/31-32-italian/quick-ref.md
+      - Shopping List: weeks/04-worlds-kitchens/31-32-italian/shopping-list.md
+    - "Weeks 33–34: Japanese":
+      - Full Guide: weeks/04-worlds-kitchens/33-34-japanese/index.md
+      - Quick Reference: weeks/04-worlds-kitchens/33-34-japanese/quick-ref.md
+      - Shopping List: weeks/04-worlds-kitchens/33-34-japanese/shopping-list.md
+    - "Weeks 35–36: Chinese":
+      - Full Guide: weeks/04-worlds-kitchens/35-36-chinese/index.md
+      - Quick Reference: weeks/04-worlds-kitchens/35-36-chinese/quick-ref.md
+      - Shopping List: weeks/04-worlds-kitchens/35-36-chinese/shopping-list.md
+    - "Weeks 37–38: Mexican":
+      - Full Guide: weeks/04-worlds-kitchens/37-38-mexican/index.md
+      - Quick Reference: weeks/04-worlds-kitchens/37-38-mexican/quick-ref.md
+      - Shopping List: weeks/04-worlds-kitchens/37-38-mexican/shopping-list.md
+    - "Weeks 39–40: Indian":
+      - Full Guide: weeks/04-worlds-kitchens/39-40-indian/index.md
+      - Quick Reference: weeks/04-worlds-kitchens/39-40-indian/quick-ref.md
+      - Shopping List: weeks/04-worlds-kitchens/39-40-indian/shopping-list.md
+    - "Weeks 41–42: Middle Eastern":
+      - Full Guide: weeks/04-worlds-kitchens/41-42-middle-eastern/index.md
+      - Quick Reference: weeks/04-worlds-kitchens/41-42-middle-eastern/quick-ref.md
+      - Shopping List: weeks/04-worlds-kitchens/41-42-middle-eastern/shopping-list.md
+    - "Weeks 43–44: SE Asian Review":
+      - Full Guide: weeks/04-worlds-kitchens/43-44-southeast-asian-review/index.md
+      - Quick Reference: weeks/04-worlds-kitchens/43-44-southeast-asian-review/quick-ref.md
+      - Shopping List: weeks/04-worlds-kitchens/43-44-southeast-asian-review/shopping-list.md
 
   - "Unit 5 — Mastery & Pastry":
     - Overview: weeks/05-mastery-and-pastry/README.md
-    - "Weeks 41–42: Bread":
-      - Full Guide: weeks/05-mastery-and-pastry/41-42-bread/index.md
-      - Quick Reference: weeks/05-mastery-and-pastry/41-42-bread/quick-ref.md
-      - Shopping List: weeks/05-mastery-and-pastry/41-42-bread/shopping-list.md
-    - "Weeks 43–44: Pastry":
-      - Full Guide: weeks/05-mastery-and-pastry/43-44-pastry/index.md
-      - Quick Reference: weeks/05-mastery-and-pastry/43-44-pastry/quick-ref.md
-      - Shopping List: weeks/05-mastery-and-pastry/43-44-pastry/shopping-list.md
-    - "Weeks 45–46: Desserts":
-      - Full Guide: weeks/05-mastery-and-pastry/45-46-desserts/index.md
-      - Quick Reference: weeks/05-mastery-and-pastry/45-46-desserts/quick-ref.md
-      - Shopping List: weeks/05-mastery-and-pastry/45-46-desserts/shopping-list.md
-    - "Weeks 47–48: Signature Dishes":
-      - Full Guide: weeks/05-mastery-and-pastry/47-48-signature-dishes/index.md
-      - Quick Reference: weeks/05-mastery-and-pastry/47-48-signature-dishes/quick-ref.md
-      - Shopping List: weeks/05-mastery-and-pastry/47-48-signature-dishes/shopping-list.md
-    - "Weeks 49–50: Menus & Timing":
-      - Full Guide: weeks/05-mastery-and-pastry/49-50-menus-and-timing/index.md
-      - Quick Reference: weeks/05-mastery-and-pastry/49-50-menus-and-timing/quick-ref.md
-      - Shopping List: weeks/05-mastery-and-pastry/49-50-menus-and-timing/shopping-list.md
-    - "Weeks 51–52: Final Exam":
-      - Full Guide: weeks/05-mastery-and-pastry/51-52-final-exam/index.md
-      - Quick Reference: weeks/05-mastery-and-pastry/51-52-final-exam/quick-ref.md
-      - Shopping List: weeks/05-mastery-and-pastry/51-52-final-exam/shopping-list.md
+    - "Weeks 45–46: Bread":
+      - Full Guide: weeks/05-mastery-and-pastry/45-46-bread/index.md
+      - Quick Reference: weeks/05-mastery-and-pastry/45-46-bread/quick-ref.md
+      - Shopping List: weeks/05-mastery-and-pastry/45-46-bread/shopping-list.md
+    - "Weeks 47–48: Pastry":
+      - Full Guide: weeks/05-mastery-and-pastry/47-48-pastry/index.md
+      - Quick Reference: weeks/05-mastery-and-pastry/47-48-pastry/quick-ref.md
+      - Shopping List: weeks/05-mastery-and-pastry/47-48-pastry/shopping-list.md
+    - "Weeks 49–50: Desserts":
+      - Full Guide: weeks/05-mastery-and-pastry/49-50-desserts/index.md
+      - Quick Reference: weeks/05-mastery-and-pastry/49-50-desserts/quick-ref.md
+      - Shopping List: weeks/05-mastery-and-pastry/49-50-desserts/shopping-list.md
+    - "Weeks 51–52: Signature Dishes":
+      - Full Guide: weeks/05-mastery-and-pastry/51-52-signature-dishes/index.md
+      - Quick Reference: weeks/05-mastery-and-pastry/51-52-signature-dishes/quick-ref.md
+      - Shopping List: weeks/05-mastery-and-pastry/51-52-signature-dishes/shopping-list.md
+    - "Weeks 53–54: Menus & Timing":
+      - Full Guide: weeks/05-mastery-and-pastry/53-54-menus-and-timing/index.md
+      - Quick Reference: weeks/05-mastery-and-pastry/53-54-menus-and-timing/quick-ref.md
+      - Shopping List: weeks/05-mastery-and-pastry/53-54-menus-and-timing/shopping-list.md
+    - "Weeks 55–56: Final Exam":
+      - Full Guide: weeks/05-mastery-and-pastry/55-56-final-exam/index.md
+      - Quick Reference: weeks/05-mastery-and-pastry/55-56-final-exam/quick-ref.md
+      - Shopping List: weeks/05-mastery-and-pastry/55-56-final-exam/shopping-list.md
