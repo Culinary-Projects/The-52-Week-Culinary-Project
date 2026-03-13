@@ -4,7 +4,11 @@
 
 ---
 
-> **How to use this list:** Buy everything at the start of Week 1. Mid-week proteins (chicken, shrimp) can be bought in one trip Sunday or Monday. The whole chicken for Wednesday of Week 2 must be bought fresh, not frozen.
+> **How to use this list:** Do this in two produce trips — one before Week 1 starts, one before Week 2 starts. The list is already split that way. Produce bought in one go at the start of Week 1 will not survive to Week 2.
+>
+> **Pantry and dry goods** (pasta, sauces, oils, spices) can all be bought in one trip before Week 1 — they keep indefinitely.
+>
+> **Proteins:** Buy the Week 1 proteins (chicken breasts, shrimp, beef) before Week 1. Buy the Week 2 whole chicken the day before you plan to break it down — it must be fresh, not frozen, and fresh chicken has a short window.
 
 ---
 
