@@ -39,7 +39,7 @@ The prep is simple — garlic and parsley — which lets you focus entirely on y
 
 ### Tuesday — The Claw
 
-**Skill:** Before touching the stove, take one onion, one carrot, one celery stalk. Practice the [claw grip](https://www.youtube.com/watch?v=BuebC0CfD8E) — fingers curled, knuckles as the guide rail for the blade. Keep the tip of the blade in contact with the board, pull back slightly until the blade slices in, then press down and forward using the full length of the blade. Dice all three into rough ½" pieces. Time yourself. Don't worry about speed yet — worry about uniformity.
+**Skill:** Before touching the stove, take one onion, one carrot, one celery stalk. Practice the claw grip — fingers curled, knuckles as the guide rail for the blade. Keep the tip of the blade in contact with the board, pull back slightly until the blade slices in, then press down and forward using the full length of the blade. Dice all three into rough ½" pieces. Time yourself. Don't worry about speed yet — worry about uniformity.
 
 **Full Meal:** [The Best Chicken Noodle Soup](https://www.seriouseats.com/the-ultimate-chicken-noodle-soup)
 
@@ -185,7 +185,7 @@ The thighs and legs go in the fridge (use them Friday) or freeze for later. Noth
 
 ### Thursday — OFF
 
-📖 Read: [What Actually Dulls Your Knife](https://www.seriouseats.com/knife-skills-how-to-sharpen-a-knife)
+📖 Read: [How to Sharpen a Knife](https://www.seriouseats.com/knife-skills-how-to-sharpen-a-knife)
 
 The dishwasher, glass cutting boards, and storing knives loose in a drawer — these are the three biggest offenders. Check your own habits.
 
