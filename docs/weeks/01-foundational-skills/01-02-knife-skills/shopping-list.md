@@ -25,6 +25,7 @@
 ## 🥦 Produce
 
 **Week 1:**
+
 - [ ] Yellow onions — 3 large (soup + French onion soup)
 - [ ] Carrots — 4 (soup + mirepoix)
 - [ ] Celery — 1 bunch (soup)
@@ -36,6 +37,7 @@
 - [ ] Fresh thyme — 1 bunch (French onion soup)
 
 **Week 2:**
+
 - [ ] Russet or Yukon Gold potatoes — 2 lbs (Week 2 Tue home fries)
 - [ ] Red bell peppers — 2 (Week 2 Tue home fries)
 - [ ] Zucchini — 2 medium (Week 2 Sat tian)
