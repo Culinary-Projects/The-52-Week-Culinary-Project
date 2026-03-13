@@ -1,6 +1,6 @@
-# Weeks 41–42: Bread
+# Weeks 45–46: Bread
 
-← [Weeks 39–40: Southeast Asian](../../04-worlds-kitchens/39-40-southeast-asian-review/index.md) | [Weeks 43–44: Pastry →](../43-44-pastry/index.md)
+← [Weeks 43–44: Southeast Asian](../../04-worlds-kitchens/43-44-southeast-asian-review/index.md) | [Weeks 47–48: Pastry →](../47-48-pastry/index.md)
 
 ---
 
@@ -209,4 +209,4 @@ No-knead and focaccia are gateway loaves. If you finished this week intrigued ra
 ---
 
 *Navigation:*
-← [Weeks 39–40: Southeast Asian](../../04-worlds-kitchens/39-40-southeast-asian-review/index.md) | [Weeks 43–44: Pastry →](../43-44-pastry/index.md)
+← [Weeks 43–44: Southeast Asian](../../04-worlds-kitchens/43-44-southeast-asian-review/index.md) | [Weeks 47–48: Pastry →](../47-48-pastry/index.md)

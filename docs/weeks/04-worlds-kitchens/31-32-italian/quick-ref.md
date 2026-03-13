@@ -1,4 +1,4 @@
-# Quick Reference — Weeks 29–30: Italian
+# Quick Reference — Weeks 31–32: Italian
 
 ← [Back to Full Guide](index.md) | [Shopping List](shopping-list.md)
 

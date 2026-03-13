@@ -1,6 +1,6 @@
-# Weeks 29–30: Italian
+# Weeks 31–32: Italian
 
-← [Weeks 27–28: French Classics](../27-28-french/index.md) | [Weeks 31–32: Japanese →](../31-32-japanese/index.md)
+← [Weeks 29–30: French Classics](../29-30-french/index.md) | [Weeks 33–34: Japanese →](../33-34-japanese/index.md)
 
 ---
 
@@ -116,7 +116,7 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 ### Tuesday — Pasta Fresca (Fresh Egg Pasta)
 
 **Skill:** Making egg pasta dough by hand; rolling and cutting; various shapes  
-**Read first:** Reference pasta-making from Weeks 11–12 (pasta fresca was introduced there) — this session goes deeper into filled pasta
+**Read first:** Reference pasta-making from Weeks 13–14 (pasta fresca was introduced there) — this session goes deeper into filled pasta
 
 **What you're learning:** Now that you know the dough, try a filled shape: either tortelloni (large), ravioli, or a simple pappardelle if fresh dough's not been practiced recently. The filling: ricotta + spinach + Parmesan + nutmeg.
 
@@ -211,4 +211,4 @@ Osso buco is a braise but it's also a study in gremolata — the lemon zest, gar
 ---
 
 *Navigation:*
-← [Weeks 27–28: French Classics](../27-28-french/index.md) | [Weeks 31–32: Japanese →](../31-32-japanese/index.md)
+← [Weeks 29–30: French Classics](../29-30-french/index.md) | [Weeks 33–34: Japanese →](../33-34-japanese/index.md)

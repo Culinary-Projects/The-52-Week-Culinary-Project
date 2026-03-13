@@ -1,6 +1,6 @@
-# Weeks 43–44: Pastry
+# Weeks 47–48: Pastry
 
-← [Weeks 41–42: Bread](../41-42-bread/index.md) | [Weeks 45–46: Desserts →](../45-46-desserts/index.md)
+← [Weeks 45–46: Bread](../45-46-bread/index.md) | [Weeks 49–50: Desserts →](../49-50-desserts/index.md)
 
 ---
 
@@ -198,4 +198,4 @@ Tarte tatin requires caramelizing sugar in butter. It sounds terrifying. But car
 ---
 
 *Navigation:*
-← [Weeks 41–42: Bread](../41-42-bread/index.md) | [Weeks 45–46: Desserts →](../45-46-desserts/index.md)
+← [Weeks 45–46: Bread](../45-46-bread/index.md) | [Weeks 49–50: Desserts →](../49-50-desserts/index.md)

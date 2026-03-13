@@ -1,4 +1,4 @@
-# Weeks 35–36 Shopping List — Chinese Cuisine
+# Weeks 39–40 Shopping List — Chinese Cuisine
 
 ← [Back to Week 35–36 Guide](index.md)
 

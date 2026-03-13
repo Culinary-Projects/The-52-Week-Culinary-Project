@@ -1,6 +1,6 @@
-# 🥦 Weeks 11–12: Vegetables & Plant-Forward Cooking
+# 🥦 Weeks 13–14: Vegetables & Plant-Forward Cooking
 
-← [Weeks 9–10: Seasoning & Flavor](../09-10-seasoning-and-flavor/index.md) | [Weeks 13–14: Pasta & Grains →](../13-14-pasta-and-grains/index.md)
+← [Weeks 9–10: Seasoning & Flavor](../09-10-seasoning-and-flavor/index.md) | [Weeks 15–16: Pasta & Grains →](../13-14-pasta-and-grains/index.md)
 
 ---
 
@@ -320,7 +320,7 @@ The sauerkraut you started Thursday needs checking. Push it down under the brine
 
 ## Module 2 Checkpoint Continues
 
-Vegetables are now in your repertoire, not just alongside your repertoire. Before moving to Weeks 13–14 (Pasta & Grains), you should be able to answer yes to:
+Vegetables are now in your repertoire, not just alongside your repertoire. Before moving to Weeks 15–16 (Pasta & Grains), you should be able to answer yes to:
 
 - [ ] I can blanch and shock a green vegetable and it stays bright green
 - [ ] I can roast any vegetable without it steaming in its own moisture

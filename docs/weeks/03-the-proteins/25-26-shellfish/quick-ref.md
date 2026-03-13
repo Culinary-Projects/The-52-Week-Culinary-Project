@@ -1,4 +1,4 @@
-# Quick Reference — Weeks 23–24: Shellfish
+# Quick Reference — Weeks 25–26: Shellfish
 
 ← [Back to Full Guide](index.md) | [Shopping List](shopping-list.md)
 
@@ -47,4 +47,4 @@
 - **Shrimp:** "Fresh" shrimp at grocery stores is usually frozen-thawed; frozen wild-caught is fine
 - **Lobster:** Buy day of cook from a store with a live tank; avoid if tank smells off
 - **Crab:** Ask fishmonger for live or freshly cooked; frozen legs are a valid option for chili crab
-- **Scallops:** Dry-packed only (see Weeks 11–12 for full technique)
+- **Scallops:** Dry-packed only (see Weeks 13–14 for full technique)

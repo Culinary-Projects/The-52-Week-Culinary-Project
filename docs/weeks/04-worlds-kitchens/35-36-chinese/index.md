@@ -1,6 +1,6 @@
-# 🥢 Weeks 35–36: Chinese Cuisine
+# 🥢 Weeks 39–40: Chinese Cuisine
 
-← [Weeks 33–34: Japanese Cuisine](../33-34-japanese/index.md) | [Weeks 37–38: Mexican Cuisine →](../37-38-mexican/index.md)
+← [Weeks 37–38: Japanese Cuisine](../33-34-japanese/index.md) | [Weeks 41–42: Mexican Cuisine →](../37-38-mexican/index.md)
 
 ---
 

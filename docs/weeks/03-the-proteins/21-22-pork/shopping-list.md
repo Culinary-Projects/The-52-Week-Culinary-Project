@@ -1,4 +1,4 @@
-# 🛒 Shopping List — Weeks 19–20: Pork All Cuts
+# 🛒 Shopping List — Weeks 21–22: Pork All Cuts
 
 ← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)
 

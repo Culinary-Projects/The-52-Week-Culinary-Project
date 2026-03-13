@@ -248,4 +248,4 @@ Salt gets all the attention, but acid is what makes a dish taste complete. A squ
 
 ---
 
-← [Weeks 7–8](../../01-foundational-skills/07-08-stocks-and-eggs/index.md) | [Weeks 11–12 →](../11-12-pasta-and-grains/index.md)
+← [Weeks 7–8](../../01-foundational-skills/07-08-stocks-and-eggs/index.md) | [Weeks 11–12: Vegetables & Plant-Forward →](../11-12-vegetables-plant-forward/index.md)

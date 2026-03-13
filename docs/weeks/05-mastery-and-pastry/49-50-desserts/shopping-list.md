@@ -1,6 +1,6 @@
-# Weeks 45–46: Desserts — Shopping List
+# Weeks 49–50: Desserts — Shopping List
 
-← [Weeks 43–44: Pastry](../43-44-pastry/index.md) | [Weeks 47–48: Signature Dishes →](../47-48-signature-dishes/index.md)
+← [Weeks 47–48: Pastry](../47-48-pastry/index.md) | [Weeks 51–52: Signature Dishes →](../51-52-signature-dishes/index.md)
 
 ---
 

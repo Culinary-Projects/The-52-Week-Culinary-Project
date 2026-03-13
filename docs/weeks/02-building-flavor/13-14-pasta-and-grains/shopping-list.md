@@ -1,4 +1,4 @@
-# 🛒 Shopping List — Weeks 11–12: Pasta & Grains from Scratch
+# 🛒 Shopping List — Weeks 13–14: Pasta & Grains from Scratch
 
 ← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)
 

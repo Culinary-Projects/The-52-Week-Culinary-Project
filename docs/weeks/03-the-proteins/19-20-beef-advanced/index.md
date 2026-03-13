@@ -1,4 +1,4 @@
-# 🥩 Weeks 17–18: Beef — Advanced Cuts
+# 🥩 Weeks 19–20: Beef — Advanced Cuts
 
 ← [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
 
@@ -200,4 +200,4 @@ Hanger, skirt, flank, and flat iron are the cuts that chefs reach for when they'
 
 ---
 
-← [Weeks 15–16](../15-16-beef-fundamentals/index.md) | [Weeks 19–20 →](../19-20-pork/index.md)
+← [Weeks 17–18](../17-18-beef-fundamentals/index.md) | [Weeks 21–22 →](../21-22-pork/index.md)

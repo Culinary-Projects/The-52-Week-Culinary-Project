@@ -1,4 +1,4 @@
-# 🥩 Weeks 15–16: Beef — Fundamentals
+# 🥩 Weeks 17–18: Beef — Fundamentals
 
 ← [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
 
@@ -242,4 +242,4 @@ Most steak advice is either wrong or oversimplified. The Food Lab has done more 
 
 ---
 
-← [Weeks 13–14](../../02-building-flavor/13-14-midpoint-review/index.md) | [Weeks 17–18 →](../17-18-beef-advanced/index.md)
+← [Weeks 15–16](../../02-building-flavor/15-16-midpoint-review/index.md) | [Weeks 19–20 →](../19-20-beef-advanced/index.md)

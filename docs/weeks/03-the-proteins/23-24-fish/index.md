@@ -1,4 +1,4 @@
-# 🐟 Weeks 21–22: Seafood — Fish
+# 🐟 Weeks 23–24: Seafood — Fish
 
 ← [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
 
@@ -217,4 +217,4 @@ Bouillabaisse is a lesson in building shellfish stock, saffron, and rouille — 
 
 ---
 
-← [Weeks 19–20](../19-20-pork/index.md) | [Weeks 23–24 →](../23-24-shellfish/index.md)
+← [Weeks 21–22](../21-22-pork/index.md) | [Weeks 25–26 →](../25-26-shellfish/index.md)

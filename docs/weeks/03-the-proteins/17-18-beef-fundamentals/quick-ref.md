@@ -1,4 +1,4 @@
-# ⚡ Weeks 15–16 Quick Reference — Beef Fundamentals
+# ⚡ Weeks 17–18 Quick Reference — Beef Fundamentals
 
 ← [Back to Full Guide](index.md) | [Shopping List →](shopping-list.md)
 

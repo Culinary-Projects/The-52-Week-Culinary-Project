@@ -1,4 +1,4 @@
-# 🛒 Shopping List — Weeks 13–14: Module 2 Capstone: Poultry & Flavor Review
+# 🛒 Shopping List — Weeks 15–16: Module 2 Capstone: Poultry & Flavor Review
 
 ← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)
 

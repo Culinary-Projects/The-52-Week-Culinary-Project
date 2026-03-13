@@ -1,6 +1,6 @@
-# Weeks 37–38: Middle Eastern
+# Weeks 41–42: Middle Eastern
 
-← [Weeks 35–36: Indian](../35-36-indian/index.md) | [Weeks 39–40: Southeast Asian →](../39-40-southeast-asian-review/index.md)
+← [Weeks 39–40: Indian](../39-40-indian/index.md) | [Weeks 43–44: Southeast Asian →](../43-44-southeast-asian-review/index.md)
 
 ---
 
@@ -201,4 +201,4 @@ Two pantry ingredients define the flavors of this week's food. The quality of yo
 ---
 
 *Navigation:*
-← [Weeks 35–36: Indian](../35-36-indian/index.md) | [Weeks 39–40: Southeast Asian →](../39-40-southeast-asian-review/index.md)
+← [Weeks 39–40: Indian](../39-40-indian/index.md) | [Weeks 43–44: Southeast Asian →](../43-44-southeast-asian-review/index.md)

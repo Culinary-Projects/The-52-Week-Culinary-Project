@@ -1,4 +1,4 @@
-# Quick Reference — Weeks 31–32: Japanese
+# Quick Reference — Weeks 33–34: Japanese
 
 ← [Back to Full Guide](index.md) | [Shopping List](shopping-list.md)
 

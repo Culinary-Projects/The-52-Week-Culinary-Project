@@ -1,4 +1,4 @@
-# Quick Reference — Weeks 25–26: Charcuterie & Curing
+# Quick Reference — Weeks 27–28: Charcuterie & Curing
 
 ← [Back to Full Guide](index.md) | [Shopping List](shopping-list.md)
 

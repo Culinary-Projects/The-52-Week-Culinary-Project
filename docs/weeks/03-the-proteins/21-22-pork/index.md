@@ -1,4 +1,4 @@
-# 🐷 Weeks 19–20: Pork — All Cuts
+# 🐷 Weeks 21–22: Pork — All Cuts
 
 ← [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
 
@@ -188,8 +188,8 @@ This week is a natural gateway to charcuterie. Bacon, pancetta, and guanciale ar
 
 ### A Book Worth Having
 
-- 📚 [***Charcuterie: The Craft of Salting, Smoking, and Curing* by Michael Ruhlman & Brian Polcyn**](https://www.amazon.com/dp/0393058298) — The gateway book into everything you'll explore in Weeks 25–26. Covers the principles and science of every cured and preserved pork product.
+- 📚 [***Charcuterie: The Craft of Salting, Smoking, and Curing* by Michael Ruhlman & Brian Polcyn**](https://www.amazon.com/dp/0393058298) — The gateway book into everything you'll explore in Weeks 27–28. Covers the principles and science of every cured and preserved pork product.
 
 ---
 
-← [Weeks 17–18](../17-18-beef-advanced/index.md) | [Weeks 21–22 →](../21-22-fish/index.md)
+← [Weeks 19–20](../19-20-beef-advanced/index.md) | [Weeks 23–24 →](../23-24-fish/index.md)

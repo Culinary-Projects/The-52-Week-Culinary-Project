@@ -1,4 +1,4 @@
-# ⚡ Weeks 19–20 Quick Reference — Pork All Cuts
+# ⚡ Weeks 21–22 Quick Reference — Pork All Cuts
 
 ← [Back to Full Guide](index.md) | [Shopping List →](shopping-list.md)
 

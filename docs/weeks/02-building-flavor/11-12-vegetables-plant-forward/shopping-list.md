@@ -1,4 +1,4 @@
-# Weeks 11–12 Shopping List — Vegetables & Plant-Forward Cooking
+# Weeks 13–14 Shopping List — Vegetables & Plant-Forward Cooking
 
 ← [Back to Week 11–12 Guide](index.md)
 

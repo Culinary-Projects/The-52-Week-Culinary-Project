@@ -1,6 +1,6 @@
-# Weeks 31–32: Japanese
+# Weeks 33–34: Japanese
 
-← [Weeks 29–30: Italian](../29-30-italian/index.md) | [Weeks 33–34: Mexican →](../33-34-mexican/index.md)
+← [Weeks 31–32: Italian](../31-32-italian/index.md) | [Weeks 35–36: Chinese →](../35-36-chinese/index.md)
 
 ---
 
@@ -244,4 +244,4 @@ Japanese cooking is defined by restraint: fewer ingredients, better technique, m
 ---
 
 *Navigation:*
-← [Weeks 29–30: Italian](../29-30-italian/index.md) | [Weeks 33–34: Mexican →](../33-34-mexican/index.md)
+← [Weeks 31–32: Italian](../31-32-italian/index.md) | [Weeks 35–36: Chinese →](../35-36-chinese/index.md)

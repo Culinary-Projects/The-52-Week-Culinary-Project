@@ -1,4 +1,4 @@
-# ⚡ Weeks 17–18 Quick Reference — Beef Advanced Cuts
+# ⚡ Weeks 19–20 Quick Reference — Beef Advanced Cuts
 
 ← [Back to Full Guide](index.md) | [Shopping List →](shopping-list.md)
 
@@ -26,7 +26,7 @@
 | **Wed** | Tamarind Braised Short Ribs + Jasmine Rice + Stir-Fried Greens | SE Asian flavor profile on a braise | [Tamarind Short Ribs](https://www.seriouseats.com/tamarind-braised-beef-short-ribs-recipe-11875259) |
 | **Thu** | *OFF* | Reflect: what technique insight carries beyond beef? | — |
 | **Fri** | Stuffed Flank Steak (pesto, mozzarella, prosciutto) + Roasted Tomatoes + Bread | Butterflying; rolling; grill or sear | [Stuffed Flank Steak](https://www.seriouseats.com/grilled-stuffed-flank-steak-pesto-mozzarella-prosciutto-recipe) |
-| **Sat** | 🔨 **PROJECT: Module 3 Skills Dinner** — your choice of technique | Full synthesis from Weeks 15–18 | [Smash Burgers](https://www.seriouseats.com/classic-smashed-burgers-recipe) (as starter option) |
+| **Sat** | 🔨 **PROJECT: Module 3 Skills Dinner** — your choice of technique | Full synthesis from Weeks 17–20 | [Smash Burgers](https://www.seriouseats.com/classic-smashed-burgers-recipe) (as starter option) |
 
 ---
 

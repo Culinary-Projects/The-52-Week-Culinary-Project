@@ -1,4 +1,4 @@
-# Quick Reference — Weeks 43–44: Pastry
+# Quick Reference — Weeks 47–48: Pastry
 
 ← [Back to Full Guide](index.md) | [Shopping List](shopping-list.md)
 

@@ -1,6 +1,6 @@
-# Weeks 23–24: Shellfish
+# Weeks 25–26: Shellfish
 
-← [Weeks 21–22: Fish](../21-22-fish/index.md) | [Weeks 25–26: Charcuterie & Curing →](../25-26-charcuterie-review/index.md)
+← [Weeks 23–24: Fish](../23-24-fish/index.md) | [Weeks 27–28: Charcuterie & Curing →](../27-28-charcuterie-review/index.md)
 
 ---
 
@@ -94,7 +94,7 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 
 ## Week 24 — The Next Level: Seared Scallops Already Happened. What Comes After?
 
-*(Weeks 11–12 covered dry-packed seared scallops. This week extends into more complex shellfish territory — built dishes, larger preparations, and pairing shellfish with other proteins.)*
+*(Weeks 13–14 covered dry-packed seared scallops. This week extends into more complex shellfish territory — built dishes, larger preparations, and pairing shellfish with other proteins.)*
 
 ---
 
@@ -213,4 +213,4 @@ A properly seared scallop has a deep, dry crust on each flat side and remains tr
 ---
 
 *Navigation:*
-← [Weeks 21–22: Fish](../21-22-fish/index.md) | [Weeks 25–26: Charcuterie & Curing →](../25-26-charcuterie-review/index.md)
+← [Weeks 23–24: Fish](../23-24-fish/index.md) | [Weeks 27–28: Charcuterie & Curing →](../27-28-charcuterie-review/index.md)

@@ -1,4 +1,4 @@
-# Weeks 35–36 Quick Reference — Chinese Cuisine
+# Weeks 39–40 Quick Reference — Chinese Cuisine
 
 ← [Back to Week 35–36 Guide](index.md)
 

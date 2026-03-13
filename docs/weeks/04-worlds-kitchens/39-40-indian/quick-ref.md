@@ -1,4 +1,4 @@
-# Quick Reference — Weeks 35–36: Indian
+# Quick Reference — Weeks 39–40: Indian
 
 ← [Back to Full Guide](index.md) | [Shopping List](shopping-list.md)
 

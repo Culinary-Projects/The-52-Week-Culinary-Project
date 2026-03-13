@@ -1,4 +1,4 @@
-# 🛒 Shopping List — Weeks 21–22: Seafood Fish
+# 🛒 Shopping List — Weeks 23–24: Seafood Fish
 
 ← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)
 

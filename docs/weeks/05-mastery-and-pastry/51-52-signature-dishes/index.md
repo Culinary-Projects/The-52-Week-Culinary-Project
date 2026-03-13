@@ -1,6 +1,6 @@
-# Weeks 47–48: Signature Dishes
+# Weeks 51–52: Signature Dishes
 
-← [Weeks 45–46: Desserts](../45-46-desserts/index.md) | [Weeks 49–50: Menus & Timing →](../49-50-menus-and-timing/index.md)
+← [Weeks 49–50: Desserts](../49-50-desserts/index.md) | [Weeks 53–54: Menus & Timing →](../53-54-menus-and-timing/index.md)
 
 ---
 
@@ -222,4 +222,4 @@ The jump from following a recipe to owning a dish happens through iteration: mak
 ---
 
 *Navigation:*
-← [Weeks 45–46: Desserts](../45-46-desserts/index.md) | [Weeks 49–50: Menus & Timing →](../49-50-menus-and-timing/index.md)
+← [Weeks 49–50: Desserts](../49-50-desserts/index.md) | [Weeks 53–54: Menus & Timing →](../53-54-menus-and-timing/index.md)

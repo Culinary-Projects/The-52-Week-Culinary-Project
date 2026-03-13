@@ -1,6 +1,6 @@
-# Weeks 25–26: Charcuterie & Curing
+# Weeks 27–28: Charcuterie & Curing
 
-← [Weeks 23–24: Shellfish](../23-24-shellfish/index.md) | [Weeks 27–28: French Classics →](../../04-worlds-kitchens/27-28-french/index.md)
+← [Weeks 25–26: Shellfish](../25-26-shellfish/index.md) | [Weeks 29–30: French Classics →](../../04-worlds-kitchens/29-30-french/index.md)
 
 ---
 
@@ -206,4 +206,4 @@ Gravlax is the cleanest introduction to curing — no smoking, no casings, no sp
 ---
 
 *Navigation:*
-← [Weeks 23–24: Shellfish](../23-24-shellfish/index.md) | [Weeks 27–28: French Classics →](../../04-worlds-kitchens/27-28-french/index.md)
+← [Weeks 25–26: Shellfish](../25-26-shellfish/index.md) | [Weeks 29–30: French Classics →](../../04-worlds-kitchens/29-30-french/index.md)

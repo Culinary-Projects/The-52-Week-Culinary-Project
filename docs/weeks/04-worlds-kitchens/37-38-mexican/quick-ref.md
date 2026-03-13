@@ -1,4 +1,4 @@
-# Quick Reference — Weeks 33–34: Mexican
+# Quick Reference — Weeks 37–38: Mexican
 
 ← [Back to Full Guide](index.md) | [Shopping List](shopping-list.md)
 

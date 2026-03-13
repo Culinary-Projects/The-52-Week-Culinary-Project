@@ -1,4 +1,4 @@
-# Quick Reference — Weeks 41–42: Bread
+# Quick Reference — Weeks 45–46: Bread
 
 ← [Back to Full Guide](index.md) | [Shopping List](shopping-list.md)
 

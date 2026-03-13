@@ -1,4 +1,4 @@
-# Quick Reference — Weeks 27–28: French Classics
+# Quick Reference — Weeks 29–30: French Classics
 
 ← [Back to Full Guide](index.md) | [Shopping List](shopping-list.md)
 

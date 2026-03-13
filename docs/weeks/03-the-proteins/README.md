@@ -13,12 +13,12 @@ By the end of Week 26, you should be able to handle any cut of any animal with c
 
 | Weeks | Topic | Full Guide | Quick Ref | Shopping List |
 |-------|-------|------------|-----------|---------------|
-| 15–16 | Beef — Fundamentals | [→ Guide](15-16-beef-fundamentals/index.md) | [→ Quick Ref](15-16-beef-fundamentals/quick-ref.md) | [→ Shopping](15-16-beef-fundamentals/shopping-list.md) |
-| 17–18 | Beef — Advanced Cuts | [→ Guide](17-18-beef-advanced/index.md) | [→ Quick Ref](17-18-beef-advanced/quick-ref.md) | [→ Shopping](17-18-beef-advanced/shopping-list.md) |
-| 19–20 | Pork — All Cuts | [→ Guide](19-20-pork/index.md) | [→ Quick Ref](19-20-pork/quick-ref.md) | [→ Shopping](19-20-pork/shopping-list.md) |
-| 21–22 | Seafood — Fish | [→ Guide](21-22-fish/index.md) | [→ Quick Ref](21-22-fish/quick-ref.md) | [→ Shopping](21-22-fish/shopping-list.md) |
-| 23–24 | Seafood — Shellfish | [→ Guide](23-24-shellfish/index.md) | [→ Quick Ref](23-24-shellfish/quick-ref.md) | [→ Shopping](23-24-shellfish/shopping-list.md) |
-| 25–26 | Module 3 Capstone: Charcuterie & Curing | [→ Guide](25-26-charcuterie-review/index.md) | [→ Quick Ref](25-26-charcuterie-review/quick-ref.md) | [→ Shopping](25-26-charcuterie-review/shopping-list.md) |
+| 15–16 | Beef — Fundamentals | [→ Guide](17-18-beef-fundamentals/index.md) | [→ Quick Ref](17-18-beef-fundamentals/quick-ref.md) | [→ Shopping](17-18-beef-fundamentals/shopping-list.md) |
+| 17–18 | Beef — Advanced Cuts | [→ Guide](19-20-beef-advanced/index.md) | [→ Quick Ref](19-20-beef-advanced/quick-ref.md) | [→ Shopping](19-20-beef-advanced/shopping-list.md) |
+| 19–20 | Pork — All Cuts | [→ Guide](21-22-pork/index.md) | [→ Quick Ref](21-22-pork/quick-ref.md) | [→ Shopping](21-22-pork/shopping-list.md) |
+| 21–22 | Seafood — Fish | [→ Guide](23-24-fish/index.md) | [→ Quick Ref](23-24-fish/quick-ref.md) | [→ Shopping](23-24-fish/shopping-list.md) |
+| 23–24 | Seafood — Shellfish | [→ Guide](25-26-shellfish/index.md) | [→ Quick Ref](25-26-shellfish/quick-ref.md) | [→ Shopping](25-26-shellfish/shopping-list.md) |
+| 25–26 | Module 3 Capstone: Charcuterie & Curing | [→ Guide](27-28-charcuterie-review/index.md) | [→ Quick Ref](27-28-charcuterie-review/quick-ref.md) | [→ Shopping](27-28-charcuterie-review/shopping-list.md) |
 
 ---
 

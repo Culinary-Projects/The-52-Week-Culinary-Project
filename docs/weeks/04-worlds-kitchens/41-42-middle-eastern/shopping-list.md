@@ -1,4 +1,4 @@
-# 🛒 Shopping List — Weeks 37–38: Middle Eastern
+# 🛒 Shopping List — Weeks 41–42: Middle Eastern
 
 ← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)
 

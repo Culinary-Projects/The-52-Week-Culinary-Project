@@ -1,6 +1,6 @@
-# Weeks 49–50: Menus and Timing — Shopping List
+# Weeks 53–54: Menus and Timing — Shopping List
 
-← [Weeks 47–48: Signature Dishes](../47-48-signature-dishes/index.md) | [Weeks 51–52: Final Exam →](../51-52-final-exam/index.md)
+← [Weeks 51–52: Signature Dishes](../51-52-signature-dishes/index.md) | [Weeks 55–56: Final Exam →](../55-56-final-exam/index.md)
 
 ---
 

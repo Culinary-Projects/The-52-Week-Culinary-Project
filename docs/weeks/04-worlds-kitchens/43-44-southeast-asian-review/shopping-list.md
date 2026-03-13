@@ -1,4 +1,4 @@
-# 🛒 Shopping List — Weeks 39–40: Southeast Asian
+# 🛒 Shopping List — Weeks 43–44: Southeast Asian
 
 ← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)
 

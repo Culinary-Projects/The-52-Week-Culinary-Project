@@ -1,4 +1,4 @@
-# 🏁 Weeks 13–14: Module 2 Capstone — Poultry & Flavor Review
+# 🏁 Weeks 15–16: Module 2 Capstone — Poultry & Flavor Review
 
 ← [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
 
@@ -217,4 +217,4 @@ The midpoint capstone includes whole-bird cookery. If you want to go deeper on b
 
 ---
 
-← [Weeks 11–12](../11-12-pasta-and-grains/index.md) | [Weeks 15–16 →](../../03-the-proteins/15-16-beef-fundamentals/index.md)
+← [Weeks 13–14](../13-14-pasta-and-grains/index.md) | [Weeks 17–18 →](../../03-the-proteins/17-18-beef-fundamentals/index.md)

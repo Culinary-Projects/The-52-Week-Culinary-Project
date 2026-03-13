@@ -1,6 +1,6 @@
-# Weeks 33–34: Mexican
+# Weeks 37–38: Mexican
 
-← [Weeks 31–32: Japanese](../31-32-japanese/index.md) | [Weeks 35–36: Indian →](../35-36-indian/index.md)
+← [Weeks 35–36: Chinese](../35-36-chinese/index.md) | [Weeks 39–40: Indian →](../39-40-indian/index.md)
 
 ---
 
@@ -206,4 +206,4 @@ Mole negro is typically a multi-day project in its native context. Understanding
 ---
 
 *Navigation:*
-← [Weeks 31–32: Japanese](../31-32-japanese/index.md) | [Weeks 35–36: Indian →](../35-36-indian/index.md)
+← [Weeks 35–36: Chinese](../35-36-chinese/index.md) | [Weeks 39–40: Indian →](../39-40-indian/index.md)

@@ -13,13 +13,13 @@ By the end of Week 40, you should be able to cook with the grammar of seven worl
 
 | Weeks | Topic | Full Guide | Quick Ref | Shopping List |
 |-------|-------|------------|-----------|---------------|
-| 27–28 | French Classics | [→ Guide](27-28-french/index.md) | [→ Quick Ref](27-28-french/quick-ref.md) | [→ Shopping](27-28-french/shopping-list.md) |
-| 29–30 | Italian | [→ Guide](29-30-italian/index.md) | [→ Quick Ref](29-30-italian/quick-ref.md) | [→ Shopping](29-30-italian/shopping-list.md) |
-| 31–32 | Japanese | [→ Guide](31-32-japanese/index.md) | [→ Quick Ref](31-32-japanese/quick-ref.md) | [→ Shopping](31-32-japanese/shopping-list.md) |
-| 33–34 | Mexican | [→ Guide](33-34-mexican/index.md) | [→ Quick Ref](33-34-mexican/quick-ref.md) | [→ Shopping](33-34-mexican/shopping-list.md) |
-| 35–36 | Indian | [→ Guide](35-36-indian/index.md) | [→ Quick Ref](35-36-indian/quick-ref.md) | [→ Shopping](35-36-indian/shopping-list.md) |
-| 37–38 | Middle Eastern | [→ Guide](37-38-middle-eastern/index.md) | [→ Quick Ref](37-38-middle-eastern/quick-ref.md) | [→ Shopping](37-38-middle-eastern/shopping-list.md) |
-| 39–40 | Module 4 Capstone: Southeast Asian Cuisines | [→ Guide](39-40-southeast-asian-review/index.md) | [→ Quick Ref](39-40-southeast-asian-review/quick-ref.md) | [→ Shopping](39-40-southeast-asian-review/shopping-list.md) |
+| 27–28 | French Classics | [→ Guide](29-30-french/index.md) | [→ Quick Ref](29-30-french/quick-ref.md) | [→ Shopping](29-30-french/shopping-list.md) |
+| 29–30 | Italian | [→ Guide](31-32-italian/index.md) | [→ Quick Ref](31-32-italian/quick-ref.md) | [→ Shopping](31-32-italian/shopping-list.md) |
+| 31–32 | Japanese | [→ Guide](33-34-japanese/index.md) | [→ Quick Ref](33-34-japanese/quick-ref.md) | [→ Shopping](33-34-japanese/shopping-list.md) |
+| 33–34 | Mexican | [→ Guide](37-38-mexican/index.md) | [→ Quick Ref](37-38-mexican/quick-ref.md) | [→ Shopping](37-38-mexican/shopping-list.md) |
+| 35–36 | Indian | [→ Guide](39-40-indian/index.md) | [→ Quick Ref](39-40-indian/quick-ref.md) | [→ Shopping](39-40-indian/shopping-list.md) |
+| 37–38 | Middle Eastern | [→ Guide](41-42-middle-eastern/index.md) | [→ Quick Ref](41-42-middle-eastern/quick-ref.md) | [→ Shopping](41-42-middle-eastern/shopping-list.md) |
+| 39–40 | Module 4 Capstone: Southeast Asian Cuisines | [→ Guide](43-44-southeast-asian-review/index.md) | [→ Quick Ref](43-44-southeast-asian-review/quick-ref.md) | [→ Shopping](43-44-southeast-asian-review/shopping-list.md) |
 
 ---
 

@@ -1,4 +1,4 @@
-# 🛒 Shopping List — Weeks 41–42: Bread
+# 🛒 Shopping List — Weeks 45–46: Bread
 
 ← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)
 

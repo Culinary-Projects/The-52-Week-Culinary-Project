@@ -1,4 +1,4 @@
-# 🍝 Weeks 11–12: Pasta & Grains from Scratch
+# 🍝 Weeks 13–14: Pasta & Grains from Scratch
 
 ← [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
 
@@ -233,4 +233,4 @@ Risotto is not about patience. It's about starch gelatinization and gradual liqu
 
 ---
 
-← [Weeks 9–10](../09-10-seasoning-and-flavor/index.md) | [Weeks 13–14 →](../13-14-midpoint-review/index.md)
+← [Weeks 9–10](../09-10-seasoning-and-flavor/index.md) | [Weeks 15–16 →](../15-16-midpoint-review/index.md)

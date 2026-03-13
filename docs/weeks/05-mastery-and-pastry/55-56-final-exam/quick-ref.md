@@ -1,6 +1,6 @@
-# Weeks 51–52: Module 5 Capstone — The Final Exam: Quick Reference
+# Weeks 55–56: Module 5 Capstone — The Final Exam: Quick Reference
 
-← [Weeks 49–50: Menus and Timing](../49-50-menus-and-timing/index.md)
+← [Weeks 53–54: Menus and Timing](../53-54-menus-and-timing/index.md)
 
 ---
 

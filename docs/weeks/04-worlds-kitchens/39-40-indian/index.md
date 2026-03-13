@@ -1,6 +1,6 @@
-# Weeks 35–36: Indian
+# Weeks 39–40: Indian
 
-← [Weeks 33–34: Mexican](../33-34-mexican/index.md) | [Weeks 37–38: Middle Eastern →](../37-38-middle-eastern/index.md)
+← [Weeks 37–38: Mexican](../37-38-mexican/index.md) | [Weeks 41–42: Middle Eastern →](../41-42-middle-eastern/index.md)
 
 ---
 
@@ -228,4 +228,4 @@ Indian cooking draws on a pantry of 20–30 spices, but most dishes use the same
 ---
 
 *Navigation:*
-← [Weeks 33–34: Mexican](../33-34-mexican/index.md) | [Weeks 37–38: Middle Eastern →](../37-38-middle-eastern/index.md)
+← [Weeks 37–38: Mexican](../37-38-mexican/index.md) | [Weeks 41–42: Middle Eastern →](../41-42-middle-eastern/index.md)

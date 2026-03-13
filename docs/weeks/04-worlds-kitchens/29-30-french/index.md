@@ -1,6 +1,6 @@
-# Weeks 27–28: French Classics
+# Weeks 29–30: French Classics
 
-← [Weeks 25–26: Charcuterie & Curing](../../03-the-proteins/25-26-charcuterie-review/index.md) | [Weeks 29–30: Italian →](../29-30-italian/index.md)
+← [Weeks 27–28: Charcuterie & Curing](../../03-the-proteins/27-28-charcuterie-review/index.md) | [Weeks 31–32: Italian →](../31-32-italian/index.md)
 
 ---
 
@@ -49,7 +49,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 **Skill:** Béarnaise (hollandaise with tarragon vinegar reduction); pan-seared steak application  
 **Read first:** [Foolproof Béarnaise](https://www.seriouseats.com/foolproof-bearnaise-sauce-recipe)
 
-**What you're learning:** Béarnaise = hollandaise with a tarragon-and-shallot reduction swapped for plain lemon. The technique is the same; the flavor completely different. Serve over a reverse-seared or pan-seared steak (you now know how to do this from Weeks 15–16). The sauce elevates a simple steak into a restaurant dish.
+**What you're learning:** Béarnaise = hollandaise with a tarragon-and-shallot reduction swapped for plain lemon. The technique is the same; the flavor completely different. Serve over a reverse-seared or pan-seared steak (you now know how to do this from Weeks 17–18). The sauce elevates a simple steak into a restaurant dish.
 
 **Full Meal:**
 - Pan seared strip or sirloin steak with Béarnaise sauce
@@ -209,4 +209,4 @@ Aioli made with patience and good olive oil is nothing like the commercial versi
 ---
 
 *Navigation:*
-← [Weeks 25–26: Charcuterie & Curing](../../03-the-proteins/25-26-charcuterie-review/index.md) | [Weeks 29–30: Italian →](../29-30-italian/index.md)
+← [Weeks 27–28: Charcuterie & Curing](../../03-the-proteins/27-28-charcuterie-review/index.md) | [Weeks 31–32: Italian →](../31-32-italian/index.md)
