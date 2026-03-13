@@ -44,6 +44,7 @@
 - [ ] Mixed greens / butter lettuce — 2 bags (Week 2 salads)
 - [ ] Fresh parsley — 1 bunch (garnishes)
 - [ ] Scallions — 1 bunch (multiple uses)
+- [ ] Fresh basil — 1 bunch (Week 2 Mon Pad Thai garnish — chiffonade drill)
 - [ ] Lemongrass (if available) — optional for Pad Thai garnish
 
 ---
