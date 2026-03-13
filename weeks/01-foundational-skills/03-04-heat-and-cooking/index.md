@@ -70,9 +70,7 @@ Notice the difference in texture from Tuesday's roasted thighs — same cut of m
 
 ### Thursday — OFF
 
-📖 Read: [The Difference Between Sautéing, Frying, and Braising](https://www.seriouseats.com/what-is-maillard-reaction-cooking-science)
-
-Identify which of the three methods you used this week produced the best flavor on the same cut of chicken, and why.
+Reflect: which of the three methods you used this week produced the best flavor on the same cut of chicken, and why? Write it down — one sentence.
 
 ---
 
@@ -164,8 +162,6 @@ Identify which of the three methods you used this week produced the best flavor 
 
 ⏱️ **Speed benchmark:** Dice one onion and time yourself. Compare to Week 2 Friday. Write both numbers down.
 
-📖 Read: [A Complete Guide to Cooking Methods](https://www.seriouseats.com/what-is-maillard-reaction-cooking-science)
-
 ---
 
 ### Friday — Recap Cook: No Recipes
@@ -206,7 +202,6 @@ These aren't required reading — but if something from this block sparked a que
 
 Understanding *why* a brown crust forms changes how you cook everything forever. The Maillard reaction is probably the single most important piece of food science a home cook can learn.
 
-- 📖 [The Maillard Reaction Explained](https://www.seriouseats.com/what-is-maillard-reaction-cooking-science) — Kenji breaks down what's actually happening when meat browns. Not magic. Chemistry.
 - 📖 [The Right Way to Use a Meat Thermometer](https://www.seriouseats.com/how-to-take-meat-temperature-thermometer-cooking-doneness) — Temperature is the only honest answer to "is it done?" This is the guide.
 
 ---
