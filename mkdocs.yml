@@ -4,14 +4,7 @@ site_url: https://culinary-projects.github.io/The-52-Week-Culinary-Project/
 repo_url: https://github.com/Culinary-Projects/The-52-Week-Culinary-Project
 repo_name: Culinary-Projects/The-52-Week-Culinary-Project
 
-docs_dir: .
-site_dir: site
-
-exclude_docs: |
-  feedback/
-  site/
-  .github/
-  requirements.txt
+docs_dir: docs
 
 theme:
   name: material
