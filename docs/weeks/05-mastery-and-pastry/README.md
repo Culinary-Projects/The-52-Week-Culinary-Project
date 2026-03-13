@@ -1,4 +1,4 @@
-# Module 5: Mastery & Pastry (Weeks 41–52)
+# Module 5: Mastery & Pastry (Weeks 45–56)
 
 
 ---
@@ -13,12 +13,12 @@ By the end of Week 52, you will have completed a full professional-level culinar
 
 | Weeks | Topic | Full Guide | Quick Ref | Shopping List |
 |-------|-------|------------|-----------|---------------|
-| 41–42 | Bread — Fundamentals | [→ Guide](45-46-bread/index.md) | [→ Quick Ref](45-46-bread/quick-ref.md) | [→ Shopping](45-46-bread/shopping-list.md) |
-| 43–44 | Pastry | [→ Guide](47-48-pastry/index.md) | [→ Quick Ref](47-48-pastry/quick-ref.md) | [→ Shopping](47-48-pastry/shopping-list.md) |
-| 45–46 | Desserts | [→ Guide](49-50-desserts/index.md) | [→ Quick Ref](49-50-desserts/quick-ref.md) | [→ Shopping](49-50-desserts/shopping-list.md) |
-| 47–48 | Your Signature Dishes | [→ Guide](51-52-signature-dishes/index.md) | [→ Quick Ref](51-52-signature-dishes/quick-ref.md) | [→ Shopping](51-52-signature-dishes/shopping-list.md) |
-| 49–50 | Menus & Timing | [→ Guide](53-54-menus-and-timing/index.md) | [→ Quick Ref](53-54-menus-and-timing/quick-ref.md) | [→ Shopping](53-54-menus-and-timing/shopping-list.md) |
-| 51–52 | Module 5 Capstone: The Final Exam | [→ Guide](55-56-final-exam/index.md) | [→ Quick Ref](55-56-final-exam/quick-ref.md) | [→ Shopping](55-56-final-exam/shopping-list.md) |
+| 45–46 | Bread — Fundamentals | [→ Guide](45-46-bread/index.md) | [→ Quick Ref](45-46-bread/quick-ref.md) | [→ Shopping](45-46-bread/shopping-list.md) |
+| 47–48 | Pastry | [→ Guide](47-48-pastry/index.md) | [→ Quick Ref](47-48-pastry/quick-ref.md) | [→ Shopping](47-48-pastry/shopping-list.md) |
+| 49–50 | Desserts | [→ Guide](49-50-desserts/index.md) | [→ Quick Ref](49-50-desserts/quick-ref.md) | [→ Shopping](49-50-desserts/shopping-list.md) |
+| 51–52 | Your Signature Dishes | [→ Guide](51-52-signature-dishes/index.md) | [→ Quick Ref](51-52-signature-dishes/quick-ref.md) | [→ Shopping](51-52-signature-dishes/shopping-list.md) |
+| 53–54 | Menus & Timing | [→ Guide](53-54-menus-and-timing/index.md) | [→ Quick Ref](53-54-menus-and-timing/quick-ref.md) | [→ Shopping](53-54-menus-and-timing/shopping-list.md) |
+| 55–56 | Module 5 Capstone: The Final Exam | [→ Guide](55-56-final-exam/index.md) | [→ Quick Ref](55-56-final-exam/quick-ref.md) | [→ Shopping](55-56-final-exam/shopping-list.md) |
 
 ---
 
@@ -39,31 +39,31 @@ See the [Kitchen Equipment Guide](../../equipment-guide.md). New items introduce
 
 | Item | Introduced |
 |------|-----------|
-| Kitchen scale (digital, 0.1g resolution) | Week 41 |
-| Bench scraper | Week 41 |
-| Banneton (proofing basket) | Week 41 |
-| Pullman loaf pan with lid | Week 41 |
-| Bread lame (scoring blade) | Week 41 |
-| Stand mixer with dough hook | Week 41 |
-| 9-inch tart pan with removable bottom | Week 43 |
-| 9-inch pie dish | Week 43 |
-| Pie weights (or dried beans) | Week 43 |
-| Pastry bag + tips | Week 43 |
-| Madeleine pan (optional) | Week 43 |
-| Kitchen torch | Week 45 |
-| Ramekins, 4–6 oz (set of 6) | Week 45 |
-| 9-inch round cake pans (×3) | Week 45 |
-| Pastry brush | Week 45 |
-| Candy thermometer | Week 45 |
-| Large roasting pan (for bain-marie) | Week 45 |
-| Springform pan (optional) | Week 45 |
-| Whetstone | Week 47 |
-| Multiple-channel timer | Week 49 |
+| Kitchen scale (digital, 0.1g resolution) | Week 45 |
+| Bench scraper | Week 45 |
+| Banneton (proofing basket) | Week 45 |
+| Pullman loaf pan with lid | Week 45 |
+| Bread lame (scoring blade) | Week 45 |
+| Stand mixer with dough hook | Week 45 |
+| 9-inch tart pan with removable bottom | Week 47 |
+| 9-inch pie dish | Week 47 |
+| Pie weights (or dried beans) | Week 47 |
+| Pastry bag + tips | Week 47 |
+| Madeleine pan (optional) | Week 47 |
+| Kitchen torch | Week 49 |
+| Ramekins, 4–6 oz (set of 6) | Week 49 |
+| 9-inch round cake pans (×3) | Week 49 |
+| Pastry brush | Week 49 |
+| Candy thermometer | Week 49 |
+| Large roasting pan (for bain-marie) | Week 49 |
+| Springform pan (optional) | Week 49 |
+| Whetstone | Week 51 |
+| Multiple-channel timer | Week 53 |
 
 ---
 
-*Previous module: [Module 4 — The World's Kitchens](../04-worlds-kitchens/README.md) (Weeks 27–40)*
+*Previous module: [Module 4 — The World's Kitchens](../04-worlds-kitchens/README.md) (Weeks 29–44)*
 
 ---
 
-*Congratulations on completing the 52-Week Culinary Project. You cooked.*
+*Congratulations on completing the 56-Week Culinary Project. You cooked.*

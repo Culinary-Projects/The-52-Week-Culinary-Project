@@ -44,4 +44,4 @@ See the [Kitchen Equipment Guide](../../equipment-guide.md) for the full list. E
 
 ---
 
-*Next module: [Module 2 — Building Flavor](../02-building-flavor/README.md) (Weeks 9–14)*
+*Next module: [Module 2 — Building Flavor](../02-building-flavor/README.md) (Weeks 9–16)*
