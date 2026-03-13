@@ -10,14 +10,14 @@ theme:
   name: material
   palette:
     - scheme: default
-      primary: brown
-      accent: amber
+      primary: green
+      accent: lime
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate
-      primary: brown
-      accent: amber
+      primary: green
+      accent: lime
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
