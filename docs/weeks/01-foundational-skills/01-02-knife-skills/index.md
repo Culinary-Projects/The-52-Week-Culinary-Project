@@ -43,14 +43,14 @@ The prep is simple — garlic and parsley — which lets you focus entirely on y
 
 **Full Meal:** [The Best Chicken Noodle Soup](https://www.seriouseats.com/the-ultimate-chicken-noodle-soup)
 
-Your Tuesday drill — onion, carrot, celery — goes straight into the pot. There's a catch worth knowing upfront: in this recipe (and in classical French technique), the mirepoix builds the broth and is then strained out, so you won't see your cuts in the final bowl. That's not wasted work — those vegetables are the entire reason the broth tastes like something — but it can feel anticlimactic on day one. If you want to see your knife work in the soup, dice a second small batch of carrot and celery to ⅓" and drop them in alongside the noodles for the last 10 minutes. The soup is better for it.
+A note on what actually goes into this recipe: Kenji only uses onion for the stock (charred, to add color and depth) — carrot and celery are not in it. Your drill still covers all three because a full mirepoix is the foundational dice in professional kitchens, but be aware: only the onion is called for by the recipe. Your diced carrot and celery aren't wasted — add them straight into the soup with the noodles for the last 10 minutes. The recipe doesn't include them but they belong there, and the soup is better for it.
 
 > **Sous vide note:** The recipe calls for cooking the chicken breast sous vide (140°F, 2 hours). You don't need a circulator. Simply add the chicken breasts to the simmering broth for the last 15–20 minutes until cooked through (165°F internal), then remove and shred. The texture is slightly different but the soup is just as good.
 
 | Component | Recipe |
 |-----------|--------|
 | Protein | Chicken breast — poach in the broth (or sous vide if you have one), then shred |
-| Veg | Mirepoix (your drill) into the stock; optional second batch into the soup |
+| Veg | Onion (charred, per recipe) into the stock; your diced carrot and celery into the soup with the noodles |
 | Starch | Egg noodles, cooked directly in the soup |
 
 > 🎥 **Compare Notes:** [Knife Skills: How to Slice and Dice an Onion](https://www.youtube.com/watch?v=BuebC0CfD8E) · [How to Make Chicken Noodle Soup](https://www.youtube.com/watch?v=cR36DqjOvig) — Watch the knife video for the claw grip in real time at speed. The soup video shows a completely different approach to the same dish — both are worth thinking about.
