@@ -199,7 +199,7 @@ The thighs and legs go in the fridge (use them Friday) or freeze for later. Noth
 |-----------|--------|
 | Protein | Chicken piccata using the breasts you broke down |
 | Veg | [Burst Cherry Tomatoes with Garlic and Olive Oil](https://www.seriouseats.com/fast-easy-pasta-blistered-cherry-tomato-sauce-recipe) |
-| Starch | Buttered egg noodles or mashed potatoes |
+| Starch | Linguine — toss with the burst tomatoes and a splash of pasta water |
 
 > 🎥 **Compare Notes:** [POV How to Break Down a Chicken](https://www.youtube.com/watch?v=9FHHmx6kDGc) · [28-Second Chicken Breakdown](https://www.youtube.com/shorts/Oa_VmoJSX1c) — Watch the full POV version before you start. The short shows what the motion looks like fully internalized. You'll get somewhere between the two.
 

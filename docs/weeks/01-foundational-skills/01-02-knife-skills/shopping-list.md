@@ -66,7 +66,7 @@
 
 ## 🌾 Pantry & Dry Goods
 
-- [ ] Pasta (linguine — Week 1 Wed) — 1 lb
+- [ ] Pasta (linguine — Week 1 Wed scampi + Week 2 Wed piccata) — 2 lbs
 - [ ] Egg noodles (Week 1 Tue soup) — 8 oz
 - [ ] Rice noodles, medium width (Week 2 Mon Pad Thai) — 8 oz
 - [ ] Chicken stock or broth — 32 oz carton (soup)
