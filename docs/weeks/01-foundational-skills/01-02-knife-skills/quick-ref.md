@@ -9,7 +9,7 @@
 | Day | Dish | Skill | Link |
 |-----|------|-------|------|
 | **Mon** | Pasta with Butter and Parmesan + Wilted Spinach | Pinch grip | [Recipe](https://www.seriouseats.com/pasta-cacio-e-uovo-vegetarian-carbonara) |
-| **Tue** | The Best Chicken Noodle Soup | The claw / mirepoix | [Recipe](https://www.seriouseats.com/the-ultimate-chicken-noodle-soup) |
+| **Tue** | The Best Chicken Noodle Soup | The claw / mirepoix (sous vide optional — poach in broth works fine) | [Recipe](https://www.seriouseats.com/the-ultimate-chicken-noodle-soup) |
 | **Wed** | Shrimp Scampi + Arugula, Fennel & Orange Salad | Rock chop vs. push cut | [Scampi](https://www.seriouseats.com/shrimp-scampi-butter-garlic-recipe) · [Salad](https://www.seriouseats.com/arugula-fennel-and-orange-salad-recipe) |
 | **Thu** | *OFF* | Read: knife sharpening | [Article](https://www.seriouseats.com/knife-skills-how-to-sharpen-a-knife) |
 | **Fri** | Stir-Fried Beef and Broccoli | Mise en place | [Recipe](https://www.seriouseats.com/chinese-american-beef-and-broccoli-with-oyster-sauce-recipe) |
