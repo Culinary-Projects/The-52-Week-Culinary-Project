@@ -45,13 +45,13 @@ The onion is handled separately: halve it through the root, press it cut-side do
 
 **Full Meal:** [The Best Chicken Noodle Soup](https://www.seriouseats.com/the-ultimate-chicken-noodle-soup)
 
-The recipe only uses charred onion for the stock — carrot and celery aren't in it. Your diced carrot and celery go straight into the soup with the noodles for the last 10 minutes. The recipe doesn't call for them but they belong there, and the soup is better for it.
+The recipe only uses charred onion for the stock — carrot and celery aren't in it. Your diced carrot and celery go straight into the soup for the last 10 minutes. The recipe doesn't call for them but they belong there, and the soup is better for it.
 
-> **Sous vide note:** The recipe calls for cooking the chicken breast sous vide (140°F, 2 hours). You don't need a circulator — but don't rely on timing either. Lower the heat so the broth is barely simmering (small bubbles, not a rolling boil), add the chicken breasts, and cook until the thickest part reads 165°F on an instant-read thermometer. For average supermarket chicken breasts this takes roughly 25–35 minutes but thickness varies enough that a thermometer is the only safe call. Remove and shred.
+> **Sous vide note:** The recipe calls for cooking the chicken breast sous vide (140°F, 2 hours). You don't need a circulator — but don't rely on timing either. Lower the heat so the broth is barely simmering (small bubbles, not a rolling boil), add the chicken breasts, and cook until the thickest part reads 165°F on an instant-read thermometer. For average supermarket chicken breasts this takes roughly 25–35 minutes but thickness varies enough that a thermometer is the only safe call. Remove and dice.
 
 | Component | Recipe |
 |-----------|--------|
-| Protein | Chicken breast — poach in the broth (or sous vide if you have one), then shred |
+| Protein | Chicken breast — poach in the broth (or sous vide if you have one), then dice |
 | Veg | Onion (charred, per recipe) into the stock; your diced carrot and celery into the soup for last 10 minutes |
 | Starch | Egg noodles, cooked seperately |
 
@@ -79,14 +79,6 @@ Shrimp scampi is built almost entirely on well-minced garlic and parsley. Your d
 
 ### Thursday — OFF
 
-📖 Read: [How to Sharpen and Hone a Knife](https://www.seriouseats.com/knife-skills-how-to-sharpen-a-knife)
-
-Is your knife actually sharp? A dull knife is the #1 reason home cook technique looks worse than it is. If you don't own a honing steel, order one tonight.
-
-> 🎥 **Also watch:** [How to Sharpen a Knife with a Whetstone](https://www.youtube.com/watch?v=ixCnCvDUKQ8) — Kenji demonstrates the full whetstone process in his home kitchen. Pair with the reading above.
-
----
-
 **Required reading — Food Safety Fundamentals**
 
 This is not optional. A sharp knife reduces accidents. Clean food handling prevents you from poisoning yourself and the people you cook for. Most food poisoning events in home kitchens have a mundane cause — not a dramatic one.
@@ -113,12 +105,14 @@ The four things to understand before you finish Week 1:
 
 **Full Meal:** [Stir-Fried Beef and Broccoli](https://www.seriouseats.com/chinese-american-beef-and-broccoli-with-oyster-sauce-recipe)
 
-Stir-fries punish you for skipping mise en place. The heat is too high and things move too fast. This recipe *forces* you to have everything ready before the wok gets hot.
+Stir-fries punish you for skipping mise en place. The heat is too high and things move too fast. This recipe *forces* you to have everything ready before the pan gets hot.
+
+> **No wok?** The recipe is written for a wok, but a 12-inch cast-iron or stainless-steel skillet works fine. The key differences: get the pan **completely** smoking before anything goes in, cook beef in two or three very small batches (crowding kills the sear), and do the same with the broccoli. A wok handles everything in fewer passes because of its shape and heat distribution — a skillet needs more discipline about batch size to compensate.
 
 | Component | Recipe |
 |-----------|--------|
-| Protein | Thinly sliced flank steak, velveted in the wok |
-| Veg | Broccoli florets, blanched then wok-tossed |
+| Protein | Thinly sliced flank steak, seared in very small batches |
+| Veg | Broccoli florets, seared in the same pan |
 | Starch | Steamed jasmine rice, started before you begin the stir-fry |
 
 > 🎥 **Compare Notes:** [Beef with Broccoli](https://www.youtube.com/watch?v=iEs3qXQvg6M) — This is the exact dish. Watch it before you cook. Notice how everything is prepped and staged before the wok gets hot — mise en place isn't a warm-up, it's the whole game in a stir-fry.
