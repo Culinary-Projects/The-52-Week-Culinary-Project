@@ -47,7 +47,7 @@ The onion is handled separately: halve it through the root, press it cut-side do
 
 The recipe only uses charred onion for the stock — carrot and celery aren't in it. Your diced carrot and celery go straight into the soup with the noodles for the last 10 minutes. The recipe doesn't call for them but they belong there, and the soup is better for it.
 
-> **Sous vide note:** The recipe calls for cooking the chicken breast sous vide (140°F, 2 hours). You don't need a circulator. Simply add the chicken breasts to the simmering broth for the last 15–20 minutes until cooked through (165°F internal), then remove and shred. The texture is slightly different but the soup is just as good.
+> **Sous vide note:** The recipe calls for cooking the chicken breast sous vide (140°F, 2 hours). You don't need a circulator — but don't rely on timing either. Lower the heat so the broth is barely simmering (small bubbles, not a rolling boil), add the chicken breasts, and cook until the thickest part reads 165°F on an instant-read thermometer. For average supermarket chicken breasts this takes roughly 25–35 minutes but thickness varies enough that a thermometer is the only safe call. Remove and shred.
 
 | Component | Recipe |
 |-----------|--------|
