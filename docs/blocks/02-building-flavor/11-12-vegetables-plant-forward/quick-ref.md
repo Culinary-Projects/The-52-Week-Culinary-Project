@@ -100,15 +100,15 @@
 
 ## Block 11–12 Dishes Summary
 
-| Week | Day | Dish | Technique |
-|------|-----|------|-----------|
-| 11 | Mon | [Brown butter asparagus + haricots verts](https://www.seriouseats.com/the-food-lab-all-about-asparagus) | [Blanch + shock + beurre noisette](https://www.seriouseats.com/food-lab-spring-produce-how-to-blanch) |
-| 11 | Tue | Sheet pan carrots, cauliflower, beets | Roasting |
-| 11 | Wed | [Crispy Brussels + charred cabbage with miso](https://www.simplyrecipes.com/recipes/roasted_brussels_sprouts/) | Pan sear + char |
-| 11 | Fri | Baba ganoush + grilled veg spread | Charring + grilling |
-| 11 | Sat | [Plant-forward dinner party](https://www.seriouseats.com/sheet-pan-chicken-potato-fennel-gratin-dinner) | Multi-technique |
-| 12 | Mon | [Caesar salad from scratch](https://www.bonappetit.com/recipe/classic-caesar-salad) | Emulsification + dressing |
-| 12 | Tue | [Braised white beans + crispy chickpeas](https://www.seriouseats.com/beans-legumes-pulses-varieties-recipes-cooking-tips) | Braising + pan-frying legumes |
-| 12 | Wed | [Mushroom Bourguignon](https://www.bonappetit.com/recipe/mushroom-bourguignon) | Sear + braise |
-| 12 | Fri | [Stuffed roasted peppers](https://www.bonappetit.com/recipe/stuffed-peppers) | Roasting + grain stuffing |
-| 12 | Sat | [5-course vegetable tasting menu](https://www.bonappetit.com/story/how-to-roast-vegetables) | Multi-technique |
+| Session | Dish | Technique |
+|---------|------|-----------|
+| **Session 1** | [Brown butter asparagus + haricots verts](https://www.seriouseats.com/the-food-lab-all-about-asparagus) | [Blanch + shock + beurre noisette](https://www.seriouseats.com/food-lab-spring-produce-how-to-blanch) |
+| **Session 2** | Sheet pan carrots, cauliflower, beets | Roasting |
+| **Session 3** | [Crispy Brussels + charred cabbage with miso](https://www.simplyrecipes.com/recipes/roasted_brussels_sprouts/) | Pan sear + char |
+| **Session 4** | Baba ganoush + grilled veg spread | Charring + grilling |
+| **🔨 Session 5** | [Plant-forward dinner party](https://www.seriouseats.com/sheet-pan-chicken-potato-fennel-gratin-dinner) | Multi-technique |
+| **Session 6** | [Caesar salad from scratch](https://www.bonappetit.com/recipe/classic-caesar-salad) | Emulsification + dressing |
+| **Session 7** | [Braised white beans + crispy chickpeas](https://www.seriouseats.com/beans-legumes-pulses-varieties-recipes-cooking-tips) | Braising + pan-frying legumes |
+| **Session 8** | [Mushroom Bourguignon](https://www.bonappetit.com/recipe/mushroom-bourguignon) | Sear + braise |
+| **Session 9** | [Stuffed roasted peppers](https://www.bonappetit.com/recipe/stuffed-peppers) | Roasting + grain stuffing |
+| **🔨 Session 10** | [5-course vegetable tasting menu](https://www.bonappetit.com/story/how-to-roast-vegetables) | Multi-technique |

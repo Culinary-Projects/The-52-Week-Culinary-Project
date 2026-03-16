@@ -41,13 +41,13 @@ The full guide is where you understand the session. The quick ref is where you e
 
 ---
 
-## The Saturday Project Is Not Optional
+## The Project Session Is Not Optional
 
-The Saturday cook is when the week's skill becomes real. Monday through Friday you practice technique in isolation — garlic mince, dice consistency, grip. Saturday is where you use all of it in one self-contained cook with a real result.
+The project session is when the block's skills become real. The earlier sessions build technique in relative isolation — garlic mince, dice consistency, grip. The project session is where you use all of it in one self-contained cook with a real result.
 
-Don't treat it as a harder weeknight. Treat it as a performance. Set the table. Plate carefully. Invite someone if you can.
+Don't treat it as a harder session. Treat it as a performance. Set the table. Plate carefully. Invite someone if you can.
 
-The feedback you get from cooking a full meal — timing pressure, heat management, plating decisions — is different from anything you get from a Tuesday session. It's irreplaceable.
+The feedback you get from cooking a full meal — timing pressure, heat management, plating decisions — is different from anything you get from a skill-focused session. It's irreplaceable.
 
 ---
 
@@ -88,9 +88,9 @@ Write down what you think went wrong. Even a single sentence before you move on 
 
 ## Skills Compound — Trust the Sequence
 
-The program is deliberately sequenced. Week 1's knife skills feed into Week 3's mise en place, which feeds into Week 7's stock timing, which feeds into Week 15's butchery. You will notice callbacks and repetitions throughout — they're intentional.
+The program is deliberately sequenced. Block 1's knife skills feed into Block 3's mise en place, which feeds into Block 7's stock timing, which feeds into Block 15's butchery. You will notice callbacks and repetitions throughout — they're intentional.
 
-If you skip blocks or jump ahead, you'll cook the recipes but miss the compounding. The whole point is that by Week 40, you're not following a recipe for Thai curry — you understand what's happening in the pan and can adapt on the fly. That only happens if the foundations were built underneath it.
+If you skip blocks or jump ahead, you'll cook the recipes but miss the compounding. The whole point is that by Block 40, you're not following a recipe for Thai curry — you understand what's happening in the pan and can adapt on the fly. That only happens if the foundations were built underneath it.
 
 Do the blocks in order. Skip a session if life happens — that's fine — but don't skip a block.
 

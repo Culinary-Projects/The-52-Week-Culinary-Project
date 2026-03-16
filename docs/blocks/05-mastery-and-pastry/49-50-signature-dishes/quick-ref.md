@@ -103,17 +103,17 @@ When deciding if a dish is "yours," ask:
 
 ---
 
-## Block 47–48 Sessions at a Glance
+## Block 49–50 Sessions at a Glance
 
-| Session | Session | Key Skill |
-|---|---|---|
-| W47 Mon | [Wok technique deep dive](https://www.amazon.com/dp/0393541215) | Wok hei, seasoning |
-| W47 Tue | Knife skills assessment | Self-audit; brunoise |
-| W47 Wed | [Chocolate chip cookies (refined)](https://www.seriouseats.com/the-food-lab-best-chocolate-chip-cookie-recipe) | Variable adjustment |
-| W47 Thu | [Mise en place — formal setup](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro) | 3-course timing |
-| W47 Fri | Caramel sauce (repeated) | Automation via repetition |
-| W47 Sat | The difficult dish revisited | Weak point attack |
-| W48 Mon | Define your signatures | Reflection + writing |
-| W48 Tue–Wed | Refine signatures #1 and #2 | Intentional repetition |
-| W48 Fri | [Develop a new recipe](https://www.amazon.com/dp/0393541215) | Creative synthesis |
-| W48 Sat | Personal Tasting Menu (4 courses) | Full dinner party |
+| Session | Dish / Focus | Key Skill |
+|---------|-------------|----------|
+| **Session 0** *(optional)* | [Mise en place — formal setup](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro) | 3-course timing |
+| **Session 1** | [Wok technique deep dive](https://www.amazon.com/dp/0393541215) | Wok hei, seasoning |
+| **Session 2** | Knife skills assessment | Self-audit; brunoise |
+| **Session 3** | [Chocolate chip cookies (refined)](https://www.seriouseats.com/the-food-lab-best-chocolate-chip-cookie-recipe) | Variable adjustment |
+| **Session 4** | Caramel sauce (repeated) | Automation via repetition |
+| **🔨 Session 5** | The difficult dish revisited | Weak point attack |
+| **Session 6** | Define your signatures | Reflection + writing |
+| **Sessions 7–8** | Refine signatures #1 and #2 | Intentional repetition |
+| **Session 9** | [Develop a new recipe](https://www.amazon.com/dp/0393541215) | Creative synthesis |
+| **🔨 Session 10** | Personal Tasting Menu (4 courses) | Full dinner party |

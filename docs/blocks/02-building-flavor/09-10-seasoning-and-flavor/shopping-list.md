@@ -8,7 +8,7 @@
 
 ---
 
-## ⚠️ Pre-Week Check
+## ⚠️ Pre-Block Check
 
 - [ ] **Three types of salt you must have:** Kosher (Diamond Crystal or Morton), flaky Maldon or fleur de sel, fine sea salt. They are not interchangeable.
 - [ ] **Pantry umami builders (Block 10):** Anchovies/anchovy paste, miso paste (white or red), soy sauce, fish sauce. You need all of these by Block 10 .

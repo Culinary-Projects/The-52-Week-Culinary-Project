@@ -8,7 +8,7 @@
 
 ---
 
-## ⚠️ Pre-Week Check
+## ⚠️ Pre-Block Check
 
 - [ ] **Block 2 chicken carcass from the freezer** — this is your Block 7 stock. If you didn't save it, buy a raw chicken carcass from your butcher or supermarket.
 - [ ] Block 7 : Buy **beef bones** (knuckle bones and marrow bones) for beef stock — order ahead or request from your butcher. You need 3–4 lbs.

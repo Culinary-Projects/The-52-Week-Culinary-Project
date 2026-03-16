@@ -4,7 +4,7 @@
 
 ---
 
-> **How to use this list:** Buy week 3 proteins and produce at the start of Block 3, week 4 mid-week. The short ribs for of Block 4 should be bought or early morning — they need 3–4 hours in the oven.
+> **How to use this list:** Buy Block 3 proteins and produce at the start of Block 3, Block 4 items mid-block. The short ribs for Block 4 should be bought fresh — they need 3–4 hours in the oven.
 
 ---
 
