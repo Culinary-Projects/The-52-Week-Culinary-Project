@@ -5,7 +5,7 @@
 
 > **The goal of this module:** Take every technique you've built and apply it through seven distinct culinary traditions. Each two-week immersion goes beyond recipes — you'll study the flavor logic, pantry structure, and cultural context that makes each cuisine a coherent system.
 
-By the end of Block 40, you should be able to cook with the grammar of seven world cuisines, not just their recipes.
+By the end of Block 44, you should be able to cook with the grammar of seven world cuisines, not just their recipes.
 
 ---
 
@@ -44,7 +44,7 @@ See the [Kitchen Equipment Guide](../../equipment-guide.md). New items introduce
 | Item | Introduced |
 |------|-----------|
 | Tamagoyaki pan | Block 33 |
-| Wok (14 inch carbon steel) | Block 33 |
+| Wok (14 inch carbon steel) | Block 35 |
 | Bamboo skewers | Block 33 |
 | Fine-mesh strainer | Block 33 |
 | Rice cooker (optional) | Block 35 |

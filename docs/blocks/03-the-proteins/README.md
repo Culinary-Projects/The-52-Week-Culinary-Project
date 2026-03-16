@@ -14,10 +14,10 @@ By the end of Block 26, you should be able to handle any cut of any animal with 
 | Block | Topic | Full Guide | Quick Ref | Shopping List |
 |-------|-------|------------|-----------|---------------|
 | 17–18 | Beef — Fundamentals | [→ Guide](17-18-beef-fundamentals/index.md) | [→ Quick Ref](17-18-beef-fundamentals/quick-ref.md) | [→ Shopping](17-18-beef-fundamentals/shopping-list.md) |
-| 19–20 | Beef — Advanced Cuts | [→ Guide](19-20-fish/index.md) | [→ Quick Ref](19-20-fish/quick-ref.md) | [→ Shopping](19-20-fish/shopping-list.md) |
-| 21–22 | Beef Advanced — All Cuts | [→ Guide](21-22-beef-advanced/index.md) | [→ Quick Ref](21-22-beef-advanced/quick-ref.md) | [→ Shopping](21-22-beef-advanced/shopping-list.md) |
-| 23–24 | Seafood — Fish | [→ Guide](23-24-shellfish/index.md) | [→ Quick Ref](23-24-shellfish/quick-ref.md) | [→ Shopping](23-24-shellfish/shopping-list.md) |
-| 25–26 | Seafood — Shellfish | [→ Guide](25-26-pork/index.md) | [→ Quick Ref](25-26-pork/quick-ref.md) | [→ Shopping](25-26-pork/shopping-list.md) |
+| 19–20 | Fish | [→ Guide](19-20-fish/index.md) | [→ Quick Ref](19-20-fish/quick-ref.md) | [→ Shopping](19-20-fish/shopping-list.md) |
+| 21–22 | Beef — Advanced Cuts | [→ Guide](21-22-beef-advanced/index.md) | [→ Quick Ref](21-22-beef-advanced/quick-ref.md) | [→ Shopping](21-22-beef-advanced/shopping-list.md) |
+| 23–24 | Shellfish | [→ Guide](23-24-shellfish/index.md) | [→ Quick Ref](23-24-shellfish/quick-ref.md) | [→ Shopping](23-24-shellfish/shopping-list.md) |
+| 25–26 | Pork — All Cuts | [→ Guide](25-26-pork/index.md) | [→ Quick Ref](25-26-pork/quick-ref.md) | [→ Shopping](25-26-pork/shopping-list.md) |
 | 27–28 | Module 3 Capstone: Charcuterie & Curing | [→ Guide](27-28-charcuterie-review/index.md) | [→ Quick Ref](27-28-charcuterie-review/quick-ref.md) | [→ Shopping](27-28-charcuterie-review/shopping-list.md) |
 
 ---
@@ -25,10 +25,10 @@ By the end of Block 26, you should be able to handle any cut of any animal with 
 ## Core Skills Covered
 
 - **Beef fundamentals** — internal temps, the steak triangle (sear/rest/slice), pan sauce; understanding grain and fat
-- **Advanced beef** — braising tough cuts, compound butters, smoking and wrapping, reverse sear
-- **Pork** — pork belly, shoulder, loin, and ribs; cure ratios, brining, fat rendering, crackling
 - **Fish** — filleting round and flat fish; skin-on sear; en papillote; ceviche acid-cook; freshness indicators
+- **Advanced beef** — braising tough cuts, compound butters, smoking and wrapping, reverse sear
 - **Shellfish** — live and frozen; steaming, grilling, bisque; breaking down a lobster or Dungeness crab
+- **Pork** — pork belly, shoulder, loin, and ribs; cure ratios, brining, fat rendering, crackling
 - **Charcuterie** — dry-curing, equilibrium salt method, duck confit, pâté, terrines; food safety in curing
 
 ---
@@ -43,11 +43,11 @@ See the [Kitchen Equipment Guide](../../equipment-guide.md). New items introduce
 | Large Dutch oven (5–7 qt) | Block 17 |
 | Wire rack + half-sheet pan | Block 17 |
 | Outdoor grill or cast iron grill pan | Block 19 |
-| Kitchen twine | Block 19 |
-| Fish spatula | Block 23 |
-| Shellfish brush | Block 25 |
-| Spider strainer / skimmer | Block 25 |
-| Kitchen scissors | Block 25 |
+| Fish spatula | Block 19 |
+| Kitchen twine | Block 21 |
+| Shellfish brush | Block 23 |
+| Spider strainer / skimmer | Block 23 |
+| Kitchen scissors | Block 23 |
 
 ---
 

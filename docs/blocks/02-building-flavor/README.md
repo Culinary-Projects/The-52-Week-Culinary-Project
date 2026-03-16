@@ -5,7 +5,7 @@
 
 > **The goal of this module:** Move beyond technique into taste. Learn how salt, acid, fat, and heat interact to build layered flavor — then apply that understanding to one of the most satisfying skill sets in the kitchen: fresh pasta, handmade grains, and confident poultry cookery.
 
-By the end of Block 14, your palate should be a tool as reliable as your knife.
+By the end of Block 16, your palate should be a tool as reliable as your knife.
 
 ---
 
