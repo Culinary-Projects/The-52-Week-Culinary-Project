@@ -1,6 +1,6 @@
-# Weeks 41–42: Middle Eastern
+# Block 41–42: Middle Eastern
 
-← [Weeks 39–40: Indian](../39-40-indian/index.md) | [Weeks 43–44: Southeast Asian →](../43-44-southeast-asian-review/index.md)
+← [Block 39–40: Indian](../39-40-indian/index.md) | [Block 43–44: Southeast Asian →](../43-44-southeast-asian-review/index.md)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ---
 
-## Week 37 — Hummus, Shakshuka, Shawarma, and the Mezze Framework
+## Block 37 — Hummus, Shakshuka, Shawarma, and the Mezze Framework
 
 The first week focuses on building the foundational components of a Middle Eastern meal: the mezze (small plates), the key dips, and one main protein (shawarma). By week's end you'll have the components for a complete mezze spread.
 
@@ -88,7 +88,7 @@ The first week focuses on building the foundational components of a Middle Easte
 
 ---
 
-## Week 38 — Kebabs, Adana, and the Aromatic Rice Traditions
+## Block 38 — Kebabs, Adana, and the Aromatic Rice Traditions
 
 ---
 
@@ -193,4 +193,4 @@ Two pantry ingredients define the flavors of this week's food. The quality of yo
 ---
 
 *Navigation:*
-← [Weeks 39–40: Indian](../39-40-indian/index.md) | [Weeks 43–44: Southeast Asian →](../43-44-southeast-asian-review/index.md)
+← [Block 39–40: Indian](../39-40-indian/index.md) | [Block 43–44: Southeast Asian →](../43-44-southeast-asian-review/index.md)

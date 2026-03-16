@@ -1,4 +1,4 @@
-# 🛒 Shopping List — Weeks 25–26: Pork All Cuts
+# 🛒 Shopping List — Block 25–26: Pork All Cuts
 
 ← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)
 

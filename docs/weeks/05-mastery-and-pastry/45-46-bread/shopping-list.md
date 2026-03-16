@@ -1,4 +1,4 @@
-# 🛒 Shopping List — Weeks 45–46: Bread
+# 🛒 Shopping List — Block 45–46: Bread
 
 ← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)
 

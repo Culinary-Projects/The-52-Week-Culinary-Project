@@ -1,4 +1,4 @@
-# 🛒 Shopping List — Weeks 9–10: Seasoning & Flavor Building
+# 🛒 Shopping List — Block 9–10: Seasoning & Flavor Building
 
 ← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)
 

@@ -1,4 +1,4 @@
-# 🛒 Shopping List — Weeks 31–32: Italian
+# 🛒 Shopping List — Block 31–32: Italian
 
 ← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)
 

@@ -1,4 +1,4 @@
-# 🛒 Shopping List — Weeks 7–8: Stocks & Eggs
+# 🛒 Shopping List — Block 7–8: Stocks & Eggs
 
 ← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)
 

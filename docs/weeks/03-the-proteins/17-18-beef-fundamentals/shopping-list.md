@@ -1,4 +1,4 @@
-# 🛒 Shopping List — Weeks 17–18: Beef Fundamentals
+# 🛒 Shopping List — Block 17–18: Beef Fundamentals
 
 ← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)
 

@@ -1,4 +1,4 @@
-# 🛒 Shopping List — Weeks 27–28: Charcuterie & Curing
+# 🛒 Shopping List — Block 27–28: Charcuterie & Curing
 
 ← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)
 

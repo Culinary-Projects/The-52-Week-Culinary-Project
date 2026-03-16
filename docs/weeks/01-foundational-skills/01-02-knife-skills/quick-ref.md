@@ -1,4 +1,4 @@
-# ⚡ Weeks 1–2 Quick Reference — Knife Skills & Kitchen Setup
+# ⚡ Block 1–2 Quick Reference — Knife Skills & Kitchen Setup
 
 ← [Back to Full Guide](index.md) | [Shopping List →](shopping-list.md)
 

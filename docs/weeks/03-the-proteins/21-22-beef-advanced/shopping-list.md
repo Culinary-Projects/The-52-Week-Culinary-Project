@@ -1,4 +1,4 @@
-# 🛒 Shopping List — Weeks 21–22: Beef Advanced Cuts
+# 🛒 Shopping List — Block 21–22: Beef Advanced Cuts
 
 ← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)
 

@@ -1,4 +1,4 @@
-# ⚡ Weeks 13–14 Quick Reference — Pasta & Grains from Scratch
+# ⚡ Block 13–14 Quick Reference — Pasta & Grains from Scratch
 
 ← [Back to Full Guide](index.md) | [Shopping List →](shopping-list.md)
 

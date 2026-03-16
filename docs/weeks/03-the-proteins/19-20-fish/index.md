@@ -1,4 +1,4 @@
-# 🐟 Weeks 19–20: Seafood — Fish
+# 🐟 Block 19–20: Seafood — Fish
 
 ← [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
 
@@ -8,7 +8,36 @@
 
 ---
 
-## Week 19 — The Fundamentals of Fish Cookery
+## Before You Start Block 19
+
+### Fish Butchery: Filleting a Whole Fish
+
+**Skill:** Breaking down a whole round fish into two clean fillets. This is the single most useful fish skill you can own — when you can fillet, you buy whole fish (cheaper, fresher, more honest), and you understand why a halibut fillet costs what it does.
+
+📖 **Read and watch before starting:** [Serious Eats — How to Fillet a Fish](https://www.seriouseats.com/how-to-fillet-a-fin-fish-perfectly-8761174) — the Kenji walkthrough is the clearest English-language video on this.
+
+**The technique for a round fish (salmon, sea bass, snapper, branzino):**
+1. **Find the backbone** — place the fish belly-down; feel the spine through the flesh
+2. **First cut** — score behind the head diagonally to the backbone; don't cut through
+3. **Run the knife along the spine** — blade angled slightly toward the bone, long smooth strokes, let the backbone guide you; use the rib cage as a fence
+4. **Fillet off the ribcage** — once past the spine, angle the knife to follow the rib curve; you should hear the blade scraping bone (that's correct — you're not wasting meat that way)
+5. **Pin bones** — run your finger down the centerline of the fillet; tiny bones perpendicular to the flesh. Pull with needle-nose pliers or fish tweezers, always pulling in the direction the bone points
+6. **Repeat for the second fillet**
+
+**Freshness signals — know these before you go to the fishmonger:**
+- Eyes: clear and slightly bulging. Cloudy or sunken = not fresh
+- Gills: bright red when fresh; brown or grey = older fish
+- Smell: clean, oceanic, or neutral. "Fishy" smell is TMA (trimethylamine) — bacterial decomposition. Fresh fish smells like the sea, not like fish
+- Flesh: springs back when pressed; doesn't hold the indentation
+- "Sushi-grade" has no legal definition — it means the seller is comfortable selling it raw. Ask your fishmonger directly
+
+**Full Meal:** Fillet and cook the fish in whatever style you prefer tonight — the miso glaze is already prepped for Friday, or use the Wednesday technique (crispy skin pan sear). You've broken it down yourself. That changes how it tastes.
+
+> **Why this matters beyond skills:** A whole 2 lb branzino costs $12–14 at a good fishmonger. The same fish sold as fillets costs $18–22. You just learned where $6–8 of the price comes from — and you can have fresher fish for less money.
+
+---
+
+## Block 19 — The Fundamentals of Fish Cookery
 
 **The central principle this week:** Fish cooks faster than you think, at lower temperatures than you're used to, and the margin between perfect and overdone is about 30 seconds. Salmon at 125°F (slightly translucent at the center) is perfect. At 145°F it becomes dry and flaky in the wrong way. Everything this week is about developing the instinct to pull fish early.
 
@@ -52,33 +81,6 @@
 
 ---
 
-### Thursday — Fish Butchery: Filleting a Whole Fish
-
-**Skill:** Breaking down a whole round fish into two clean fillets. This is the single most useful fish skill you can own — when you can fillet, you buy whole fish (cheaper, fresher, more honest), and you understand why a halibut fillet costs what it does.
-
-📖 **Read and watch before starting:** [Serious Eats — How to Fillet a Fish](https://www.seriouseats.com/how-to-fillet-a-fin-fish-perfectly-8761174) — the Kenji walkthrough is the clearest English-language video on this.
-
-**The technique for a round fish (salmon, sea bass, snapper, branzino):**
-1. **Find the backbone** — place the fish belly-down; feel the spine through the flesh
-2. **First cut** — score behind the head diagonally to the backbone; don't cut through
-3. **Run the knife along the spine** — blade angled slightly toward the bone, long smooth strokes, let the backbone guide you; use the rib cage as a fence
-4. **Fillet off the ribcage** — once past the spine, angle the knife to follow the rib curve; you should hear the blade scraping bone (that's correct — you're not wasting meat that way)
-5. **Pin bones** — run your finger down the centerline of the fillet; tiny bones perpendicular to the flesh. Pull with needle-nose pliers or fish tweezers, always pulling in the direction the bone points
-6. **Repeat for the second fillet**
-
-**Freshness signals — know these before you go to the fishmonger:**
-- Eyes: clear and slightly bulging. Cloudy or sunken = not fresh
-- Gills: bright red when fresh; brown or grey = older fish
-- Smell: clean, oceanic, or neutral. "Fishy" smell is TMA (trimethylamine) — bacterial decomposition. Fresh fish smells like the sea, not like fish
-- Flesh: springs back when pressed; doesn't hold the indentation
-- "Sushi-grade" has no legal definition — it means the seller is comfortable selling it raw. Ask your fishmonger directly
-
-**Full Meal:** Fillet and cook the fish in whatever style you prefer tonight — the miso glaze is already prepped for Friday, or use the Wednesday technique (crispy skin pan sear). You've broken it down yourself. That changes how it tastes.
-
-> **Why this matters beyond skills:** A whole 2 lb branzino costs $12–14 at a good fishmonger. The same fish sold as fillets costs $18–22. You just learned where $6–8 of the price comes from — and you can have fresher fish for less money.
-
----
-
 ### Session 4 — Miso-Glazed Salmon: Japanese Technique
 
 **Skill:** The miso glaze (white miso, mirin, sake, sugar) is applied to salmon and left to cure for several hours or overnight. The sugars in the miso caramelize under the broiler in 3–4 minutes. This is one of the most famous fish preparations in Japanese home cooking — Nobu Matsuhisa's black cod version made it internationally famous, but salmon is the accessible entry point.
@@ -103,7 +105,7 @@
 
 ---
 
-## Week 20 — Fish: Deeper Techniques & Global Preparations
+## Block 20 — Fish: Deeper Techniques & Global Preparations
 
 ---
 
@@ -199,4 +201,4 @@ Bouillabaisse is a lesson in building shellfish stock, saffron, and rouille — 
 
 ---
 
-← [Weeks 17–18: Beef Fundamentals](../17-18-beef-fundamentals/index.md) | [Weeks 21–22: Beef Advanced →](../21-22-beef-advanced/index.md)
+← [Block 17–18: Beef Fundamentals](../17-18-beef-fundamentals/index.md) | [Block 21–22: Beef Advanced →](../21-22-beef-advanced/index.md)

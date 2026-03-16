@@ -23,27 +23,27 @@ Each 2-week block has **three files**:
 
 ## The Program
 
-### 🔪 [Foundational Skills](weeks/01-foundational-skills/README.md) (Weeks 1–8)
+### 🔪 [Foundational Skills](weeks/01-foundational-skills/README.md) (Blocks 1–8)
 
-| Weeks | Topic | Full Guide | Quick Ref | Shopping List |
+| Blocks | Topic | Full Guide | Quick Ref | Shopping List |
 |-------|-------|------------|-----------|---------------|
 | 1–2 | Knife Skills & Kitchen Setup | [→ Guide](weeks/01-foundational-skills/01-02-knife-skills/index.md) | [→ Quick Ref](weeks/01-foundational-skills/01-02-knife-skills/quick-ref.md) | [→ Shopping](weeks/01-foundational-skills/01-02-knife-skills/shopping-list.md) |
 | 3–4 | Heat & Cooking Methods | [→ Guide](weeks/01-foundational-skills/03-04-heat-and-cooking/index.md) | [→ Quick Ref](weeks/01-foundational-skills/03-04-heat-and-cooking/quick-ref.md) | [→ Shopping](weeks/01-foundational-skills/03-04-heat-and-cooking/shopping-list.md) |
 | 5–6 | The 5 Mother Sauces | [→ Guide](weeks/01-foundational-skills/05-06-mother-sauces/index.md) | [→ Quick Ref](weeks/01-foundational-skills/05-06-mother-sauces/quick-ref.md) | [→ Shopping](weeks/01-foundational-skills/05-06-mother-sauces/shopping-list.md) |
 | 7–8 | Stocks & Eggs | [→ Guide](weeks/01-foundational-skills/07-08-stocks-and-eggs/index.md) | [→ Quick Ref](weeks/01-foundational-skills/07-08-stocks-and-eggs/quick-ref.md) | [→ Shopping](weeks/01-foundational-skills/07-08-stocks-and-eggs/shopping-list.md) |
 
-### 🧂 [Building Flavor](weeks/02-building-flavor/README.md) (Weeks 9–16)
+### 🧂 [Building Flavor](weeks/02-building-flavor/README.md) (Blocks 9–16)
 
-| Weeks | Topic | Full Guide | Quick Ref | Shopping List |
+| Blocks | Topic | Full Guide | Quick Ref | Shopping List |
 |-------|-------|------------|-----------|---------------|
 | 9–10 | Seasoning & Flavor Building | [→ Guide](weeks/02-building-flavor/09-10-seasoning-and-flavor/index.md) | [→ Quick Ref](weeks/02-building-flavor/09-10-seasoning-and-flavor/quick-ref.md) | [→ Shopping](weeks/02-building-flavor/09-10-seasoning-and-flavor/shopping-list.md) |
 | 11–12 | Vegetables & Plant-Forward Cooking | [→ Guide](weeks/02-building-flavor/11-12-vegetables-plant-forward/index.md) | [→ Quick Ref](weeks/02-building-flavor/11-12-vegetables-plant-forward/quick-ref.md) | [→ Shopping](weeks/02-building-flavor/11-12-vegetables-plant-forward/shopping-list.md) |
 | 13–14 | Pasta & Grains from Scratch | [→ Guide](weeks/02-building-flavor/13-14-pasta-and-grains/index.md) | [→ Quick Ref](weeks/02-building-flavor/13-14-pasta-and-grains/quick-ref.md) | [→ Shopping](weeks/02-building-flavor/13-14-pasta-and-grains/shopping-list.md) |
 | 15–16 | Module 2 Capstone: Poultry & Flavor Review | [→ Guide](weeks/02-building-flavor/15-16-midpoint-review/index.md) | [→ Quick Ref](weeks/02-building-flavor/15-16-midpoint-review/quick-ref.md) | [→ Shopping](weeks/02-building-flavor/15-16-midpoint-review/shopping-list.md) |
 
-### 🥩 [The Proteins](weeks/03-the-proteins/README.md) (Weeks 17–28)
+### 🥩 [The Proteins](weeks/03-the-proteins/README.md) (Blocks 17–28)
 
-| Weeks | Topic | Full Guide | Quick Ref | Shopping List |
+| Blocks | Topic | Full Guide | Quick Ref | Shopping List |
 |-------|-------|------------|-----------|---------------|
 | 17–18 | Beef — Fundamentals | [→ Guide](weeks/03-the-proteins/17-18-beef-fundamentals/index.md) | [→ Quick Ref](weeks/03-the-proteins/17-18-beef-fundamentals/quick-ref.md) | [→ Shopping](weeks/03-the-proteins/17-18-beef-fundamentals/shopping-list.md) |
 | 19–20 | Fish | [→ Guide](weeks/03-the-proteins/19-20-fish/index.md) | [→ Quick Ref](weeks/03-the-proteins/19-20-fish/quick-ref.md) | [→ Shopping](weeks/03-the-proteins/19-20-fish/shopping-list.md) |
@@ -52,9 +52,9 @@ Each 2-week block has **three files**:
 | 25–26 | Pork — All Cuts | [→ Guide](weeks/03-the-proteins/25-26-pork/index.md) | [→ Quick Ref](weeks/03-the-proteins/25-26-pork/quick-ref.md) | [→ Shopping](weeks/03-the-proteins/25-26-pork/shopping-list.md) |
 | 27–28 | Module 3 Capstone: Charcuterie & Curing | [→ Guide](weeks/03-the-proteins/27-28-charcuterie-review/index.md) | [→ Quick Ref](weeks/03-the-proteins/27-28-charcuterie-review/quick-ref.md) | [→ Shopping](weeks/03-the-proteins/27-28-charcuterie-review/shopping-list.md) |
 
-### 🌍 [The World's Kitchens](weeks/04-worlds-kitchens/README.md) (Weeks 29–44)
+### 🌍 [The World's Kitchens](weeks/04-worlds-kitchens/README.md) (Blocks 29–44)
 
-| Weeks | Topic | Full Guide | Quick Ref | Shopping List |
+| Blocks | Topic | Full Guide | Quick Ref | Shopping List |
 |-------|-------|------------|-----------|---------------|
 | 29–30 | French | [→ Guide](weeks/04-worlds-kitchens/29-30-french/index.md) | [→ Quick Ref](weeks/04-worlds-kitchens/29-30-french/quick-ref.md) | [→ Shopping](weeks/04-worlds-kitchens/29-30-french/shopping-list.md) |
 | 31–32 | Italian | [→ Guide](weeks/04-worlds-kitchens/31-32-italian/index.md) | [→ Quick Ref](weeks/04-worlds-kitchens/31-32-italian/quick-ref.md) | [→ Shopping](weeks/04-worlds-kitchens/31-32-italian/shopping-list.md) |
@@ -65,9 +65,9 @@ Each 2-week block has **three files**:
 | 41–42 | Middle Eastern | [→ Guide](weeks/04-worlds-kitchens/41-42-middle-eastern/index.md) | [→ Quick Ref](weeks/04-worlds-kitchens/41-42-middle-eastern/quick-ref.md) | [→ Shopping](weeks/04-worlds-kitchens/41-42-middle-eastern/shopping-list.md) |
 | 43–44 | Module 4 Capstone: Southeast Asian Cuisines | [→ Guide](weeks/04-worlds-kitchens/43-44-southeast-asian-review/index.md) | [→ Quick Ref](weeks/04-worlds-kitchens/43-44-southeast-asian-review/quick-ref.md) | [→ Shopping](weeks/04-worlds-kitchens/43-44-southeast-asian-review/shopping-list.md) |
 
-### 🍞 [Mastery & Pastry](weeks/05-mastery-and-pastry/README.md) (Weeks 45–52)
+### 🍞 [Mastery & Pastry](weeks/05-mastery-and-pastry/README.md) (Blocks 45–52)
 
-| Weeks | Topic | Full Guide | Quick Ref | Shopping List |
+| Blocks | Topic | Full Guide | Quick Ref | Shopping List |
 |-------|-------|------------|-----------|---------------|
 | 45–46 | Bread — Fundamentals | [→ Guide](weeks/05-mastery-and-pastry/45-46-bread/index.md) | [→ Quick Ref](weeks/05-mastery-and-pastry/45-46-bread/quick-ref.md) | [→ Shopping](weeks/05-mastery-and-pastry/45-46-bread/shopping-list.md) |
 | 47–50 | Pastry & Desserts | [→ Guide](weeks/05-mastery-and-pastry/47-48-pastry/index.md) | [→ Quick Ref](weeks/05-mastery-and-pastry/47-48-pastry/quick-ref.md) | [→ Shopping](weeks/05-mastery-and-pastry/47-48-pastry/shopping-list.md) |

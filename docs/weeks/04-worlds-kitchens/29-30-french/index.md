@@ -1,6 +1,6 @@
-# Weeks 29–30: French Classics
+# Block 29–30: French Classics
 
-← [Weeks 27–28: Charcuterie & Curing](../../03-the-proteins/27-28-charcuterie-review/index.md) | [Weeks 31–32: Italian →](../31-32-italian/index.md)
+← [Block 27–28: Charcuterie & Curing](../../03-the-proteins/27-28-charcuterie-review/index.md) | [Block 31–32: Italian →](../31-32-italian/index.md)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ---
 
-## Week 27 — The Sauces: Hollandaise, Béarnaise, and the French Mother Sauces
+## Block 27 — The Sauces: Hollandaise, Béarnaise, and the French Mother Sauces
 
 French cooking week means sauce week. No other cuisine has built such a systematic framework around sauce-making — not just for tradition's sake, but because the system *works*. This week you'll tackle the two emulsified egg yolk sauces (hollandaise and béarnaise), build a proper French onion soup, and finish with a cassoulet that will take most of Saturday.
 
@@ -85,7 +85,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 
 ---
 
-## Week 28 — Duck, Beurre Blanc, and the Composed Plate
+## Block 28 — Duck, Beurre Blanc, and the Composed Plate
 
 ---
 
@@ -199,4 +199,4 @@ Aioli made with patience and good olive oil is nothing like the commercial versi
 ---
 
 *Navigation:*
-← [Weeks 27–28: Charcuterie & Curing](../../03-the-proteins/27-28-charcuterie-review/index.md) | [Weeks 31–32: Italian →](../31-32-italian/index.md)
+← [Block 27–28: Charcuterie & Curing](../../03-the-proteins/27-28-charcuterie-review/index.md) | [Block 31–32: Italian →](../31-32-italian/index.md)

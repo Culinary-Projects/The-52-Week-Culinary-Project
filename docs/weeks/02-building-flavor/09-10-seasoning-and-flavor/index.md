@@ -1,4 +1,4 @@
-# 🧂 Weeks 9–10: Seasoning & Flavor Building
+# 🧂 Block 9–10: Seasoning & Flavor Building
 
 ← [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
 
@@ -21,7 +21,7 @@
 
 ---
 
-## Week 9 — Salt: When, What, and Why
+## Block 9 — Salt: When, What, and Why
 
 > The lesson: salt behaves differently at different stages of cooking, and learning to recognize *what* your food is missing — flat? dull? one-dimensional? — is more valuable than any single technique.
 
@@ -111,7 +111,7 @@ This is one of the most impressive things you can serve to guests and it require
 
 ---
 
-## Week 10 — Acid, Fat, and the Fifth Taste
+## Block 10 — Acid, Fat, and the Fifth Taste
 
 > The lesson: seasoning is not just salt. Acid brightens. Fat carries and extends. Umami deepens. Knowing which one is missing from a flat dish is the difference between following a recipe and actually cooking.
 
@@ -232,4 +232,4 @@ Salt gets all the attention, but acid is what makes a dish taste complete. A squ
 
 ---
 
-← [Weeks 7–8](../../01-foundational-skills/07-08-stocks-and-eggs/index.md) | [Weeks 11–12: Vegetables & Plant-Forward →](../11-12-vegetables-plant-forward/index.md)
+← [Weeks 7–8](../../01-foundational-skills/07-08-stocks-and-eggs/index.md) | [Block 11–12: Vegetables & Plant-Forward →](../11-12-vegetables-plant-forward/index.md)

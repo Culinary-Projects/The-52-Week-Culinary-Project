@@ -1,10 +1,10 @@
-# Quick Reference — Weeks 45–46: Bread
+# Quick Reference — Block 45–46: Bread
 
 ← [Back to Full Guide](index.md) | [Shopping List](shopping-list.md)
 
 ---
 
-## Week 41 — The Forgiving Loaves
+## Block 41 — The Forgiving Loaves
 
 | Day | Bread | Hydration | Method | Timing |
 |-----|-------|-----------|--------|--------|
@@ -15,7 +15,7 @@
 | Fri | [Pullman Sandwich Loaf](https://www.seriouseats.com/bread-baking-pullman-loaf-recipe) | ~65% | [Enriched; Pullman pan](https://www.seriouseats.com/bread-baking-pullman-loaf-recipe) | Standard 2-hour proof |
 | Sat | [**Sourdough Starter** (start)](https://www.seriouseats.com/sourdough-starter) | n/a | Mix flour + water; 5–7 day culture | Won't use until Week 42 |
 
-## Week 42 — Sourdough, Brioche, Croissants
+## Block 42 — Sourdough, Brioche, Croissants
 
 | Day | Bread | Method | Key Milestone |
 |-----|-------|--------|---------------|

@@ -1,4 +1,4 @@
-# 🛒 Shopping List — Weeks 5–6: The 5 Mother Sauces
+# 🛒 Shopping List — Block 5–6: The 5 Mother Sauces
 
 ← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)
 

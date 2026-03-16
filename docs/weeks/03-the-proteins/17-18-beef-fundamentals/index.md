@@ -1,4 +1,4 @@
-# 🥩 Weeks 17–18: Beef — Fundamentals
+# 🥩 Block 17–18: Beef — Fundamentals
 
 ← [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
 
@@ -8,7 +8,42 @@
 
 ---
 
-## Week 15 — The Steak Education
+## Before You Start Block 17
+
+### Beef Butchery: Primal Cuts & Fabrication
+
+**Skill:** Understanding the beef primal map — where every cut comes from and why it costs what it costs. Tonight is theory and light hands-on work: you'll trim and portion a short rib rack or fabricate a chuck roast into uniform braising pieces.
+
+📖 **Read first:** [Beef Cuts Explained: A Guide to the Different Cuts of Beef](https://www.beefitswhatsfordinner.com/cuts) — understand why the same animal produces both a $6/lb chuck and a $30/lb tenderloin.
+
+**The primal cut map — every beef cut descends from 8 primals:**
+
+| Primal | Characteristics | Cuts it yields |
+|--------|----------------|----------------|
+| **Chuck** (shoulder) | Well-worked muscle, lots of collagen | Chuck roast, short ribs, flat iron |
+| **Rib** | Less-worked, heavily marbled | Ribeye, prime rib, ribeye cap |
+| **Short loin** | Tender, central back | T-bone, porterhouse, strip steak |
+| **Sirloin** | Moderately worked | Sirloin steak, tri-tip |
+| **Round** (rear leg) | Lean, tough | Round roast, top round, eye of round |
+| **Brisket** (chest) | Very tough, collagen-heavy | Whole brisket, flat, point |
+| **Flank/plate** | Flat, thin, fibrous | Skirt steak, flank steak, hanger |
+| **Shank** | Very tough, maximum gelatin | Osso buco (cross-cut shank) |
+
+**The fabrication principle:** Tough cuts (chuck, brisket, shank) need low heat and long time to convert collagen to gelatin. Tender cuts (rib, loin) need high heat and short time. The method should always match the muscle's work history.
+
+**Hands-on tonight:** Buy a rack of bone-in short ribs from your butcher as a slab (not pre-cut English style). Practice:
+1. Identifying the grain direction of the meat
+2. Trimming excess fat cap (leave ¼" — flavor, not waste)
+3. Portioning between bones for even braising pieces
+4. Asking yourself: could I have bought these pre-portioned? Yes. But now you understand what you're paying for when you don't.
+
+**Full Meal:** The short ribs you trim tonight — braise them tomorrow or this weekend (see Week 16 for the full recipe). Tonight pair with whatever you have: bread and a salad is fine.
+
+📖 **Also worth reading:** [Serious Eats — Should You Bring Steaks to Room Temperature Before Cooking?](https://www.seriouseats.com/should-you-bring-steaks-and-roasts-to-room-temperature-before-cooking-11873888) — the answer is more interesting than you expect.
+
+---
+
+## Block 15 — The Steak Education
 
 **The central question this week:** Why does a ribeye require a different approach than a strip? Why does a two-inch-thick steak need different handling than a thin one? Beef cuts are not interchangeable — their fat content, fiber direction, and thickness all dictate the method.
 
@@ -58,39 +93,6 @@ The reverse sear — low oven first, then high-heat sear — gives you precise t
 
 ---
 
-### Thursday — Beef Butchery: Primal Cuts & Fabrication
-
-**Skill:** Understanding the beef primal map — where every cut comes from and why it costs what it costs. Tonight is theory and light hands-on work: you'll trim and portion a short rib rack or fabricate a chuck roast into uniform braising pieces.
-
-📖 **Read first:** [Beef Cuts Explained: A Guide to the Different Cuts of Beef](https://www.beefitswhatsfordinner.com/cuts) — understand why the same animal produces both a $6/lb chuck and a $30/lb tenderloin.
-
-**The primal cut map — every beef cut descends from 8 primals:**
-
-| Primal | Characteristics | Cuts it yields |
-|--------|----------------|----------------|
-| **Chuck** (shoulder) | Well-worked muscle, lots of collagen | Chuck roast, short ribs, flat iron |
-| **Rib** | Less-worked, heavily marbled | Ribeye, prime rib, ribeye cap |
-| **Short loin** | Tender, central back | T-bone, porterhouse, strip steak |
-| **Sirloin** | Moderately worked | Sirloin steak, tri-tip |
-| **Round** (rear leg) | Lean, tough | Round roast, top round, eye of round |
-| **Brisket** (chest) | Very tough, collagen-heavy | Whole brisket, flat, point |
-| **Flank/plate** | Flat, thin, fibrous | Skirt steak, flank steak, hanger |
-| **Shank** | Very tough, maximum gelatin | Osso buco (cross-cut shank) |
-
-**The fabrication principle:** Tough cuts (chuck, brisket, shank) need low heat and long time to convert collagen to gelatin. Tender cuts (rib, loin) need high heat and short time. The method should always match the muscle's work history.
-
-**Hands-on tonight:** Buy a rack of bone-in short ribs from your butcher as a slab (not pre-cut English style). Practice:
-1. Identifying the grain direction of the meat
-2. Trimming excess fat cap (leave ¼" — flavor, not waste)
-3. Portioning between bones for even braising pieces
-4. Asking yourself: could I have bought these pre-portioned? Yes. But now you understand what you're paying for when you don't.
-
-**Full Meal:** The short ribs you trim tonight — braise them tomorrow or this weekend (see Week 16 for the full recipe). Tonight pair with whatever you have: bread and a salad is fine.
-
-📖 **Also worth reading:** [Serious Eats — Should You Bring Steaks to Room Temperature Before Cooking?](https://www.seriouseats.com/should-you-bring-steaks-and-roasts-to-room-temperature-before-cooking-11873888) — the answer is more interesting than you expect.
-
----
-
 ### Session 4 — Skirt Steak: Thin Cuts & Marination
 
 **Skill:** Thin cuts (skirt, flank, hanger) are the workhorse steaks of Latin American and Asian cuisines — they're cheap, extremely flavorful, and completely different from the thick-cut luxury steaks of earlier this week. Two rules: high heat, short time. And always cut against the grain — these muscles have very pronounced fiber direction, and cutting the wrong way makes them nearly inedible.
@@ -124,7 +126,7 @@ The reverse sear — low oven first, then high-heat sear — gives you precise t
 
 ---
 
-## Week 16 — Beef: Braising & the Tougher Cuts
+## Block 16 — Beef: Braising & the Tougher Cuts
 
 > *"The most flavorful beef in the animal is in the cuts that require the most time. This is not a coincidence."*
 
@@ -223,4 +225,4 @@ Most steak advice is either wrong or oversimplified. The Food Lab has done more 
 
 ---
 
-← [Weeks 15–16](../../02-building-flavor/15-16-midpoint-review/index.md) | [Weeks 19–20: Fish →](../19-20-fish/index.md)
+← [Weeks 15–16](../../02-building-flavor/15-16-midpoint-review/index.md) | [Block 19–20: Fish →](../19-20-fish/index.md)

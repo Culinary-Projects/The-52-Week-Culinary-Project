@@ -1,6 +1,6 @@
-# Weeks 37–38: Mexican
+# Block 37–38: Mexican
 
-← [Weeks 35–36: Chinese](../35-36-chinese/index.md) | [Weeks 39–40: Indian →](../39-40-indian/index.md)
+← [Block 35–36: Chinese](../35-36-chinese/index.md) | [Block 39–40: Indian →](../39-40-indian/index.md)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ---
 
-## Week 33 — Pozole, Tacos al Pastor, and Carne Asada
+## Block 33 — Pozole, Tacos al Pastor, and Carne Asada
 
 Mexican cuisine covers centuries of indigenous technique layered with colonial influence and regional variation. This week focuses on the key dry-heat and braising techniques from Mexico's northern and central traditions. You've already done carnitas (Week 20) and al pastor-adjacent work — this week goes deeper.
 
@@ -84,7 +84,7 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 
 ---
 
-## Week 34 — Deeper Mexico: Birria, Mole, and Tamales
+## Block 34 — Deeper Mexico: Birria, Mole, and Tamales
 
 ---
 
@@ -198,4 +198,4 @@ Mole negro is typically a multi-day project in its native context. Understanding
 ---
 
 *Navigation:*
-← [Weeks 35–36: Chinese](../35-36-chinese/index.md) | [Weeks 39–40: Indian →](../39-40-indian/index.md)
+← [Block 35–36: Chinese](../35-36-chinese/index.md) | [Block 39–40: Indian →](../39-40-indian/index.md)

@@ -1,4 +1,4 @@
-# 🛒 Shopping List — Weeks 47–48: Pastry
+# 🛒 Shopping List — Block 47–48: Pastry
 
 ← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)
 

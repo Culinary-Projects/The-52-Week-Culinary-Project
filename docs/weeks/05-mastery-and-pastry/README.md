@@ -1,4 +1,4 @@
-# Module 5: Mastery & Pastry (Weeks 45–52)
+# Module 5: Mastery & Pastry (Block 45–52)
 
 
 ---

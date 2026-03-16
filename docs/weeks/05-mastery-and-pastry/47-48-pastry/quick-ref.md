@@ -1,10 +1,10 @@
-# Quick Reference — Weeks 47–48: Pastry
+# Quick Reference — Block 47–48: Pastry
 
 ← [Back to Full Guide](index.md) | [Shopping List](shopping-list.md)
 
 ---
 
-## Week 43 — French Pastry Foundations
+## Block 43 — French Pastry Foundations
 
 | Day | Preparation | Key Technique | Critical Point |
 |-----|-------------|---------------|----------------|
@@ -15,7 +15,7 @@
 | Fri | [Rough Puff Pastry](https://www.seriouseats.com/vanilla-pastry-cream-creme-patissiere) | Grated frozen butter; fold 3–4× | Keep cold; rest between folds |
 | Sat | [**PROJECT:** Mille-Feuille](https://www.seriouseats.com/mille-feuille-recipe-8729243) | [Baked puff sheets + pastry cream layers](https://www.seriouseats.com/vanilla-pastry-cream-creme-patissiere) | [Level the pastry sheets; press layers gently](https://www.seriouseats.com/vanilla-pastry-cream-creme-patissiere) |
 
-## Week 44 — Applied Pastry: Quiche, Pie, Lemon Tart, Choux
+## Block 44 — Applied Pastry: Quiche, Pie, Lemon Tart, Choux
 
 | Day | Preparation | Key Technique | Critical Point |
 |-----|-------------|---------------|----------------|

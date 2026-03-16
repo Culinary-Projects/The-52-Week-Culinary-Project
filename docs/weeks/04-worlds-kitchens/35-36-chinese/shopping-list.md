@@ -1,4 +1,4 @@
-# Weeks 39–40 Shopping List — Chinese Cuisine
+# Block 39–40 Shopping List — Chinese Cuisine
 
 ← [Back to Week 35–36 Guide](index.md)
 

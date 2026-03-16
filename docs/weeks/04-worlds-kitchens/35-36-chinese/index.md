@@ -1,6 +1,6 @@
-# 🥢 Weeks 39–40: Chinese Cuisine
+# 🥢 Block 39–40: Chinese Cuisine
 
-← [Weeks 37–38: Japanese Cuisine](../33-34-japanese/index.md) | [Weeks 41–42: Mexican Cuisine →](../37-38-mexican/index.md)
+← [Block 37–38: Japanese Cuisine](../33-34-japanese/index.md) | [Block 41–42: Mexican Cuisine →](../37-38-mexican/index.md)
 
 ---
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Before You Start Week 35
+## Before You Start Block 35
 
 Chinese cuisine is the most codified and internally diverse cooking tradition in the world. The CIA teaches it because it contains techniques that have no Western analogue — wok hei (breath of the wok, achieved through intensely high heat), red-braising (hong shao rou, using soy and sugar to create a lacquer-like glaze), and the specific knife and cutting logic that underlies stir-fry.
 
@@ -27,6 +27,37 @@ Two weeks is a narrow aperture. The goal is not representativeness — it is flu
 
 📖 **Read first:** [Serious Eats — How to Build a Chinese Pantry](https://thewoksoflife.com/chinese-pantry/) — the pantry items in Chinese cooking are unlike a Western pantry. Stock these two weeks ahead of time.
 
+
+### Dan Dan Noodles
+
+**Skill:** Dan dan noodles are a Sichuan street food that demonstrates the entire Sichuan flavor vocabulary in one bowl: málà (numbing + heat from Sichuan peppercorn + chilli), sour (black vinegar), sweet, rich (sesame paste), savory (soy), and the crunchy textural contrast of ya cai (preserved mustard greens).
+
+📖 **Read:** [Serious Eats — Dan Dan Noodles](https://thewoksoflife.com/dan-dan-noodles/)
+
+**The sauce components — build this understanding:**
+
+| Component | Flavor role |
+|-----------|-------------|
+| Sesame paste (or tahini) | Richness, body, nutty depth |
+| Light soy sauce | Salt, savory baseline |
+| Black vinegar (Chinkiang) | Sourness, slight smoke |
+| Chilli oil | Primary heat + red color |
+| Ground Sichuan peppercorns | Málà numbing sensation |
+| Sugar | Balance against the acid and heat |
+| Chicken stock or hot water | Texture, loosens the sauce |
+
+This sauce formula — sesame + soy + vinegar + chilli + Sichuan pepper — is the Sichuan noodle sauce template. Understanding it unlocks a dozen dishes.
+
+**Full Meal:** Dan dan noodles (a full portion, made as a dinner for yourself or two people) — nothing else needed, they're substantial
+
+| Component | Recipe |
+|-----------|--------|
+| Noodles | Fresh wheat noodles or dried thin lo mein; al dente |
+| Topping | Spiced pork mince with ya cai (preserved mustard greens) |
+| Sauce | Full Sichuan dan dan sauce (above components) |
+| Garnish | Chopped roasted peanuts, scallion greens, chilli oil drizzle |
+
+> 🎥 **Compare Notes:** [Making Authentic Dan Dan Noodles at Home](https://www.youtube.com/watch?v=lc3NZz_8sFU) *(Chinese Cooking Demystified)* — covers the Sichuan peppercorn toasting and grinding process, which makes a meaningful difference.
 ---
 
 ## The Chinese Pantry
@@ -49,7 +80,7 @@ Before Week 35 begins, verify you have:
 
 ---
 
-## Week 35 — Core Chinese Techniques
+## Block 35 — Core Chinese Techniques
 
 ### Session 1 — The Wok: Heat, Motion, and Wok Hei
 
@@ -152,39 +183,6 @@ Velveting is the technique that makes restaurant Chinese chicken silky instead o
 
 ---
 
-### Thursday — Dan Dan Noodles
-
-**Skill:** Dan dan noodles are a Sichuan street food that demonstrates the entire Sichuan flavor vocabulary in one bowl: málà (numbing + heat from Sichuan peppercorn + chilli), sour (black vinegar), sweet, rich (sesame paste), savory (soy), and the crunchy textural contrast of ya cai (preserved mustard greens).
-
-📖 **Read:** [Serious Eats — Dan Dan Noodles](https://thewoksoflife.com/dan-dan-noodles/)
-
-**The sauce components — build this understanding:**
-
-| Component | Flavor role |
-|-----------|-------------|
-| Sesame paste (or tahini) | Richness, body, nutty depth |
-| Light soy sauce | Salt, savory baseline |
-| Black vinegar (Chinkiang) | Sourness, slight smoke |
-| Chilli oil | Primary heat + red color |
-| Ground Sichuan peppercorns | Málà numbing sensation |
-| Sugar | Balance against the acid and heat |
-| Chicken stock or hot water | Texture, loosens the sauce |
-
-This sauce formula — sesame + soy + vinegar + chilli + Sichuan pepper — is the Sichuan noodle sauce template. Understanding it unlocks a dozen dishes.
-
-**Full Meal:** Dan dan noodles (a full portion, made as a dinner for yourself or two people) — nothing else needed, they're substantial
-
-| Component | Recipe |
-|-----------|--------|
-| Noodles | Fresh wheat noodles or dried thin lo mein; al dente |
-| Topping | Spiced pork mince with ya cai (preserved mustard greens) |
-| Sauce | Full Sichuan dan dan sauce (above components) |
-| Garnish | Chopped roasted peanuts, scallion greens, chilli oil drizzle |
-
-> 🎥 **Compare Notes:** [Making Authentic Dan Dan Noodles at Home](https://www.youtube.com/watch?v=lc3NZz_8sFU) *(Chinese Cooking Demystified)* — covers the Sichuan peppercorn toasting and grinding process, which makes a meaningful difference.
-
----
-
 ### Session 4 — Mapo Tofu (麻婆豆腐)
 
 **Skill:** Mapo tofu is one of the most technically interesting dishes in all of Chinese cooking. It requires managing: braising the tofu gently so it holds shape while absorbing flavors, building a complex base from doubanjiang + black bean + aromatics, achieving the proper "flower" texture of soft tofu, and finishing with Sichuan peppercorn oil and the "pushing" motion (tuī dòufu) that moves the tofu without breaking it.
@@ -222,7 +220,31 @@ Cook a complete Sichuan-focused dinner for two to four people. The goal is to co
 
 ---
 
-## Week 36 — Northern, Cantonese, and Home Cooking
+## Before You Start Block 36
+
+### Kung Pao Chicken (宫保鸡丁)
+
+**Skill:** Kung pao chicken is one of the most technically balanced dishes in Chinese cooking. It requires: velveted chicken, a fried-peanut garnish, the dual texture of the dried chillies (the shells add smokiness, the seeds add heat), and a sauce that is simultaneously sour, sweet, salty, and a little numbing.
+
+📖 **Read:** [Serious Eats — Kung Pao Chicken](https://thewoksoflife.com/kung-pao-chicken/)
+
+**The sauce formula:**
+
+| Ingredient | Amount | Role |
+|------------|--------|------|
+| Black vinegar | 2 tsp | Sour |
+| Soy sauce | 2 tbsp | Salt, savory |
+| Sugar | 1 tsp | Sweet |
+| Sichuan peppercorn oil | 1 tsp | Numbing |
+| Chilli oil | 1 tsp | Heat |
+| Cornstarch | 1 tsp | Thickener |
+| Chicken stock | 3 tbsp | Body |
+
+**Full Meal:** Kung pao chicken over steamed rice + sliced cucumber dressed with sesame oil and white vinegar
+
+---
+
+## Block 36 — Northern, Cantonese, and Home Cooking
 
 ---
 
@@ -278,28 +300,6 @@ Cook a complete Sichuan-focused dinner for two to four people. The goal is to co
 6. Off heat: sesame oil + scallion greens
 
 > **Cold rice is non-negotiable.** Fresh cooked rice has too much moisture and steams in the wok, producing gluey clumps. Cook rice the day before, spread on a tray to dry, and refrigerate uncovered overnight.
-
----
-
-### Thursday — Kung Pao Chicken (宫保鸡丁)
-
-**Skill:** Kung pao chicken is one of the most technically balanced dishes in Chinese cooking. It requires: velveted chicken, a fried-peanut garnish, the dual texture of the dried chillies (the shells add smokiness, the seeds add heat), and a sauce that is simultaneously sour, sweet, salty, and a little numbing.
-
-📖 **Read:** [Serious Eats — Kung Pao Chicken](https://thewoksoflife.com/kung-pao-chicken/)
-
-**The sauce formula:**
-
-| Ingredient | Amount | Role |
-|------------|--------|------|
-| Black vinegar | 2 tsp | Sour |
-| Soy sauce | 2 tbsp | Salt, savory |
-| Sugar | 1 tsp | Sweet |
-| Sichuan peppercorn oil | 1 tsp | Numbing |
-| Chilli oil | 1 tsp | Heat |
-| Cornstarch | 1 tsp | Thickener |
-| Chicken stock | 3 tbsp | Body |
-
-**Full Meal:** Kung pao chicken over steamed rice + sliced cucumber dressed with sesame oil and white vinegar
 
 ---
 

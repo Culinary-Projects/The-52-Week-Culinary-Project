@@ -1,10 +1,10 @@
-# Quick Reference — Weeks 33–34: Japanese
+# Quick Reference — Block 33–34: Japanese
 
 ← [Back to Full Guide](index.md) | [Shopping List](shopping-list.md)
 
 ---
 
-## Week 31 — Foundational Japanese Techniques
+## Block 31 — Foundational Japanese Techniques
 
 | Day | Dish | Technique | Key Point |
 |-----|------|-----------|-----------|
@@ -15,7 +15,7 @@
 | Fri | [Tempura (vegetable + shrimp)](https://www.seriouseats.com/deep-fried-green-bean-and-shiitake-tempura-with-ponzu-mayonnaise-recipe) | Ice-cold lumpy batter; 370°F | Mix batter just before frying |
 | Sat | [**PROJECT:** Oyakodon + full Japanese dinner](https://www.seriouseats.com/oyakodon-japanese-chicken-and-egg-rice-bowl-recipe) | [Simmer chicken in dashi; eggs barely set](https://www.seriouseats.com/oyakodon-japanese-chicken-and-egg-rice-bowl-recipe) | Off heat while yolks run |
 
-## Week 32 — Ramen, Fire Cooking, and Hot Pot
+## Block 32 — Ramen, Fire Cooking, and Hot Pot
 
 | Day | Dish | Technique | Key Point |
 |-----|------|-----------|-----------|

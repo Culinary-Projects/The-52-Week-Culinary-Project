@@ -1,6 +1,6 @@
-# Weeks 27–28: Charcuterie & Curing
+# Block 27–28: Charcuterie & Curing
 
-← [Weeks 25–26: Pork](../25-26-pork/index.md) | [Weeks 29–30: French Classics →](../../04-worlds-kitchens/29-30-french/index.md)
+← [Block 25–26: Pork](../25-26-pork/index.md) | [Block 29–30: French Classics →](../../04-worlds-kitchens/29-30-french/index.md)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ---
 
-## Week 25 — Curing: Salt, Time, and Transformation
+## Block 25 — Curing: Salt, Time, and Transformation
 
 Salt curing is the oldest form of preservation in human civilization, and it's also one of the most revelatory cooking methods you'll encounter. This week you'll cure fish, grind your first sausage (or learn to), and understand how salt changes protein texture in ways heat cannot.
 
@@ -87,7 +87,7 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 
 ---
 
-## Week 26 — Applying Curing Techniques + Program Midpoint Check-In
+## Block 26 — Applying Curing Techniques + Program Midpoint Check-In
 
 *(This is the program's six-month mark. Half the year done. Use this week both to cook and to reflect.)*
 
@@ -196,4 +196,4 @@ Gravlax is the cleanest introduction to curing — no smoking, no casings, no sp
 ---
 
 *Navigation:*
-← [Weeks 25–26: Pork](../25-26-pork/index.md) | [Weeks 29–30: French Classics →](../../04-worlds-kitchens/29-30-french/index.md)
+← [Block 25–26: Pork](../25-26-pork/index.md) | [Block 29–30: French Classics →](../../04-worlds-kitchens/29-30-french/index.md)

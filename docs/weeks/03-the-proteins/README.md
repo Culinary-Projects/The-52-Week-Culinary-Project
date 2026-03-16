@@ -1,4 +1,4 @@
-# Module 3: The Proteins (Weeks 17–28)
+# Module 3: The Proteins (Block 17–28)
 
 
 ---

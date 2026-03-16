@@ -1,4 +1,4 @@
-# 🛒 Shopping List — Weeks 3–4: Heat & Cooking Methods
+# 🛒 Shopping List — Block 3–4: Heat & Cooking Methods
 
 ← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)
 

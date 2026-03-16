@@ -1,4 +1,4 @@
-# 🔪 Weeks 1–2: Knife Skills & Kitchen Setup
+# 🔪 Block 1–2: Knife Skills & Kitchen Setup
 
 > *"Learn to hold a knife properly and half the battle is won."*
 
@@ -6,7 +6,7 @@
 
 ---
 
-## Before You Start Week 1
+## Before You Start Block 1
 
 Read these first — they'll make every session click:
 
@@ -17,7 +17,7 @@ Read these first — they'll make every session click:
 
 ---
 
-## Week 1 — Your Knife Is a Liar (And Your Hands Don't Know It Yet)
+## Block 1 — Your Knife Is a Liar (And Your Hands Don't Know It Yet)
 
 ### Session 1 — The Pinch Grip
 
@@ -110,7 +110,7 @@ A self-contained stunning dinner — nothing else needed except a glass of red w
 
 ---
 
-## Week 2 — Cuts Have Names. Learn Them.
+## Block 2 — Cuts Have Names. Learn Them.
 
 The grip is feeling more natural. Now we add vocabulary and intentionality to the cuts themselves.
 

@@ -1,10 +1,10 @@
-# Quick Reference — Weeks 41–42: Middle Eastern
+# Quick Reference — Block 41–42: Middle Eastern
 
 ← [Back to Full Guide](index.md) | [Shopping List](shopping-list.md)
 
 ---
 
-## Week 37 — Hummus, Shakshuka, Shawarma
+## Block 37 — Hummus, Shakshuka, Shawarma
 
 | Day | Dish | Technique | Key Point |
 |-----|------|-----------|-----------|
@@ -15,7 +15,7 @@
 | Fri | [Falafel + Fattoush](https://www.seriouseats.com/fattoush-recipe-8638102) | Raw soaked chickpeas (never canned); 350°F fry | Must use dried chickpeas |
 | Sat | [**PROJECT:** Beef Shawarma + Tabbouleh](https://www.seriouseats.com/beef-shawarma-recipe-11825269) | Thin-cut marinated beef; broil or sear hot | [Tabbouleh = mostly parsley](https://www.seriouseats.com/tabbouleh-salad-recipe) |
 
-## Week 38 — Kebabs, Grains, Aromatic Rice
+## Block 38 — Kebabs, Grains, Aromatic Rice
 
 | Day | Dish | Technique | Key Point |
 |-----|------|-----------|-----------|

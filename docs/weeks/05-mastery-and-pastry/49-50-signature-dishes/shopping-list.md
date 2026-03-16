@@ -1,6 +1,6 @@
-# Weeks 49–50: Signature Dishes — Shopping List
+# Block 49–50: Signature Dishes — Shopping List
 
-← [Weeks 47–50: Pastry & Desserts](../47-48-pastry/index.md) | [Weeks 51–52: Final Exam →](../51-52-final-exam/index.md)
+← [Block 47–50: Pastry & Desserts](../47-48-pastry/index.md) | [Block 51–52: Final Exam →](../51-52-final-exam/index.md)
 
 ---
 
@@ -16,7 +16,7 @@
 
 ---
 
-## Week 47 — Wok Session
+## Block 47 — Wok Session
 
 - [ ] High smoke-point oil (peanut, grapeseed, or avocado) — 16 oz
 - [ ] Garlic — 1 head
@@ -29,7 +29,7 @@
 
 ---
 
-## Week 47 — Cookie Session
+## Block 47 — Cookie Session
 
 *Note: purchase based on your planned variation from Week 46 batch*
 
@@ -44,7 +44,7 @@
 
 ---
 
-## Week 47 — Mise en Place Dinner (3-Course)
+## Block 47 — Mise en Place Dinner (3-Course)
 
 *These items depend entirely on your menu choice; below is a suggested path:*
 
@@ -55,7 +55,7 @@
 
 ---
 
-## Week 48 — Personal Tasting Menu
+## Block 48 — Personal Tasting Menu
 
 *All 4 courses should be drawn from your existing repertoire. No new ingredients required that you don't already know.*
 

@@ -1,4 +1,4 @@
-# ⚡ Weeks 7–8 Quick Reference — Stocks & Eggs
+# ⚡ Block 7–8 Quick Reference — Stocks & Eggs
 
 ← [Back to Full Guide](index.md) | [Shopping List →](shopping-list.md)
 

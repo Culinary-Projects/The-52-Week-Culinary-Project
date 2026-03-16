@@ -1,4 +1,4 @@
-# 🥚 Weeks 7–8: Stocks & Eggs
+# 🥚 Block 7–8: Stocks & Eggs
 
 > *"Stocks are the foundation of professional cooking. Eggs are the chef's ultimate test."*
 
@@ -6,7 +6,7 @@
 
 ---
 
-## Before You Start Week 7
+## Before You Start Block 7
 
 Read these first:
 
@@ -14,9 +14,41 @@ Read these first:
 
 **The Week 7 Rule:** Get your frozen chicken carcass from Week 2 out of the freezer Sunday night. You're going to use it.
 
+
+### Soups: A Taxonomy
+
+**Skill:** Understanding soup as a category — not recipes, but architecture. Tonight you make one purée soup and learn how the same structure produces every purée soup in existence.
+
+📖 **Read first:** [How to Make Any Purée Soup](https://www.seriouseats.com/classic-butternut-squash-soup-recipe) — the technique scales to any vegetable.
+
+**The five soup families — know these and you can improvise forever:**
+
+| Family | Technique | Example |
+|--------|-----------|---------|
+| **Broth/consommé** | Clear liquid, flavored by solids | Chicken noodle, pho, ramen broth |
+| **Purée** | Cooked vegetables blended smooth; no cream needed | Butternut squash, tomato, parsnip |
+| **Cream soup** | Purée + cream or béchamel for richness and texture | Cream of mushroom, vichyssoise |
+| **Bisque** | Shellfish shells simmered into the base; always cream-finished | Lobster bisque, shrimp bisque |
+| **Chowder** | Chunky; potato base; salt pork/bacon; cream-finished | New England clam chowder, corn chowder |
+
+**The universal purée method — memorize this, not any specific recipe:**
+1. Sweat aromatics (onion, leek, garlic, celery) in fat until soft — don't brown them
+2. Add your main vegetable, cut uniformly so it cooks evenly
+3. Add stock (just enough to cover); season lightly now, adjust at the end
+4. Simmer until vegetables are completely tender — they should crush against the pot wall
+5. Blend (immersion blender in the pot, or batches in a blender with the vent cracked)
+6. Adjust consistency with stock; adjust seasoning. Finish with cream, butter, or acid.
+
+**Full Meal:** [Roasted Butternut Squash Soup](https://www.seriouseats.com/classic-butternut-squash-soup-recipe) + crusty bread + simple salad
+
+The roasting step is optional but worth it: it caramelizes the squash and adds depth a boiled purée can't match.
+
+> **The professional difference between good and great purée soup:** Seasoning at every stage (the aromatics, the stock, and the final adjust), and texture — it should be silky enough to coat a spoon without being so thick it's porridge. Strain it through a fine mesh sieve if it isn't smooth enough after blending.
+
+📖 **Also read:** [How to Make Restaurant-Quality Stock at Home](https://www.seriouseats.com/pressure-cooker-chicken-stock-recipe)
 ---
 
-## Week 7 — Stocks & Broths
+## Block 7 — Stocks & Broths
 
 ### Session 1 — Chicken Stock from Scratch
 
@@ -63,40 +95,6 @@ This takes time but is mostly passive. Start it when you get home, let it simmer
 
 ---
 
-### Thursday — Soups: A Taxonomy
-
-**Skill:** Understanding soup as a category — not recipes, but architecture. Tonight you make one purée soup and learn how the same structure produces every purée soup in existence.
-
-📖 **Read first:** [How to Make Any Purée Soup](https://www.seriouseats.com/classic-butternut-squash-soup-recipe) — the technique scales to any vegetable.
-
-**The five soup families — know these and you can improvise forever:**
-
-| Family | Technique | Example |
-|--------|-----------|---------|
-| **Broth/consommé** | Clear liquid, flavored by solids | Chicken noodle, pho, ramen broth |
-| **Purée** | Cooked vegetables blended smooth; no cream needed | Butternut squash, tomato, parsnip |
-| **Cream soup** | Purée + cream or béchamel for richness and texture | Cream of mushroom, vichyssoise |
-| **Bisque** | Shellfish shells simmered into the base; always cream-finished | Lobster bisque, shrimp bisque |
-| **Chowder** | Chunky; potato base; salt pork/bacon; cream-finished | New England clam chowder, corn chowder |
-
-**The universal purée method — memorize this, not any specific recipe:**
-1. Sweat aromatics (onion, leek, garlic, celery) in fat until soft — don't brown them
-2. Add your main vegetable, cut uniformly so it cooks evenly
-3. Add stock (just enough to cover); season lightly now, adjust at the end
-4. Simmer until vegetables are completely tender — they should crush against the pot wall
-5. Blend (immersion blender in the pot, or batches in a blender with the vent cracked)
-6. Adjust consistency with stock; adjust seasoning. Finish with cream, butter, or acid.
-
-**Full Meal:** [Roasted Butternut Squash Soup](https://www.seriouseats.com/classic-butternut-squash-soup-recipe) + crusty bread + simple salad
-
-The roasting step is optional but worth it: it caramelizes the squash and adds depth a boiled purée can't match.
-
-> **The professional difference between good and great purée soup:** Seasoning at every stage (the aromatics, the stock, and the final adjust), and texture — it should be silky enough to coat a spoon without being so thick it's porridge. Strain it through a fine mesh sieve if it isn't smooth enough after blending.
-
-📖 **Also read:** [How to Make Restaurant-Quality Stock at Home](https://www.seriouseats.com/pressure-cooker-chicken-stock-recipe)
-
----
-
 ### Session 4 — Vegetable Stock + Risotto
 
 **Skill:** Vegetable stock is the quickest and most approachable. Key: don't over-simmer — 45–60 minutes max, or it turns bitter. Tonight you'll use it immediately for risotto, which also teaches you another core technique: the gradual addition of hot liquid while stirring to coax starch from Arborio rice.
@@ -127,13 +125,13 @@ This Saturday you make three things — stock, soup, and a complete dinner — t
 
 ---
 
-## Week 8 — Eggs
+## Block 8 — Eggs
 
 > *"A chef is judged by their eggs."*
 
 ---
 
-## Before You Start Week 8
+## Before You Start Block 8
 
 ---
 

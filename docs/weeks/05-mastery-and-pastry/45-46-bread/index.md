@@ -1,6 +1,6 @@
-# Weeks 45–46: Bread
+# Block 45–46: Bread
 
-← [Weeks 43–44: Southeast Asian](../../04-worlds-kitchens/43-44-southeast-asian-review/index.md) | [Weeks 47–48: Pastry →](../47-48-pastry/index.md)
+← [Block 43–44: Southeast Asian](../../04-worlds-kitchens/43-44-southeast-asian-review/index.md) | [Block 47–48: Pastry →](../47-48-pastry/index.md)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ---
 
-## Week 41 — No-Knead, Focaccia, and the Logic of Bread
+## Block 41 — No-Knead, Focaccia, and the Logic of Bread
 
 This week establishes the principles of bread-making through the two most forgiving and impressive loaves a home baker can produce: no-knead bread (develops gluten passively through time) and focaccia (high-hydration dough with a generous olive oil soak). Both will reset your confidence about baking.
 
@@ -91,7 +91,7 @@ This week establishes the principles of bread-making through the two most forgiv
 
 ---
 
-## Week 42 — Sourdough, Croissants, and Brioche
+## Block 42 — Sourdough, Croissants, and Brioche
 
 ---
 
@@ -199,4 +199,4 @@ No-knead and focaccia are gateway loaves. If you finished this week intrigued ra
 ---
 
 *Navigation:*
-← [Weeks 43–44: Southeast Asian](../../04-worlds-kitchens/43-44-southeast-asian-review/index.md) | [Weeks 47–48: Pastry →](../47-48-pastry/index.md)
+← [Block 43–44: Southeast Asian](../../04-worlds-kitchens/43-44-southeast-asian-review/index.md) | [Block 47–48: Pastry →](../47-48-pastry/index.md)

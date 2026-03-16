@@ -1,6 +1,6 @@
-# 🥦 Weeks 13–14: Vegetables & Plant-Forward Cooking
+# 🥦 Block 13–14: Vegetables & Plant-Forward Cooking
 
-← [Weeks 9–10: Seasoning & Flavor](../09-10-seasoning-and-flavor/index.md) | [Weeks 15–16: Pasta & Grains →](../13-14-pasta-and-grains/index.md)
+← [Block 9–10: Seasoning & Flavor](../09-10-seasoning-and-flavor/index.md) | [Block 15–16: Pasta & Grains →](../13-14-pasta-and-grains/index.md)
 
 ---
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Before You Start Week 11
+## Before You Start Block 11
 
 Vegetables are where most home cooks coast. The steak gets the technique; the vegetables get the afterthought. This block is a correction. Two weeks of treating vegetables like the main event teaches you more about heat, texture, timing, and flavor than another two weeks of protein cookery would.
 
@@ -20,9 +20,28 @@ The CIA spends four full weeks on vegetable fabrication and cookery before touch
 
 📖 **Read first:** [Serious Eats — The Science of Browning Vegetables](https://www.bonappetit.com/story/how-to-roast-vegetables) — the same Maillard logic from Week 3–4 applies here; the only difference is water content and sugar concentration.
 
+
+### Vegetable Purées: Texture as a Skill
+
+**Skill:** A vegetable purée is deceptively simple and technically demanding. The difference between a good purée and a great one is entirely in the texture — silky versus grainy, the right viscosity to coat a spoon, seasoned at every stage.
+
+📖 **Read:** [Serious Eats — Silky Smooth Vegetable Purees](https://www.seriouseats.com/classic-butternut-squash-soup-recipe) — the principles apply beyond soup to plated purées.
+
+**Tonight apply the universal purée method to two vegetables simultaneously — compare the results:**
+
+| Purée | Method notes | Finish |
+|-------|-------------|--------|
+| **Celery root (celeriac)** | Sweat in butter, add stock, simmer until completely soft, blend very fine, strain | Cream + butter; subtle and elegant |
+| **Parsnip with roasted garlic** | Roast garlic until golden; simmer parsnips in stock; blend with roasted garlic and butter | Rich, sweet, earthy |
+
+Both can be passed through a fine mesh sieve for professional-smooth results. This is worth doing at least once.
+
+**Full Meal:** Celery root and parsnip purées as the base + [seared duck breast](https://www.seriouseats.com/pan-seared-duck-breast) or seared scallops on top + a simple green salad
+
+> **Why texture matters this much:** A great purée tastes better because it coats your palate more evenly — every bite carries more flavor. A grainy or waterlogged purée tastes less of itself because the structure interrupts contact with your taste receptors. Straining is not precious — it's functional.
 ---
 
-## Week 11 — Vegetable Mastery
+## Block 11 — Vegetable Mastery
 
 ### Session 1 — Blanching, Shocking, and Color Science
 
@@ -111,27 +130,6 @@ The CIA spends four full weeks on vegetable fabrication and cookery before touch
 
 ---
 
-### Thursday — Vegetable Purées: Texture as a Skill
-
-**Skill:** A vegetable purée is deceptively simple and technically demanding. The difference between a good purée and a great one is entirely in the texture — silky versus grainy, the right viscosity to coat a spoon, seasoned at every stage.
-
-📖 **Read:** [Serious Eats — Silky Smooth Vegetable Purees](https://www.seriouseats.com/classic-butternut-squash-soup-recipe) — the principles apply beyond soup to plated purées.
-
-**Tonight apply the universal purée method to two vegetables simultaneously — compare the results:**
-
-| Purée | Method notes | Finish |
-|-------|-------------|--------|
-| **Celery root (celeriac)** | Sweat in butter, add stock, simmer until completely soft, blend very fine, strain | Cream + butter; subtle and elegant |
-| **Parsnip with roasted garlic** | Roast garlic until golden; simmer parsnips in stock; blend with roasted garlic and butter | Rich, sweet, earthy |
-
-Both can be passed through a fine mesh sieve for professional-smooth results. This is worth doing at least once.
-
-**Full Meal:** Celery root and parsnip purées as the base + [seared duck breast](https://www.seriouseats.com/pan-seared-duck-breast) or seared scallops on top + a simple green salad
-
-> **Why texture matters this much:** A great purée tastes better because it coats your palate more evenly — every bite carries more flavor. A grainy or waterlogged purée tastes less of itself because the structure interrupts contact with your taste receptors. Straining is not precious — it's functional.
-
----
-
 ### Session 4 — Grilling and Charring: Fire as Flavor
 
 **Skill:** Direct heat on vegetables produces char — carbon compounds that add bitterness, smokiness, and complexity. This is the single most underused technique for home vegetable cookery.
@@ -174,7 +172,30 @@ Cook a complete dinner where vegetables are the headline, not the support act. N
 
 ---
 
-## Week 12 — Plant-Forward & Advanced Vegetable Technique
+## Before You Start Block 12
+
+### Fermentation and Pickling: Vegetables That Last
+
+**Skill:** Understanding the difference between quick pickling (brine + acid), lacto-fermentation (brine + time + natural bacteria), and their role in a well-built kitchen.
+
+📖 **Read:** [Serious Eats — Quick Pickling Guide](https://www.bonappetit.com/recipe/quick-pickled-vegetables)
+
+**Tonight make two things:**
+
+**Quick pickles (ready in 30 minutes):**
+- [Pickled Red Onions](https://www.seriouseats.com/pickled-red-onions) — red wine vinegar + salt + sugar + a few peppercorns
+- [Pickled Jalapeños and Carrots](https://www.bonappetit.com/recipe/pickled-jalapenos) — white wine vinegar + salt + cumin + garlic
+
+**Lacto-fermented sauerkraut (takes 5–7 days — start it tonight, finish it next week):**
+- [Simple Sauerkraut](https://www.seriouseats.com/homemade-fermented-sauerkraut-recipe) — green cabbage + 2% salt by weight; massage until brine releases; pack into jar; weigh down; leave at room temp 5–7 days
+
+**Full Meal:** Use the pickles tonight on whatever you're eating — tacos, a grain bowl, grilled fish. Quick pickles don't need a dedicated meal. They improve everything they touch.
+
+> **Why this matters:** Pickles and ferments are balance tools. When a dish is too rich, too fatty, or needs brightness, a quick pickle solves it in 30 seconds. Having pickled red onions in your fridge at all times is one of the highest-leverage kitchen habits you can build.
+
+---
+
+## Block 12 — Plant-Forward & Advanced Vegetable Technique
 
 ---
 
@@ -246,27 +267,6 @@ Cook a complete dinner where vegetables are the headline, not the support act. N
 | Base | Creamy mashed potatoes, polenta, or buttered egg noodles |
 
 > 🎥 **Compare Notes:** [How to Sauté Mushrooms Properly](https://www.youtube.com/watch?v=_OV1Eqb8fEA) *(Ethan Chlebowski)* — He tests the crowding variable specifically. Watch the difference in texture and color between the crowded and uncrowded batches.
-
----
-
-### Thursday — Fermentation and Pickling: Vegetables That Last
-
-**Skill:** Understanding the difference between quick pickling (brine + acid), lacto-fermentation (brine + time + natural bacteria), and their role in a well-built kitchen.
-
-📖 **Read:** [Serious Eats — Quick Pickling Guide](https://www.bonappetit.com/recipe/quick-pickled-vegetables)
-
-**Tonight make two things:**
-
-**Quick pickles (ready in 30 minutes):**
-- [Pickled Red Onions](https://www.seriouseats.com/pickled-red-onions) — red wine vinegar + salt + sugar + a few peppercorns
-- [Pickled Jalapeños and Carrots](https://www.bonappetit.com/recipe/pickled-jalapenos) — white wine vinegar + salt + cumin + garlic
-
-**Lacto-fermented sauerkraut (takes 5–7 days — start it tonight, finish it next week):**
-- [Simple Sauerkraut](https://www.seriouseats.com/homemade-fermented-sauerkraut-recipe) — green cabbage + 2% salt by weight; massage until brine releases; pack into jar; weigh down; leave at room temp 5–7 days
-
-**Full Meal:** Use the pickles tonight on whatever you're eating — tacos, a grain bowl, grilled fish. Quick pickles don't need a dedicated meal. They improve everything they touch.
-
-> **Why this matters:** Pickles and ferments are balance tools. When a dish is too rich, too fatty, or needs brightness, a quick pickle solves it in 30 seconds. Having pickled red onions in your fridge at all times is one of the highest-leverage kitchen habits you can build.
 
 ---
 

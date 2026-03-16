@@ -1,10 +1,10 @@
-# Quick Reference — Weeks 23–24: Shellfish
+# Quick Reference — Block 23–24: Shellfish
 
 ← [Back to Full Guide](index.md) | [Shopping List](shopping-list.md)
 
 ---
 
-## Week 23 — Bivalves & Crustaceans
+## Block 23 — Bivalves & Crustaceans
 
 | Day | Dish | Technique | Key Temp / Timing |
 |-----|------|-----------|-------------------|
@@ -15,7 +15,7 @@
 | Fri | [Shrimp Scampi](https://www.seriouseats.com/shrimp-scampi-pasta) | [Fast sauté + butter pan sauce](https://www.seriouseats.com/shrimp-scampi-butter-garlic-recipe) | Shrimp: 1–2 min/side; pull early |
 | Sat | [**PROJECT:** Lobster Night](https://www.seriouseats.com/stop-overcooking-lobster-11899689) | [Broil / steam + shell bisque](https://www.seriouseats.com/lobster-bisque-recipe) | Internal 140°F; rest before serving |
 
-## Week 24 — Complex Shellfish
+## Block 24 — Complex Shellfish
 
 | Day | Dish | Technique | Notes |
 |-----|------|-----------|-------|

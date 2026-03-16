@@ -1,6 +1,6 @@
-# Weeks 23–24: Shellfish
+# Block 23–24: Shellfish
 
-← [Weeks 21–22: Beef Advanced](../21-22-beef-advanced/index.md) | [Weeks 25–26: Pork →](../25-26-pork/index.md)
+← [Block 21–22: Beef Advanced](../21-22-beef-advanced/index.md) | [Block 25–26: Pork →](../25-26-pork/index.md)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ---
 
-## Week 23 — Bivalves & Crustaceans: The Pure Flavor Approach
+## Block 23 — Bivalves & Crustaceans: The Pure Flavor Approach
 
 You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week — the category where the main job is *not screwing it up*. Clams and mussels are seasoning themselves with their own liquor. Scallops want nothing more than a hot pan and a hard sear. Your restraint and heat management are the only variables that matter.
 
@@ -87,7 +87,7 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 
 ---
 
-## Week 24 — The Next Level: Seared Scallops Already Happened. What Comes After?
+## Block 24 — The Next Level: Seared Scallops Already Happened. What Comes After?
 
 *(Weeks 13–14 covered dry-packed seared scallops. This week extends into more complex shellfish territory — built dishes, larger preparations, and pairing shellfish with other proteins.)*
 
@@ -203,4 +203,4 @@ A properly seared scallop has a deep, dry crust on each flat side and remains tr
 ---
 
 *Navigation:*
-← [Weeks 21–22: Beef Advanced](../21-22-beef-advanced/index.md) | [Weeks 25–26: Pork →](../25-26-pork/index.md)
+← [Block 21–22: Beef Advanced](../21-22-beef-advanced/index.md) | [Block 25–26: Pork →](../25-26-pork/index.md)

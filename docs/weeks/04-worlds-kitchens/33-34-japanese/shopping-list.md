@@ -1,4 +1,4 @@
-# 🛒 Shopping List — Weeks 33–34: Japanese
+# 🛒 Shopping List — Block 33–34: Japanese
 
 ← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)
 

@@ -1,4 +1,4 @@
-# 🥣 Weeks 5–6: The 5 Mother Sauces
+# 🥣 Block 5–6: The 5 Mother Sauces
 
 > *"Master these five sauces and you can make virtually any sauce on earth."*
 
@@ -6,7 +6,7 @@
 
 ---
 
-## Before You Start Week 5
+## Before You Start Block 5
 
 Read this first:
 
@@ -18,7 +18,7 @@ Four out of five start with a roux. **Learn the roux and you learn four sauces a
 
 ---
 
-## Week 5 — Roux-Based Sauces
+## Block 5 — Roux-Based Sauces
 
 ### Session 1 — Béchamel: The White Sauce
 
@@ -108,7 +108,7 @@ The pan sauce is your simplified Espagnole: browned bits from the steak, deglaze
 
 ---
 
-## Week 6 — Emulsified Sauces + Vinaigrette
+## Block 6 — Emulsified Sauces + Vinaigrette
 
 ---
 

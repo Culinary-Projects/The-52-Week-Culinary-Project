@@ -1,4 +1,4 @@
-# Weeks 13–14 Shopping List — Vegetables & Plant-Forward Cooking
+# Block 13–14 Shopping List — Vegetables & Plant-Forward Cooking
 
 ← [Back to Week 11–12 Guide](index.md)
 

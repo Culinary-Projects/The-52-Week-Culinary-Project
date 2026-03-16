@@ -1,10 +1,10 @@
-# Quick Reference — Weeks 43–44: Module 4 Capstone: Southeast Asian Cuisines
+# Quick Reference — Block 43–44: Module 4 Capstone: Southeast Asian Cuisines
 
 ← [Back to Full Guide](index.md) | [Shopping List](shopping-list.md)
 
 ---
 
-## Week 39 — Thailand, Vietnam, Indonesia, Malaysia
+## Block 39 — Thailand, Vietnam, Indonesia, Malaysia
 
 | Day | Dish | Technique | Key Point |
 |-----|------|-----------|-----------|
@@ -15,7 +15,7 @@
 | Fri | [Curry Laksa](https://www.seriouseats.com/curry-laksa-recipe-11796414) | Rempah (spice paste) fried in oil; coconut broth | Fry paste until oil separates (dry look) |
 | Sat | **PROJECT:** Satay + Som Tam | [Grilled skewers; mortar-pounded papaya salad](https://www.seriouseats.com/som-tam-green-papaya-salad-5208332) | Pound, don't toss the som tam |
 
-## Week 40 — Pad See Ew, Pho Gà, Banh Mi, Rendang
+## Block 40 — Pad See Ew, Pho Gà, Banh Mi, Rendang
 
 | Day | Dish | Technique | Key Point |
 |-----|------|-----------|-----------|

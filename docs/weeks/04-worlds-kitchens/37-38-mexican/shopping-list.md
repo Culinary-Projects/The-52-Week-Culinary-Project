@@ -1,4 +1,4 @@
-# 🛒 Shopping List — Weeks 37–38: Mexican
+# 🛒 Shopping List — Block 37–38: Mexican
 
 ← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)
 

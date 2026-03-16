@@ -1,6 +1,6 @@
-# Weeks 49–50: Signature Dishes
+# Block 49–50: Signature Dishes
 
-← [Weeks 47–50: Pastry & Desserts](../47-48-pastry/index.md) | [Weeks 51–52: Final Exam →](../51-52-final-exam/index.md)
+← [Block 47–50: Pastry & Desserts](../47-48-pastry/index.md) | [Block 51–52: Final Exam →](../51-52-final-exam/index.md)
 
 ---
 
@@ -23,7 +23,24 @@ This block is structured differently. The first week is technical catch-up and d
 
 ---
 
-## Week 47 — Mastery Sessions: Wok, Knife, Chocolate, Mise en Place
+## Before You Start Block 49
+
+### Mise en Place: Full Professional Setup
+
+**Skill:** Station organization; timing a multi-dish dinner from scratch; cook-to-plate flow  
+**Read first:** [Mise en Place](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro)
+
+**What you're learning:** Professional kitchens work because everything is prepped before service begins. Your mise en place practice has evolved through the year — tonight, apply it formally to a 3-course dinner. Write out every prep step before you start cooking. Time the sequence. Identify what can be done ahead vs. what is last-minute. This is the cognitive skill that separates capable home cooks from experienced ones.
+
+**Session:**
+- Plan a 3-course dinner entirely from your existing repertoire
+- Write full mise en place list before cooking
+- Execute using proper station workflow
+- Debrief: what was left undone? What hit the table late?
+
+---
+
+## Block 47 — Mastery Sessions: Wok, Knife, Chocolate, Mise en Place
 
 ---
 
@@ -71,21 +88,6 @@ This block is structured differently. The first week is technical catch-up and d
 
 ---
 
-### Thursday — Mise en Place: Full Professional Setup
-
-**Skill:** Station organization; timing a multi-dish dinner from scratch; cook-to-plate flow  
-**Read first:** [Mise en Place](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro)
-
-**What you're learning:** Professional kitchens work because everything is prepped before service begins. Your mise en place practice has evolved through the year — tonight, apply it formally to a 3-course dinner. Write out every prep step before you start cooking. Time the sequence. Identify what can be done ahead vs. what is last-minute. This is the cognitive skill that separates capable home cooks from experienced ones.
-
-**Session:**
-- Plan a 3-course dinner entirely from your existing repertoire
-- Write full mise en place list before cooking
-- Execute using proper station workflow
-- Debrief: what was left undone? What hit the table late?
-
----
-
 ### Session 4 — The Caramel Sauce (Perfection)
 
 **Skill:** Repeating a technique until it is automated  
@@ -117,7 +119,7 @@ Look back at your notes across 47 weeks. Which dish didn't go as planned? Which 
 
 ---
 
-## Week 48 — Building Your Signature
+## Block 48 — Building Your Signature
 
 ---
 
@@ -144,12 +146,6 @@ Write these down. These are your current signatures.
 - What would you serve alongside it?
 - At what point in a dinner party would you serve it?
 - What is the one thing that could still go wrong?
-
----
-
-### Thursday — Rest Day / Shopping / Planning
-
-**Prepare for your final signature dinner on Saturday.**
 
 ---
 
@@ -222,4 +218,4 @@ The jump from following a recipe to owning a dish happens through iteration: mak
 ---
 
 *Navigation:*
-← [Weeks 47–50: Pastry & Desserts](../47-48-pastry/index.md) | [Weeks 51–52: Final Exam →](../51-52-final-exam/index.md)
+← [Block 47–50: Pastry & Desserts](../47-48-pastry/index.md) | [Block 51–52: Final Exam →](../51-52-final-exam/index.md)

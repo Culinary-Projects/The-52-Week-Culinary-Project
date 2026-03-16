@@ -1,6 +1,6 @@
-# Weeks 39–40: Indian
+# Block 39–40: Indian
 
-← [Weeks 37–38: Mexican](../37-38-mexican/index.md) | [Weeks 41–42: Middle Eastern →](../41-42-middle-eastern/index.md)
+← [Block 37–38: Mexican](../37-38-mexican/index.md) | [Block 41–42: Middle Eastern →](../41-42-middle-eastern/index.md)
 
 ---
 
@@ -8,7 +8,23 @@
 
 ---
 
-## Week 35 — Spice Mastery: Butter Chicken, Dal, and Naan
+## Before You Start Block 39
+
+### Garlic Naan from Scratch
+
+**Skill:** Leavened flatbread technique; cast-iron skillet substitute for tandoor; garlic + butter finish  
+**Read first:** [Garlic Naan](https://www.seriouseats.com/garlic-naan-recipe-8784140)
+
+**What you're learning:** Naan requires yeast or baking powder, yogurt (for color and tang), and extremely high heat. A fully preheated cast iron skillet at maximum heat is the home substitute for a 900°F tandoor. The result should have char spots, a slight chew, and elastic pull. Once you can make fresh naan, takeout naan will feel like a step backward.
+
+**Full Meal:**
+- Garlic Naan × 8–10 (it's flatbread night — pair with leftover dal from Tuesday or butter chicken)
+
+> 🎥 **Compare Notes:** [Naan in a Pizza Oven](https://www.youtube.com/watch?v=Ikz9l_7q-_s) — Watch how he manages extreme heat and why the char spots are a feature, not a mistake.
+
+---
+
+## Block 35 — Spice Mastery: Butter Chicken, Dal, and Naan
 
 The first Indian week focuses on three foundational preparations: a tomato-cream curry (butter chicken), a lentil dish that teaches spice bloom and dal texture (moong dal), and flatbread from scratch (naan). Together they cover the core skills of Indian stovetop cooking.
 
@@ -58,20 +74,6 @@ The first Indian week focuses on three foundational preparations: a tomato-cream
 
 ---
 
-### Thursday — Garlic Naan from Scratch
-
-**Skill:** Leavened flatbread technique; cast-iron skillet substitute for tandoor; garlic + butter finish  
-**Read first:** [Garlic Naan](https://www.seriouseats.com/garlic-naan-recipe-8784140)
-
-**What you're learning:** Naan requires yeast or baking powder, yogurt (for color and tang), and extremely high heat. A fully preheated cast iron skillet at maximum heat is the home substitute for a 900°F tandoor. The result should have char spots, a slight chew, and elastic pull. Once you can make fresh naan, takeout naan will feel like a step backward.
-
-**Full Meal:**
-- Garlic Naan × 8–10 (it's flatbread night — pair with leftover dal from Tuesday or butter chicken)
-
-> 🎥 **Compare Notes:** [Naan in a Pizza Oven](https://www.youtube.com/watch?v=Ikz9l_7q-_s) — Watch how he manages extreme heat and why the char spots are a feature, not a mistake.
-
----
-
 ### Session 4 — Dal Makhani (All-Day Slow Dal)
 
 **Skill:** Long-cook black lentil + kidney bean dal; cream integration; patience  
@@ -105,7 +107,7 @@ The first Indian week focuses on three foundational preparations: a tomato-cream
 
 ---
 
-## Week 36 — South India + Vegetarian Mastery
+## Block 36 — South India + Vegetarian Mastery
 
 South Indian cooking is different from North Indian in almost every way: less cream, more coconut, more lentils, more rice, and hotter. Idli, dosa, sambar, rasam — a different grammar entirely.
 
@@ -223,4 +225,4 @@ Indian cooking draws on a pantry of 20–30 spices, but most dishes use the same
 ---
 
 *Navigation:*
-← [Weeks 37–38: Mexican](../37-38-mexican/index.md) | [Weeks 41–42: Middle Eastern →](../41-42-middle-eastern/index.md)
+← [Block 37–38: Mexican](../37-38-mexican/index.md) | [Block 41–42: Middle Eastern →](../41-42-middle-eastern/index.md)

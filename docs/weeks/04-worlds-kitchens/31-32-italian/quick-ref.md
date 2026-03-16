@@ -1,10 +1,10 @@
-# Quick Reference — Weeks 31–32: Italian
+# Quick Reference — Block 31–32: Italian
 
 ← [Back to Full Guide](index.md) | [Shopping List](shopping-list.md)
 
 ---
 
-## Week 29 — Italian Patience Dishes
+## Block 29 — Italian Patience Dishes
 
 | Day | Dish | Technique | Key Point |
 |-----|------|-----------|-----------|
@@ -15,7 +15,7 @@
 | Fri | [Ribollita](https://www.seriouseats.com/pressure-cooker-ribollita) | Day-old bread in soup; reheat | Better day 2; olive oil on top |
 | Sat | [**PROJECT:** Whole Branzino + Tiramisu](https://www.seriouseats.com/pan-roasted-whole-branzino) | [Pan-roast fish; tiramisu sets 4+ hrs](https://www.seriouseats.com/best-tiramisu-recipe) | [Make tiramisu in the morning](https://www.seriouseats.com/best-tiramisu-recipe) |
 
-## Week 30 — Fresh Pasta, Bistecca, and the Sunday Feast
+## Block 30 — Fresh Pasta, Bistecca, and the Sunday Feast
 
 | Day | Dish | Technique | Key Point |
 |-----|------|-----------|-----------|

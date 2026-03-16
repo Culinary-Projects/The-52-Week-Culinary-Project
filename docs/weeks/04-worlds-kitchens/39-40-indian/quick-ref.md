@@ -1,10 +1,10 @@
-# Quick Reference — Weeks 39–40: Indian
+# Quick Reference — Block 39–40: Indian
 
 ← [Back to Full Guide](index.md) | [Shopping List](shopping-list.md)
 
 ---
 
-## Week 35 — North Indian Fundamentals
+## Block 35 — North Indian Fundamentals
 
 | Day | Dish | Technique | Key Point |
 |-----|------|-----------|-----------|
@@ -15,7 +15,7 @@
 | Fri | [Dal Makhani](https://www.seriouseats.com/dal-makhani-recipe-8770680) | [Long-cook black lentils; cream + butter finish](https://www.seriouseats.com/stovetop-butter-chicken) | Pressure cooker shortcut: 40 min |
 | Sat | [**PROJECT:** North Indian Feast](https://www.amazon.com/dp/0374527849) | Multi-dish banquet coordination | Reheat curries; fresh naan last |
 
-## Week 36 — South India + Vegetarian Mastery
+## Block 36 — South India + Vegetarian Mastery
 
 | Day | Dish | Technique | Key Point |
 |-----|------|-----------|-----------|

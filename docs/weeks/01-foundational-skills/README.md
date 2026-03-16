@@ -1,4 +1,4 @@
-# Module 1: Foundational Skills (Weeks 1–8)
+# Module 1: Foundational Skills (Block 1–8)
 
 
 ---

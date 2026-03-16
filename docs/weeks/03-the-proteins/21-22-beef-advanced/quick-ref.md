@@ -1,4 +1,4 @@
-# ⚡ Weeks 21–22 Quick Reference — Beef Advanced Cuts
+# ⚡ Block 21–22 Quick Reference — Beef Advanced Cuts
 
 ← [Back to Full Guide](index.md) | [Shopping List →](shopping-list.md)
 

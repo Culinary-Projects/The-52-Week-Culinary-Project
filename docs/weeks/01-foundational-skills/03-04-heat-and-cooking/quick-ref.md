@@ -1,4 +1,4 @@
-# ⚡ Weeks 3–4 Quick Reference — Heat & Cooking Methods
+# ⚡ Block 3–4 Quick Reference — Heat & Cooking Methods
 
 ← [Back to Full Guide](index.md) | [Shopping List →](shopping-list.md)
 

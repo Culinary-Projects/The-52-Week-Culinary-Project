@@ -1,6 +1,6 @@
-# Weeks 51–52: Module 5 Capstone — The Final Exam: Quick Reference
+# Block 51–52: Module 5 Capstone — The Final Exam: Quick Reference
 
-← [Weeks 49–50: Signature Dishes](../49-50-signature-dishes/index.md)
+← [Block 49–50: Signature Dishes](../49-50-signature-dishes/index.md)
 
 ---
 

@@ -1,4 +1,4 @@
-# 🐷 Weeks 25–26: Pork — All Cuts
+# 🐷 Block 25–26: Pork — All Cuts
 
 ← [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
 
@@ -8,7 +8,7 @@
 
 ---
 
-## Week 25 — The Pork Fundamentals
+## Block 25 — The Pork Fundamentals
 
 **The key principle of pork this week:** Pork ≠ tough. The modern farmed pig is different from 30 years ago — leaner, safer at lower internal temperatures. The new standard is 145°F (USDA updated this in 2011), which means medium pork — still slightly pink — is correct. Cooking pork to 165°F the way you might have learned produces dry, grey, flavorless meat.
 
@@ -75,7 +75,7 @@
 
 ---
 
-## Week 26 — Pork: Belly, Ribs, and Curing
+## Block 26 — Pork: Belly, Ribs, and Curing
 
 ---
 
@@ -168,4 +168,4 @@ This week is a natural gateway to charcuterie. Bacon, pancetta, and guanciale ar
 
 ---
 
-← [Weeks 23–24: Shellfish](../23-24-shellfish/index.md) | [Weeks 27–28: Charcuterie →](../27-28-charcuterie-review/index.md)
+← [Block 23–24: Shellfish](../23-24-shellfish/index.md) | [Block 27–28: Charcuterie →](../27-28-charcuterie-review/index.md)

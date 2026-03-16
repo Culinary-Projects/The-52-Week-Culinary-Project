@@ -1,4 +1,4 @@
-# 🍝 Weeks 13–14: Pasta & Grains from Scratch
+# 🍝 Block 13–14: Pasta & Grains from Scratch
 
 ← [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
 
@@ -15,7 +15,7 @@
 
 ---
 
-## Week 11 — Pasta Dough: The Foundation
+## Block 11 — Pasta Dough: The Foundation
 
 ---
 
@@ -102,7 +102,7 @@ Aglio e olio is garlic, olive oil, pasta water, pasta, chili flakes, and parsley
 
 ---
 
-## Week 12 — Grains: Rice, Polenta, and Beyond
+## Block 12 — Grains: Rice, Polenta, and Beyond
 
 > *"Every culture has a grain at its center. Learning to cook grains properly — not just until they're done, but until they're excellent — is a quiet superpower."*
 

@@ -1,8 +1,8 @@
-← [Weeks 49–50: Signature Dishes](../49-50-signature-dishes/index.md)
+← [Block 49–50: Signature Dishes](../49-50-signature-dishes/index.md)
 
 ---
 
-# Weeks 51–52: Module 5 Capstone — The Final Exam
+# Block 51–52: Module 5 Capstone — The Final Exam
 
 ---
 
@@ -27,7 +27,7 @@ Over two weeks, you will plan and execute three increasingly ambitious dinners, 
 
 ---
 
-## Week 49 — The Architecture of a Dinner Party
+## Block 49 — The Architecture of a Dinner Party
 
 ---
 
@@ -77,16 +77,6 @@ Over two weeks, you will plan and execute three increasingly ambitious dinners, 
 
 ---
 
-### Thursday — Rest Day / Planning for Friday Dinner Party
-
-**Plan your Friday dinner:**
-- Confirm guest count (aim for 4–6 people)
-- Finalize menu (all 4 courses; confirmed dietary restrictions)
-- Write complete shopping list
-- Write your run-of-show timeline
-
----
-
 ### Session 4 — Dinner Party #1: Small Table
 
 **Goal:** Execute a 4-course dinner for 4–6 guests on schedule, without major stress
@@ -117,7 +107,7 @@ No cooking today. Write or record:
 
 ---
 
-## Week 50 — Advanced Service: Larger Table, Multi-Course Timing
+## Block 50 — Advanced Service: Larger Table, Multi-Course Timing
 
 ---
 
@@ -152,16 +142,6 @@ No cooking today. Write or record:
 - [How to Organize Your Home Bar](https://www.seriouseats.com/how-to-organize-your-home-bar-design-ergonomics-supplies-mise-en-place)
 
 **What you're learning:** The classic rules of pairing (white with fish, red with meat) are guidelines, not laws. What matters more: weight of the dish matches weight of the wine; high-acid food pairs with high-acid wine; salt contracts tannin. A single well-chosen bottle per course is better than a confusing progression of many. For non-drinkers: shrubs, sparkling water with citrus, and soft herbal drinks should be prepared with the same care as wine.
-
----
-
-### Thursday — Rest Day / Full Planning for Saturday
-
-**Plan the final dinner party:**
-- Guest list (6–10 people)
-- Full 5-course menu (add an intermezzo or cheese course)
-- Complete timeline from the night before through dessert service
-- Shopping list finalized
 
 ---
 
@@ -224,7 +204,7 @@ The final two weeks of this program are structured as a culmination and a retros
 
 ---
 
-## Week 51 — The Self-Assessment
+## Block 51 — The Self-Assessment
 
 ---
 
@@ -304,7 +284,7 @@ Serve it. Sit at the table. Be present.
 
 ---
 
-## Week 52 — The Final Exam
+## Block 52 — The Final Exam
 
 ---
 
@@ -345,12 +325,6 @@ Photograph it. Eat it. Write two sentences about it.
 - A dessert from weeks 41–52 (pastry, desserts)
 
 This is a one-person retrospective tasting — a private tasting menu of the year. Eat slowly. Think about each one.
-
----
-
-### Thursday — Rest
-
-You have been cooking for 52 weeks. Today you do not cook.
 
 ---
 
@@ -430,4 +404,4 @@ The best cooks pick one thing and develop mastery. Not breadth — depth. Pick t
 ---
 
 *Navigation:*
-← [Weeks 49–50: Signature Dishes](../49-50-signature-dishes/index.md)
+← [Block 49–50: Signature Dishes](../49-50-signature-dishes/index.md)

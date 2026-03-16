@@ -1,4 +1,4 @@
-# 🥩 Weeks 21–22: Beef — Advanced Cuts
+# 🥩 Block 21–22: Beef — Advanced Cuts
 
 ← [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
 
@@ -8,7 +8,7 @@
 
 ---
 
-## Week 21 — Grilling & the Grill Station
+## Block 21 — Grilling & the Grill Station
 
 **Theme this week:** The outdoor fire. Grilling is a distinct cooking environment — intense radiant heat, smoke, flare-ups, and a cooler zone if you set it up correctly. A two-zone fire (direct heat on one side, no heat on the other) is the most important concept in grilling. Everything else follows from that.
 
@@ -77,7 +77,7 @@
 
 ---
 
-## Week 22 — Beef: Beyond the Cut
+## Block 22 — Beef: Beyond the Cut
 
 **Theme this week:** Beef in other forms — ground, minced, international preparations, and the under-explored territory of beef offal-adjacent cuts. Also: the art of building a dish around beef as a flavoring agent rather than a centerpiece.
 
@@ -178,4 +178,4 @@ Hanger, skirt, flank, and flat iron are the cuts that chefs reach for when they'
 
 ---
 
-← [Weeks 19–20: Fish](../19-20-fish/index.md) | [Weeks 21–22 →](../23-24-shellfish/index.md)
+← [Block 19–20: Fish](../19-20-fish/index.md) | [Weeks 21–22 →](../23-24-shellfish/index.md)

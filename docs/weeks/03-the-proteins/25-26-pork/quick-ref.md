@@ -1,4 +1,4 @@
-# ⚡ Weeks 25–26 Quick Reference — Pork All Cuts
+# ⚡ Block 25–26 Quick Reference — Pork All Cuts
 
 ← [Back to Full Guide](index.md) | [Shopping List →](shopping-list.md)
 

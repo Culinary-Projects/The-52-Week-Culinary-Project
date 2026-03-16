@@ -1,6 +1,6 @@
-# Weeks 47–50: Pastry & Desserts
+# Block 47–50: Pastry & Desserts
 
-← [Weeks 45–46: Bread](../45-46-bread/index.md) | [Weeks 49–50: Signature Dishes →](../49-50-signature-dishes/index.md)
+← [Block 45–46: Bread](../45-46-bread/index.md) | [Block 49–50: Signature Dishes →](../49-50-signature-dishes/index.md)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ---
 
-## Week 43 — Pastry Doughs: Pâte Sucrée, Tarte Tatin, and Puff Pastry
+## Block 43 — Pastry Doughs: Pâte Sucrée, Tarte Tatin, and Puff Pastry
 
 French pastry week is the most technically demanding section of this program. The payoff is proportional to the investment. These are skills that make you the person in any dinner party circle who brings something people still talk about months later.
 
@@ -82,7 +82,7 @@ French pastry week is the most technically demanding section of this program. Th
 
 ---
 
-## Week 44 — Croissant Application, Quiche, and the Art of the Pie Crust
+## Block 44 — Croissant Application, Quiche, and the Art of the Pie Crust
 
 ---
 
@@ -197,7 +197,53 @@ Tarte tatin requires caramelizing sugar in butter. It sounds terrifying. But car
 
 ---
 
-## Week 45 — Crème Brûlée, Panna Cotta, Chocolate Mousse, and Pavlova
+## Before You Start Block 45
+
+### Chocolate Tempering & Confections
+
+**Skill:** Chocolate tempering — the technique that gives chocolate its gloss, snap, and professional finish. And truffles, which are the most accessible entry point into chocolate confectionery.
+
+📖 **Read first:** [How to Temper Chocolate](https://www.seriouseats.com/the-food-lab-best-way-to-temper-chocolate)
+
+**What tempering actually is:** Chocolate contains cocoa butter that crystallizes in six different forms depending on how it cools. Only Form V crystals (beta crystals) produce the glossy, snappy chocolate you recognize from a chocolate bar. Untempered chocolate (melted and cooled carelessly) produces Form IV or VI crystals — dull, streaky, soft. Tempering means bringing the chocolate to the right temperature sequence so only Form V crystals form.
+
+**Two methods — both produce the same result:**
+
+| Method | Technique | Best for |
+|--------|-----------|----------|
+| **Tabling** | Melt completely, pour 2/3 onto marble slab, work with spatula until cool, add back to remaining third | Professional; fastest if you have marble |
+| **Seeding** | Melt 2/3 of chocolate, add finely chopped unmelted chocolate (the "seed") in stages, stir until smooth | Home kitchen; easier to control |
+
+**The seeding method — what you'll do:**
+1. Chop 300g dark chocolate (70%+) finely. Reserve 100g.
+2. Melt 200g over a double boiler to 115°F (46°C) — fully liquid, no lumps
+3. Remove from heat. Add reserved 100g chopped chocolate in three additions, stirring until each melts
+4. Check temperature: should reach 88–90°F (31–32°C). This is the working temperature
+5. **The snap test:** Dip a teaspoon, let set 3–5 minutes at room temperature. It should be glossy with a sharp snap when you break it. Streaky or soft = not in temper; reheat gently to 88°F and try again
+
+**Full session — Chocolate Truffles:**
+
+📖 **Recipe:** [Dark Chocolate Truffles](https://www.bbcgoodfood.com/recipes/chocolate-truffles)
+
+Truffles are the truest test of tempering: a ganache center (cream + chocolate emulsion) coated in a thin tempered chocolate shell. The shell requires tempered chocolate to set cleanly without fingerprints showing.
+
+| Component | Notes |
+|-----------|-------|
+| **Ganache (filling)** | 200g dark chocolate + 100ml heavy cream; heat cream, pour over chocolate, emulsify with a stir — not a whisk; cool until firm enough to scoop |
+| **Shell** | Tempered chocolate; dip each truffle, tap off excess, set on parchment |
+| **Finish** | Roll in cocoa powder, crushed nuts, or flaky salt — your call |
+
+**The confection vocabulary — know these:**
+- **Ganache** — chocolate + cream emulsion; ratio determines texture (thick for truffles, thin for glaze)
+- **Tempered chocolate** — Form V crystals; gloss + snap
+- **Bonbon** — tempered chocolate shell with flavored ganache inside; requires a mold
+- **Bark** — tempered chocolate poured flat, topped before it sets; no skill requirement beyond tempering
+
+> **The connection to the rest of the year:** The emulsification in ganache is the same principle as hollandaise and mayonnaise — fat + water held stable by an emulsifier, in this case the lecithin in the cocoa solids. You've been building toward this all year.
+
+---
+
+## Block 45 — Crème Brûlée, Panna Cotta, Chocolate Mousse, and Pavlova
 
 This week is about cold and room-temperature desserts — the ones that reward advance preparation and build confidence in gelatin, egg white foams, chocolate tempering, and custard control. These are dinner-party desserts you can make completely ahead while your guests are arriving.
 
@@ -243,50 +289,6 @@ This week is about cold and room-temperature desserts — the ones that reward a
 
 ---
 
-### Thursday — Chocolate Tempering & Confections
-
-**Skill:** Chocolate tempering — the technique that gives chocolate its gloss, snap, and professional finish. And truffles, which are the most accessible entry point into chocolate confectionery.
-
-📖 **Read first:** [How to Temper Chocolate](https://www.seriouseats.com/the-food-lab-best-way-to-temper-chocolate)
-
-**What tempering actually is:** Chocolate contains cocoa butter that crystallizes in six different forms depending on how it cools. Only Form V crystals (beta crystals) produce the glossy, snappy chocolate you recognize from a chocolate bar. Untempered chocolate (melted and cooled carelessly) produces Form IV or VI crystals — dull, streaky, soft. Tempering means bringing the chocolate to the right temperature sequence so only Form V crystals form.
-
-**Two methods — both produce the same result:**
-
-| Method | Technique | Best for |
-|--------|-----------|----------|
-| **Tabling** | Melt completely, pour 2/3 onto marble slab, work with spatula until cool, add back to remaining third | Professional; fastest if you have marble |
-| **Seeding** | Melt 2/3 of chocolate, add finely chopped unmelted chocolate (the “seed”) in stages, stir until smooth | Home kitchen; easier to control |
-
-**The seeding method — what you'll do tonight:**
-1. Chop 300g dark chocolate (70%+) finely. Reserve 100g.
-2. Melt 200g over a double boiler to 115°F (46°C) — fully liquid, no lumps
-3. Remove from heat. Add reserved 100g chopped chocolate in three additions, stirring until each melts
-4. Check temperature: should reach 88–90°F (31–32°C). This is the working temperature
-5. **The snap test:** Dip a teaspoon, let set 3–5 minutes at room temperature. It should be glossy with a sharp snap when you break it. Streaky or soft = not in temper; reheat gently to 88°F and try again
-
-**Full Meal — Chocolate Truffles:**
-
-📖 **Recipe:** [Dark Chocolate Truffles](https://www.bbcgoodfood.com/recipes/chocolate-truffles)
-
-Truffles are the truest test of tempering: a ganache center (cream + chocolate emulsion) coated in a thin tempered chocolate shell. The shell requires tempered chocolate to set cleanly without fingerprints showing.
-
-| Component | Notes |
-|-----------|-------|
-| **Ganache (filling)** | 200g dark chocolate + 100ml heavy cream; heat cream, pour over chocolate, emulsify with a stir — not a whisk; cool until firm enough to scoop |
-| **Shell** | Tempered chocolate; dip each truffle, tap off excess, set on parchment |
-| **Finish** | Roll in cocoa powder, crushed nuts, or flaky salt — your call |
-
-**The confection vocabulary — know these:**
-- **Ganache** — chocolate + cream emulsion; ratio determines texture (thick for truffles, thin for glaze)
-- **Tempered chocolate** — Form V crystals; gloss + snap
-- **Bonbon** — tempered chocolate shell with flavored ganache inside; requires a mold
-- **Bark** — tempered chocolate poured flat, topped before it sets; no skill requirement beyond tempering
-
-> **The connection to the rest of the year:** The emulsification in ganache is the same principle as hollandaise and mayonnaise — fat + water held stable by an emulsifier, in this case the lecithin in the cocoa solids. You've been building toward this all year.
-
----
-
 ### Session 14 — Pavlova
 
 **Skill:** Meringue construction; low-oven drying; stable topping  
@@ -317,7 +319,7 @@ Truffles are the truest test of tempering: a ganache center (cream + chocolate e
 
 ---
 
-## Week 46 — Caramel, Sticky Toffee, Chocolate Chip Cookies, and the Layer Cake
+## Block 46 — Caramel, Sticky Toffee, Chocolate Chip Cookies, and the Layer Cake
 
 ---
 
@@ -422,4 +424,4 @@ Chocolate mousse is your introduction to working with chocolate structurally. Ch
 ---
 
 *Navigation:*
-← [Weeks 45–46: Bread](../45-46-bread/index.md) | [Weeks 49–50: Signature Dishes →](../49-50-signature-dishes/index.md)
+← [Block 45–46: Bread](../45-46-bread/index.md) | [Block 49–50: Signature Dishes →](../49-50-signature-dishes/index.md)

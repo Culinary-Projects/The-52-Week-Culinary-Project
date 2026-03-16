@@ -1,10 +1,10 @@
-# Quick Reference — Weeks 37–38: Mexican
+# Quick Reference — Block 37–38: Mexican
 
 ← [Back to Full Guide](index.md) | [Shopping List](shopping-list.md)
 
 ---
 
-## Week 33 — Techniques of Central and Northern Mexico
+## Block 33 — Techniques of Central and Northern Mexico
 
 | Day | Dish | Technique | Key Point |
 |-----|------|-----------|-----------|
@@ -15,7 +15,7 @@
 | Fri | [Tacos al Pastor](https://www.seriouseats.com/tacos-al-pastor-recipe) | Achiote marinade; comal/broiler finish | Pineapple chunk is not optional |
 | Sat | **PROJECT:** Enchiladas Rojas | Dip tortilla in sauce; roll; bake | Sauce first, not smothered after |
 
-## Week 34 — Deeper Mexico: Birria, Mole, Tamales
+## Block 34 — Deeper Mexico: Birria, Mole, Tamales
 
 | Day | Dish | Technique | Key Point |
 |-----|------|-----------|-----------|

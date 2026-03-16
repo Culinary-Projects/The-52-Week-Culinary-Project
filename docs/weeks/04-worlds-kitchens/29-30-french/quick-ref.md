@@ -1,10 +1,10 @@
-# Quick Reference — Weeks 29–30: French Classics
+# Quick Reference — Block 29–30: French Classics
 
 ← [Back to Full Guide](index.md) | [Shopping List](shopping-list.md)
 
 ---
 
-## Week 27 — Sauces & Braises
+## Block 27 — Sauces & Braises
 
 | Day | Dish | Technique | Key Point |
 |-----|------|-----------|-----------|
@@ -15,7 +15,7 @@
 | Fri | [Steak Frites](https://www.seriouseats.com/steak-frites-recipe-8729192) | Parallel timing: steak rest + fries | [Twice-fry for crispy frites](https://www.seriouseats.com/steak-frites-recipe-8729192) |
 | Sat | [**PROJECT:** Cassoulet](https://www.seriouseats.com/traditional-french-cassoulet-recipe) | Multi-component bean braise, 4–6 hrs | Break crust and push down 3–4 times |
 
-## Week 28 — Duck, Butter Sauces & Composed Plates
+## Block 28 — Duck, Butter Sauces & Composed Plates
 
 | Day | Dish | Technique | Key Point |
 |-----|------|-----------|-----------|

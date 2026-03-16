@@ -1,10 +1,10 @@
-# Quick Reference — Weeks 27–28: Charcuterie & Curing
+# Quick Reference — Block 27–28: Charcuterie & Curing
 
 ← [Back to Full Guide](index.md) | [Shopping List](shopping-list.md)
 
 ---
 
-## Week 25 — Curing Fundamentals
+## Block 25 — Curing Fundamentals
 
 | Day | Project | Method | Timing |
 |-----|---------|--------|--------|
@@ -15,7 +15,7 @@
 | Fri | Quick pickles | Vinegar brine | Ready in 1–2 hours; keeps 2 weeks |
 | Sat | [**PROJECT:** Pork rillettes + spread](https://www.seriouseats.com/easy-pork-rillettes-recipe) | Slow confit + shred + pot in fat | 3–4 hrs active; chill 2+ hrs before serving |
 
-## Week 26 — Applied Curing + Six-Month Review
+## Block 26 — Applied Curing + Six-Month Review
 
 | Day | Project | Method | Timing |
 |-----|---------|--------|--------|

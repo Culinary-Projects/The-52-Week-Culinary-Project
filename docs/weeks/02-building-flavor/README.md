@@ -1,4 +1,4 @@
-# Module 2: Building Flavor (Weeks 9–16)
+# Module 2: Building Flavor (Block 9–16)
 
 
 ---

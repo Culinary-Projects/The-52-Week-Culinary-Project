@@ -1,4 +1,4 @@
-# 🏁 Weeks 15–16: Module 2 Capstone — Poultry & Flavor Review
+# 🏁 Block 15–16: Module 2 Capstone — Poultry & Flavor Review
 
 ← [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
 
@@ -8,7 +8,7 @@
 
 ---
 
-## Week 13 — The Module 2 Capstone Cook
+## Block 13 — The Module 2 Capstone Cook
 
 **The Week 13 rule:** Recipes are allowed for preparation and mise en place. Once service begins — meaning once anything goes on the heat — close the tabs.
 
@@ -82,7 +82,7 @@ This is the most important reflection yet. Five questions, five sentences minimu
 
 ---
 
-## Week 14 — Poultry in Depth
+## Block 14 — Poultry in Depth
 
 > *"The chicken is the most cooked protein in the world and the most underestimated. Learning to roast, spatchcock, confit, and sauce a bird properly is the single most transferable skill in cooking."*
 

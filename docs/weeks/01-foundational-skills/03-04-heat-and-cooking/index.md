@@ -1,4 +1,4 @@
-# 🔥 Weeks 3–4: Heat & Cooking Methods
+# 🔥 Block 3–4: Heat & Cooking Methods
 
 > *"Understanding heat is understanding cooking. Everything else is detail."*
 
@@ -6,7 +6,7 @@
 
 ---
 
-## Before You Start Week 3
+## Before You Start Block 3
 
 Read this first:
 
@@ -16,7 +16,7 @@ Read this first:
 
 ---
 
-## Week 3 — Dry Heat: The Maillard Reaction Is Your Best Friend
+## Block 3 — Dry Heat: The Maillard Reaction Is Your Best Friend
 
 ### Session 1 — Sauté: Hot Pan, Don't Crowd
 
@@ -93,7 +93,7 @@ Notice the difference in texture from Tuesday's roasted thighs — same cut of m
 
 ---
 
-## Week 4 — Dry Heat Mastery + The Benchmark Cook
+## Block 4 — Dry Heat Mastery + The Benchmark Cook
 
 > This week you'll revisit dry-heat methods with beef and fish, and end with your first real benchmark: a complete multi-component dinner cooked with no recipes open in front of you.
 

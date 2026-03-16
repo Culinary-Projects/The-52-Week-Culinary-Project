@@ -1,6 +1,6 @@
-# Weeks 33–34: Japanese
+# Block 33–34: Japanese
 
-← [Weeks 31–32: Italian](../31-32-italian/index.md) | [Weeks 35–36: Chinese →](../35-36-chinese/index.md)
+← [Block 31–32: Italian](../31-32-italian/index.md) | [Block 35–36: Chinese →](../35-36-chinese/index.md)
 
 ---
 
@@ -8,7 +8,48 @@
 
 ---
 
-## Week 31 — Foundations: Dashi, Katsu, Tamagoyaki, Tempura
+## Before You Start Block 33
+
+### Deep Frying as a Systematic Skill
+
+**Skill:** Understanding deep frying as a discipline — not just "put food in hot oil." Tonight: karaage (Japanese fried chicken), which teaches double-frying, the most important technique in deep-fry cooking because it separates moisture removal from crust formation.
+
+📖 **Read first:** [Just One Cookbook — Karaage](https://www.justonecookbook.com/karaage/) — the double-fry logic is explained clearly here.
+
+**The principles that govern every deep-fry — Japanese or otherwise:**
+
+| Variable | What it controls | Target for most frying |
+|----------|-----------------|------------------------|
+| **Oil temperature** | Crust formation speed; steam generation | 325–375°F depending on item |
+| **Oil volume** | Temperature recovery after adding food | At least 3" deep; more is better |
+| **Batch size** | Temperature drop | Never more than 30% of surface area at once |
+| **Moisture in food** | Steam (which escapes) vs. oil absorption | Drier surface = less oil absorbed |
+| **Batter/coating type** | Crust texture and thickness | See below |
+
+**The batter taxonomy:**
+- **Dry coat (flour/cornstarch)** — karaage, Korean fried chicken; creates a thin, very crispy shell
+- **Wet batter (flour + liquid)** — tempura, fish and chips; creates a puffed, lighter crust
+- **Bread crumb (panko/breadcrumbs)** — tonkatsu, schnitzel; creates the thickest, crunchiest crust
+- **Double coat (flour → egg → breadcrumb)** — standard Western breading; creates maximum thickness
+
+**The double-fry technique (karaage and Korean fried chicken):**
+1. **First fry at 325°F** — low temperature drives out moisture from the inside; the crust forms but doesn't fully color; 3–4 minutes; remove and rest on a rack
+2. **Rest 5 minutes** — steam continues to escape; the interior finishes cooking from residual heat
+3. **Second fry at 375°F** — high heat rapidly crisps the exterior without overcooking the interior; 1–2 minutes until deep golden
+
+**Oil management (what most home cooks don't do):**
+- Strain the oil after frying through a fine mesh sieve; store in a sealed container
+- Cool oil can be reused 3–5 times if filtered; discard when it smokes at lower temperatures than normal, smells rancid, or turns very dark
+- Never mix oils from different frying sessions
+- Never add water to hot oil (steam explosion risk)
+
+**Full Meal:** [Japanese Karaage](https://www.justonecookbook.com/karaage/) + steamed rice + kewpie mayo + lemon + [quick cucumber salad](https://norecipes.com/sunomono/)
+
+> **Why the double-fry matters:** A single fry at medium heat can't simultaneously cook the interior and crisp the exterior. The moisture escaping from inside prevents the crust from setting. Two fries at two temperatures solve this completely. This logic applies to French fries, fried chicken everywhere, and any thick-cut fried item.
+
+---
+
+## Block 31 — Foundations: Dashi, Katsu, Tamagoyaki, Tempura
 
 Japanese cooking builds on a different set of foundational principles than French or Italian cooking, but the logic is the same: master the foundational techniques first, then apply them broadly. Dashi is the Japanese stock — it underpins miso soup, ramen, braises, and sauces. Learn dashi and you understand Japanese flavor.
 
@@ -58,45 +99,6 @@ Japanese cooking builds on a different set of foundational principles than Frenc
 
 ---
 
-### Thursday — Deep Frying as a Systematic Skill
-
-**Skill:** Understanding deep frying as a discipline — not just "put food in hot oil." Tonight: karaage (Japanese fried chicken), which teaches double-frying, the most important technique in deep-fry cooking because it separates moisture removal from crust formation.
-
-📖 **Read first:** [Just One Cookbook — Karaage](https://www.justonecookbook.com/karaage/) — the double-fry logic is explained clearly here.
-
-**The principles that govern every deep-fry — Japanese or otherwise:**
-
-| Variable | What it controls | Target for most frying |
-|----------|-----------------|------------------------|
-| **Oil temperature** | Crust formation speed; steam generation | 325–375°F depending on item |
-| **Oil volume** | Temperature recovery after adding food | At least 3" deep; more is better |
-| **Batch size** | Temperature drop | Never more than 30% of surface area at once |
-| **Moisture in food** | Steam (which escapes) vs. oil absorption | Drier surface = less oil absorbed |
-| **Batter/coating type** | Crust texture and thickness | See below |
-
-**The batter taxonomy:**
-- **Dry coat (flour/cornstarch)** — karaage, Korean fried chicken; creates a thin, very crispy shell
-- **Wet batter (flour + liquid)** — tempura, fish and chips; creates a puffed, lighter crust
-- **Bread crumb (panko/breadcrumbs)** — tonkatsu, schnitzel; creates the thickest, crunchiest crust
-- **Double coat (flour → egg → breadcrumb)** — standard Western breading; creates maximum thickness
-
-**The double-fry technique (karaage and Korean fried chicken):**
-1. **First fry at 325°F** — low temperature drives out moisture from the inside; the crust forms but doesn't fully color; 3–4 minutes; remove and rest on a rack
-2. **Rest 5 minutes** — steam continues to escape; the interior finishes cooking from residual heat
-3. **Second fry at 375°F** — high heat rapidly crisps the exterior without overcooking the interior; 1–2 minutes until deep golden
-
-**Oil management (what most home cooks don't do):**
-- Strain the oil after frying through a fine mesh sieve; store in a sealed container
-- Cool oil can be reused 3–5 times if filtered; discard when it smokes at lower temperatures than normal, smells rancid, or turns very dark
-- Never mix oils from different frying sessions
-- Never add water to hot oil (steam explosion risk)
-
-**Full Meal:** [Japanese Karaage](https://www.justonecookbook.com/karaage/) + steamed rice + kewpie mayo + lemon + [quick cucumber salad](https://norecipes.com/sunomono/)
-
-> **Why the double-fry matters:** A single fry at medium heat can't simultaneously cook the interior and crisp the exterior. The moisture escaping from inside prevents the crust from setting. Two fries at two temperatures solve this completely. This logic applies to French fries, fried chicken everywhere, and any thick-cut fried item.
-
----
-
 ### Session 4 — Tempura
 
 **Skill:** Ice-cold batter technique; frying at high temperature; tempura dipping sauce from dashi  
@@ -127,7 +129,7 @@ Japanese cooking builds on a different set of foundational principles than Frenc
 
 ---
 
-## Week 32 — Ramen, Teriyaki Logic, and Japanese Fire Cooking
+## Block 32 — Ramen, Teriyaki Logic, and Japanese Fire Cooking
 
 ---
 
@@ -241,4 +243,4 @@ Japanese cooking is defined by restraint: fewer ingredients, better technique, m
 ---
 
 *Navigation:*
-← [Weeks 31–32: Italian](../31-32-italian/index.md) | [Weeks 35–36: Chinese →](../35-36-chinese/index.md)
+← [Block 31–32: Italian](../31-32-italian/index.md) | [Block 35–36: Chinese →](../35-36-chinese/index.md)

@@ -1,6 +1,6 @@
-# Weeks 31–32: Italian
+# Block 31–32: Italian
 
-← [Weeks 29–30: French Classics](../29-30-french/index.md) | [Weeks 33–34: Japanese →](../33-34-japanese/index.md)
+← [Block 29–30: French Classics](../29-30-french/index.md) | [Block 33–34: Japanese →](../33-34-japanese/index.md)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ---
 
-## Week 29 — Risotto, Osso Buco, and the Art of Italian Patience
+## Block 29 — Risotto, Osso Buco, and the Art of Italian Patience
 
 Italian classics this week: risotto (patience + stirring + understanding when it's done), osso buco (braised veal shanks that take the afternoon and reward you royally), and a proper cold-weather ribollita. These are not quick Italian dishes. These are the ones that define why Italian cuisine is foundational.
 
@@ -89,7 +89,7 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 
 ---
 
-## Week 30 — Gnocchi, Bistecca, and the Italian Feast
+## Block 30 — Gnocchi, Bistecca, and the Italian Feast
 
 ---
 
@@ -203,4 +203,4 @@ Osso buco is a braise but it's also a study in gremolata — the lemon zest, gar
 ---
 
 *Navigation:*
-← [Weeks 29–30: French Classics](../29-30-french/index.md) | [Weeks 33–34: Japanese →](../33-34-japanese/index.md)
+← [Block 29–30: French Classics](../29-30-french/index.md) | [Block 33–34: Japanese →](../33-34-japanese/index.md)

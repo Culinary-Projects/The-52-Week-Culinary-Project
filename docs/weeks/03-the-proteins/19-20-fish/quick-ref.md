@@ -1,4 +1,4 @@
-# ⚡ Weeks 19–20 Quick Reference — Seafood: Fish
+# ⚡ Block 19–20 Quick Reference — Seafood: Fish
 
 ← [Back to Full Guide](index.md) | [Shopping List →](shopping-list.md)
 

@@ -1,6 +1,6 @@
-# Weeks 49–50: Signature Dishes — Quick Reference
+# Block 49–50: Signature Dishes — Quick Reference
 
-← [Weeks 47–50: Pastry & Desserts](../47-48-pastry/index.md) | [Weeks 51–52: Final Exam →](../51-52-final-exam/index.md)
+← [Block 47–50: Pastry & Desserts](../47-48-pastry/index.md) | [Block 51–52: Final Exam →](../51-52-final-exam/index.md)
 
 ---
 

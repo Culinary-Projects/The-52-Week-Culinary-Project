@@ -1,6 +1,6 @@
-# Weeks 43–44: Module 4 Capstone — Southeast Asian Cuisines
+# Block 43–44: Module 4 Capstone — Southeast Asian Cuisines
 
-← [Weeks 41–42: Middle Eastern](../41-42-middle-eastern/index.md) | [Weeks 45–46: Bread →](../../05-mastery-and-pastry/45-46-bread/index.md)
+← [Block 41–42: Middle Eastern](../41-42-middle-eastern/index.md) | [Block 45–46: Bread →](../../05-mastery-and-pastry/45-46-bread/index.md)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ---
 
-## Week 39 — The Big Four: Thailand, Vietnam, Indonesia, Malaysia
+## Block 39 — The Big Four: Thailand, Vietnam, Indonesia, Malaysia
 
 Southeast Asia is not one cuisine but a family of distinct traditions connected by rice, fish sauce, lemongrass, galangal, and the philosophy that every dish should balance all five flavors simultaneously. This week covers the central dishes of each major tradition.
 
@@ -88,7 +88,7 @@ Southeast Asia is not one cuisine but a family of distinct traditions connected 
 
 ---
 
-## Week 40 — Pad See Ew, Pho Gà, Rendang, Banh Mi, and the Third Quarter Review
+## Block 40 — Pad See Ew, Pho Gà, Rendang, Banh Mi, and the Third Quarter Review
 
 ---
 
@@ -127,17 +127,6 @@ Southeast Asia is not one cuisine but a family of distinct traditions connected 
 **Full Meal:**
 - Banh Mi sandwiches (one of: pork belly, grilled pork, chicken liver pâté + fried egg, or breakfast style)
 - Fresh jalapeño slices, cucumber spears, extra cilantro
-
----
-
-### Thursday — Rest Day + Third Quarter Review
-
-**The Nine-Month Mark. Reflect:**
-- What are the three most lasting technique improvements from the last three months?
-- What global cuisine surprised you the most?
-- Which dish from weeks 27–39 do you want to add to your regular rotation?
-
-**Write a brief cook's journal entry today.** You're 9 months through a 12-month program.
 
 ---
 
@@ -206,4 +195,4 @@ Wok hei — the breath of the wok — is the smoky, slightly charred flavor you 
 ---
 
 *Navigation:*
-← [Weeks 41–42: Middle Eastern](../41-42-middle-eastern/index.md) | [Weeks 45–46: Bread →](../../05-mastery-and-pastry/45-46-bread/index.md)
+← [Block 41–42: Middle Eastern](../41-42-middle-eastern/index.md) | [Block 45–46: Bread →](../../05-mastery-and-pastry/45-46-bread/index.md)
