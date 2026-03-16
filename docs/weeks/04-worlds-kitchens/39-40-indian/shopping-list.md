@@ -90,10 +90,12 @@
 - [ ] Amchur (dry mango powder) — 1 bag (chana masala)
 - [ ] Asafoetida (hing) — small jar (dal tarka; tiny amount goes very far)
 - [ ] Coconut milk — 2 cans (South Indian thali + sambar)
+- [ ] Fresh coconut — ½ coconut or 1 cup desiccated (coconut chutney for dosa/idli service; fresh is best, desiccated works)
 
 ## 🍚 Pantry
 
 - [ ] Basmati rice — 5-lb bag
+- [ ] Parboiled rice (idli/dosa rice) — 2 lbs (idli and dosa batter requires this — basmati will not work; find it at Indian grocery)
 - [ ] All-purpose flour + bread flour (naan dough)
 - [ ] Instant yeast — 1 packet (naan)
 - [ ] Saffron — small pinch (biryani)

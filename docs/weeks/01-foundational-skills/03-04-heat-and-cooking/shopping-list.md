@@ -29,16 +29,20 @@
 - [ ] Zucchini — 3 medium (Week 3 Mon + leftover use)
 - [ ] Bell peppers (red and yellow) — 4 (Week 3 Tue sheet pan + Wed braise)
 - [ ] Onions (yellow) — 4 (braise base, mirepoix)
+- [ ] Broccoli — 1 head (Week 3 Tue sheet pan component)
 - [ ] Bok choy — 1 large head (Week 3 Fri)
 - [ ] Potatoes (Yukon Gold) — 3 lbs total for Week 3 Sat and Week 4 Mon mash
 - [ ] Garlic — 2 heads
 - [ ] Lemons — 3
 - [ ] Fresh thyme and rosemary — 1 bunch each
+- [ ] Fresh dill — 1 small bunch (Week 3 Fri poached salmon sauce)
 - [ ] Mixed greens — 2 bags (salads)
 
 **Week 4:**
 - [ ] Asparagus — 1 bunch (Week 4 Tue)
-- [ ] Arugula — 2 bags (Week 4 Tue salad)
+- [ ] Arugula — 2 bags (Week 4 Tue salad + Week 4 Fri)
+- [ ] Fennel — 1 bulb (Week 4 Tue arugula & fennel salad)
+- [ ] Orange — 1 (Week 4 Tue arugula, fennel & orange salad)
 - [ ] Bok choy — 1 head (Week 4 Wed)
 - [ ] Green beans — 1 lb (Week 4 Mon)
 - [ ] Root vegetables (carrots, parsnips, turnips) — 2 lbs total (Week 4 Sat)
@@ -50,6 +54,7 @@
 - [ ] Unsalted butter — 3 sticks (basting, pan sauces, mash)
 - [ ] Heavy cream — 1 cup (Week 4 Mon mashed potatoes)
 - [ ] Parmesan — 4 oz (arugula salad)
+- [ ] Plain whole-milk yogurt — 1 cup (Week 3 Fri poached salmon dill yogurt sauce)
 
 ---
 
@@ -66,7 +71,7 @@
 - [ ] White miso paste — 1 container (Week 4 Wed glazed salmon)
 - [ ] Mirin — 1 bottle (miso glaze)
 - [ ] Sake or dry sherry — small bottle (miso glaze)
-- [ ] Rice (long grain or jasmine) — 2 cups (Week 3 Mon + Fri)
+- [ ] Rice (long grain or jasmine) — 1 lb (Week 3 Mon + Fri steamed rice; also Week 4 Wed broiled salmon)
 - [ ] Neutral oil — for high-heat searing
 - [ ] Extra-virgin olive oil
 - [ ] Shallots — 1 bag (pan sauces)

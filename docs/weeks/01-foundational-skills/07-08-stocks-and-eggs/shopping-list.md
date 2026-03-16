@@ -42,8 +42,11 @@
 - [ ] Fennel — 1 bulb (bouillabaisse + stock)
 - [ ] Leeks — 2 (vegetable stock, Week 7 Fri)
 - [ ] Mushrooms (cremini or mixed) — 1 lb (Week 7 Fri risotto)
-- [ ] Arugula — 2 bags (Week 7 Fri salad + Week 8 Mon salad)
+- [ ] Butternut squash — 1 medium (Week 7 Thu roasted purée soup)
+- [ ] Potatoes (Yukon Gold) — 1.5 lbs (Week 7 Tue crispy roasted potatoes)
+- [ ] Arugula — 2 bags (Week 7 Fri salad + Week 8 Fri salad)
 - [ ] Bitter greens (radicchio, endive) — 1 head each (Week 7 Tue salad)
+- [ ] Scallions — 1 bunch (Week 7 Mon ramen garnish)
 - [ ] Garlic — 2 heads
 - [ ] Fresh thyme, parsley, bay leaves — 1 bunch each (stocks)
 - [ ] Tomatoes or canned tomatoes — 2 cans (bouillabaisse)
@@ -55,6 +58,7 @@
 
 - [ ] Baby spinach or Swiss chard — 1 bag (Week 8 Tue poached eggs)
 - [ ] Roma tomatoes — 4 (Week 8 Tue oven roasted)
+- [ ] Mixed greens — 1 bag (Week 8 Mon green salad + Week 8 Wed omelette night salad)
 - [ ] Fresh chives — 1 bunch (Week 8 Mon scrambled eggs + omelette)
 - [ ] Fresh tarragon — 1 small bunch (omelette filling, optional)
 - [ ] Sourdough bread — 1 loaf (Week 8 Mon toast + omelette bread)
@@ -92,6 +96,7 @@
 - [ ] Granulated sugar — 1 cup (Week 8 Sat crème brûlée)
 - [ ] Vanilla beans — 2 (crème brûlée — or 1 tsp pure vanilla extract)
 - [ ] Mayo, Dijon, paprika, capers — small amounts (Week 8 Sat deviled eggs)
+- [ ] Tinned anchovies — 1 can (Week 8 Fri bitter greens salad with anchovy vinaigrette)
 - [ ] Cumin, smoked paprika, chili flakes — (Week 8 Sat shakshuka)
 - [ ] Rouille ingredients: jarred roasted red peppers, garlic, breadcrumbs (bouillabaisse)
 

@@ -24,6 +24,8 @@
 - [ ] **Dried tianjin chillies** or facing heaven chillies — 1 bag
 - [ ] **Five-spice powder** — 1 small jar
 - [ ] **Rock sugar** (冰糖) — 1 small package (for hong shao rou — can sub with brown sugar if needed)
+- [ ] **Star anise** — 6 whole pods (hong shao rou braising — whole pods required; five-spice is not a substitute)
+- [ ] **Cinnamon sticks** — 2 sticks (hong shao rou braising)
 - [ ] **Cornstarch** — 1 box (if you don't have it already)
 - [ ] **Chilli oil** — 1 jar (Lao Gan Ma or your homemade from Week 1–2 chilli oil)
 - [ ] **Ya cai** (Yibin preserved vegetables) — 1 small packet (for dan dan; optional but authentic)
@@ -54,6 +56,7 @@
 - [ ] **Long hot green peppers or Anaheim peppers** — 4 (kung pao)
 - [ ] **Cucumbers** — 3 (smashed cucumber salad; side dishes)
 - [ ] **Morning glory or Chinese water spinach** — 1 bunch (if available; use regular spinach if not)
+- [ ] **Green beans** — 1 lb (Sichuan dry-fried green beans; a classic of the Sichuan dinner night)
 
 ---
 

@@ -51,6 +51,7 @@
 - [ ] Fresh mint, cilantro, Thai basil — for Friday meal and Saturday sides
 - [ ] Carrots — 4 (honey-roasted Wednesday)
 - [ ] Cauliflower — 1 head (Monday side)
+- [ ] Green cabbage — ½ head (Week 20 Tue ribs coleslaw)
 
 ---
 
@@ -76,6 +77,10 @@
 - [ ] Rice vinegar (nuoc cham + quick pickles)
 - [ ] Kosher salt — plenty; dry brining all week
 - [ ] White wine + chicken stock (tenderloin pan sauce)
+- [ ] Eggs — 1 dozen (Week 19 Tue chashu bowl soft-boiled eggs; also general use)
+- [ ] Ramen noodles — 4 portions (Week 19 Tue chashu bowl)
+- [ ] Nori sheets — 1 package (Week 19 Tue chashu bowl)
+- [ ] Mayonnaise — 1 jar (Week 20 Tue ribs coleslaw dressing)
 
 ---
 
@@ -92,3 +97,9 @@
 - [ ] Dry pasta (spaghetti or rigatoni) — 1 lb (Friday)
 - [ ] Day-old bread — ¾ cup (for meatball panade)
 - [ ] Whole milk — ½ cup (meatball panade)
+
+---
+
+## 🥖 Bread
+
+- [ ] Crusty bread — 1 loaf (Week 19 Tue — serve with pork belly chashu bowl; also Week 20 Wed porchetta)

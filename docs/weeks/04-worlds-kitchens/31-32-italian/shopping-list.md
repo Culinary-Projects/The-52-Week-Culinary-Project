@@ -47,6 +47,10 @@
 - [ ] Fresh sage — 1 bunch (gnocchi Mon Week 30 + saltimbocca Fri)
 - [ ] Lemons — 6 (gremolata + various)
 - [ ] Cherry tomatoes — 1 pint (Week 30 sides)
+- [ ] Russet potatoes — 2 lbs (Mon Week 30 gnocchi — large russets; must be floury, not waxy)
+- [ ] Fresh spinach — 5 oz bag (Tue Week 30 ravioli filling — wilt, squeeze dry, chop)
+- [ ] Fresh basil — 2 bunches (pasta, antipasto board, garnish throughout)
+- [ ] Mixed olives — 1 cup (Week 30 antipasto board)
 
 ---
 

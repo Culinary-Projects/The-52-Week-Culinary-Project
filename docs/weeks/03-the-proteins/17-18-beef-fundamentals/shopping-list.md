@@ -81,6 +81,7 @@
 - [ ] Flour — 1 cup (browning pot roast)
 - [ ] Egg noodles or polenta — for Week 16 Monday
 - [ ] Rye bread — for Week 16 Wednesday brisket
+- [ ] Brioche or potato burger buns — 4 (Week 15 Wednesday smash burgers)
 
 ---
 

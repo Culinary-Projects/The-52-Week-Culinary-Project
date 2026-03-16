@@ -40,6 +40,7 @@
 
 ## 🥦 Produce — Week 27
 
+- [ ] Russet or Yukon gold potatoes — 2 lbs (Fri steak frites — separate from aioli platter potatoes)
 - [ ] Onions — 5 lbs (Mon French onion soup — ~3 lbs per pot)
 - [ ] Garlic — 3 heads
 - [ ] Shallots — 6
@@ -76,6 +77,8 @@
 - [ ] Heavy cream — 1 pint (soufflé béchamel + various)
 - [ ] Parmesan — 4 oz (soufflé)
 - [ ] Baguette — multiple (soufflé croutons, onion soup croutons, aioli platter)
+- [ ] English muffins — 1 pack (Tue Week 27 eggs benedict)
+- [ ] Dark chocolate (70%+) — 4 oz (chocolate mousse — classic French bistro dessert)
 - [ ] Olive oil — extra-virgin (aioli + dressings)
 - [ ] Duck fat — small jar if making duck confit vs. buying
 - [ ] Orange marmalade — small jar (à l'orange backup if juice not enough)

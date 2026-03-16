@@ -79,6 +79,7 @@
 - [ ] Whole-milk ricotta — as above (Week 11 Tue + Week 12 Sat crostini)
 - [ ] Plain Greek yogurt (full-fat) — 1 cup (Week 12 Tue tzatziki)
 - [ ] Crème fraîche or heavy cream — ½ cup (Week 12 Wed polenta finishing)
+- [ ] **Eggs — 2 dozen** (fresh pasta dough requires 1 egg per 100g flour; 2 lbs of ’00” flour = ~18 eggs minimum; also for soft-boiled and ravioli binding)
 
 ---
 
@@ -104,6 +105,13 @@
 - [ ] Capers — 1 jar (Week 12 Sat scallop sauce)
 - [ ] Extra-virgin olive oil (good quality — multiple uses)
 - [ ] Kosher salt (large box — pasta water uses more than you think)
+
+---
+
+## 🥖 Bread
+
+- [ ] Crusty bread or baguette — 1 (Week 11 Sat bruschetta base — slice thick, rub with garlic, drizzle with olive oil)
+- [ ] Good rustic bread — 1 (Week 12 Sat crostini)
 
 ---
 

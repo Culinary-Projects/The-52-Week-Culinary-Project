@@ -32,10 +32,10 @@
 
 **Week 5:**
 - [ ] Eggplant — 2 large (moussaka — salt and drain before using)
-- [ ] Potatoes (Yukon Gold) — 2 lbs (moussaka base layer)
+- [ ] Potatoes (Yukon Gold) — 4 lbs (2 lbs for moussaka base layer + 2 lbs for Week 5 Fri creamy mashed potatoes)
 - [ ] Carrots — 3 (Bolognese mirepoix + pot pie)
 - [ ] Celery — 1 bunch (Bolognese + pot pie)
-- [ ] Onions (yellow) — 4 (mirepoix, multiple uses)
+- [ ] Onions (yellow) — 7 large (Bolognese mirepoix 2 + pot pie 1 + moussaka 2 + general use 2)
 - [ ] Broccolini — 2 bunches (Week 5 Fri)
 - [ ] Garlic — 2 heads
 - [ ] Roma tomatoes — 4 (Greek salad)
@@ -54,6 +54,7 @@
 - [ ] Cherry tomatoes — 1 pint (Niçoise)
 - [ ] Sweet potatoes — 2 large (Week 6 Fri)
 - [ ] Frisée or endive — 2 heads (Week 6 Sat Lyonnaise salad)
+- [ ] Yellow onions — 5 large (Week 6 Sat French Onion Dip — needs long caramelization)
 - [ ] Apples — 2 (apple-cider pan sauce for pork chops)
 - [ ] Russet potatoes — 3 lbs (Week 6 Sat frites)
 - [ ] Lemons — 4
@@ -72,6 +73,7 @@
 - [ ] Parmesan (block) — 8 oz (Caesar + Bolognese)
 - [ ] Feta cheese — 6 oz (Greek salad)
 - [ ] Kalamata olives — 1 jar (Greek salad + Niçoise)
+- [ ] Sour cream — 1 cup (Week 6 Sat French Onion Dip base)
 
 ---
 
@@ -105,6 +107,7 @@
 - [ ] Hot dog buns (top-split preferred) — 4 (lobster/shrimp rolls, Week 6 Tue)
 - [ ] English muffins — 4 (Week 6 Mon Eggs Benedict)
 - [ ] Crusty baguette (Week 5 Wed, for serving with Bolognese)
+- [ ] Crusty bread — 1 loaf (Week 5 Sat moussaka)
 
 ---
 

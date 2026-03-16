@@ -31,6 +31,7 @@
 - [ ] **Gruyère** — 6 oz (quiche Mon Week 44)
 - [ ] **Bacon lardons** — 4 oz (quiche lorraine Mon Week 44)
 - [ ] **Mascarpone or cream cheese** — optional (filling variations)
+- [ ] **Clotted cream** — 1 jar (scones service Sat Week 44 afternoon tea; Devon clotted cream at specialty grocers or Whole Foods)
 
 ---
 
@@ -42,6 +43,7 @@
 - [ ] **Strawberries** — 1 pint (tart topping)
 - [ ] **Kiwi** — 3 (tart decoration)
 - [ ] **Cucumber** — 4 (finger sandwiches Sat Week 44)
+- [ ] **Smoked salmon** — 4 oz (finger sandwiches Sat Week 44 afternoon tea; smoked salmon + cream cheese is a classic)
 
 ---
 

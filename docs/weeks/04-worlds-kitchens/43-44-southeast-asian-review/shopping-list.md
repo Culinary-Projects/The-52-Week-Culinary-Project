@@ -64,6 +64,7 @@
 - [ ] Kecap manis (sweet soy sauce) — 1 bottle (nasi goreng Wed Week 39)
 - [ ] Fermented shrimp paste / terasi — 1 small block (nasi goreng; laksa rempah)
 - [ ] Coconut milk — 4 cans (satay marinade, laksa, rendang)
+- [ ] Desiccated coconut — 1 cup (rendang kerisik — toast until dark golden and grind to paste; this is what makes rendang rendang)
 - [ ] Tamarind paste (or block) — 1 jar/block
 - [ ] Palm sugar — 1 block (or substitute light brown sugar)
 - [ ] Oyster sauce — 1 bottle (Pad See Ew Mon Week 40)
@@ -84,6 +85,7 @@
 - [ ] Wide rice noodles, fresh (sen yai) — 1 lb (Pad See Ew Mon Week 40) — buy day of if possible
 - [ ] Pho rice noodles (medium width) — 1 pack (pho Tue both weeks)
 - [ ] Jasmine rice — 5-lb bag
+- [ ] Glutinous rice (sticky rice) — 2 lbs (Sat Week 39 som tam always comes with sticky rice — eat it with your hands; also served with satay)
 - [ ] Rice already cooked and cooled for nasi goreng — cook night before
 
 ---

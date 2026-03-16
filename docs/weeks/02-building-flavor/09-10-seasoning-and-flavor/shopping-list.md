@@ -37,6 +37,7 @@
 
 - [ ] Broccoli — 1 large head (Week 9 Mon)
 - [ ] Arugula — 3 bags (Week 9 Mon salad + Week 9 Fri salad + general use)
+- [ ] Romaine lettuce — 2 hearts (Week 9 Tue Caesar salad)
 - [ ] Cherry tomatoes — 2 pints (Week 9 Wed sautéed)
 - [ ] Cauliflower — 1 head (Week 9 Fri, with crispy capers)
 - [ ] Radicchio or bitter greens — 1 head (Week 9 Fri salad)
@@ -57,6 +58,10 @@
 - [ ] Arugula — 2 bags (Week 10 Fri salad + Sat salad)
 - [ ] Fennel — 1 bulb (Week 10 Sat salad)
 - [ ] Blood oranges or navel oranges — 2 (Week 10 Sat salad)
+- [ ] Yukon Gold potatoes — 1.5 lbs (Week 10 Mon creamy mashed potatoes)
+- [ ] Russet potatoes — 3 lbs (Week 10 Wed potato gnocchi — bake them, don’t boil)
+- [ ] Green beans — ½ lb (Week 10 Wed fat-experiment lesson — three small batches in different fats)
+- [ ] Fresh sage — 1 bunch (Week 10 Wed brown butter gnocchi with crispy sage)
 
 ---
 
@@ -65,8 +70,7 @@
 - [ ] Parmesan (block) — 8 oz (cacio e pepe, pasta, salads)
 - [ ] Pecorino Romano — 4 oz (cacio e pepe — do not skip, it's different from parmesan)
 - [ ] Unsalted butter — 3 sticks
-- [ ] Heavy cream (optional) — ½ cup (Week 10 Mon Marsala finishing)
-
+- [ ] Heavy cream (optional) — ½ cup (Week 10 Mon Marsala finishing)- [ ] Eggs — 1 dozen (Week 9 Tue Caesar raw egg yolks; Week 9 Sat salt-crust needs 6–8 egg whites for the crust paste)
 ---
 
 ## 🌾 Pantry & Dry Goods

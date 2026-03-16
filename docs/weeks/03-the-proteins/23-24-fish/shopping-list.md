@@ -84,3 +84,4 @@
 - [ ] Baguette — for rouille croutons (Sat bouillabaisse)
 - [ ] Corn tortillas — 2 packs (Tue fish tacos)
 - [ ] Rice — jasmine and/or white (multiple days)
+- [ ] Eggs — 6 (Week 22 Sat bouillabaisse rouille egg yolks; Week 22 Tue fish taco batter)

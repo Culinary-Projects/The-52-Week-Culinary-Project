@@ -48,6 +48,7 @@
 - [ ] Cherry tomatoes — 1 pint (Tue Week 24)
 - [ ] Canned San Marzano tomatoes — 1 can (Fri Week 24)
 - [ ] Potatoes — 1 lb (chowder Week 24 Wed)
+- [ ] Russet potatoes — 2 lbs (Week 23 Tue frites for moules-frites — double-fry method)
 - [ ] Celery — 4 stalks (chowder aromatics)
 - [ ] Heavy cream — 1 cup (Wed chowder)
 - [ ] Corn — 2 ears or 1 cup frozen (if doing clam-corn pasta instead)
@@ -60,6 +61,8 @@
 - [ ] Vermouth — can substitute for white wine in bisque
 - [ ] Olive oil — extra-virgin
 - [ ] Unsalted butter — ½ lb
+- [ ] Thick-cut bacon — 4 oz (Week 23 Wed Roasted Oysters with Bacon and Parmesan)
+- [ ] Parmesan — 4 oz (Week 23 Wed roasted oysters topping)
 - [ ] Spaghetti or linguine — 1 lb
 - [ ] Saffron — pinch (Fri Week 24)
 - [ ] Crushed red pepper flakes

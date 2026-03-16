@@ -100,6 +100,7 @@
 ## 🧂 Pantry Staples
 
 - [ ] Olive oil — 1 large bottle (extra-virgin; used for basically everything)
+- [ ] Neutral oil (grapeseed, sunflower, or vegetable) — 1 small bottle (toum requires neutral oil; olive oil makes it bitter and broken)
 - [ ] Chicken stock — 2 quarts (kabsa + shakshuka)
 - [ ] Canned San Marzano tomatoes — 2 cans (shakshuka + kabsa)
 - [ ] Basmati rice — 5 lbs (kabsa + multiple meals)

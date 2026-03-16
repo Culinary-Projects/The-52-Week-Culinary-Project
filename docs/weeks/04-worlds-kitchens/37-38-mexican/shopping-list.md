@@ -88,6 +88,7 @@
 - [ ] Lard or shortening — for tamale masa fat (lard is traditional; makes it better)
 - [ ] Refried beans — canned as backup; or make from scratch with pinto beans
 - [ ] Black beans — 2 × 15-oz cans or 1 lb dried
+- [ ] Long-grain white rice — 2 lbs (arroz rojo; rice sides appear multiple nights — completely the expected starch for this block)
 
 **Fresh cheeses (buy at Mexican market):**
 - [ ] Queso fresco — 8 oz

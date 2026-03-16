@@ -62,6 +62,7 @@
 - [ ] Capers — 1 small jar
 - [ ] Whole black peppercorns
 - [ ] Bay leaves — 4–5
+- [ ] Pistachios — ¼ cup (Week 11 Sat roasted beet salad with whipped feta and pistachios)
 
 ---
 
@@ -73,6 +74,8 @@
 - [ ] Canned whole peeled tomatoes — 1 can (28 oz, for stuffed pepper sauce)
 - [ ] Good chicken stock or vegetable stock — 48 oz (beans, purées)
 - [ ] Day-old bread or sourdough — half a loaf (croutons)
+- [ ] Red wine — 1 bottle (Week 12 Wed mushroom bourguignon)
+- [ ] Jasmine or long-grain white rice — 2 cups (Week 11 Wed — serve with Brussels sprouts + charred cabbage)
 
 ---
 
@@ -83,6 +86,7 @@
 - [ ] Heavy cream — ½ cup (purées, optional)
 - [ ] Feta — 4 oz (roasted beet salad, Week 11 Saturday)
 - [ ] Ricotta or fresh goat cheese — 4 oz (optional, stuffed peppers)
+- [ ] Yukon Gold potatoes — 1.5 lbs (Week 12 Wed — creamy mashed potatoes as the base for mushroom bourguignon)
 
 ---
 

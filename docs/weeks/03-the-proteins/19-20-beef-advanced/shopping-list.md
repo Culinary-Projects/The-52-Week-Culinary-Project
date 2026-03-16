@@ -79,6 +79,12 @@
 - [ ] Pappardelle or wide pasta — 1 lb (Bolognese)
 - [ ] Jasmine rice — 1 lb
 - [ ] Pesto — small jar (stuffed flank; or make from scratch)
+
+---
+
+## 🥖 Bread
+
+- [ ] Crusty bread or baguette — 1 (Week 17 Sat grill dinner; serves as the table bread for the feast)
 - [ ] Fresh mozzarella — 8 oz (stuffed flank)
 - [ ] Prosciutto — 3 oz (stuffed flank)
 - [ ] Parmesan — wedge (steak salad + Bolognese)
