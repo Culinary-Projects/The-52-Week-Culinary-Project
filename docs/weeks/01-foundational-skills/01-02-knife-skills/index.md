@@ -39,19 +39,21 @@ The prep is simple — garlic and parsley — which lets you focus entirely on y
 
 ### Tuesday — The Claw
 
-**Skill:** Before touching the stove, take one onion, one carrot, one celery stalk. Practice the claw grip — fingers curled, knuckles as the guide rail for the blade. Keep the tip of the blade in contact with the board, pull back slightly until the blade slices in, then press down and forward using the full length of the blade. Dice all three into rough ½" pieces. Time yourself. Don't worry about speed yet — worry about uniformity.
+**Skill:** Before touching the stove, take one carrot and one celery stalk. Practice the claw grip — fingers curled, knuckles as the guide rail for the blade. Keep the tip of the blade in contact with the board, pull back slightly until the blade slices in, then press down and forward using the full length of the blade. Dice both into rough ½" pieces. Time yourself. Don't worry about speed yet — worry about uniformity.
+
+The onion is handled separately: halve it through the root, press it cut-side down into a dry, screaming-hot pan (no oil) until deeply charred — nearly black. That char goes straight into the broth and gives it color and depth. It's a different technique from dicing and worth doing intentionally.
 
 **Full Meal:** [The Best Chicken Noodle Soup](https://www.seriouseats.com/the-ultimate-chicken-noodle-soup)
 
-A note on what actually goes into this recipe: Kenji only uses onion for the stock (charred, to add color and depth) — carrot and celery are not in it. Your drill still covers all three because a full mirepoix is the foundational dice in professional kitchens, but be aware: only the onion is called for by the recipe. Your diced carrot and celery aren't wasted — add them straight into the soup with the noodles for the last 10 minutes. The recipe doesn't include them but they belong there, and the soup is better for it.
+The recipe only uses charred onion for the stock — carrot and celery aren't in it. Your diced carrot and celery go straight into the soup with the noodles for the last 10 minutes. The recipe doesn't call for them but they belong there, and the soup is better for it.
 
 > **Sous vide note:** The recipe calls for cooking the chicken breast sous vide (140°F, 2 hours). You don't need a circulator. Simply add the chicken breasts to the simmering broth for the last 15–20 minutes until cooked through (165°F internal), then remove and shred. The texture is slightly different but the soup is just as good.
 
 | Component | Recipe |
 |-----------|--------|
 | Protein | Chicken breast — poach in the broth (or sous vide if you have one), then shred |
-| Veg | Onion (charred, per recipe) into the stock; your diced carrot and celery into the soup with the noodles |
-| Starch | Egg noodles, cooked directly in the soup |
+| Veg | Onion (charred, per recipe) into the stock; your diced carrot and celery into the soup for last 10 minutes |
+| Starch | Egg noodles, cooked seperately |
 
 > 🎥 **Compare Notes:** [Knife Skills: How to Slice and Dice an Onion](https://www.youtube.com/watch?v=BuebC0CfD8E) · [How to Make Chicken Noodle Soup](https://www.youtube.com/watch?v=cR36DqjOvig) — Watch the knife video for the claw grip in real time at speed. The soup video shows a completely different approach to the same dish — both are worth thinking about.
 

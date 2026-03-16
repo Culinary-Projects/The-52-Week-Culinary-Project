@@ -27,8 +27,8 @@
 
 **Week 1:**
 
-- [ ] Yellow onions — 7 large (1 for soup mirepoix + 5–6 for French onion soup — they cook down to almost nothing)
-- [ ] Carrots — 6 (4 for Week 1 soup/mirepoix + 2 reserved for Week 2 Mon julienne drill)
+- [ ] Yellow onions — 7 large (1 for soup stock, charred + 5–6 for French onion soup — they cook down to almost nothing)
+- [ ] Carrots — 6 (4 for Week 1 soup claw-grip drill + 2 reserved for Week 2 Mon julienne drill)
 - [ ] Celery — 1 bunch (soup)
 - [ ] Baby spinach — 5 oz bag (Week 1 Mon pasta)
 - [ ] Arugula — 1 bag (Week 1 Wed salad)
