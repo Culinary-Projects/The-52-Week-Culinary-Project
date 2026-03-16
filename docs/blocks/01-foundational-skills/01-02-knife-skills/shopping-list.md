@@ -1,0 +1,128 @@
+# 🛒 Shopping List — Block 1–2: Knife Skills & Kitchen Setup
+
+← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)
+
+---
+
+> **How to use this list:** Do this in two produce trips — one before Block 1 starts, one before Block 2 starts. The list is already split that way. Produce bought in one go at the start of Block 1 will not survive to Block 2.
+>
+> **Pantry and dry goods** (pasta, sauces, oils, spices) can all be bought in one trip before Block 1 — they keep indefinitely.
+>
+> **Proteins:** Buy the Block 1 proteins (chicken breasts, shrimp, beef) before Block 1. Buy the Block 2 Pad Thai protein (shrimp or tofu) with your Block 2 shop. Buy the Block 2 whole chicken the day before you plan to break it down — it must be fresh, not frozen, and fresh chicken has a short window.
+
+---
+
+## 🥩 Proteins
+
+- [ ] Boneless, skinless chicken breasts — 1 lb (Block 1, for soup)
+- [ ] Large shrimp (16/20 count), peeled and deveined — 1 lb (Block 1 scampi)
+- [ ] Flank steak or beef sirloin — 1 lb, thinly sliced (Block 1, stir-fry)
+- [ ] Bone-in, skin-on chicken thighs — 6 pieces (Block 2 + leftovers)
+- [ ] **Whole chicken — 1 (Block 2): You will break this down yourself. This is the lesson.** The breasts go into piccata; the thighs and legs are your Block 2 leftovers. Save the carcass in the freezer — it becomes your Block 7 stock.
+- [ ] Shrimp (16/20 count) OR firm tofu — 8 oz (Block 2 Pad Thai protein)
+
+---
+
+## 🥦 Produce
+
+**Block 1:**
+
+- [ ] Yellow onions — 7 large (1 for soup stock, charred + 5–6 for French onion soup — they cook down to almost nothing)
+- [ ] Carrots — 6 (4 for Block 1 soup claw-grip drill + 2 reserved for Block 2 julienne drill)
+- [ ] Celery — 1 bunch (2–3 stalks for Block 1 claw-grip drill; remainder available for stock/other uses)
+- [ ] Baby spinach — 5 oz bag (Block 1 pasta)
+- [ ] Arugula — 1 bag (Block 1 salad)
+- [ ] Fennel — 1 bulb (Block 1 salad)
+- [ ] Orange — 1 (Block 1 salad)
+- [ ] Broccoli — 1 head (Block 1 stir-fry)
+- [ ] Garlic — 3 heads (multiple uses throughout both weeks)
+- [ ] Lemon — 4 (Block 1 scampi + salad + piccata + dressings)
+- [ ] Fresh ginger — 2-inch knob (Block 1 stir-fry)
+- [ ] Fresh thyme — 1 bunch (French onion soup)
+- [ ] Fresh flat-leaf parsley — 1 bunch (Block 1 scampi, garnishes throughout)
+
+**Block 2:**
+
+- [ ] Cherry tomatoes — 1 pint (Block 2 piccata side / pasta sauce)
+- [ ] Lime — 1 (Block 2 Pad Thai)
+- [ ] Fresh rosemary — 1 small bunch (Block 2 pan-seared chicken)
+- [ ] Russet or Yukon Gold potatoes — 2 lbs (Block 2 home fries + dice drill)
+- [ ] Red bell peppers — 2 (Block 2 home fries)
+- [ ] Poblano pepper — 1 (Block 2 home fries — the SE recipe uses it)
+- [ ] Zucchini — 3 medium (1 for Block 2 julienne drill + 2 for Block 2 tian)
+- [ ] Eggplant — 1 medium (Block 2 tian)
+- [ ] Tomatoes — 6 medium (Block 2 tian + Block 2 shakshuka)
+- [ ] Yellow squash — 2 medium (Block 2 tian)
+- [ ] Mixed greens / butter lettuce — 1 bag (Block 2 salad)
+- [ ] Bean sprouts — 1 bag (Block 2 Pad Thai)
+- [ ] Scallions — 1 bunch (Block 2 Pad Thai + garnishes)
+- [ ] Fresh basil — 1 bunch (Block 2 Pad Thai chiffonade drill)
+
+---
+
+## 🧀 Dairy
+
+- [ ] Parmesan (Parmigiano-Reggiano block) — 8 oz (Block 1 pasta + salad + piccata)
+- [ ] Gruyère — 10 oz total (4–6 oz for Block 1 French onion soup croutons + 4 oz for Block 2 tian)
+- [ ] Unsalted butter — 2 sticks
+- [ ] Eggs — 1 dozen (Block 2 Pad Thai + Block 2 shakshuka)
+- [ ] Heavy cream — 1 small carton (optional for pasta)
+
+---
+
+## 🌾 Pantry & Dry Goods
+
+- [ ] Pasta — short shape, e.g. rigatoni or spaghetti — 1 lb (Block 1 cacio e pepe-style)
+- [ ] Pasta (linguine) — 2 lbs (Block 1 scampi + Block 2 piccata)
+- [ ] Egg noodles — 8 oz (Block 1 soup)
+- [ ] Rice noodles, medium width — 8 oz (Block 2 Pad Thai)
+- [ ] Jasmine rice — 1 lb (Block 1 stir-fry)
+- [ ] Chicken stock or broth — 32 oz carton (soup)
+- [ ] Beef stock or broth — 32 oz + 1 extra carton (Block 1 French onion soup)
+- [ ] Canned whole peeled tomatoes — 2 cans (Block 2 shakshuka)
+- [ ] Dry white wine — 1 bottle (Block 1 scampi + Block 2 piccata)
+- [ ] Dry sherry — small bottle (Block 1 French onion soup; also works as a Shaoxing wine sub in stir-fry)
+- [ ] Oyster sauce — 1 bottle (Block 1 stir-fry)
+- [ ] Soy sauce — 1 bottle
+- [ ] Sesame oil — 1 small bottle (Block 1 stir-fry)
+- [ ] Fish sauce — 1 bottle (Pad Thai)
+- [ ] Tamarind paste or concentrate — 1 jar (Pad Thai) — Asian grocery or Amazon
+- [ ] Brown sugar or palm sugar — 1 bag (Pad Thai)
+- [ ] Cornstarch — 1 box (stir-fry velveting)
+- [ ] All-purpose flour — 1 bag (Block 2 piccata dredge)
+- [ ] Dijon mustard — 1 jar (Block 2 vinaigrette + general use)
+- [ ] Red wine vinegar — 1 bottle (Block 2 vinaigrette)
+- [ ] Unseasoned rice vinegar — 1 bottle (Pad Thai)
+- [ ] Roasted peanuts — 1 bag (Pad Thai garnish)
+- [ ] Capers — 1 jar (Block 2 piccata)
+- [ ] Cumin, smoked paprika, dried chili flakes, ground coriander (Block 2 shakshuka)
+- [ ] Neutral oil (vegetable, grapeseed, or canola) — 1 bottle if you don't have one
+- [ ] Extra-virgin olive oil
+
+---
+
+## 🥖 Bread
+
+- [ ] Good baguette — 1 (Block 1 French onion soup croutons)
+- [ ] Crusty bread — 1 loaf (Block 2 shakshuka dipping + Block 2 tian)
+
+---
+
+## 🔪 Equipment (if you don't own these yet)
+
+- [ ] **Chef's knife** — if you don't own a good one (8" Victorinox Fibrox is the reliable budget pick)
+- [ ] **Honing steel** — not optional. Buy one this week.
+- [ ] **Cutting board** — large, wood or plastic (at least 12" × 18")
+- [ ] **Instant-read thermometer** — useful now, essential from Block 3 on
+
+---
+
+## 📝 Notes
+
+**French onion soup (Block 1) needs a huge amount of onions.** 5–6 large yellow onions is not too many — they cook down to about 10% of their raw volume over 45–60 minutes. Don't rush the caramelization.
+
+**Pad Thai (Block 2):** Soak rice noodles in cold water for 30 minutes before cooking — don't boil them. They finish in the wok. Mise en place is even more critical here than in the stir-fry.
+
+**Stir-fry (Block 1):** Dry sherry is an acceptable sub for Shaoxing wine. If you're buying it anyway for French onion soup, you're covered — just reserve some before the onion soup.
+
+**Whole chicken (Block 2):** Watch the Serious Eats chicken breakdown video before you start. Takes about 20 minutes the first time; 8 minutes by Block 6.

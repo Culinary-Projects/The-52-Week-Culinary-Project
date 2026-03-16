@@ -41,120 +41,120 @@ nav:
   - Equipment Guide: equipment-guide.md
 
   - "Unit 1 — Foundational Skills":
-    - Overview: weeks/01-foundational-skills/README.md
+    - Overview: blocks/01-foundational-skills/README.md
     - "Block 1–2: Knife Skills":
-      - Full Guide: weeks/01-foundational-skills/01-02-knife-skills/index.md
-      - Quick Reference: weeks/01-foundational-skills/01-02-knife-skills/quick-ref.md
-      - Shopping List: weeks/01-foundational-skills/01-02-knife-skills/shopping-list.md
+      - Full Guide: blocks/01-foundational-skills/01-02-knife-skills/index.md
+      - Quick Reference: blocks/01-foundational-skills/01-02-knife-skills/quick-ref.md
+      - Shopping List: blocks/01-foundational-skills/01-02-knife-skills/shopping-list.md
     - "Block 3–4: Heat & Cooking":
-      - Full Guide: weeks/01-foundational-skills/03-04-heat-and-cooking/index.md
-      - Quick Reference: weeks/01-foundational-skills/03-04-heat-and-cooking/quick-ref.md
-      - Shopping List: weeks/01-foundational-skills/03-04-heat-and-cooking/shopping-list.md
+      - Full Guide: blocks/01-foundational-skills/03-04-heat-and-cooking/index.md
+      - Quick Reference: blocks/01-foundational-skills/03-04-heat-and-cooking/quick-ref.md
+      - Shopping List: blocks/01-foundational-skills/03-04-heat-and-cooking/shopping-list.md
     - "Block 5–6: Mother Sauces":
-      - Full Guide: weeks/01-foundational-skills/05-06-mother-sauces/index.md
-      - Quick Reference: weeks/01-foundational-skills/05-06-mother-sauces/quick-ref.md
-      - Shopping List: weeks/01-foundational-skills/05-06-mother-sauces/shopping-list.md
+      - Full Guide: blocks/01-foundational-skills/05-06-mother-sauces/index.md
+      - Quick Reference: blocks/01-foundational-skills/05-06-mother-sauces/quick-ref.md
+      - Shopping List: blocks/01-foundational-skills/05-06-mother-sauces/shopping-list.md
     - "Block 7–8: Stocks & Eggs":
-      - Full Guide: weeks/01-foundational-skills/07-08-stocks-and-eggs/index.md
-      - Quick Reference: weeks/01-foundational-skills/07-08-stocks-and-eggs/quick-ref.md
-      - Shopping List: weeks/01-foundational-skills/07-08-stocks-and-eggs/shopping-list.md
+      - Full Guide: blocks/01-foundational-skills/07-08-stocks-and-eggs/index.md
+      - Quick Reference: blocks/01-foundational-skills/07-08-stocks-and-eggs/quick-ref.md
+      - Shopping List: blocks/01-foundational-skills/07-08-stocks-and-eggs/shopping-list.md
 
   - "Unit 2 — Building Flavor":
-    - Overview: weeks/02-building-flavor/README.md
+    - Overview: blocks/02-building-flavor/README.md
     - "Block 9–10: Seasoning & Flavor":
-      - Full Guide: weeks/02-building-flavor/09-10-seasoning-and-flavor/index.md
-      - Quick Reference: weeks/02-building-flavor/09-10-seasoning-and-flavor/quick-ref.md
-      - Shopping List: weeks/02-building-flavor/09-10-seasoning-and-flavor/shopping-list.md
+      - Full Guide: blocks/02-building-flavor/09-10-seasoning-and-flavor/index.md
+      - Quick Reference: blocks/02-building-flavor/09-10-seasoning-and-flavor/quick-ref.md
+      - Shopping List: blocks/02-building-flavor/09-10-seasoning-and-flavor/shopping-list.md
     - "Block 11–12: Vegetables & Plant-Forward":
-      - Full Guide: weeks/02-building-flavor/11-12-vegetables-plant-forward/index.md
-      - Quick Reference: weeks/02-building-flavor/11-12-vegetables-plant-forward/quick-ref.md
-      - Shopping List: weeks/02-building-flavor/11-12-vegetables-plant-forward/shopping-list.md
+      - Full Guide: blocks/02-building-flavor/11-12-vegetables-plant-forward/index.md
+      - Quick Reference: blocks/02-building-flavor/11-12-vegetables-plant-forward/quick-ref.md
+      - Shopping List: blocks/02-building-flavor/11-12-vegetables-plant-forward/shopping-list.md
     - "Block 13–14: Pasta & Grains":
-      - Full Guide: weeks/02-building-flavor/13-14-pasta-and-grains/index.md
-      - Quick Reference: weeks/02-building-flavor/13-14-pasta-and-grains/quick-ref.md
-      - Shopping List: weeks/02-building-flavor/13-14-pasta-and-grains/shopping-list.md
+      - Full Guide: blocks/02-building-flavor/13-14-pasta-and-grains/index.md
+      - Quick Reference: blocks/02-building-flavor/13-14-pasta-and-grains/quick-ref.md
+      - Shopping List: blocks/02-building-flavor/13-14-pasta-and-grains/shopping-list.md
     - "Block 15–16: Midpoint Review":
-      - Full Guide: weeks/02-building-flavor/15-16-midpoint-review/index.md
-      - Quick Reference: weeks/02-building-flavor/15-16-midpoint-review/quick-ref.md
-      - Shopping List: weeks/02-building-flavor/15-16-midpoint-review/shopping-list.md
+      - Full Guide: blocks/02-building-flavor/15-16-midpoint-review/index.md
+      - Quick Reference: blocks/02-building-flavor/15-16-midpoint-review/quick-ref.md
+      - Shopping List: blocks/02-building-flavor/15-16-midpoint-review/shopping-list.md
 
   - "Unit 3 — The Proteins":
-    - Overview: weeks/03-the-proteins/README.md
+    - Overview: blocks/03-the-proteins/README.md
     - "Block 17–18: Beef Fundamentals":
-      - Full Guide: weeks/03-the-proteins/17-18-beef-fundamentals/index.md
-      - Quick Reference: weeks/03-the-proteins/17-18-beef-fundamentals/quick-ref.md
-      - Shopping List: weeks/03-the-proteins/17-18-beef-fundamentals/shopping-list.md
+      - Full Guide: blocks/03-the-proteins/17-18-beef-fundamentals/index.md
+      - Quick Reference: blocks/03-the-proteins/17-18-beef-fundamentals/quick-ref.md
+      - Shopping List: blocks/03-the-proteins/17-18-beef-fundamentals/shopping-list.md
     - "Block 19–20: Fish":
-      - Full Guide: weeks/03-the-proteins/19-20-fish/index.md
-      - Quick Reference: weeks/03-the-proteins/19-20-fish/quick-ref.md
-      - Shopping List: weeks/03-the-proteins/19-20-fish/shopping-list.md
+      - Full Guide: blocks/03-the-proteins/19-20-fish/index.md
+      - Quick Reference: blocks/03-the-proteins/19-20-fish/quick-ref.md
+      - Shopping List: blocks/03-the-proteins/19-20-fish/shopping-list.md
     - "Block 21–22: Beef Advanced":
-      - Full Guide: weeks/03-the-proteins/21-22-beef-advanced/index.md
-      - Quick Reference: weeks/03-the-proteins/21-22-beef-advanced/quick-ref.md
-      - Shopping List: weeks/03-the-proteins/21-22-beef-advanced/shopping-list.md
+      - Full Guide: blocks/03-the-proteins/21-22-beef-advanced/index.md
+      - Quick Reference: blocks/03-the-proteins/21-22-beef-advanced/quick-ref.md
+      - Shopping List: blocks/03-the-proteins/21-22-beef-advanced/shopping-list.md
     - "Block 23–24: Shellfish":
-      - Full Guide: weeks/03-the-proteins/23-24-shellfish/index.md
-      - Quick Reference: weeks/03-the-proteins/23-24-shellfish/quick-ref.md
-      - Shopping List: weeks/03-the-proteins/23-24-shellfish/shopping-list.md
+      - Full Guide: blocks/03-the-proteins/23-24-shellfish/index.md
+      - Quick Reference: blocks/03-the-proteins/23-24-shellfish/quick-ref.md
+      - Shopping List: blocks/03-the-proteins/23-24-shellfish/shopping-list.md
     - "Block 25–26: Pork":
-      - Full Guide: weeks/03-the-proteins/25-26-pork/index.md
-      - Quick Reference: weeks/03-the-proteins/25-26-pork/quick-ref.md
-      - Shopping List: weeks/03-the-proteins/25-26-pork/shopping-list.md
+      - Full Guide: blocks/03-the-proteins/25-26-pork/index.md
+      - Quick Reference: blocks/03-the-proteins/25-26-pork/quick-ref.md
+      - Shopping List: blocks/03-the-proteins/25-26-pork/shopping-list.md
     - "Block 27–28: Charcuterie Review":
-      - Full Guide: weeks/03-the-proteins/27-28-charcuterie-review/index.md
-      - Quick Reference: weeks/03-the-proteins/27-28-charcuterie-review/quick-ref.md
-      - Shopping List: weeks/03-the-proteins/27-28-charcuterie-review/shopping-list.md
+      - Full Guide: blocks/03-the-proteins/27-28-charcuterie-review/index.md
+      - Quick Reference: blocks/03-the-proteins/27-28-charcuterie-review/quick-ref.md
+      - Shopping List: blocks/03-the-proteins/27-28-charcuterie-review/shopping-list.md
 
   - "Unit 4 — World's Kitchens":
-    - Overview: weeks/04-worlds-kitchens/README.md
+    - Overview: blocks/04-worlds-kitchens/README.md
     - "Block 29–30: French":
-      - Full Guide: weeks/04-worlds-kitchens/29-30-french/index.md
-      - Quick Reference: weeks/04-worlds-kitchens/29-30-french/quick-ref.md
-      - Shopping List: weeks/04-worlds-kitchens/29-30-french/shopping-list.md
+      - Full Guide: blocks/04-worlds-kitchens/29-30-french/index.md
+      - Quick Reference: blocks/04-worlds-kitchens/29-30-french/quick-ref.md
+      - Shopping List: blocks/04-worlds-kitchens/29-30-french/shopping-list.md
     - "Block 31–32: Italian":
-      - Full Guide: weeks/04-worlds-kitchens/31-32-italian/index.md
-      - Quick Reference: weeks/04-worlds-kitchens/31-32-italian/quick-ref.md
-      - Shopping List: weeks/04-worlds-kitchens/31-32-italian/shopping-list.md
+      - Full Guide: blocks/04-worlds-kitchens/31-32-italian/index.md
+      - Quick Reference: blocks/04-worlds-kitchens/31-32-italian/quick-ref.md
+      - Shopping List: blocks/04-worlds-kitchens/31-32-italian/shopping-list.md
     - "Block 33–34: Japanese":
-      - Full Guide: weeks/04-worlds-kitchens/33-34-japanese/index.md
-      - Quick Reference: weeks/04-worlds-kitchens/33-34-japanese/quick-ref.md
-      - Shopping List: weeks/04-worlds-kitchens/33-34-japanese/shopping-list.md
+      - Full Guide: blocks/04-worlds-kitchens/33-34-japanese/index.md
+      - Quick Reference: blocks/04-worlds-kitchens/33-34-japanese/quick-ref.md
+      - Shopping List: blocks/04-worlds-kitchens/33-34-japanese/shopping-list.md
     - "Block 35–36: Chinese":
-      - Full Guide: weeks/04-worlds-kitchens/35-36-chinese/index.md
-      - Quick Reference: weeks/04-worlds-kitchens/35-36-chinese/quick-ref.md
-      - Shopping List: weeks/04-worlds-kitchens/35-36-chinese/shopping-list.md
+      - Full Guide: blocks/04-worlds-kitchens/35-36-chinese/index.md
+      - Quick Reference: blocks/04-worlds-kitchens/35-36-chinese/quick-ref.md
+      - Shopping List: blocks/04-worlds-kitchens/35-36-chinese/shopping-list.md
     - "Block 37–38: Mexican":
-      - Full Guide: weeks/04-worlds-kitchens/37-38-mexican/index.md
-      - Quick Reference: weeks/04-worlds-kitchens/37-38-mexican/quick-ref.md
-      - Shopping List: weeks/04-worlds-kitchens/37-38-mexican/shopping-list.md
+      - Full Guide: blocks/04-worlds-kitchens/37-38-mexican/index.md
+      - Quick Reference: blocks/04-worlds-kitchens/37-38-mexican/quick-ref.md
+      - Shopping List: blocks/04-worlds-kitchens/37-38-mexican/shopping-list.md
     - "Block 39–40: Indian":
-      - Full Guide: weeks/04-worlds-kitchens/39-40-indian/index.md
-      - Quick Reference: weeks/04-worlds-kitchens/39-40-indian/quick-ref.md
-      - Shopping List: weeks/04-worlds-kitchens/39-40-indian/shopping-list.md
+      - Full Guide: blocks/04-worlds-kitchens/39-40-indian/index.md
+      - Quick Reference: blocks/04-worlds-kitchens/39-40-indian/quick-ref.md
+      - Shopping List: blocks/04-worlds-kitchens/39-40-indian/shopping-list.md
     - "Block 41–42: Middle Eastern":
-      - Full Guide: weeks/04-worlds-kitchens/41-42-middle-eastern/index.md
-      - Quick Reference: weeks/04-worlds-kitchens/41-42-middle-eastern/quick-ref.md
-      - Shopping List: weeks/04-worlds-kitchens/41-42-middle-eastern/shopping-list.md
+      - Full Guide: blocks/04-worlds-kitchens/41-42-middle-eastern/index.md
+      - Quick Reference: blocks/04-worlds-kitchens/41-42-middle-eastern/quick-ref.md
+      - Shopping List: blocks/04-worlds-kitchens/41-42-middle-eastern/shopping-list.md
     - "Block 43–44: SE Asian Review":
-      - Full Guide: weeks/04-worlds-kitchens/43-44-southeast-asian-review/index.md
-      - Quick Reference: weeks/04-worlds-kitchens/43-44-southeast-asian-review/quick-ref.md
-      - Shopping List: weeks/04-worlds-kitchens/43-44-southeast-asian-review/shopping-list.md
+      - Full Guide: blocks/04-worlds-kitchens/43-44-southeast-asian-review/index.md
+      - Quick Reference: blocks/04-worlds-kitchens/43-44-southeast-asian-review/quick-ref.md
+      - Shopping List: blocks/04-worlds-kitchens/43-44-southeast-asian-review/shopping-list.md
 
   - "Unit 5 — Mastery & Pastry":
-    - Overview: weeks/05-mastery-and-pastry/README.md
+    - Overview: blocks/05-mastery-and-pastry/README.md
     - "Block 45–46: Bread":
-      - Full Guide: weeks/05-mastery-and-pastry/45-46-bread/index.md
-      - Quick Reference: weeks/05-mastery-and-pastry/45-46-bread/quick-ref.md
-      - Shopping List: weeks/05-mastery-and-pastry/45-46-bread/shopping-list.md
+      - Full Guide: blocks/05-mastery-and-pastry/45-46-bread/index.md
+      - Quick Reference: blocks/05-mastery-and-pastry/45-46-bread/quick-ref.md
+      - Shopping List: blocks/05-mastery-and-pastry/45-46-bread/shopping-list.md
     - "Block 47–50: Pastry & Desserts":
-      - Full Guide: weeks/05-mastery-and-pastry/47-48-pastry/index.md
-      - Quick Reference: weeks/05-mastery-and-pastry/47-48-pastry/quick-ref.md
-      - Shopping List: weeks/05-mastery-and-pastry/47-48-pastry/shopping-list.md
+      - Full Guide: blocks/05-mastery-and-pastry/47-48-pastry/index.md
+      - Quick Reference: blocks/05-mastery-and-pastry/47-48-pastry/quick-ref.md
+      - Shopping List: blocks/05-mastery-and-pastry/47-48-pastry/shopping-list.md
     - "Block 49–50: Signature Dishes":
-      - Full Guide: weeks/05-mastery-and-pastry/49-50-signature-dishes/index.md
-      - Quick Reference: weeks/05-mastery-and-pastry/49-50-signature-dishes/quick-ref.md
-      - Shopping List: weeks/05-mastery-and-pastry/49-50-signature-dishes/shopping-list.md
+      - Full Guide: blocks/05-mastery-and-pastry/49-50-signature-dishes/index.md
+      - Quick Reference: blocks/05-mastery-and-pastry/49-50-signature-dishes/quick-ref.md
+      - Shopping List: blocks/05-mastery-and-pastry/49-50-signature-dishes/shopping-list.md
     - "Block 51–52: Final Exam":
-      - Full Guide: weeks/05-mastery-and-pastry/51-52-final-exam/index.md
-      - Quick Reference: weeks/05-mastery-and-pastry/51-52-final-exam/quick-ref.md
-      - Shopping List: weeks/05-mastery-and-pastry/51-52-final-exam/shopping-list.md
+      - Full Guide: blocks/05-mastery-and-pastry/51-52-final-exam/index.md
+      - Quick Reference: blocks/05-mastery-and-pastry/51-52-final-exam/quick-ref.md
+      - Shopping List: blocks/05-mastery-and-pastry/51-52-final-exam/shopping-list.md
