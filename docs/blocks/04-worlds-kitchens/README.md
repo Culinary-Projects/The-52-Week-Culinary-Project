@@ -59,4 +59,4 @@ See the [Kitchen Equipment Guide](../../equipment-guide.md). New items introduce
 ---
 
 *Previous module: [Module 3 — The Proteins](../03-the-proteins/README.md) (Blocks 17–28)*
-*Next module: [Module 5 — Mastery & Pastry](../05-mastery-and-pastry/README.md) (Blocks 45–56)*
+*Next module: [Module 5 — Mastery & Pastry](../05-mastery-and-pastry/README.md) (Blocks 45–52)*
