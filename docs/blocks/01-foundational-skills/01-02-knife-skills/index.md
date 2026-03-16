@@ -45,7 +45,7 @@ The prep is simple — garlic and parsley — which lets you focus entirely on y
 
 The onion is handled separately: halve it through the root, press it cut-side down into a dry, screaming-hot pan (no oil) until deeply charred — nearly black. That char goes straight into the broth and gives it color and depth. It's a different technique from dicing and worth doing intentionally.
 
-**Full Meal:** [The Best Chicken Noodle Soup](https://www.seriouseats.com/the-ultimate-chicken-noodle-soup)
+**⏰ Full Meal:** [The Best Chicken Noodle Soup](https://www.seriouseats.com/the-ultimate-chicken-noodle-soup)
 
 The recipe only uses charred onion for the stock — carrot and celery aren't in it. Your diced carrot and celery go straight into the soup for the last 10 minutes. The recipe doesn't call for them but they belong there, and the soup is better for it.
 
