@@ -16,18 +16,14 @@ Kenji's article on [wok hei](https://www.seriouseats.com/wok-skills-101-how-to-s
 
 ---
 
-## Before Every Block: Use the Pre-Start File
+## Before Every Block: Read Before You Shop
 
-In your local `private/pre-start/` folder there's a checklist for every two-week block. Fill it out before you shop.
+Before shopping for a new block, open that block's `index.md` and skim the whole two weeks. It takes 15 minutes and catches problems that would otherwise surface mid-cook on a Wednesday night:
 
-It takes 15 minutes and catches problems that would otherwise surface mid-cook on a Wednesday night:
-
-- Links that don't load
 - Recipes that need overnight prep you didn't plan for
-- Hard-to-source ingredients
+- Hard-to-source ingredients worth substituting in advance
 - Sessions that won't fit your schedule as written
-
-**Send the filled-out file to Claude before you start.** Any issues — misaligned recipes, timing problems, broken links — get fixed before they become your problem.
+- Links you want to read before the session, not during it
 
 ---
 
@@ -71,9 +67,7 @@ Your notes app is fine. A text file is fine. The format doesn't matter. The habi
 
 ## Your Progress Log (If You've Forked This)
 
-The `progress/` folder at the root of the repo is for you. After each block, copy `template-block.md`, fill in what you cooked and what clicked, and commit it to your fork. It's public — which is the point.
-
-This is deliberately lighter than the `private/` structure used for detailed cook notes and curriculum edits. The progress log is shareable: a record of your actual journey that others can follow.
+The `progress/` folder at the root of the repo is for you. After each block, copy `template-block.md`, fill in what you cooked and what clicked, and commit it to your fork. It's public — which is the point. A record of your actual journey that others can follow.
 
 ---
 
@@ -88,7 +82,7 @@ The sessions that go wrong teach more than the ones that go right — but only i
 - Was the timing unrealistic for a weeknight?
 - Is the recipe wrong, or was I?
 
-Write it in the cook log for that block (`private/` folder, local only). At the end of the block, send it to Claude. The curriculum adjusts.
+Write down what you think went wrong. Even a single sentence before you move on is enough to get the insight to stick.
 
 ---
 
@@ -102,20 +96,6 @@ Do the blocks in order. Skip a session if life happens — that's fine — but d
 
 ---
 
-## Using Claude Throughout
-
-Claude is a tool you can use at any point in the program, not just at the start:
-
-| When | What to send | What Claude does |
-|------|-------------|-----------------|
-| **Before a block** | Your filled-out `pre-start/` file | Fixes links, scheduling conflicts, alignment issues |
-| **After a block** | Your filled-out `private/` cook log | Updates the index, rebalances timing, improves recipes |
-| **Mid-session** | A question ("my beurre blanc broke — what happened?") | Explains the failure mode and how to prevent it |
-| **Anytime** | A substitution question, a sourcing problem, a "what does this recipe actually mean" | Answers in context of where you are in the program |
-
-The program is a living document. Your feedback makes it better. Use it.
-
----
 
 ## The Mindset That Makes This Work
 
@@ -124,10 +104,5 @@ You already cook. The goal isn't to teach you to follow recipes — it's to chan
 - **Reading** the linked articles (not skimming them)
 - **Noticing** what's happening in the pan, not just watching the timer
 - **Writing** three sentences on Sunday even when it feels unnecessary
-- **Sending** your feedback so the program adapts to you
 
 The recipes are the vehicle. The reading, the reflection, and the repetition are the program.
-
----
-
-*Questions? Something not working? Something that could be better? Fill in the feedback file and send it. That's what it's for.*

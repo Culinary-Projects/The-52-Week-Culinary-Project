@@ -1,8 +1,6 @@
 # My Progress Log
 
-A public-friendly cook log for your own fork of this project.
-
-**Unlike `private/`**, this folder is meant to be shareable — a record of what you cooked, what you learned, and how far along you are. Keep it in your public fork so others can follow along.
+A cook log for your own fork of this project. Fill it in as you go — a record of what you cooked, what you learned, and how far you've come. Keep it in your public fork so others can follow along.
 
 ---
 
@@ -15,17 +13,6 @@ For each two-week block you complete:
 3. Commit and push (`git add progress/ && git commit -m "W01-02: add block log" && git push`)
 
 That's it. Your log grows with you.
-
----
-
-## What goes here vs. what goes in `private/`
-
-| | `progress/` (public) | `private/` (private submodule) |
-|---|---|---|
-| **Audience** | Anyone who visits your fork | Just you (and Claude) |
-| **Content** | Milestones, dishes cooked, skills gained | Detailed reflections, curriculum critiques, cook notes, photos |
-| **Format** | Short, clean, shareable | Long, honest, specific |
-| **Used for** | Showing your journey | Improving the curriculum |
 
 ---
 
