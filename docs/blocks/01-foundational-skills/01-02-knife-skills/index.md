@@ -55,7 +55,7 @@ The recipe only uses charred onion for the stock — carrot and celery aren't in
 |-----------|--------|
 | Protein | Chicken breast — poach in the broth (or sous vide if you have one), then dice |
 | Veg | Onion (charred, per recipe) into the stock; your diced carrot and celery into the soup for last 10 minutes |
-| Starch | Egg noodles, cooked seperately |
+| Starch | Orchetta, cooked seperately |
 
 > 🎥 **Compare Notes:** [Knife Skills: How to Slice and Dice an Onion](https://www.youtube.com/watch?v=BuebC0CfD8E) · [How to Make Chicken Noodle Soup](https://www.youtube.com/watch?v=cR36DqjOvig) — Watch the knife video for the claw grip in real time at speed. The soup video shows a completely different approach to the same dish — both are worth thinking about.
 

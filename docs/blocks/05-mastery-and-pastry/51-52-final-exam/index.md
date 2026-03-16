@@ -445,7 +445,7 @@ The only rule: once anything goes on heat, no tabs open.
 
 ### Skills Checklist
 
-After completing the full 56-week curriculum, you should be able to answer yes to all of these:
+After completing the full 52-week curriculum, you should be able to answer yes to all of these:
 
 - [ ] I can make bread from scratch — sourdough or yeasted — and understand what the dough is telling me at each stage
 - [ ] I understand how fat and sugar behave in pastry differently from savory cooking, and I can apply that understanding without a recipe

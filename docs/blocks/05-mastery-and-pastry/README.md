@@ -15,8 +15,8 @@ By the end of Block 52, you will have completed a full professional-level culina
 |-------|-------|------------|-----------|---------------|
 | 45–46 | Bread — Fundamentals | [→ Guide](45-46-bread/index.md) | [→ Quick Ref](45-46-bread/quick-ref.md) | [→ Shopping](45-46-bread/shopping-list.md) |
 | 47–48 | Pastry | [→ Guide](47-48-pastry/index.md) | [→ Quick Ref](47-48-pastry/quick-ref.md) | [→ Shopping](47-48-pastry/shopping-list.md) |
-| 51–52 | Your Signature Dishes | [→ Guide](49-50-signature-dishes/index.md) | [→ Quick Ref](49-50-signature-dishes/quick-ref.md) | [→ Shopping](49-50-signature-dishes/shopping-list.md) |
-| 55–56 | Module 5 Capstone: The Final Exam | [→ Guide](51-52-final-exam/index.md) | [→ Quick Ref](51-52-final-exam/quick-ref.md) | [→ Shopping](51-52-final-exam/shopping-list.md) |
+| 49–50 | Your Signature Dishes | [→ Guide](49-50-signature-dishes/index.md) | [→ Quick Ref](49-50-signature-dishes/quick-ref.md) | [→ Shopping](49-50-signature-dishes/shopping-list.md) |
+| 51–52 | Module 5 Capstone: The Final Exam | [→ Guide](51-52-final-exam/index.md) | [→ Quick Ref](51-52-final-exam/quick-ref.md) | [→ Shopping](51-52-final-exam/shopping-list.md) |
 
 ---
 
@@ -56,7 +56,7 @@ See the [Kitchen Equipment Guide](../../equipment-guide.md). New items introduce
 | Large roasting pan (for bain-marie) | Block 49 |
 | Springform pan (optional) | Block 49 |
 | Whetstone | Block 51 |
-| Multiple-channel timer | Block 53 |
+| Multiple-channel timer | Block 51 |
 
 ---
 
@@ -64,4 +64,4 @@ See the [Kitchen Equipment Guide](../../equipment-guide.md). New items introduce
 
 ---
 
-*Congratulations on completing the 56-Week Culinary Project. You cooked.*
+*Congratulations on completing the 52-Week Culinary Project. You cooked.*
