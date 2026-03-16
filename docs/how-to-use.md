@@ -18,7 +18,7 @@ Kenji's article on [wok hei](https://www.seriouseats.com/wok-skills-101-how-to-s
 
 ## Before Every Block: Use the Pre-Start File
 
-In your local `feedback/pre-start/` folder there's a checklist for every two-week block. Fill it out before you shop.
+In your local `private/pre-start/` folder there's a checklist for every two-week block. Fill it out before you shop.
 
 It takes 15 minutes and catches problems that would otherwise surface mid-cook on a Wednesday night:
 
@@ -69,6 +69,14 @@ Your notes app is fine. A text file is fine. The format doesn't matter. The habi
 
 ---
 
+## Your Progress Log (If You've Forked This)
+
+The `progress/` folder at the root of the repo is for you. After each block, copy `template-block.md`, fill in what you cooked and what clicked, and commit it to your fork. It's public — which is the point.
+
+This is deliberately lighter than the `private/` structure used for detailed cook notes and curriculum edits. The progress log is shareable: a record of your actual journey that others can follow.
+
+---
+
 ## When You Mess Something Up
 
 You will burn something. You will break an emulsion. You will undercook a braise and eat at 9pm. This is correct.
@@ -80,7 +88,7 @@ The sessions that go wrong teach more than the ones that go right — but only i
 - Was the timing unrealistic for a weeknight?
 - Is the recipe wrong, or was I?
 
-Write it in the feedback log for that block (`feedback/` folder, local only). At the end of the block, send it to Claude. The curriculum adjusts.
+Write it in the cook log for that block (`private/` folder, local only). At the end of the block, send it to Claude. The curriculum adjusts.
 
 ---
 
@@ -101,7 +109,7 @@ Claude is a tool you can use at any point in the program, not just at the start:
 | When | What to send | What Claude does |
 |------|-------------|-----------------|
 | **Before a block** | Your filled-out `pre-start/` file | Fixes links, scheduling conflicts, alignment issues |
-| **After a block** | Your filled-out `feedback/` file | Updates the index, rebalances timing, improves recipes |
+| **After a block** | Your filled-out `private/` cook log | Updates the index, rebalances timing, improves recipes |
 | **Mid-session** | A question ("my beurre blanc broke — what happened?") | Explains the failure mode and how to prevent it |
 | **Anytime** | A substitution question, a sourcing problem, a "what does this recipe actually mean" | Answers in context of where you are in the program |
 
