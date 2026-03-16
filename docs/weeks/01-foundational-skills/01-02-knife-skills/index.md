@@ -66,7 +66,7 @@ Shrimp scampi is built almost entirely on well-minced garlic and parsley. Your d
 | Component | Recipe |
 |-----------|--------|
 | Protein | Shrimp, sautéed in garlic butter and white wine |
-| Veg | [Burst Cherry Tomatoes with Garlic and Olive Oil](https://www.seriouseats.com/fast-easy-pasta-blistered-cherry-tomato-sauce-recipe) — toss with a little pasta water and lemon |
+| Veg/Salad | [Arugula, Fennel & Orange Salad](https://www.seriouseats.com/arugula-fennel-and-orange-salad-recipe) |
 | Starch | Crusty bread or linguine |
 
 > 🎥 **Compare Notes:** [Knife Skills: How to Mince Shallots](https://www.youtube.com/watch?v=3pPU_9dkCFw) — Shallots, garlic, parsley — same motions, different ingredient. Watch how he uses the rock chop and push cut interchangeably depending on the task.
@@ -191,14 +191,14 @@ While you have your knife out: grab a small handful of fresh basil leaves. Stack
 
 **Skill:** Buy a whole chicken. Read [How to Break Down a Chicken](https://www.seriouseats.com/knife-skills-how-to-break-down-a-chicken) first, then do it. You'll get two bone-in breasts, two thighs, two drumsticks, two wings, and a carcass. **Put the carcass in a zip-lock in the freezer — that's Week 7 stock material.** Follow the joints, not the bones. Let the knife find the natural seams.
 
-**Full Meal:** [Chicken Piccata](https://www.seriouseats.com/chicken-piccata-italian-fried-cutlet-recipe) (use the breasts) + [Simple Arugula Salad](https://www.seriouseats.com/fennel-orange-and-roasted-pepper-arugula-salad-recipe)
+**Full Meal:** [Chicken Piccata](https://www.seriouseats.com/chicken-piccata-italian-fried-cutlet-recipe) (use the breasts) + [Burst Cherry Tomatoes](https://www.seriouseats.com/fast-easy-pasta-blistered-cherry-tomato-sauce-recipe)
 
 The thighs and legs go in the fridge (use them Friday) or freeze for later. Nothing wasted.
 
 | Component | Recipe |
 |-----------|--------|
 | Protein | Chicken piccata using the breasts you broke down |
-| Veg/Salad | Arugula with shaved parmesan and lemon vinaigrette |
+| Veg | [Burst Cherry Tomatoes with Garlic and Olive Oil](https://www.seriouseats.com/fast-easy-pasta-blistered-cherry-tomato-sauce-recipe) |
 | Starch | Buttered egg noodles or mashed potatoes |
 
 > 🎥 **Compare Notes:** [POV How to Break Down a Chicken](https://www.youtube.com/watch?v=9FHHmx6kDGc) · [28-Second Chicken Breakdown](https://www.youtube.com/shorts/Oa_VmoJSX1c) — Watch the full POV version before you start. The short shows what the motion looks like fully internalized. You'll get somewhere between the two.

@@ -30,7 +30,9 @@
 - [ ] Carrots — 4 (soup + mirepoix)
 - [ ] Celery — 1 bunch (soup)
 - [ ] Baby spinach — 5 oz bag (Week 1 Mon pasta + salads)
-- [ ] Arugula — 2 bags (Week 1 Wed + Week 2 Wed salad)
+- [ ] Arugula — 1 bag (Week 1 Wed salad)
+- [ ] Fennel — 1 bulb (Week 1 Wed salad)
+- [ ] Orange — 1 (Week 1 Wed salad)
 - [ ] Broccoli — 1 head (Week 1 Fri)
 - [ ] Garlic — 2 heads (multiple uses all week)
 - [ ] Lemon — 3 (Week 1 Wed + Wed pasta + salad dressings)
@@ -38,6 +40,7 @@
 
 **Week 2:**
 
+- [ ] Cherry tomatoes — 1 pint (Week 2 Wed piccata side)
 - [ ] Russet or Yukon Gold potatoes — 2 lbs (Week 2 Tue home fries)
 - [ ] Red bell peppers — 2 (Week 2 Tue home fries)
 - [ ] Zucchini — 2 medium (Week 2 Sat tian)
