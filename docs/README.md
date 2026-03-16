@@ -4,8 +4,6 @@
 
 ---
 
-**Your Schedule:** Monday · Tuesday · Wednesday · Friday cook | **Saturday** = Big Project
-
 **Philosophy:** Every session layers a professional skill into a meal you'd be cooking anyway. Skills compound. Confidence grows.
 
 ---
@@ -70,7 +68,7 @@ Each 2-week block has **three files**:
 | Blocks | Topic | Full Guide | Quick Ref | Shopping List |
 |-------|-------|------------|-----------|---------------|
 | 45–46 | Bread — Fundamentals | [→ Guide](blocks/05-mastery-and-pastry/45-46-bread/index.md) | [→ Quick Ref](blocks/05-mastery-and-pastry/45-46-bread/quick-ref.md) | [→ Shopping](blocks/05-mastery-and-pastry/45-46-bread/shopping-list.md) |
-| 47–50 | Pastry & Desserts | [→ Guide](blocks/05-mastery-and-pastry/47-48-pastry/index.md) | [→ Quick Ref](blocks/05-mastery-and-pastry/47-48-pastry/quick-ref.md) | [→ Shopping](blocks/05-mastery-and-pastry/47-48-pastry/shopping-list.md) |
+| 47–48 | Pastry & Desserts | [→ Guide](blocks/05-mastery-and-pastry/47-48-pastry/index.md) | [→ Quick Ref](blocks/05-mastery-and-pastry/47-48-pastry/quick-ref.md) | [→ Shopping](blocks/05-mastery-and-pastry/47-48-pastry/shopping-list.md) |
 | 49–50 | Your Signature Dishes | [→ Guide](blocks/05-mastery-and-pastry/49-50-signature-dishes/index.md) | [→ Quick Ref](blocks/05-mastery-and-pastry/49-50-signature-dishes/quick-ref.md) | [→ Shopping](blocks/05-mastery-and-pastry/49-50-signature-dishes/shopping-list.md) |
 | 51–52 | Module 5 Capstone: Menus, Timing & The Final Exam | [→ Guide](blocks/05-mastery-and-pastry/51-52-final-exam/index.md) | [→ Quick Ref](blocks/05-mastery-and-pastry/51-52-final-exam/quick-ref.md) | [→ Shopping](blocks/05-mastery-and-pastry/51-52-final-exam/shopping-list.md) |
 
@@ -83,7 +81,7 @@ Each 2-week block has **three files**:
 | **The Skill** | One technique practiced with intention |
 | **The Meal** | A complete dinner built around that skill — protein + veg + starch (or salad) |
 | **The Read** | A short article that explains the *why* behind what you cooked |
-| **Saturday Project** | A bigger cook that makes the week's skills visible |
+| **Project Meal** | A bigger cook at the end of each block that makes the skills visible |
 
 ---
 
