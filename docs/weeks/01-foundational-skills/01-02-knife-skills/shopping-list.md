@@ -29,7 +29,7 @@
 
 - [ ] Yellow onions — 7 large (1 for soup stock, charred + 5–6 for French onion soup — they cook down to almost nothing)
 - [ ] Carrots — 6 (4 for Week 1 soup claw-grip drill + 2 reserved for Week 2 Mon julienne drill)
-- [ ] Celery — 1 bunch (soup)
+- [ ] Celery — 1 bunch (2–3 stalks for Week 1 Tue claw-grip drill; remainder available for stock/other uses)
 - [ ] Baby spinach — 5 oz bag (Week 1 Mon pasta)
 - [ ] Arugula — 1 bag (Week 1 Wed salad)
 - [ ] Fennel — 1 bulb (Week 1 Wed salad)

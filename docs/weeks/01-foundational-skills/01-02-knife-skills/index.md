@@ -39,7 +39,7 @@ The prep is simple — garlic and parsley — which lets you focus entirely on y
 
 ### Tuesday — The Claw
 
-**Skill:** Before touching the stove, take one carrot and one celery stalk. Practice the claw grip — fingers curled, knuckles as the guide rail for the blade. Keep the tip of the blade in contact with the board, pull back slightly until the blade slices in, then press down and forward using the full length of the blade. Dice both into rough ½" pieces. Time yourself. Don't worry about speed yet — worry about uniformity.
+**Skill:** Before touching the stove, take 2–3 carrots and 2–3 celery stalks. Practice the claw grip — fingers curled, knuckles as the guide rail for the blade. Keep the tip of the blade in contact with the board, pull back slightly until the blade slices in, then press down and forward using the full length of the blade. Dice everything into rough ½" pieces. Time yourself. Don't worry about speed yet — worry about uniformity. You want enough cuts to feel the motion start to settle.
 
 The onion is handled separately: halve it through the root, press it cut-side down into a dry, screaming-hot pan (no oil) until deeply charred — nearly black. That char goes straight into the broth and gives it color and depth. It's a different technique from dicing and worth doing intentionally.
 
