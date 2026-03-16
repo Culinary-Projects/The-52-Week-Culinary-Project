@@ -4,6 +4,9 @@
 
 ---
 
+> ⚗️ **Experimental** — This block has not yet been cooked through by the author.
+> Content is draft; recipes and timing are untested.
+
 > *"Making pasta from scratch is not about showing off. It's about understanding gluten, hydration, and the relationship between flour and time — which teaches you more about cooking than any recipe."*
 
 **The Block 11–12 philosophy:** These two weeks are about making things from scratch that most people buy. Not because scratch is always better — it isn't always — but because understanding the process makes you a better cook with even the store-bought version. When you've made your own pasta dough, you know what "properly hydrated" feels like and why overworked dough turns tough. That knowledge transfers everywhere.

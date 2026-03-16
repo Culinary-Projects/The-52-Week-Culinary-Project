@@ -6,6 +6,9 @@
 
 ---
 
+> ⚗️ **Experimental** — This block has not yet been cooked through by the author.
+> Content is draft; recipes and timing are untested.
+
 ## Before You Start Block 1
 
 Read these first — they'll make every session click:
