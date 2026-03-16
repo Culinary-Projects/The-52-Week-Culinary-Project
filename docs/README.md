@@ -6,6 +6,8 @@
 
 **Philosophy:** Every session layers a professional skill into a meal you'd be cooking anyway. Skills compound. Confidence grows.
 
+**Pace:** The program is designed to run across 52 weeks — one 2-week block at a time. But life happens. Each block is self-contained, so you can take a week off between blocks, double up when you're on a roll, or revisit a block before moving on. The 52-week target is the intent, not a deadline.
+
 ---
 
 ## How to Use This
@@ -28,7 +30,7 @@ Each 2-week block has **three files**:
 | 1–2 | Knife Skills & Kitchen Setup | [→ Guide](blocks/01-foundational-skills/01-02-knife-skills/index.md) | [→ Quick Ref](blocks/01-foundational-skills/01-02-knife-skills/quick-ref.md) | [→ Shopping](blocks/01-foundational-skills/01-02-knife-skills/shopping-list.md) |
 | 3–4 | Heat & Cooking Methods | [→ Guide](blocks/01-foundational-skills/03-04-heat-and-cooking/index.md) | [→ Quick Ref](blocks/01-foundational-skills/03-04-heat-and-cooking/quick-ref.md) | [→ Shopping](blocks/01-foundational-skills/03-04-heat-and-cooking/shopping-list.md) |
 | 5–6 | The 5 Mother Sauces | [→ Guide](blocks/01-foundational-skills/05-06-mother-sauces/index.md) | [→ Quick Ref](blocks/01-foundational-skills/05-06-mother-sauces/quick-ref.md) | [→ Shopping](blocks/01-foundational-skills/05-06-mother-sauces/shopping-list.md) |
-| 7–8 | Stocks & Eggs | [→ Guide](blocks/01-foundational-skills/07-08-stocks-and-eggs/index.md) | [→ Quick Ref](blocks/01-foundational-skills/07-08-stocks-and-eggs/quick-ref.md) | [→ Shopping](blocks/01-foundational-skills/07-08-stocks-and-eggs/shopping-list.md) |
+| 7–8 | Module 1 Capstone: Stocks & Eggs | [→ Guide](blocks/01-foundational-skills/07-08-stocks-and-eggs/index.md) | [→ Quick Ref](blocks/01-foundational-skills/07-08-stocks-and-eggs/quick-ref.md) | [→ Shopping](blocks/01-foundational-skills/07-08-stocks-and-eggs/shopping-list.md) |
 
 ### 🧂 [Building Flavor](blocks/02-building-flavor/README.md) (Blocks 9–16)
 
