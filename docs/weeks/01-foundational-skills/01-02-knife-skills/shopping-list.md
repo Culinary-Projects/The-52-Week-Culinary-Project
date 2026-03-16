@@ -37,15 +37,15 @@
 - [ ] Broccoli — 1 head (Week 1 Fri stir-fry)
 - [ ] Garlic — 3 heads (multiple uses throughout both weeks)
 - [ ] Lemon — 4 (Week 1 Wed scampi + salad + piccata + dressings)
-- [ ] Lime — 1 (Week 2 Mon Pad Thai)
 - [ ] Fresh ginger — 2-inch knob (Week 1 Fri stir-fry)
 - [ ] Fresh thyme — 1 bunch (French onion soup)
 - [ ] Fresh flat-leaf parsley — 1 bunch (Week 1 Wed scampi, garnishes throughout)
-- [ ] Fresh rosemary — 1 small bunch (Week 2 Tue pan-seared chicken)
 
 **Week 2:**
 
 - [ ] Cherry tomatoes — 1 pint (Week 2 Wed piccata side / pasta sauce)
+- [ ] Lime — 1 (Week 2 Mon Pad Thai)
+- [ ] Fresh rosemary — 1 small bunch (Week 2 Tue pan-seared chicken)
 - [ ] Russet or Yukon Gold potatoes — 2 lbs (Week 2 Tue home fries + dice drill)
 - [ ] Red bell peppers — 2 (Week 2 Tue home fries)
 - [ ] Poblano pepper — 1 (Week 2 Tue home fries — the SE recipe uses it)
