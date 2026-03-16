@@ -46,6 +46,7 @@ The roasting step is optional but worth it: it caramelizes the squash and adds d
 > **The professional difference between good and great purée soup:** Seasoning at every stage (the aromatics, the stock, and the final adjust), and texture — it should be silky enough to coat a spoon without being so thick it's porridge. Strain it through a fine mesh sieve if it isn't smooth enough after blending.
 
 📖 **Also read:** [How to Make Restaurant-Quality Stock at Home](https://www.seriouseats.com/pressure-cooker-chicken-stock-recipe)
+
 ---
 
 ## Block 7 — Stocks & Broths

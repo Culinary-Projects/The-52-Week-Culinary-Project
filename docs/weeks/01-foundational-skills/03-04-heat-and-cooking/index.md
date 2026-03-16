@@ -16,6 +16,26 @@ Read this first:
 
 ---
 
+### Food Safety Fundamentals
+
+This block is the first time you'll cook raw protein directly — sautéed chicken, seared beef, braised cuts. Read this before Session 1.
+
+The four things every cook must know:
+
+1. **The danger zone is 40°F–140°F (4°C–60°C).** Bacteria multiply rapidly in this range. Cooked food left at room temperature should not spend more than 2 hours in the danger zone — shorter in a warm kitchen. If you can't serve it within 2 hours, refrigerate it.
+
+2. **Cross-contamination is the most common home kitchen mistake.** Raw poultry, beef, pork, and seafood carry bacteria. They should never touch anything that will be eaten raw — cutting boards, counters, hands, knife blades. Use separate boards for raw protein and produce, or wash and sanitize between tasks.
+
+3. **Cool stocks and braises safely.** A large pot of hot stock cools slowly through the danger zone. Don't put a hot pot directly in the fridge (it raises the ambient temperature and endangers everything else). Transfer to a wide, shallow container, ice bath it until it's below 70°F within 2 hours, then refrigerate. Improper cooling is the most common cause of home stock contamination.
+
+4. **Internal temperatures are not optional suggestions.** Poultry must reach 165°F. Pork at least 145°F. Ground beef 160°F. Whole-muscle beef steaks can be cooked lower because bacteria live on the surface and are killed by the sear — knowing *why* these numbers differ is as useful as knowing the numbers.
+
+📖 **Read:** [Safe Food Handling: What You Need to Know](https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling-what-you-need-know) — danger zones, safe storage, cross-contamination. 10 minutes.
+
+> **The professional standard:** CIA students spend their first week on food safety before they touch a hot stove. You're about to cook your first proteins. A cook who knows safe temperatures isn't being paranoid — they're being professional.
+
+---
+
 ## Block 3 — Dry Heat: The Maillard Reaction Is Your Best Friend
 
 > ⏰ **Planning Ahead**
