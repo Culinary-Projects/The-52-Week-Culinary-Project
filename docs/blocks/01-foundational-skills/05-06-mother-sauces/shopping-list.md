@@ -11,6 +11,7 @@
 ## 🥩 Proteins
 
 **Block 5:**
+
 - [ ] Ground beef — 1 lb (Bolognese + moussaka)
 - [ ] Ground pork — ½ lb (Bolognese — adds richness; can sub with all beef)
 - [ ] Pancetta or guanciale — 4 oz (Bolognese)
@@ -19,6 +20,7 @@
 - [ ] Ground lamb (or more beef) — 1 lb (moussaka meat layer)
 
 **Block 6:**
+
 - [ ] Canadian bacon (back bacon) — 8 slices (Block 6 Eggs Benedict)
 - [ ] Lobster (pre-cooked) or large shrimp — 1 lb meat (Block 6 seafood roll)
 - [ ] Salmon fillets — 2 pieces (Block 6 Niçoise)
@@ -31,6 +33,7 @@
 ## 🥦 Produce
 
 **Block 5:**
+
 - [ ] Eggplant — 2 large (moussaka — salt and drain before using)
 - [ ] Potatoes (Yukon Gold) — 4 lbs (2 lbs for moussaka base layer + 2 lbs for Block 5 creamy mashed potatoes)
 - [ ] Carrots — 3 (Bolognese mirepoix + pot pie)
@@ -46,6 +49,7 @@
 - [ ] Romaine lettuce — 2 hearts (Caesar salad)
 
 **Block 6:**
+
 - [ ] Watercress — 2 bunches (Block 6)
 - [ ] Green cabbage — ½ head (coleslaw)
 - [ ] Carrots — 2 (coleslaw)

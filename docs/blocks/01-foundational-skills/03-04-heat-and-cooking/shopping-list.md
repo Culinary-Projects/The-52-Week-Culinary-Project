@@ -11,12 +11,14 @@
 ## 🥩 Proteins
 
 **Block 3:**
+
 - [ ] Boneless, skinless chicken breasts — 4 pieces (Block 3)
 - [ ] Bone-in, skin-on chicken thighs — 6 pieces (Block 3 sheet pan + braise)
 - [ ] Salmon fillets (skin-on) — 2 pieces (Block 3 poached)
 - [ ] Whole chicken — 1 large (Block 3 spatchcocked roast)
 
 **Block 4:**
+
 - [ ] Ribeye or NY strip steaks — 2 (Block 4, 1–1.5" thick — don't go thin)
 - [ ] Salmon fillets (skin-on) — 4 pieces (Block 4 seared + broiled/miso)
 - [ ] Bone-in beef short ribs — 3–4 lbs (Block 4 PROJECT — buy early, they're expensive; ask the butcher)
@@ -26,6 +28,7 @@
 ## 🥦 Produce
 
 **Block 3:**
+
 - [ ] Zucchini — 3 medium (Block 3 + leftover use)
 - [ ] Bell peppers (red and yellow) — 4 (Block 3 sheet pan + braise)
 - [ ] Onions (yellow) — 4 (braise base, mirepoix)
@@ -39,6 +42,7 @@
 - [ ] Mixed greens — 2 bags (salads)
 
 **Block 4:**
+
 - [ ] Asparagus — 1 bunch (Block 4)
 - [ ] Arugula — 2 bags (Block 4 salad + Block 4)
 - [ ] Fennel — 1 bulb (Block 4 arugula & fennel salad)
