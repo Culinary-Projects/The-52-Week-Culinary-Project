@@ -19,7 +19,7 @@
 
 ---
 
-### Monday — The Dough: Meeting Gluten
+### Session 1 — The Dough: Meeting Gluten
 
 **Skill:** Fresh pasta dough is flour, eggs, and time. The gluten network forms as you knead, the dough becomes elastic, and it needs to rest so the gluten relaxes and becomes rollable. Your job tonight: understand what the dough is telling you at each stage. Too dry — it cracks when folded. Too wet — it sticks and tears. Properly rested — smooth, supple, and cooperative.
 
@@ -36,7 +36,7 @@ Make a basic egg pasta dough. Rest it for 30 minutes. Roll it by hand or with a 
 
 ---
 
-### Tuesday — Ravioli: Pasta as a Vessel
+### Session 2 — Ravioli: Pasta as a Vessel
 
 **Skill:** Stuffed pasta (ravioli, tortellini) requires you to roll the dough thinner than you think and seal the edges properly — no air pockets inside or they burst during cooking. The filling should be firm enough to hold its shape when piped or spooned but wet enough to be creamy when cooked. Tonight: ricotta and herb filling, classic.
 
@@ -51,7 +51,7 @@ Make the same dough from Monday (make it in the morning if you want to save time
 
 ---
 
-### Wednesday — Gnocchi: Potato and Restraint
+### Session 3 — Gnocchi: Potato and Restraint
 
 **Skill:** Potato gnocchi is one of the most unforgiving things in cooking. Too much flour and they're heavy and gluey. Too little and they fall apart in the water. The secret: bake your potatoes (don't boil — water makes them wet and you'll add too much flour), rice them while hot, and handle the dough as little as humanly possible. Overworking develops gluten and makes them tough.
 
@@ -68,15 +68,7 @@ The gnocchi themselves are the project. The sage butter sauce takes 5 minutes. T
 
 ---
 
-### Thursday — OFF
-
-📖 Read: [Serious Eats — How to Cook Pasta Properly: The Complete Guide](https://www.seriouseats.com/how-to-cook-pasta-salt-water-boiling-tips-the-food-lab)
-
-Pay particular attention to the section on pasta water and why it matters for emulsifying sauces. If you're not already saving a cup of pasta water before draining, start tonight.
-
----
-
-### Friday — Pasta Water: The Secret Sauce Ingredient
+### Session 4 — Pasta Water: The Secret Sauce Ingredient
 
 **Skill:** Starchy pasta water is an emulsifier — it helps fat and water-based ingredients bind into a silky, coating sauce rather than separating. Aglio e olio and carbonara both depend on it. Tonight you'll make aglio e olio and notice how dramatically the pasta water changes the sauce.
 
@@ -93,7 +85,7 @@ Aglio e olio is garlic, olive oil, pasta water, pasta, chili flakes, and parsley
 
 ---
 
-### Saturday — PROJECT MEAL: A Full Italian Pasta Dinner
+### Session 5 — PROJECT MEAL: A Full Italian Pasta Dinner
 
 **The challenge:** Three pasta shapes, three sauces, made in one evening. This is how an Italian family Sunday lunch actually works — generous, abundant, and a showcase of everything pasta can do.
 
@@ -116,7 +108,7 @@ Aglio e olio is garlic, olive oil, pasta water, pasta, chili flakes, and parsley
 
 ---
 
-### Monday — Risotto: Patience as Technique
+### Session 6 — Risotto: Patience as Technique
 
 **Skill (revisited with intention):** You made risotto in Week 7 as a vehicle for vegetable stock. This week it's the subject. Risotto is a method — gradual liquid addition, constant encouragement, finishing with cold butter and parmesan off the heat. Tonight: no extra protein, no elaborate sauce. Just risotto made perfectly, to the point where the texture alone is enough.
 
@@ -132,7 +124,7 @@ The soy sauce called for in the Serious Eats mushroom risotto recipe is delibera
 
 ---
 
-### Tuesday — Rice: The World's Most Important Grain
+### Session 7 — Rice: The World's Most Important Grain
 
 **Skill:** Most home cooks treat rice as an afterthought. Tonight it's the focus. You'll cook Persian-style rice with a tahdig crust — the goal is a golden, crispy bottom that releases from the pot in a crown. Too high heat and it burns; too low and it stays soft. This is heat control and patience in one dish.
 
@@ -146,7 +138,7 @@ Tahdig — the crispy rice crust at the bottom of the Persian rice pot — is on
 
 ---
 
-### Wednesday — Polenta: Low and Slow
+### Session 8 — Polenta: Low and Slow
 
 **Skill:** Traditional polenta is not the quick-cook kind. It takes 45–60 minutes of stirring over low heat, adding stock or water gradually as the cornmeal absorbs it. The result is fundamentally different from the 5-minute version — creamier, with a deeper corn flavor and a silky consistency that coats the back of a spoon.
 
@@ -162,15 +154,7 @@ The polenta goes underneath. The braise goes on top. The salad cuts the richness
 
 ---
 
-### Thursday — OFF
-
-📖 Read: [Serious Eats — An Introduction to Grains: How to Shop For, Store, and Cook Every Type](https://www.seriouseats.com/guide-to-whole-grains-ancient-grains-gluten-free-types-of-grains)
-
-Make a mental note of which grains you've never cooked before and add at least one to your Saturday shopping list.
-
----
-
-### Friday — Farro and Grains That Think for Themselves
+### Session 9 — Farro and Grains That Think for Themselves
 
 **Skill:** Unlike risotto, which needs constant attention, farro and other ancient grains (freekeh, barley, bulgur) are largely self-sufficient. The key is seasoning the cooking liquid well and knowing when to stop — farro should be tender but still have chew, never mushy.
 
@@ -184,7 +168,7 @@ The warm farro salad is a full grain side dish. The crispy salmon is the protein
 
 ---
 
-### Saturday — PROJECT MEAL: A Grain-Forward Dinner Party
+### Session 10 — PROJECT MEAL: A Grain-Forward Dinner Party
 
 **The challenge:** Grains as the hero — not the side. This Saturday's dinner could comfortably be served to guests who don't cook, and they would never suspect that every dish was a skills exercise in disguise.
 

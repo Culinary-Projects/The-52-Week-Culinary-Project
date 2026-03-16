@@ -14,7 +14,7 @@
 
 ---
 
-### Monday — Menu Planning
+### Session 1 — Menu Planning
 
 **Skill:** Professional kitchens don't decide what to cook while standing in front of the stove. They plan. Tonight's task: design a 3-course dinner menu for Saturday using only techniques you've learned in Weeks 1–12. Write the menu down. Plan the timing. Make your shopping list.
 
@@ -26,7 +26,7 @@
 
 ---
 
-### Tuesday — Dry Run: The Most Difficult Component
+### Session 2 — Dry Run: The Most Difficult Component
 
 Whatever you identified as the hardest part of Saturday's menu — make it tonight as a dry run. No guests, no pressure. Just you and the technique.
 
@@ -34,7 +34,7 @@ Whatever you identified as the hardest part of Saturday's menu — make it tonig
 
 ---
 
-### Wednesday — Knife Speed Benchmark
+### Session 3 — Knife Speed Benchmark
 
 **Skill:** Time yourself dicing one onion. This is the third benchmark in the program (Week 2 Friday and Week 4 Thursday were the others). Write the time down. You should be measurably faster than Week 2. More importantly: are your cuts more uniform? Speed is the secondary metric. Consistency is the primary one.
 
@@ -48,13 +48,7 @@ Larb requires a lot of fine knife work — fresh herbs, shallots, chili, lemongr
 
 ---
 
-### Thursday — OFF
-
-📖 Re-read your Week 1 Sunday reflection. Then your Week 8 reflection. Write one more paragraph — what has actually changed in how you cook and think about food since Week 1?
-
----
-
-### Friday — Final Prep Day
+### Session 4 — Final Prep Day
 
 Mise en place everything for Saturday's dinner. Every sauce component prepped. Every vegetable cut. Every protein seasoned in advance (if appropriate). Every sauce component thought through. The goal: Saturday service should feel calm and controlled, not frantic and reactive.
 
@@ -62,7 +56,7 @@ Mise en place everything for Saturday's dinner. Every sauce component prepped. E
 
 ---
 
-### Saturday — PROJECT MEAL: The Week 13 Dinner
+### Session 5 — PROJECT MEAL: The Week 13 Dinner
 
 **The cook:** Execute your planned 3-course dinner for at least two guests. No recipes open during service. All techniques drawn from Weeks 1–12.
 
@@ -94,7 +88,7 @@ This is the most important reflection yet. Five questions, five sentences minimu
 
 ---
 
-### Monday — High-Heat Whole-Bird Roast
+### Session 6 — High-Heat Whole-Bird Roast
 
 **Skill:** The classic high-heat roast — 450°F, bird dry-brined overnight, no basting. This produces crackling skin and juicy meat if you understand why: the high heat cooks so fast it dries the surface before the interior overcooks. A chicken at high heat is not an accident. It's physics.
 
@@ -110,7 +104,7 @@ This is the most important reflection yet. Five questions, five sentences minimu
 
 ---
 
-### Tuesday — Spatchcock: Why It Changes Everything
+### Session 7 — Spatchcock: Why It Changes Everything
 
 **Skill:** Remove the backbone (kitchen shears, one firm cut down each side). Flatten the bird. Now roast it. Spatchcocking flattens the breast-to-thigh thickness differential — which is the single reason whole birds are so hard to cook to uniform doneness. When both parts hit the sheet pan at the same level, they cook much more evenly.
 
@@ -125,7 +119,7 @@ This is the most important reflection yet. Five questions, five sentences minimu
 
 ---
 
-### Wednesday — Braised Poultry: Coq au Vin
+### Session 8 — Braised Poultry: Coq au Vin
 
 **Skill:** Braising breaks the poultry rules deliberately. Low and slow in liquid. The collagen in the legs and thighs converts to gelatin, creating body in the sauce that doesn't exist after a quick sear. This is why drumsticks and thighs are better braised and breasts are better roasted — they're different muscles with different fat and collagen content.
 
@@ -140,13 +134,7 @@ This is the most important reflection yet. Five questions, five sentences minimu
 
 ---
 
-### Thursday — OFF
-
-📖 Rest. Or read: what's the difference between a braise and a stew? What does gelatin actually do to a sauce's texture? (Think back to your stock week — how did chilled stock behave?) Let the coq au vin from Wednesday's leftovers teach you how a braise improves overnight.
-
----
-
-### Friday — Pan-Seared Chicken Breast + Pan Sauce
+### Session 9 — Pan-Seared Chicken Breast + Pan Sauce
 
 **Skill:** The hardest everyday cook: a chicken breast at exactly the right temperature, seared in a pan, with a pan sauce built from the fond. Two proteins in two weeks — Monday's whole bird and tonight's breast — show you how different the same animal can be when you change the cut and the method.
 
@@ -159,7 +147,7 @@ This is the most important reflection yet. Five questions, five sentences minimu
 
 ---
 
-### Saturday — PROJECT: Duck Confit
+### Session 10 — PROJECT: Duck Confit
 
 **Skill:** Confit is patience-based cooking. Duck legs cured overnight in salt and aromatics, then slow-cooked in their own fat (or olive oil, which works fine) for 2–3 hours at 200°F. The result is impossibly tender, deeply flavorful meat that also crisp-skins beautifully when you finish it in a hot pan.
 

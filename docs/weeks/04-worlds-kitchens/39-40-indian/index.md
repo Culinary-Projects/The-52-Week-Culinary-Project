@@ -14,7 +14,7 @@ The first Indian week focuses on three foundational preparations: a tomato-cream
 
 ---
 
-### Monday — Butter Chicken (Murgh Makhani)
+### Session 1 — Butter Chicken (Murgh Makhani)
 
 **Skill:** Tandoor-style marination; tomato cream sauce construction; achieving the balance no restaurant can get wrong  
 **Read first:** [Stovetop Butter Chicken](https://www.seriouseats.com/stovetop-butter-chicken)
@@ -30,7 +30,7 @@ The first Indian week focuses on three foundational preparations: a tomato-cream
 
 ---
 
-### Tuesday — Moong Dal (Yellow Split Lentils)
+### Session 2 — Moong Dal (Yellow Split Lentils)
 
 **Skill:** Tarka (spice bloomed in fat); dal texture from liquid ratio; tempering as finishing technique  
 **Read first:** [Moong Dal](https://www.seriouseats.com/moong-dal-recipe-8744764)
@@ -44,7 +44,7 @@ The first Indian week focuses on three foundational preparations: a tomato-cream
 
 ---
 
-### Wednesday — Chicken Tikka Masala (Grilled Version)
+### Session 3 — Chicken Tikka Masala (Grilled Version)
 
 **Skill:** Tikka marinade; charring on high heat; integrating char flavor into sauce  
 **Read first:** [Chicken Tikka Masala for the Grill](https://www.seriouseats.com/chicken-tikka-masala-for-the-grill-recipe)
@@ -72,7 +72,7 @@ The first Indian week focuses on three foundational preparations: a tomato-cream
 
 ---
 
-### Friday — Dal Makhani (All-Day Slow Dal)
+### Session 4 — Dal Makhani (All-Day Slow Dal)
 
 **Skill:** Long-cook black lentil + kidney bean dal; cream integration; patience  
 **Read first:** [Dal Makhani](https://www.seriouseats.com/dal-makhani-recipe-8770680)
@@ -88,7 +88,7 @@ The first Indian week focuses on three foundational preparations: a tomato-cream
 
 ---
 
-### Saturday — PROJECT: North Indian Feast
+### Session 5 — PROJECT: North Indian Feast
 
 **Skill:** Coordinating multiple Indian dishes for simultaneous service  
 **Goal:** Recreate a North Indian restaurant spread at home:
@@ -111,7 +111,7 @@ South Indian cooking is different from North Indian in almost every way: less cr
 
 ---
 
-### Monday — Chana Masala (Chickpea Curry)
+### Session 6 — Chana Masala (Chickpea Curry)
 
 **Skill:** Dried chickpea preparation; tomato + onion + spice masala from scratch; amchur (dry mango powder) as souring agent  
 **Read first:** [Chana Masala](https://www.seriouseats.com/chana-masala-recipe-8665080)
@@ -127,7 +127,7 @@ South Indian cooking is different from North Indian in almost every way: less cr
 
 ---
 
-### Tuesday — Aloo Gobi (Potato and Cauliflower)
+### Session 7 — Aloo Gobi (Potato and Cauliflower)
 
 **Skill:** Dry vegetable curry (no sauce); blooming spices in oil before vegetables; understanding dry vs. wet curry  
 **Read first:** [Aloo Gobi](https://www.seriouseats.com/aloo-gobi-recipe-5220973)
@@ -141,7 +141,7 @@ South Indian cooking is different from North Indian in almost every way: less cr
 
 ---
 
-### Wednesday — Lamb Biryani
+### Session 8 — Lamb Biryani
 
 **Skill:** Dum cooking (sealed pot, rice and meat layers); spiced rice; marinated lamb  
 **Read first:** [Lamb Biryani](https://www.seriouseats.com/lamb-biryani)
@@ -157,13 +157,8 @@ South Indian cooking is different from North Indian in almost every way: less cr
 
 ---
 
-### Thursday — Rest Day
 
-**Reflect:** Indian food uses 20 spices. French food uses 5 herbs. Japanese food uses 10 condiments. Which approach to flavoring feels most intuitive to you? What blends surprised you?
-
----
-
-### Friday — Garam Masala from Scratch + Spice Inventory
+### Session 9 — Garam Masala from Scratch + Spice Inventory
 
 **Skill:** Dry-toasting and grinding whole spices; building a custom blend; understanding garam masala's role  
 **Read first:** [Garam Masala](https://www.seriouseats.com/garam-masala-recipe)
@@ -177,7 +172,7 @@ South Indian cooking is different from North Indian in almost every way: less cr
 
 ---
 
-### Saturday — PROJECT: South Indian Weekend
+### Session 10 — PROJECT: South Indian Weekend
 
 **Skill:** Dosai batter fermentation; sambar construction; full South Indian thali  
 **Goal:** Try a South Indian preparation:

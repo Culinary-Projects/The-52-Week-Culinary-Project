@@ -1,6 +1,6 @@
-# Weeks 51–52: Signature Dishes
+# Weeks 49–50: Signature Dishes
 
-← [Weeks 49–50: Desserts](../49-50-desserts/index.md) | [Weeks 53–54: Menus & Timing →](../53-54-menus-and-timing/index.md)
+← [Weeks 47–50: Pastry & Desserts](../47-48-pastry/index.md) | [Weeks 51–52: Final Exam →](../51-52-final-exam/index.md)
 
 ---
 
@@ -27,7 +27,7 @@ This block is structured differently. The first week is technical catch-up and d
 
 ---
 
-### Monday — Advanced Wok Technique
+### Session 1 — Advanced Wok Technique
 
 **Skill:** High-heat wok work; "wok hei" production; toss technique; seasoning a wok  
 **Read first:** [How to Buy, Season, and Care for a Wok](https://www.seriouseats.com/equipment-how-to-buy-a-wok-which-wok-is-the-best)
@@ -41,7 +41,7 @@ This block is structured differently. The first week is technical catch-up and d
 
 ---
 
-### Tuesday — Knife Skills: Where Are You Now?
+### Session 2 — Knife Skills: Where Are You Now?
 
 **Skill:** Speed and accuracy assessment; brunoise; chiffonade; the "claw" grip  
 **Read first:** [How to Chop an Onion](https://www.seriouseats.com/knife-skills-how-to-slice-and-dice-an-onion), compare your Week 1 time
@@ -55,7 +55,7 @@ This block is structured differently. The first week is technical catch-up and d
 
 ---
 
-### Wednesday — The Best Chocolate Chip Cookie (Refinement)
+### Session 3 — The Best Chocolate Chip Cookie (Refinement)
 
 **Skill:** Cookie formula refinement; understanding your preferences; repeating with intention  
 **Read first:** [The Best Chocolate Chip Cookies](https://www.seriouseats.com/the-food-lab-best-chocolate-chip-cookie-recipe)
@@ -86,7 +86,7 @@ This block is structured differently. The first week is technical catch-up and d
 
 ---
 
-### Friday — The Caramel Sauce (Perfection)
+### Session 4 — The Caramel Sauce (Perfection)
 
 **Skill:** Repeating a technique until it is automated  
 **Focus:** Caramel sauce from Week 46. Make it again. Faster and without hesitation.
@@ -100,7 +100,7 @@ This block is structured differently. The first week is technical catch-up and d
 
 ---
 
-### Saturday — PROJECT: The Dish You Haven't Perfected Yet
+### Session 5 — PROJECT: The Dish You Haven't Perfected Yet
 
 **Skill:** Choosing and attacking a weak point in your cooking  
 **Goal:** Make one dish from any previous unit that you felt was the weakest or least successful.
@@ -121,7 +121,7 @@ Look back at your notes across 47 weeks. Which dish didn't go as planned? Which 
 
 ---
 
-### Monday — Define It
+### Session 6 — Define It
 
 **Exercise:** Write three dishes you have made this year that you would feel confident serving to any person at any time. Not the most impressive — the most *yours*.
 
@@ -153,7 +153,7 @@ Write these down. These are your current signatures.
 
 ---
 
-### Friday — Develop a New Recipe
+### Session 9 — Develop a New Recipe
 
 **Skill:** Synthesis — combining techniques across the 48 weeks into something original  
 **Challenge:** Invent a dish or a meaningful variation on an existing dish. Use any technique from this year, applied to an ingredient or combination you have not cooked before.
@@ -168,7 +168,7 @@ This is not a test. There is no grade. Failures here are valuable. The goal is t
 
 ---
 
-### Saturday — PROJECT: The Personal Tasting Menu
+### Session 10 — PROJECT: The Personal Tasting Menu
 
 **Goal:** Cook and serve a 4-course meal entirely from your own repertoire, your own variations, for people who will give you honest feedback.
 
@@ -222,4 +222,4 @@ The jump from following a recipe to owning a dish happens through iteration: mak
 ---
 
 *Navigation:*
-← [Weeks 49–50: Desserts](../49-50-desserts/index.md) | [Weeks 53–54: Menus & Timing →](../53-54-menus-and-timing/index.md)
+← [Weeks 47–50: Pastry & Desserts](../47-48-pastry/index.md) | [Weeks 51–52: Final Exam →](../51-52-final-exam/index.md)

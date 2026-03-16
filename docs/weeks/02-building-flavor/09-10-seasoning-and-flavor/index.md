@@ -30,7 +30,7 @@ Take a carrot. Cut it in two. Salt one half with a pinch of kosher salt and wait
 
 ---
 
-### Monday — Early Salt: Brining
+### Session 1 — Early Salt: Brining
 
 **Skill:** Dry-brining (salting well in advance) allows salt to penetrate proteins deeply, seasoning from within rather than just the surface. The meat loses moisture initially, which is then reabsorbed as a concentrated, seasoned brine. The result: more flavorful, more evenly seasoned meat, and — as a bonus — drier skin that crisps better in the oven. Tonight you'll dry-brine chicken thighs in the morning and cook them at dinner.
 
@@ -48,7 +48,7 @@ Before you season the broccoli, taste a raw floret. Season it with salt and tast
 
 ---
 
-### Tuesday — During Salt: Layered Seasoning
+### Session 2 — During Salt: Layered Seasoning
 
 **Skill:** Tonight, season every single component of your dish at the moment it goes into the pan — not just at the beginning or the end. Salt the onions when they go in. Salt the garlic when you add it. Salt the tomatoes when they hit the pan. Taste after each addition. You're building flavor in layers, not slapping it on at the end.
 
@@ -64,7 +64,7 @@ Amatriciana is one of the great Roman pasta sauces — guanciale (or pancetta), 
 
 ---
 
-### Wednesday — Late Salt: Finishing
+### Session 3 — Late Salt: Finishing
 
 **Skill:** Some things should not be salted early. Delicate fish toughens if salted too far in advance. Soups and braises that reduce become dangerously salty if heavily salted at the start. Finishing salts — flaky Maldon, fleur de sel — exist to add texture and a burst of flavor right at the moment of eating. They should never dissolve. Tonight you'll deliberately hold salt until the final moment and let a finishing salt do the work.
 
@@ -78,15 +78,7 @@ The white bean salad benefits enormously from being dressed early (the beans abs
 
 ---
 
-### Thursday — OFF
-
-📖 Read: [Serious Eats — The Complete Guide to Seasoning with Salt](https://www.seriouseats.com/what-is-salt-science-taste-flavorant)
-
-🧂 **Pantry audit:** Do you have kosher salt, flaky Maldon or fleur de sel, and fine sea salt? These are three different tools and not interchangeable. If you're only working with one, fix that this week.
-
----
-
-### Friday — Salt as Texture and Contrast
+### Session 4 — Salt as Texture and Contrast
 
 **Skill:** Tonight's focus is on salt as a *textural* and *contrast* element. A finishing salt on a rich braise doesn't just season — it provides crunch and a burst of concentrated flavor that cuts through the fat. A well-salted pasta water (it should taste "pleasantly seasoned," like a light broth) actually seasons the pasta from within, not just its surface. Both are explored tonight.
 
@@ -103,7 +95,7 @@ Cacio e Pepe is three ingredients: pasta, pecorino, black pepper. There is nowhe
 
 ---
 
-### Saturday — PROJECT MEAL: Salt-Crusted Whole Roasted Fish
+### Session 5 — PROJECT MEAL: Salt-Crusted Whole Roasted Fish
 
 **Skill:** Salt-crusting is an ancient technique where a whole fish (or chicken or beet) is encased in a thick crust of kosher salt before roasting. The salt absorbs moisture from the surface, seasons the interior gently, and creates a steaming environment inside the crust. The result is the most evenly cooked, delicately seasoned fish you will ever eat at home. Cracking the crust at the table is genuinely theatrical.
 
@@ -125,7 +117,7 @@ This is one of the most impressive things you can serve to guests and it require
 
 ---
 
-### Monday — Acid: The Brightness Lever
+### Session 6 — Acid: The Brightness Lever
 
 **Skill:** Acid — lemon juice, vinegar, wine, citrus zest — does something salt cannot: it lifts and brightens flavors, making food taste *fresher* and more vibrant. Most dishes benefit from a small hit of acid right at the end of cooking, before serving. Tonight you'll cook a dish twice in your mind: once without the final acid, once with. The difference is immediately obvious.
 
@@ -139,7 +131,7 @@ Before you finish the Marsala sauce, taste it. Now add a small squeeze of lemon 
 
 ---
 
-### Tuesday — Different Acids, Different Effects
+### Session 7 — Different Acids, Different Effects
 
 **Skill:** Not all acid is the same. Lemon juice is bright and immediate. Red wine vinegar is assertive and fruity. Sherry vinegar is mellow and nutty. White balsamic is sweet and gentle. Tamarind is deep and complex. Tonight you'll use two different acids in two different components of the same meal and taste the difference.
 
@@ -153,7 +145,7 @@ Balsamic on the pork: sweet, deep, slightly caramelized. Sherry vinegar in the l
 
 ---
 
-### Wednesday — Fat as Flavor
+### Session 8 — Fat as Flavor
 
 **Skill:** Fat is not just a cooking medium or a source of richness. Different fats carry fundamentally different flavors: brown butter is nutty and toasty; extra-virgin olive oil is grassy and peppery; duck fat is savory and deep; bacon fat is smoky and umami-forward. Tonight you cook the same vegetable three different ways — once in each of three fats — and taste the difference.
 
@@ -172,15 +164,7 @@ Brown butter is fat transformed — milk solids toasted to a deep hazelnut color
 
 ---
 
-### Thursday — OFF
-
-📖 Read: [Serious Eats — What Is Umami and How Do You Cook With It?](https://www.seriouseats.com/umami-ingredients)
-
-🍄 **Pantry check for umami builders:** Do you have soy sauce, fish sauce, miso paste, anchovy paste, parmesan rind, and dried mushrooms? If not, this week is a good time to start building that collection. These are the ingredients that make a dish taste deep even when the recipe is simple.
-
----
-
-### Friday — Umami: The Depth Dial
+### Session 9 — Umami: The Depth Dial
 
 **Skill:** Umami is the fifth taste — the savory, lingering depth you get from glutamate-rich ingredients: aged parmesan, soy sauce, miso, fish sauce, anchovies, dried mushrooms, tomato paste. Tonight you'll learn to use umami ingredients as *seasoning*, not as central flavors — a tablespoon of fish sauce where you'd normally add salt, a smear of miso in a braise, a parmesan rind dropped into a soup pot. They should deepen the dish without announcing themselves.
 
@@ -197,7 +181,7 @@ This pasta uses anchovies (umami), mushrooms (umami), and tomato (umami) in comb
 
 ---
 
-### Saturday — PROJECT MEAL: A Composed Tasting Plate
+### Session 10 — PROJECT MEAL: A Composed Tasting Plate
 
 **The challenge:** This Saturday isn't about following a single recipe. It's about applying everything from Weeks 9–10 in one deliberate meal. You'll cook a three-component plate and consciously think about salt timing, acid balance, fat choice, and umami depth for each component.
 

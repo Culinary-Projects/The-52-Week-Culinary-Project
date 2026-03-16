@@ -2,7 +2,6 @@
 
 > *"Understanding heat is understanding cooking. Everything else is detail."*
 
-
 **Quick Reference:** [→ Week 3–4 Recipe Quick Ref](quick-ref.md)
 
 ---
@@ -19,7 +18,7 @@ Read this first:
 
 ## Week 3 — Dry Heat: The Maillard Reaction Is Your Best Friend
 
-### Monday — Sauté: Hot Pan, Don't Crowd
+### Session 1 — Sauté: Hot Pan, Don't Crowd
 
 **Skill:** Sautéing means high heat, small amount of fat, food in a single layer, moving frequently. The most common home cook mistake: cold pan, crowded pan, food that steams instead of browns. Tonight, heat your pan until a drop of water evaporates immediately before adding oil. Cook in batches if needed.
 
@@ -35,7 +34,7 @@ Read this first:
 
 ---
 
-### Tuesday — Roasting: Hot Oven, Dry Surface
+### Session 2 — Roasting: Hot Oven, Dry Surface
 
 **Skill:** Roasting is dry oven heat that circulates around food, browning all exposed surfaces. The two secrets: (1) high heat (400°F+) and (2) a *dry* surface on the food. Pat everything dry. Never roast wet food — the moisture steams before it can brown.
 
@@ -51,7 +50,7 @@ Use bone-in, skin-on thighs. Pat them completely dry. Compare the color and cris
 
 ---
 
-### Wednesday — Braising: Low, Slow, Wet
+### Session 3 — Braising: Low, Slow, Wet
 
 **Skill:** Braising is a two-step method. First, sear the meat in a very hot pan (dry heat, Maillard reaction). Then add a small amount of liquid, cover, and cook at low heat for a long time. The collagen in tough cuts breaks down into gelatin, making the meat spoon-tender and the braising liquid silky. Never rush a braise.
 
@@ -68,13 +67,7 @@ Notice the difference in texture from Tuesday's roasted thighs — same cut of m
 
 ---
 
-### Thursday — OFF
-
-Reflect: which of the three methods you used this week produced the best flavor on the same cut of chicken, and why? Write it down — one sentence.
-
----
-
-### Friday — Steaming and Poaching: Gentle, Wet Heat
+### Session 4 — Steaming and Poaching: Gentle, Wet Heat
 
 **Skill:** Wet heat keeps food moist and tender but produces no browning. It's ideal for delicate proteins and vegetables where you want to preserve texture and color. The trick: control your temperature. A hard boil beats up delicate proteins; a gentle simmer protects them.
 
@@ -88,7 +81,7 @@ Reflect: which of the three methods you used this week produced the best flavor 
 
 ---
 
-### Saturday — PROJECT MEAL: Spatchcocked Roast Chicken
+### Session 5 — PROJECT MEAL: Spatchcocked Roast Chicken
 
 **Skill:** Spatchcocking (butterflying) a whole chicken removes the backbone, flattens the bird, and allows it to roast evenly in about half the time of a trussed bird. You'll use your knife skills from Weeks 1–2 and your roasting knowledge from this week. The result: the crispiest skin you've ever made at home.
 
@@ -100,19 +93,13 @@ Reflect: which of the three methods you used this week produced the best flavor 
 
 ---
 
-### Sunday — OFF
-
----
-
----
-
 ## Week 4 — Dry Heat Mastery + The Benchmark Cook
 
 > This week you'll revisit dry-heat methods with beef and fish, and end with your first real benchmark: a complete multi-component dinner cooked with no recipes open in front of you.
 
 ---
 
-### Monday — Searing Steak: The Art of Doing Nothing
+### Session 6 — Searing Steak: The Art of Doing Nothing
 
 **Skill:** Put the steak in a screaming hot cast iron pan. Now don't touch it. The instinct to move, prod, and flip food constantly is the enemy of a good sear. Let the Maillard reaction happen. The steak will release from the pan when it's ready to flip. If you have to force it, it's not ready.
 
@@ -128,7 +115,7 @@ Reflect: which of the three methods you used this week produced the best flavor 
 
 ---
 
-### Tuesday — High-Heat Fish: Crispy Skin Without Fear
+### Session 7 — High-Heat Fish: Crispy Skin Without Fear
 
 **Skill:** Fish with crispy skin requires a hot, *well-oiled* pan and patience. Press the fish gently against the pan for the first 30 seconds to prevent curling. Then leave it alone. Cook 80% of the way on the skin side. Flip only once, finish for 60 seconds on the flesh side.
 
@@ -142,7 +129,7 @@ Reflect: which of the three methods you used this week produced the best flavor 
 
 ---
 
-### Wednesday — Broiling: Overhead Heat
+### Session 8 — Broiling: Overhead Heat
 
 **Skill:** Broiling is essentially an upside-down grill — radiant heat comes from above. It's ideal for finishing dishes (melting cheese, charring a surface) or for cooking thin items quickly. Keep the rack close to the element and watch constantly. Broilers operate at max heat and burn food in seconds.
 
@@ -158,13 +145,7 @@ Reflect: which of the three methods you used this week produced the best flavor 
 
 ---
 
-### Thursday — OFF
-
-⏱️ **Speed benchmark:** Dice one onion and time yourself. Compare to Week 2 Friday. Write both numbers down.
-
----
-
-### Friday — Recap Cook: No Recipes
+### Session 9 — Recap Cook: No Recipes
 
 **Skill challenge:** Tonight you cook a full meal using only methods you've learned in Weeks 3–4, but with no recipe open. Pick a protein in your fridge. Choose a heat method. Season it. Make a simple sauce from the pan drippings. Cook a vegetable. Plate it.
 
@@ -174,7 +155,7 @@ If you need to glance at times and temperatures, that's fine. But close the reci
 
 ---
 
-### Saturday — PROJECT MEAL: Braised Short Ribs
+### Session 10 — PROJECT MEAL: Braised Short Ribs
 
 **Skill:** The full braise from start to finish. This is a long cook (3–4 hours) but almost entirely passive — you sear the ribs in batches, build the braising liquid, and let the oven do the rest. The hardest part is the patience.
 

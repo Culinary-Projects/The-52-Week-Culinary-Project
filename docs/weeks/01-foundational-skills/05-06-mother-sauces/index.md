@@ -2,7 +2,6 @@
 
 > *"Master these five sauces and you can make virtually any sauce on earth."*
 
-
 **Quick Reference:** [→ Week 5–6 Recipe Quick Ref](quick-ref.md)
 
 ---
@@ -21,7 +20,7 @@ Four out of five start with a roux. **Learn the roux and you learn four sauces a
 
 ## Week 5 — Roux-Based Sauces
 
-### Monday — Béchamel: The White Sauce
+### Session 1 — Béchamel: The White Sauce
 
 **Skill:** A béchamel is a white roux (equal parts butter and flour, cooked briefly until it smells nutty but hasn't browned) whisked with warm milk. The key is adding the milk gradually while whisking constantly, and cooking it long enough to lose the raw flour taste. Season with salt, white pepper, and a pinch of nutmeg.
 
@@ -37,7 +36,7 @@ You'll make the béchamel from scratch and transform it into a Mornay sauce (bé
 
 ---
 
-### Tuesday — Velouté: Stock Instead of Milk
+### Session 2 — Velouté: Stock Instead of Milk
 
 **Skill:** A velouté starts with the same white roux as béchamel but uses chicken (or fish, or veal) stock instead of milk. The result is lighter, more savory, and more versatile as a sauce base. It should coat a spoon lightly when done — if it's too thick, thin it with more warm stock.
 
@@ -54,7 +53,7 @@ The pot pie filling is a classic chicken velouté extended with vegetables and c
 
 ---
 
-### Wednesday — Sauce Tomat: The Slow Tomato
+### Session 3 — Sauce Tomat: The Slow Tomato
 
 **Skill:** The mother tomato sauce is not marinara. It's a deeply flavored, long-cooked sauce built on a pork fat base, mirepoix, tomatoes, stock, and aromatics. The key is patience — low heat, long time, and tasting as the sauce develops. **Learn to season in layers, not all at once.**
 
@@ -72,13 +71,7 @@ Bolognese takes 3–4 hours. Make it on a Wednesday when you can let it simmer w
 
 ---
 
-### Thursday — OFF
-
-📖 Read: [The Five Mother Sauces Every Cook Should Know](https://www.seriouseats.com/bechamel-white-sauce-recipe)
-
----
-
-### Friday — Espagnole and Demi-Glace (Simplified)
+### Session 4 — Espagnole and Demi-Glace (Simplified)
 
 **Skill:** Espagnole is a *brown* roux-based sauce made with dark beef stock and tomato. The demi-glace is espagnole reduced by half until it becomes intensely flavored and glossy. Tonight you make a simplified version — the same concept, without a days-long reduction.
 
@@ -96,7 +89,7 @@ The pan sauce is your simplified Espagnole: browned bits from the steak, deglaze
 
 ---
 
-### Saturday — PROJECT MEAL: Greek Moussaka
+### Session 5 — PROJECT MEAL: Greek Moussaka
 
 **Skill:** A synthesis dish — you'll make a tomato-based lamb meat sauce *and* a béchamel *and* roast eggplant, then layer them together and bake. Uses two of the five mother sauces in a single dish.
 
@@ -119,7 +112,7 @@ The pan sauce is your simplified Espagnole: browned bits from the steak, deglaze
 
 ---
 
-### Monday — Hollandaise: The Emulsion
+### Session 6 — Hollandaise: The Emulsion
 
 **Skill:** Hollandaise is the most technically demanding of the five mother sauces — an emulsion of egg yolks and clarified butter, stabilized by the lecithin in the yolks. The keys: gentle heat (too hot and the eggs scramble), constant whisking, adding the butter slowly. Use a double boiler and your thermometer tonight.
 
@@ -136,7 +129,7 @@ The pan sauce is your simplified Espagnole: browned bits from the steak, deglaze
 
 ---
 
-### Tuesday — Mayonnaise: Emulsion Without Heat
+### Session 7 — Mayonnaise: Emulsion Without Heat
 
 **Skill:** Mayo is a cold emulsion — egg yolk, acid (lemon or vinegar), and oil, whisked until stable. Same principle as hollandaise (fat suspended in water-based liquid via lecithin) but much more forgiving. Start with a small amount of oil and add it *very slowly* at first to establish the emulsion before adding more quickly.
 
@@ -154,7 +147,7 @@ Make the mayo from scratch. Use it in the roll filling and the coleslaw.
 
 ---
 
-### Wednesday — The Vinaigrette: A Temporary Emulsion
+### Session 8 — The Vinaigrette: A Temporary Emulsion
 
 **Skill:** A vinaigrette is an unstable emulsion — oil and acid mixed together, which separate unless stabilized with an emulsifier like Dijon mustard or honey. The classic ratio is 3:1 oil to acid. Taste it on a piece of bread (not a spoon) to understand how it will actually taste on food.
 
@@ -172,13 +165,7 @@ Make the vinaigrette from scratch. Use it as the dressing *and* as a marinade fo
 
 ---
 
-### Thursday — OFF
-
-📖 Read: [How to Make Any Salad Dressing Without a Recipe](https://www.seriouseats.com/simple-vinaigrette-recipe)
-
----
-
-### Friday — Pan Sauce: The Working Sauce
+### Session 9 — Pan Sauce: The Working Sauce
 
 **Skill:** A pan sauce isn't one of the five mother sauces, but it's descended from all of them. After searing a protein, deglaze the pan (scraping the fond), reduce a liquid (wine, stock), and finish with butter. **This is how restaurants make almost every sauce on their menu.**
 
@@ -194,7 +181,7 @@ Make the vinaigrette from scratch. Use it as the dressing *and* as a marinade fo
 
 ---
 
-### Saturday — PROJECT MEAL: A Classic French Bistro Dinner (3 Courses)
+### Session 10 — PROJECT MEAL: A Classic French Bistro Dinner (3 Courses)
 
 **Skill:** Ties together everything from Weeks 5–6. Pan sauce, vinaigrette, and a three-course French bistro-style dinner at home — everything on the table at the same time.
 

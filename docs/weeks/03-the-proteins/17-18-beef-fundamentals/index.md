@@ -14,7 +14,7 @@
 
 ---
 
-### Monday — The Dry Brine + Reverse Sear Method
+### Session 1 — The Dry Brine + Reverse Sear Method
 
 **Skill:** Dry brining (salting and leaving uncovered in the fridge for at least 12 hours) is the single highest-leverage improvement most home cooks can make to their steak. Salt draws moisture to the surface, which then gets reabsorbed carrying salt deeper into the meat. The surface dries out — which means better, faster crust formation.
 
@@ -32,7 +32,7 @@ The reverse sear — low oven first, then high-heat sear — gives you precise t
 
 ---
 
-### Tuesday — Pan-Seared Strip Steak + Compound Butter
+### Session 2 — Pan-Seared Strip Steak + Compound Butter
 
 **Skill:** A strip steak requires more finesse than a ribeye — it has less marbling to protect the meat from drying out. Tonight: cast iron, very high heat, minimal interference. Compound butter (softened butter + herbs + acid) is a classical French technique for finishing steaks — it's also a foundational formula you'll use in many other contexts.
 
@@ -43,7 +43,7 @@ The reverse sear — low oven first, then high-heat sear — gives you precise t
 
 ---
 
-### Wednesday — Burgers: Understanding Ground Beef
+### Session 3 — Burgers: Understanding Ground Beef
 
 **Skill:** A great burger requires understanding fat ratios (80/20 is the standard — leaner grinds = drier burgers), handling (overworking = tough), and heat (screaming hot surface = crust without grey band). The smash burger technique works because maximum surface contact with maximum heat creates maximum Maillard reaction.
 
@@ -91,7 +91,7 @@ The reverse sear — low oven first, then high-heat sear — gives you precise t
 
 ---
 
-### Friday — Skirt Steak: Thin Cuts & Marination
+### Session 4 — Skirt Steak: Thin Cuts & Marination
 
 **Skill:** Thin cuts (skirt, flank, hanger) are the workhorse steaks of Latin American and Asian cuisines — they're cheap, extremely flavorful, and completely different from the thick-cut luxury steaks of earlier this week. Two rules: high heat, short time. And always cut against the grain — these muscles have very pronounced fiber direction, and cutting the wrong way makes them nearly inedible.
 
@@ -105,7 +105,7 @@ The reverse sear — low oven first, then high-heat sear — gives you precise t
 
 ---
 
-### Saturday — PROJECT: The Prime Rib
+### Session 5 — PROJECT: The Prime Rib
 
 **Skill:** The prime rib (standing rib roast) is the most impressive home cook project in the beef repertoire. High-heat sear first (or last), then low-and-slow roasting to precise internal temperature. This is a $80+ cut of meat — you don't wing it. You plan it.
 
@@ -124,19 +124,13 @@ The reverse sear — low oven first, then high-heat sear — gives you precise t
 
 ---
 
-### Sunday — OFF
-
-Write down this week's learning: of the three fundamentally different cooked-beef textures (seared steak, smash burger, slow-roasted rib), which one are you most confident you understand? Which do you want to cook again before moving on?
-
----
-
 ## Week 16 — Beef: Braising & the Tougher Cuts
 
 > *"The most flavorful beef in the animal is in the cuts that require the most time. This is not a coincidence."*
 
 ---
 
-### Monday — Red Wine Braised Short Ribs
+### Session 6 — Red Wine Braised Short Ribs
 
 **Skill:** Short ribs take a 3-hour braise minimum in red wine and aromatics. The collagen-rich meat transforms from tough connective tissue into silk. This is the braise that impresses everyone — and it's also deeply forgiving. The only way to ruin it is rushing it.
 
@@ -150,7 +144,7 @@ Write down this week's learning: of the three fundamentally different cooked-bee
 
 ---
 
-### Tuesday — Pot Roast: Low and Slow Chuck
+### Session 7 — Pot Roast: Low and Slow Chuck
 
 **Skill:** Chuck roast (blade roast) is the pot roast cut — it has connective tissue, fat pockets, and marbling in all the right places for a slow braise. Tonight is a weeknight version: the braise starts at 3 PM, everything goes in the Dutch oven, and dinner is ready at 7. The technique is identical to short ribs but the cut behaves differently.
 
@@ -162,7 +156,7 @@ Write down this week's learning: of the three fundamentally different cooked-bee
 
 ---
 
-### Wednesday — Brisket: Patience as a Virtue
+### Session 8 — Brisket: Patience as a Virtue
 
 **Skill:** Brisket is a study in patience. At 6–8 hours (lower temp, longer time), the fat renders, the collagen converts, and the flat and point achieve very different textures. This is a Saturday cook being previewed midweek on a smaller scale.
 
@@ -172,13 +166,7 @@ Write down this week's learning: of the three fundamentally different cooked-bee
 
 ---
 
-### Thursday — OFF
-
-📖 Think about the week: short ribs took 3 hours and fell off the bone. Pot roast took 4 hours and sliced cleanly. Brisket took 6+ hours and pulled apart. All three are "braised beef." What made them different? The answer is in collagen content, fat distribution, and muscle structure. You don't need to read about this — you've cooked it. Trust what you observed.
-
----
-
-### Friday — Steak au Poivre
+### Session 9 — Steak au Poivre
 
 **Skill:** A French bistro classic that teaches two things at once: how to build a pan sauce from heavy cream and cognac, and how to handle intense, well-seasoned pan heat. This sauce is more aggressive than a simple butter sauce — it has body, alcohol, and the floral warmth of cracked black pepper.
 
@@ -188,7 +176,7 @@ Write down this week's learning: of the three fundamentally different cooked-bee
 
 ---
 
-### Saturday — PROJECT: The Beef Meal for Four
+### Session 10 — PROJECT: The Beef Meal for Four
 
 **Skill:** You've cooked beef five different ways this week. Tonight's project: cook a full meal for at least four people using one technique of your choice from this two-week block. Plan it, mise en place it, execute it without referring to recipes during service.
 
@@ -198,12 +186,6 @@ Write down this week's learning: of the three fundamentally different cooked-bee
 3. A salad dressed with a vinaigrette you make from memory
 
 *The real test: can you cook a proper steak dinner for people without opening your phone once during service?*
-
----
-
-### Sunday — OFF
-
-Reflection: You've now completed 16 weeks. Write one sentence for each of the following — what skill you've gained most confidence in, what you need to keep practicing, and one cook from the past four weeks you want to repeat this month without any reference.
 
 ---
 
@@ -227,7 +209,6 @@ Most steak advice is either wrong or oversimplified. The Food Lab has done more 
 
 - 📖 [Old Wives' Tales About Cooking Steak, Debunked](https://www.seriouseats.com/old-wives-tales-about-cooking-steak) — Searing to "seal in juices," letting it come to room temperature, pressing with a finger for doneness — all tested, most debunked.
 
-
 ---
 
 ### Watching a Pro Do It
@@ -242,4 +223,4 @@ Most steak advice is either wrong or oversimplified. The Food Lab has done more 
 
 ---
 
-← [Weeks 15–16](../../02-building-flavor/15-16-midpoint-review/index.md) | [Weeks 19–20 →](../19-20-beef-advanced/index.md)
+← [Weeks 15–16](../../02-building-flavor/15-16-midpoint-review/index.md) | [Weeks 19–20: Fish →](../19-20-fish/index.md)

@@ -1,6 +1,6 @@
-# Weeks 55–56: Module 5 Capstone — The Final Exam: Shopping List
+# Weeks 51–52: Module 5 Capstone — The Final Exam: Shopping List
 
-← [Weeks 53–54: Menus and Timing](../53-54-menus-and-timing/index.md)
+← [Weeks 49–50: Signature Dishes](../49-50-signature-dishes/index.md)
 
 ---
 

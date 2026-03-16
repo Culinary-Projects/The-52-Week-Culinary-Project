@@ -1,4 +1,4 @@
-# Quick Reference — Weeks 25–26: Shellfish
+# Quick Reference — Weeks 23–24: Shellfish
 
 ← [Back to Full Guide](index.md) | [Shopping List](shopping-list.md)
 

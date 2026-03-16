@@ -1,4 +1,4 @@
-# ⚡ Weeks 19–20 Quick Reference — Beef Advanced Cuts
+# ⚡ Weeks 21–22 Quick Reference — Beef Advanced Cuts
 
 ← [Back to Full Guide](index.md) | [Shopping List →](shopping-list.md)
 

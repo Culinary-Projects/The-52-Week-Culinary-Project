@@ -1,4 +1,4 @@
-# 🥩 Weeks 19–20: Beef — Advanced Cuts
+# 🥩 Weeks 21–22: Beef — Advanced Cuts
 
 ← [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
 
@@ -8,7 +8,7 @@
 
 ---
 
-## Week 17 — Grilling & the Grill Station
+## Week 21 — Grilling & the Grill Station
 
 **Theme this week:** The outdoor fire. Grilling is a distinct cooking environment — intense radiant heat, smoke, flare-ups, and a cooler zone if you set it up correctly. A two-zone fire (direct heat on one side, no heat on the other) is the most important concept in grilling. Everything else follows from that.
 
@@ -16,7 +16,7 @@
 
 ---
 
-### Monday — T-Bone: Two Steaks, One Animal
+### Session 1 — T-Bone: Two Steaks, One Animal
 
 **Skill:** The T-bone is a porterhouse by another name — strip on one side of the bone, tenderloin on the other. The problem: strip requires higher heat for longer; tenderloin overcooks at lower temperature. Understanding how to grill a T-bone is the most concentrated lesson in thermal management for beef.
 
@@ -27,7 +27,7 @@
 
 ---
 
-### Tuesday — The Ribeye Cap (Spinalis) — And How to Think About Premium Cuts
+### Session 2 — The Ribeye Cap (Spinalis) — And How to Think About Premium Cuts
 
 **Skill:** The outer cap muscle of the ribeye (the spinalis dorsi) is widely considered the single most flavorful piece of beef on the animal. It's accessible either by requesting it directly from a butcher or by buying a full bone-in ribeye and identifying the cap yourself. Tonight: simple preparation — let the beef do the work. Salt, pepper, high heat, butter baste.
 
@@ -38,7 +38,7 @@
 
 ---
 
-### Wednesday — Hanger Steak: The Butcher's Secret
+### Session 3 — Hanger Steak: The Butcher's Secret
 
 **Skill:** Hanger steak (also called onglet, or butcher's cut) hangs between the tenderloin and rib. It's intensely beefy — some people find the flavor almost offal-adjacent (it is near the kidneys). It's cheap, has one notable seam of tough connective tissue through the center that should be removed, and cooks in 6 minutes total. A perfect weeknight steak if you know it.
 
@@ -52,11 +52,7 @@
 
 ---
 
-### Thursday — OFF
-
----
-
-### Friday — Korean-Style Galbi (Grilled Short Ribs)
+### Session 4 — Korean-Style Galbi (Grilled Short Ribs)
 
 **Skill:** Flanken-cut short ribs (cut thin across the bone) marinated in a sesame-soy-pear marinade and grilled fast over high heat. This is the opposite of the braised short rib — same cut, completely different result. The marinade reduces and caramelizes on the grill; the thin cut means 2–3 minutes per side. Korean BBQ is a master class in how marinade, heat, and timing interact.
 
@@ -67,7 +63,7 @@
 
 ---
 
-### Saturday — PROJECT: The Grill Dinner
+### Session 5 — PROJECT: The Grill Dinner
 
 **Skill:** A full dinner cooked entirely on the grill. Grill management: maintaining two zones, cooking multiple items at different heats, bringing everything to the table at once. This is a timing and fire-management project as much as a cooking one.
 
@@ -81,19 +77,13 @@
 
 ---
 
-### Sunday — OFF
-
-Write down: what's the actual difference between grilling and broiling? (They're related but not the same.) What did you learn about two-zone fire management that you'll now use every time you grill?
-
----
-
-## Week 18 — Beef: Beyond the Cut
+## Week 22 — Beef: Beyond the Cut
 
 **Theme this week:** Beef in other forms — ground, minced, international preparations, and the under-explored territory of beef offal-adjacent cuts. Also: the art of building a dish around beef as a flavoring agent rather than a centerpiece.
 
 ---
 
-### Monday — Bolognese: Beef as Background
+### Session 6 — Bolognese: Beef as Background
 
 **Skill:** True Bolognese (ragù alla Bolognese) uses beef as a supporting player in a rich, long-cooked sauce — not a thick, tomatoey meat sauce. The classic has very little tomato, lots of wine, and slow cooking that transforms cheap ground beef into something complex and silky. Three hours minimum.
 
@@ -106,7 +96,7 @@ Write down: what's the actual difference between grilling and broiling? (They're
 
 ---
 
-### Tuesday — Steak Salad: Beef as Accent
+### Session 7 — Steak Salad: Beef as Accent
 
 **Skill:** A steak salad is fundamentally different from a beef entrée — the steak is sliced thin, at most a supporting element in a composed dish with acid, crunch, and fresh contrast. Tonight: cook the steak to medium-rare, rest it, thin-slice it, and build around it.
 
@@ -116,7 +106,7 @@ Write down: what's the actual difference between grilling and broiling? (They're
 
 ---
 
-### Wednesday — Tamarind-Braised Short Ribs: Southeast Asian Flavor Profile
+### Session 8 — Tamarind-Braised Short Ribs: Southeast Asian Flavor Profile
 
 **Skill:** The same fundamentals as Week 16's red wine braise — but with a completely different flavor vocabulary. Tamarind adds deep sourness. Fish sauce adds umami. This is about applying braising technique to a different cuisine's flavor palette.
 
@@ -129,13 +119,7 @@ Write down: what's the actual difference between grilling and broiling? (They're
 
 ---
 
-### Thursday — OFF
-
-📖 Think about this two-week block. Beef has given you: 8 different cuts, 5 different cooking methods (sear, braise, grill, confit-adjacent, raw/tartare-adjacent), and at least 4 different cuisine contexts. Write one thing each technique taught you that will permanently change how you cook anything — not just beef.
-
----
-
-### Friday — Flank Steak: Marinated and Stuffed
+### Session 9 — Flank Steak: Marinated and Stuffed
 
 **Skill:** Butterflied flank steak, marinated, stuffed with herbs and cheese, rolled and tied — then grilled or seared. This is a simple roast-and-slice technique that produces a beautiful cross-section and is excellent for a weeknight dinner that looks elaborate.
 
@@ -146,7 +130,7 @@ Write down: what's the actual difference between grilling and broiling? (They're
 
 ---
 
-### Saturday — PROJECT: Module 3 Skills Dinner
+### Session 10 — PROJECT: Module 3 Skills Dinner
 
 You're 18 weeks in — nearly halfway through the proteins block. Tonight's project is a dinner for guests built entirely from techniques you now own across proteins and sauces.
 
@@ -156,12 +140,6 @@ You're 18 weeks in — nearly halfway through the proteins block. Tonight's proj
 3. **Dessert:** Something from your freezer or a simple fruit dessert — the cooking is the point, not the pastry
 
 *Skill target: every element on the table should be cooked from memory. Open the fridge, cook from what's in front of you, make decisions.*
-
----
-
-### Sunday — OFF
-
-18-week reflection — where do you think your cooking has improved most since Week 1? Be specific. Not "I got better at seasoning" but "I now salt in layers and can tell by taste when a dish needs acid vs. more salt vs. more fat."
 
 ---
 
@@ -200,4 +178,4 @@ Hanger, skirt, flank, and flat iron are the cuts that chefs reach for when they'
 
 ---
 
-← [Weeks 17–18](../17-18-beef-fundamentals/index.md) | [Weeks 21–22 →](../21-22-pork/index.md)
+← [Weeks 19–20: Fish](../19-20-fish/index.md) | [Weeks 21–22 →](../23-24-shellfish/index.md)

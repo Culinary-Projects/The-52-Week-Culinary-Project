@@ -51,7 +51,7 @@ Before Week 35 begins, verify you have:
 
 ## Week 35 — Core Chinese Techniques
 
-### Monday — The Wok: Heat, Motion, and Wok Hei
+### Session 1 — The Wok: Heat, Motion, and Wok Hei
 
 **Skill:** Wok cooking at home is a compromise because home stovetops produce roughly 7,000–15,000 BTUs, while restaurant wok ranges produce 150,000+ BTUs. Understanding this limits your expectations and teaches you to optimize within the constraint.
 
@@ -97,7 +97,7 @@ Velveting is the technique that makes restaurant Chinese chicken silky instead o
 
 ---
 
-### Tuesday — Red-Braised Pork Belly (Hong Shao Rou)
+### Session 2 — Red-Braised Pork Belly (Hong Shao Rou)
 
 **Skill:** Red-braising (hong shao) is one of China's great braising traditions and one of the most beautiful things that happens to pork. The combination of soy sauce, Shaoxing wine, aromatics, and rock sugar creates a lacquer-dark, glossy sauce and transforms pork belly into something that nearly dissolves on the tongue. This is Chairman Mao's favorite dish. It is not subtle.
 
@@ -125,7 +125,7 @@ Velveting is the technique that makes restaurant Chinese chicken silky instead o
 
 ---
 
-### Wednesday — Cantonese Steamed Fish
+### Session 3 — Cantonese Steamed Fish
 
 **Skill:** Steaming is the central Cantonese technique and the philosophy behind it is opposite to everything in French haute cuisine. Cantonese cooking prizes freshness and the natural flavor of the ingredient above all else. A Cantonese cook would look at a French braise and say it hides the ingredient. A steamed fish shows you everything — if the fish isn't fresh, you can't hide it.
 
@@ -185,7 +185,7 @@ This sauce formula — sesame + soy + vinegar + chilli + Sichuan pepper — is t
 
 ---
 
-### Friday — Mapo Tofu (麻婆豆腐)
+### Session 4 — Mapo Tofu (麻婆豆腐)
 
 **Skill:** Mapo tofu is one of the most technically interesting dishes in all of Chinese cooking. It requires managing: braising the tofu gently so it holds shape while absorbing flavors, building a complex base from doubanjiang + black bean + aromatics, achieving the proper "flower" texture of soft tofu, and finishing with Sichuan peppercorn oil and the "pushing" motion (tuī dòufu) that moves the tofu without breaking it.
 
@@ -208,7 +208,7 @@ This sauce formula — sesame + soy + vinegar + chilli + Sichuan pepper — is t
 
 ---
 
-### Saturday — PROJECT: Sichuan Dinner
+### Session 5 — PROJECT: Sichuan Dinner
 
 Cook a complete Sichuan-focused dinner for two to four people. The goal is to compose a meal where the different heat/numbing levels of the dishes balance each other — Chinese meals are designed this way.
 
@@ -222,17 +222,11 @@ Cook a complete Sichuan-focused dinner for two to four people. The goal is to co
 
 ---
 
-### Sunday — OFF
-
-Read: [The Sichuan Pepper Question](https://thewoksoflife.com/sichuan-peppercorn/) on Serious Eats — the chemistry behind the málà numbing sensation is genuinely fascinating.
-
----
-
 ## Week 36 — Northern, Cantonese, and Home Cooking
 
 ---
 
-### Monday — Congee (Rice Porridge)
+### Session 6 — Congee (Rice Porridge)
 
 **Skill:** Congee is cooked rice broken down in a large quantity of water or stock until it becomes a thick, creamy porridge. The skill is in the ratio (1:10 or more) and the time (45 minutes minimum). It is the ultimate test of whether you can make something completely humble taste extraordinary — through good stock, proper consistency, and thoughtful toppings.
 
@@ -253,7 +247,7 @@ Read: [The Sichuan Pepper Question](https://thewoksoflife.com/sichuan-peppercorn
 
 ---
 
-### Tuesday — Dim Sum at Home: Har Gow (Shrimp Dumplings)
+### Session 7 — Dim Sum at Home: Har Gow (Shrimp Dumplings)
 
 **Skill:** Dim sum at home is ambitious and humbling. Har gow — translucent steamed shrimp dumplings — have a specific wheat starch wrapper that is unlike any pasta or dumpling wrapper in Western cooking. The folding technique is its own sub-skill that takes numerous attempts.
 
@@ -267,7 +261,7 @@ Read: [The Sichuan Pepper Question](https://thewoksoflife.com/sichuan-peppercorn
 
 ---
 
-### Wednesday — Chinese Egg Fried Rice
+### Session 8 — Chinese Egg Fried Rice
 
 **Skill:** Egg fried rice is the Chinese test of wok technique — the dish that tells you exactly where your heat management is. The keys are: cold day-old rice (never fresh; it's too wet), eggs added early so they set in the hot rice rather than scramble separately, and restraint with soy sauce (the dish should taste of rice and egg, not soy).
 
@@ -309,7 +303,7 @@ Read: [The Sichuan Pepper Question](https://thewoksoflife.com/sichuan-peppercorn
 
 ---
 
-### Friday — Hot and Sour Soup (酸辣汤)
+### Session 9 — Hot and Sour Soup (酸辣汤)
 
 **Skill:** Hot and sour soup is the Chinese umami bomb — built on a well-made pork stock (or chicken stock), with the interplay of acid (black vinegar), heat (white pepper + chilli), and texture (wood ear mushrooms, silken tofu, egg ribbons). The egg ribbon technique — pouring beaten egg in a thin stream into simmering soup while stirring — produces the characteristic feathery strands.
 
@@ -332,7 +326,7 @@ Read: [The Sichuan Pepper Question](https://thewoksoflife.com/sichuan-peppercorn
 
 ---
 
-### Saturday — PROJECT: Full Chinese Banquet (for 4–6)
+### Session 10 — PROJECT: Full Chinese Banquet (for 4–6)
 
 The traditional Chinese dinner table presents everything at once — multiple dishes, a soup, rice. The guest serves themselves from shared platters. Cook a full banquet-style dinner:
 
@@ -346,12 +340,6 @@ The traditional Chinese dinner table presents everything at once — multiple di
 | Steamed jasmine rice | Cook double the amount |
 
 Total cook time if hong shao rou made ahead: approximately 90 minutes active.
-
----
-
-### Sunday — OFF
-
-Begin Week 37 shopping. The Mexican block starts Monday.
 
 ---
 

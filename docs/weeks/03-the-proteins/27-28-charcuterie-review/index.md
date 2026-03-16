@@ -1,6 +1,6 @@
 # Weeks 27–28: Charcuterie & Curing
 
-← [Weeks 25–26: Shellfish](../25-26-shellfish/index.md) | [Weeks 29–30: French Classics →](../../04-worlds-kitchens/29-30-french/index.md)
+← [Weeks 25–26: Pork](../25-26-pork/index.md) | [Weeks 29–30: French Classics →](../../04-worlds-kitchens/29-30-french/index.md)
 
 ---
 
@@ -14,7 +14,7 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 
 ---
 
-### Monday — Gravlax (Cured Salmon)
+### Session 1 — Gravlax (Cured Salmon)
 
 **Skill:** Dry cure ratios, curing time, slicing technique  
 **Read first:** [Gravlax — Cured Salmon](https://www.seriouseats.com/gravlax-cured-salmon-recipe)
@@ -29,7 +29,7 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 
 ---
 
-### Tuesday — Sausage Making Fundamentals
+### Session 2 — Sausage Making Fundamentals
 
 **Skill:** Sausage stuffing, emulsification, seasoning, casing handling  
 **Read first:** [Homemade Merguez Sausage](https://www.seriouseats.com/homemade-merguez-sausage-recipe)
@@ -44,7 +44,7 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 
 ---
 
-### Wednesday — Taste the Gravlax / Cured Charcuterie Board
+### Session 3 — Taste the Gravlax / Cured Charcuterie Board
 
 **Skill:** Slicing cured fish, building a charcuterie spread  
 **Read first:** [Best Charcuterie Boards](https://www.seriouseats.com/best-charcuterie-boards-8424659)
@@ -57,13 +57,8 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 
 ---
 
-### Thursday — Rest Day
 
-**Reflect:** What surprised you about the gravlax? How does chemically "cooked" salmon differ from heat-cooked salmon? Write a note about next time — would you adjust the salt, sugar, or time?
-
----
-
-### Friday — Quick Pickles & Lacto-Fermented Vegetables
+### Session 4 — Quick Pickles & Lacto-Fermented Vegetables
 
 **Skill:** Quick-pickle acid ratios; understanding fermentation vs. pickling  
 **Read first:** [Quick-Pickled Onions](https://www.seriouseats.com/quick-pickle-rapid-pickled-onion-recipe)
@@ -78,7 +73,7 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 
 ---
 
-### Saturday — PROJECT: Full Charcuterie Spread + Potted Rillettes
+### Session 5 — PROJECT: Full Charcuterie Spread + Potted Rillettes
 
 **Skill:** Making rillettes (pork potted in its own fat); assembling a composed spread  
 **Goal:** Cook a rillette-style spread using pork shoulder or duck (slow cook in fat, shred, pot in fat with seasoning). This is beginner charcuterie production. Plus, compose a full charcuterie spread featuring the week's cured products.
@@ -98,7 +93,7 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 
 ---
 
-### Monday — Pancetta-Style Cured Belly (Start the Project)
+### Session 6 — Pancetta-Style Cured Belly (Start the Project)
 
 **Skill:** Multi-day salt cure on pork belly; understanding cure penetration and timing  
 **Read first:** Reference duck confit and gravlax techniques already covered
@@ -114,7 +109,7 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 
 ---
 
-### Tuesday — Duck or Chicken Rillettes
+### Session 7 — Duck or Chicken Rillettes
 
 **Skill:** Confiting poultry; rillettes texture and fat ratio  
 **Read first:** Reference classic duck confit technique from Week 14
@@ -129,7 +124,7 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 
 ---
 
-### Wednesday — Module 3 Capstone: Six-Month Inventory
+### Session 8 — Module 3 Capstone: Six-Month Inventory
 
 **Note: This is a reflective cook day — pick one dish from weeks 1–25 that you want to redo.**
 
@@ -137,13 +132,8 @@ Choose ONE technique that didn't go as planned in the past six months. Cook it a
 
 ---
 
-### Thursday — Rest Day
 
-Write down: What are the three best things you cooked in the first 25 weeks? What's still unresolved? Set three specific goals for the second half of the year.
-
----
-
-### Friday — Bacon-Cured Salmon Breakfast Board
+### Session 9 — Bacon-Cured Salmon Breakfast Board
 
 **Skill:** Applying cure variations; building breakfast charcuterie  
 **Read first:** Reference gravlax technique from Week 25
@@ -156,7 +146,7 @@ Write down: What are the three best things you cooked in the first 25 weeks? Wha
 
 ---
 
-### Saturday — PROJECT: Complete Cured Meat Tasting + Pancetta Check-In
+### Session 10 — PROJECT: Complete Cured Meat Tasting + Pancetta Check-In
 
 **Skill:** Evaluating sourced cured meats; understanding regional charcuterie differences  
 **Goal:** Visit a deli or specialty market and buy 5 different cured meats: one prosciutto, one salami, one coppa or speck, one regional specialty, one pâté or rillette. Taste critically — fat content, salt, spice blends, texture. Your pancetta is curing in the fridge → not done yet, but check it.
@@ -206,4 +196,4 @@ Gravlax is the cleanest introduction to curing — no smoking, no casings, no sp
 ---
 
 *Navigation:*
-← [Weeks 25–26: Shellfish](../25-26-shellfish/index.md) | [Weeks 29–30: French Classics →](../../04-worlds-kitchens/29-30-french/index.md)
+← [Weeks 25–26: Pork](../25-26-pork/index.md) | [Weeks 29–30: French Classics →](../../04-worlds-kitchens/29-30-french/index.md)

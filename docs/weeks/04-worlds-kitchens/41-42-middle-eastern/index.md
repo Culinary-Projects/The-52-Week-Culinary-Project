@@ -14,7 +14,7 @@ The first week focuses on building the foundational components of a Middle Easte
 
 ---
 
-### Monday — Hummus b'Tahini (From Scratch)
+### Session 1 — Hummus b'Tahini (From Scratch)
 
 **Skill:** Dried chickpea cooking to the right texture; tahini ratio; blending technique for silky result  
 **Read first:** [Hummus b'Tahini](https://www.seriouseats.com/hummus-b-tahini-hummus-tahini-recipe-11887965)
@@ -29,7 +29,7 @@ The first week focuses on building the foundational components of a Middle Easte
 
 ---
 
-### Tuesday — Shakshuka
+### Session 2 — Shakshuka
 
 **Skill:** Tomato and pepper sauce construction; poaching eggs in sauce  
 **Read first:** [Shakshuka — North African Shirred Eggs](https://www.seriouseats.com/shakshuka-north-african-shirred-eggs-tomato-pepper-recipe)
@@ -42,7 +42,7 @@ The first week focuses on building the foundational components of a Middle Easte
 
 ---
 
-### Wednesday — Baba Ganoush + Muhammara
+### Session 3 — Baba Ganoush + Muhammara
 
 **Skill:** Char-roasting eggplant for smoky flavor; red pepper walnut dip technique  
 **Read first:** [The Best Baba Ganoush](https://www.seriouseats.com/the-best-baba-ganoush-recipe) | [Muhammara](https://www.seriouseats.com/muhammara-recipe-11725275)
@@ -57,13 +57,8 @@ The first week focuses on building the foundational components of a Middle Easte
 
 ---
 
-### Thursday — Rest Day
 
-**Reflect:** All three starters from this week (hummus, baba ganoush, muhammara) require a purée from scratch. Compare the textural outcomes: what makes each one distinct? What tool used (blender vs. food processor vs. mortar and pestle) changed the result?
-
----
-
-### Friday — Falafel
+### Session 4 — Falafel
 
 **Skill:** Dried chickpea-based falafel; herb incorporation; frying temperature management  
 **Read first:** [The Best Homemade Falafel](https://www.seriouseats.com/the-food-lab-vegan-experience-best-homemade-falafel-recipe)
@@ -78,7 +73,7 @@ The first week focuses on building the foundational components of a Middle Easte
 
 ---
 
-### Saturday — PROJECT: Beef Shawarma
+### Session 5 — PROJECT: Beef Shawarma
 
 **Skill:** Thin beef marinade and cooking stack concept; shawarma wrap assembly  
 **Read first:** [Beef Shawarma](https://www.seriouseats.com/beef-shawarma-recipe-11825269)
@@ -97,7 +92,7 @@ The first week focuses on building the foundational components of a Middle Easte
 
 ---
 
-### Monday — Adana Kebab (Turkish Ground Lamb Skewer)
+### Session 6 — Adana Kebab (Turkish Ground Lamb Skewer)
 
 **Skill:** Hand-mixing ground lamb fat; skewer technique; flat metal skewer cooking  
 **Read first:** [Adana Kebab — Turkish Ground Lamb](https://www.seriouseats.com/adana-kebab-turkish-ground-lamb-kebab-recipe)
@@ -110,7 +105,7 @@ The first week focuses on building the foundational components of a Middle Easte
 
 ---
 
-### Tuesday — Fattoush + Tabbouleh Deep Dive
+### Session 7 — Fattoush + Tabbouleh Deep Dive
 
 **Skill:** Fried pita crisp; sumac dressing; understanding bulgur vs. couscous vs. freekeh  
 **Read first:** [Fattoush](https://www.seriouseats.com/fattoush-recipe-8638102) | [Tabbouleh](https://www.seriouseats.com/tabbouleh-salad-recipe)
@@ -125,7 +120,7 @@ The first week focuses on building the foundational components of a Middle Easte
 
 ---
 
-### Wednesday — Persian-Style Herb Frittata (Kuku Sabzi) or Rice (Chelow)
+### Session 8 — Persian-Style Herb Frittata (Kuku Sabzi) or Rice (Chelow)
 
 **Skill:** Herb-heavy egg bake; or Persian steamed rice with tahdig crust  
 **Read first:** For kuku sabzi — use a handful each of fresh dill, parsley, cilantro, and fenugreek leaves (dried works), with eggs, turmeric, and barberries; baked or pan-cooked. For chelow with tahdig: [Chelow (Persian Steamed White Rice)](https://www.seriouseats.com/chelow-persian-steamed-white-rice-recipe-7197809) | [Tahdig (Persian Crunchy Rice)](https://www.seriouseats.com/tahdig-persian-crunchy-rice-7187445)
@@ -138,11 +133,8 @@ The first week focuses on building the foundational components of a Middle Easte
 
 ---
 
-### Thursday — Rest Day
 
----
-
-### Friday — Kabsa (Saudi Spiced Chicken and Rice)
+### Session 9 — Kabsa (Saudi Spiced Chicken and Rice)
 
 **Skill:** One-pot rice and chicken; aromatic spiced stock; kabsa spice profile  
 **Read first:** [Kabsa — Spiced Chicken and Rice](https://www.seriouseats.com/kabsa-spiced-chicken-and-rice-11878672)
@@ -155,7 +147,7 @@ The first week focuses on building the foundational components of a Middle Easte
 
 ---
 
-### Saturday — PROJECT: Full Mezze Table
+### Session 10 — PROJECT: Full Mezze Table
 
 **Skill:** Coordinating, plating, and timing a traditional mezze spread  
 **Goal:** Assemble the most complete mezze table you can from the two weeks of Middle Eastern cooking:

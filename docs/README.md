@@ -1,10 +1,10 @@
-# 🍳 Home Culinary School — The 56-Week Culinary Project
+# 🍳 Home Culinary School — The 52-Week Culinary Project
 
-> **A 56-Week Program for the Home Cook Who Already Cooks**
+> **A 52-Week Program for the Home Cook Who Already Cooks**
 
 ---
 
-**Your Schedule:** Monday · Tuesday · Wednesday · Friday cook | **Saturday** = Big Project | **Thursday & Sunday** = Off
+**Your Schedule:** Monday · Tuesday · Wednesday · Friday cook | **Saturday** = Big Project
 
 **Philosophy:** Every session layers a professional skill into a meal you'd be cooking anyway. Skills compound. Confidence grows.
 
@@ -46,10 +46,10 @@ Each 2-week block has **three files**:
 | Weeks | Topic | Full Guide | Quick Ref | Shopping List |
 |-------|-------|------------|-----------|---------------|
 | 17–18 | Beef — Fundamentals | [→ Guide](weeks/03-the-proteins/17-18-beef-fundamentals/index.md) | [→ Quick Ref](weeks/03-the-proteins/17-18-beef-fundamentals/quick-ref.md) | [→ Shopping](weeks/03-the-proteins/17-18-beef-fundamentals/shopping-list.md) |
-| 19–20 | Beef — Advanced Cuts | [→ Guide](weeks/03-the-proteins/19-20-beef-advanced/index.md) | [→ Quick Ref](weeks/03-the-proteins/19-20-beef-advanced/quick-ref.md) | [→ Shopping](weeks/03-the-proteins/19-20-beef-advanced/shopping-list.md) |
-| 21–22 | Pork — All Cuts | [→ Guide](weeks/03-the-proteins/21-22-pork/index.md) | [→ Quick Ref](weeks/03-the-proteins/21-22-pork/quick-ref.md) | [→ Shopping](weeks/03-the-proteins/21-22-pork/shopping-list.md) |
-| 23–24 | Fish | [→ Guide](weeks/03-the-proteins/23-24-fish/index.md) | [→ Quick Ref](weeks/03-the-proteins/23-24-fish/quick-ref.md) | [→ Shopping](weeks/03-the-proteins/23-24-fish/shopping-list.md) |
-| 25–26 | Shellfish | [→ Guide](weeks/03-the-proteins/25-26-shellfish/index.md) | [→ Quick Ref](weeks/03-the-proteins/25-26-shellfish/quick-ref.md) | [→ Shopping](weeks/03-the-proteins/25-26-shellfish/shopping-list.md) |
+| 19–20 | Fish | [→ Guide](weeks/03-the-proteins/19-20-fish/index.md) | [→ Quick Ref](weeks/03-the-proteins/19-20-fish/quick-ref.md) | [→ Shopping](weeks/03-the-proteins/19-20-fish/shopping-list.md) |
+| 21–22 | Beef — Advanced Cuts | [→ Guide](weeks/03-the-proteins/21-22-beef-advanced/index.md) | [→ Quick Ref](weeks/03-the-proteins/21-22-beef-advanced/quick-ref.md) | [→ Shopping](weeks/03-the-proteins/21-22-beef-advanced/shopping-list.md) |
+| 23–24 | Shellfish | [→ Guide](weeks/03-the-proteins/23-24-shellfish/index.md) | [→ Quick Ref](weeks/03-the-proteins/23-24-shellfish/quick-ref.md) | [→ Shopping](weeks/03-the-proteins/23-24-shellfish/shopping-list.md) |
+| 25–26 | Pork — All Cuts | [→ Guide](weeks/03-the-proteins/25-26-pork/index.md) | [→ Quick Ref](weeks/03-the-proteins/25-26-pork/quick-ref.md) | [→ Shopping](weeks/03-the-proteins/25-26-pork/shopping-list.md) |
 | 27–28 | Module 3 Capstone: Charcuterie & Curing | [→ Guide](weeks/03-the-proteins/27-28-charcuterie-review/index.md) | [→ Quick Ref](weeks/03-the-proteins/27-28-charcuterie-review/quick-ref.md) | [→ Shopping](weeks/03-the-proteins/27-28-charcuterie-review/shopping-list.md) |
 
 ### 🌍 [The World's Kitchens](weeks/04-worlds-kitchens/README.md) (Weeks 29–44)
@@ -65,16 +65,14 @@ Each 2-week block has **three files**:
 | 41–42 | Middle Eastern | [→ Guide](weeks/04-worlds-kitchens/41-42-middle-eastern/index.md) | [→ Quick Ref](weeks/04-worlds-kitchens/41-42-middle-eastern/quick-ref.md) | [→ Shopping](weeks/04-worlds-kitchens/41-42-middle-eastern/shopping-list.md) |
 | 43–44 | Module 4 Capstone: Southeast Asian Cuisines | [→ Guide](weeks/04-worlds-kitchens/43-44-southeast-asian-review/index.md) | [→ Quick Ref](weeks/04-worlds-kitchens/43-44-southeast-asian-review/quick-ref.md) | [→ Shopping](weeks/04-worlds-kitchens/43-44-southeast-asian-review/shopping-list.md) |
 
-### 🍞 [Mastery & Pastry](weeks/05-mastery-and-pastry/README.md) (Weeks 45–56)
+### 🍞 [Mastery & Pastry](weeks/05-mastery-and-pastry/README.md) (Weeks 45–52)
 
 | Weeks | Topic | Full Guide | Quick Ref | Shopping List |
 |-------|-------|------------|-----------|---------------|
 | 45–46 | Bread — Fundamentals | [→ Guide](weeks/05-mastery-and-pastry/45-46-bread/index.md) | [→ Quick Ref](weeks/05-mastery-and-pastry/45-46-bread/quick-ref.md) | [→ Shopping](weeks/05-mastery-and-pastry/45-46-bread/shopping-list.md) |
-| 47–48 | Pastry | [→ Guide](weeks/05-mastery-and-pastry/47-48-pastry/index.md) | [→ Quick Ref](weeks/05-mastery-and-pastry/47-48-pastry/quick-ref.md) | [→ Shopping](weeks/05-mastery-and-pastry/47-48-pastry/shopping-list.md) |
-| 49–50 | Desserts | [→ Guide](weeks/05-mastery-and-pastry/49-50-desserts/index.md) | [→ Quick Ref](weeks/05-mastery-and-pastry/49-50-desserts/quick-ref.md) | [→ Shopping](weeks/05-mastery-and-pastry/49-50-desserts/shopping-list.md) |
-| 51–52 | Your Signature Dishes | [→ Guide](weeks/05-mastery-and-pastry/51-52-signature-dishes/index.md) | [→ Quick Ref](weeks/05-mastery-and-pastry/51-52-signature-dishes/quick-ref.md) | [→ Shopping](weeks/05-mastery-and-pastry/51-52-signature-dishes/shopping-list.md) |
-| 53–54 | Menus & Timing | [→ Guide](weeks/05-mastery-and-pastry/53-54-menus-and-timing/index.md) | [→ Quick Ref](weeks/05-mastery-and-pastry/53-54-menus-and-timing/quick-ref.md) | [→ Shopping](weeks/05-mastery-and-pastry/53-54-menus-and-timing/shopping-list.md) |
-| 55–56 | Module 5 Capstone: The Final Exam | [→ Guide](weeks/05-mastery-and-pastry/55-56-final-exam/index.md) | [→ Quick Ref](weeks/05-mastery-and-pastry/55-56-final-exam/quick-ref.md) | [→ Shopping](weeks/05-mastery-and-pastry/55-56-final-exam/shopping-list.md) |
+| 47–50 | Pastry & Desserts | [→ Guide](weeks/05-mastery-and-pastry/47-48-pastry/index.md) | [→ Quick Ref](weeks/05-mastery-and-pastry/47-48-pastry/quick-ref.md) | [→ Shopping](weeks/05-mastery-and-pastry/47-48-pastry/shopping-list.md) |
+| 49–50 | Your Signature Dishes | [→ Guide](weeks/05-mastery-and-pastry/49-50-signature-dishes/index.md) | [→ Quick Ref](weeks/05-mastery-and-pastry/49-50-signature-dishes/quick-ref.md) | [→ Shopping](weeks/05-mastery-and-pastry/49-50-signature-dishes/shopping-list.md) |
+| 51–52 | Module 5 Capstone: Menus, Timing & The Final Exam | [→ Guide](weeks/05-mastery-and-pastry/51-52-final-exam/index.md) | [→ Quick Ref](weeks/05-mastery-and-pastry/51-52-final-exam/quick-ref.md) | [→ Shopping](weeks/05-mastery-and-pastry/51-52-final-exam/shopping-list.md) |
 
 ---
 
@@ -86,8 +84,7 @@ Each 2-week block has **three files**:
 | **The Meal** | A complete dinner built around that skill — protein + veg + starch (or salad) |
 | **The Read** | A short article that explains the *why* behind what you cooked |
 | **Saturday Project** | A bigger cook that makes the week's skills visible |
-| **Sunday Reflection** | 3 sentences in your notes app. The habit that separates cooks who plateau from cooks who keep growing. |
 
 ---
 
-*Program design: Built for cooks who already cook 5 days a week and want to think like a chef — not just follow recipes. 56 weeks. Every skill. No fluff.*
+*Program design: Built for cooks who already cook 5 days a week and want to think like a chef — not just follow recipes. 52 weeks. Every skill. No fluff.*

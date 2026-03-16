@@ -1,4 +1,4 @@
-# ⚡ Weeks 23–24 Quick Reference — Seafood: Fish
+# ⚡ Weeks 19–20 Quick Reference — Seafood: Fish
 
 ← [Back to Full Guide](index.md) | [Shopping List →](shopping-list.md)
 

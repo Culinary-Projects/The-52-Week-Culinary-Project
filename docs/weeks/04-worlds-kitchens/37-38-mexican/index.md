@@ -14,7 +14,7 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 
 ---
 
-### Monday — Carne Asada
+### Session 1 — Carne Asada
 
 **Skill:** Marinating thin beef for grill; char without overcooking; proper resting  
 **Read first:** [Carne Asada](https://www.seriouseats.com/carne-asada-food-lab-recipe-kenji)
@@ -27,7 +27,7 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 
 ---
 
-### Tuesday — Pozole Rojo
+### Session 2 — Pozole Rojo
 
 **Skill:** Dried chile rehydration and integration; hominy preparation; pozole's garnish architecture  
 **Read first:** [Pozole — Mexican Red Chile Pork Soup](https://www.seriouseats.com/pozole-mexican-red-chile-pork-soup-recipe-8732258)
@@ -41,7 +41,7 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 
 ---
 
-### Wednesday — Guacamole + Salsa Verde (The Fundamentals)
+### Session 3 — Guacamole + Salsa Verde (The Fundamentals)
 
 **Skill:** Avocado selection and browning prevention; charring tomatillos; raw vs. cooked salsa  
 **Read first:** [How to Prevent Guacamole from Browning](https://www.seriouseats.com/how-to-prevent-guacamole-from-browning-11890941)
@@ -56,13 +56,8 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 
 ---
 
-### Thursday — Rest Day
 
-**Reflect:** Compare the chile sauce you made for pozole with the chipotles-in-adobo you may have used in other recipes. How does rehydrating and blending dried chiles from scratch change the flavor? Note the complexity difference.
-
----
-
-### Friday — Tacos al Pastor
+### Session 4 — Tacos al Pastor
 
 **Skill:** Al pastor marinade (achiote paste base); achiote spice profile; stovetop vs. grill comal technique  
 **Read first:** [Tacos al Pastor](https://www.seriouseats.com/tacos-al-pastor-recipe)
@@ -75,7 +70,7 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 
 ---
 
-### Saturday — PROJECT: Enchiladas + Red Chile Sauce from Scratch
+### Session 5 — PROJECT: Enchiladas + Red Chile Sauce from Scratch
 
 **Skill:** Making a proper red chile sauce (not store-bought); enchilada rolling and baking  
 **What you're learning:** Real enchiladas are dipped in a chile sauce, not smothered in sauce after. The corn tortilla is briefly fried or softened in the sauce itself, then rolled around the filling, laid in a pan, and baked until the sauce caramelizes. The sauce is the skill — make it from at least two dried chile varieties.
@@ -93,7 +88,7 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 
 ---
 
-### Monday — Birria de Res (Beef Birria)
+### Session 6 — Birria de Res (Beef Birria)
 
 **Skill:** Long beef braise in a complex chile marinade; consommé for dipping  
 **Read first:** [Birria de Res (Beef Birria)](https://www.seriouseats.com/birria-de-res-beef-birria-recipe-8362004)
@@ -108,7 +103,7 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 
 ---
 
-### Tuesday — Mole Negro (Simplified Introduction)
+### Session 7 — Mole Negro (Simplified Introduction)
 
 **Skill:** Multi-chile mole building; chocolate integration in savory sauce; depth layering  
 **Read first:** [Mole Negro (Oaxacan Black Mole Sauce)](https://www.seriouseats.com/mole-negro-recipe-11739614)
@@ -121,7 +116,7 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 
 ---
 
-### Wednesday — Tamales (Team Project)
+### Session 8 — Tamales (Team Project)
 
 **Skill:** Masa dough preparation (masa harina + lard or fat); spreading on husks; steaming  
 **Read first:** [How to Make Tamales — Comprehensive Guide](https://www.seriouseats.com/tamales-recipe-8649579)
@@ -134,11 +129,8 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 
 ---
 
-### Thursday — Rest Day
 
----
-
-### Friday — Chiles Rellenos
+### Session 9 — Chiles Rellenos
 
 **Skill:** Roasting and peeling poblano peppers; battered egg-white fry technique  
 **Read first:** [Chiles Rellenos (Mexican-Style Cheese-Stuffed Chiles)](https://www.seriouseats.com/chiles-rellenos-smothered-and-traditional-recipe)
@@ -153,7 +145,7 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 
 ---
 
-### Saturday — PROJECT: Full Mexican Celebration Dinner
+### Session 10 — PROJECT: Full Mexican Celebration Dinner
 
 **Skill:** Multi-dish coordination; table presentation of Mexican feast  
 **Goal:** Choose 4–5 dishes from the two weeks and serve them restaurant-style:

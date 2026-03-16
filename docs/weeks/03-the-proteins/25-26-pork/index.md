@@ -1,4 +1,4 @@
-# 🐷 Weeks 21–22: Pork — All Cuts
+# 🐷 Weeks 25–26: Pork — All Cuts
 
 ← [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
 
@@ -8,13 +8,13 @@
 
 ---
 
-## Week 19 — The Pork Fundamentals
+## Week 25 — The Pork Fundamentals
 
 **The key principle of pork this week:** Pork ≠ tough. The modern farmed pig is different from 30 years ago — leaner, safer at lower internal temperatures. The new standard is 145°F (USDA updated this in 2011), which means medium pork — still slightly pink — is correct. Cooking pork to 165°F the way you might have learned produces dry, grey, flavorless meat.
 
 ---
 
-### Monday — Perfect Pork Chop
+### Session 1 — Perfect Pork Chop
 
 **Skill:** The hardest weeknight cook well-done: a bone-in pork chop, properly seared, properly finished, properly rested. Most home cooks overcook pork chops because they're afraid of undercooked pork. Tonight: understand the actual target (145°F), achieve it, taste the difference.
 
@@ -27,7 +27,7 @@
 
 ---
 
-### Tuesday — Chashu Pork Belly: Low and Slow Japanese-Style
+### Session 2 — Chashu Pork Belly: Low and Slow Japanese-Style
 
 **Skill:** Chashu is braised and rolled pork belly — the origin is Japanese but the technique (braise in soy, mirin, sake, sugar) is a master class in balancing the four flavor elements in one preparation. The rendered belly collagen gives the braising liquid richness; the soy gives umami; the mirin and sugar give the glaze sweetness and lacquer.
 
@@ -41,7 +41,7 @@
 
 ---
 
-### Wednesday — Pork Tenderloin: Speed and Precision
+### Session 3 — Pork Tenderloin: Speed and Precision
 
 **Skill:** Pork tenderloin is the leanest cut from the pig — cooked wrong it becomes the driest. The solution: high-heat sear, quick oven finish, immediate rest. There's almost no room for error in temperature here. Practice tonight.
 
@@ -51,13 +51,7 @@
 
 ---
 
-### Thursday — OFF
-
-📖 Rest. Or use the leftover chashu from Tuesday: slice it thin, make a simple bowl with rice, soft-boiled egg, nori, and whatever sauces you have on hand. This teaches you how a long-cook project pays off in multiple meals.
-
----
-
-### Friday — Vietnamese Grilled Pork Chop (Thit Heo Nuong)
+### Session 4 — Vietnamese Grilled Pork Chop (Thit Heo Nuong)
 
 **Skill:** Marinated, grilled until caramelized and slightly charred. This is one of the traditional Vietnamese broken rice (cơm tấm) preparations — the marinade is lemongrass, garlic, fish sauce, and a little sugar. The key technique: high heat, fast cook, maximum caramelization.
 
@@ -68,7 +62,7 @@
 
 ---
 
-### Saturday — PROJECT: Ultra-Crispy Slow-Roasted Pork Shoulder
+### Session 5 — PROJECT: Ultra-Crispy Slow-Roasted Pork Shoulder
 
 **Skill:** One of the most satisfying large-format cooks in the pork repertoire. The shoulder (Boston butt or picnic) goes into a 300°F oven for 5–6 hours, then gets blasted at 500°F for 20–30 minutes to develop explosive crackling. The result feeds a crowd and requires almost no active cooking — mostly patience.
 
@@ -81,17 +75,11 @@
 
 ---
 
-### Sunday — OFF
-
-Write: what was the biggest surprise about pork this week? Did the chashu (Tuesday) change how you think about braises? Did the crispy shoulder crackling make sense physically once you did it?
+## Week 26 — Pork: Belly, Ribs, and Curing
 
 ---
 
-## Week 20 — Pork: Belly, Ribs, and Curing
-
----
-
-### Monday — Belly: Pan-Crispy, No 5-Hour Braise
+### Session 6 — Belly: Pan-Crispy, No 5-Hour Braise
 
 **Skill:** Pork belly doesn't always require hours of cooking. Sliced pork belly (about ½ inch thick from your butcher) pan-seared in its own fat until crispy and rendered — this is the basis for guanciale, pancetta, and bacon-adjacent flavor without the cure. A learning cook this week.
 
@@ -101,7 +89,7 @@ Write: what was the biggest surprise about pork this week? Did the chashu (Tuesd
 
 ---
 
-### Tuesday — Pork Ribs: Understanding the Two Methods
+### Session 7 — Pork Ribs: Understanding the Two Methods
 
 **Skill:** Spare ribs (more fat, more flavor) vs. baby back ribs (more tender, faster). Tonight: a hybrid method — 2 hours low in the oven, then a finish on the grill or under the broiler. This solves the classic rib problem: you need collagen conversion (time + moderate heat) AND caramelized exterior (high heat).
 
@@ -111,7 +99,7 @@ Write: what was the biggest surprise about pork this week? Did the chashu (Tuesd
 
 ---
 
-### Wednesday — Porchetta: Italian Pork at Its Peak
+### Session 8 — Porchetta: Italian Pork at Its Peak
 
 **Skill:** Porchetta is pork belly wrapped around a seasoned loin (or all-belly), rolled, tied, and slow-roasted. Fennel seed, rosemary, garlic, black pepper, and lemon zest are traditional. The skin crackles. The interior stays impossibly juicy. This is the most complex pork project of the block.
 
@@ -122,13 +110,7 @@ Write: what was the biggest surprise about pork this week? Did the chashu (Tuesd
 
 ---
 
-### Thursday — OFF
-
-📖 Look up: what is the difference between guanciale, pancetta, and prosciutto? All three are Italian cured pork products. Why does guanciale give cacio e pepe its specific flavor (which pancetta doesn't replicate perfectly)? You've cooked with all three — now understand the distinctions.
-
----
-
-### Friday — Pork Meatballs: Ground Pork Technique
+### Session 9 — Pork Meatballs: Ground Pork Technique
 
 **Skill:** Ground pork makes the most flavorful meatballs — more than beef, because the fat content is higher. Tonight: traditional Italian-style meatball technique (bread soaked in milk, gently mixed, seared rather than baked).
 
@@ -138,7 +120,7 @@ Write: what was the biggest surprise about pork this week? Did the chashu (Tuesd
 
 ---
 
-### Saturday — PROJECT: Carnitas and the Whole Shoulder Taco Dinner
+### Session 10 — PROJECT: Carnitas and the Whole Shoulder Taco Dinner
 
 **Skill:** Carnitas — Mexican lard-braised pork shoulder — is one of the finest applications of cheap pork in any cuisine. The shoulder goes into a Dutch oven with lard (or a combination of water + lard), orange, lime, bay, and cumin. The water evaporates and the pork fries in its own fat at the end, creating both tender interior and hard-crisped exterior simultaneously.
 
@@ -148,12 +130,6 @@ Write: what was the biggest surprise about pork this week? Did the chashu (Tuesd
 *The real skill: the warm tortilla is important. Wrap them in a cloth. Keep them warm. The taco is only as good as the tortilla.*
 
 > 🎥 **Compare Notes:** [Carnitas are Easy, Inexpensive, and Delicious](https://www.youtube.com/watch?v=JRlmQdRN0G8) — Watch the final fat-frying step closely — that's the moment the pork goes from braised to both tender AND crispy simultaneously.
-
----
-
-### Sunday — OFF
-
-One paragraph: What do you now understand about pork fat that you didn't before? (Hint: it's not just "flavor." It's about rendering temperature, smoke point, and the way fat transfers heat to the meat it surrounds.)
 
 ---
 
@@ -192,4 +168,4 @@ This week is a natural gateway to charcuterie. Bacon, pancetta, and guanciale ar
 
 ---
 
-← [Weeks 19–20](../19-20-beef-advanced/index.md) | [Weeks 23–24 →](../23-24-fish/index.md)
+← [Weeks 23–24: Shellfish](../23-24-shellfish/index.md) | [Weeks 27–28: Charcuterie →](../27-28-charcuterie-review/index.md)

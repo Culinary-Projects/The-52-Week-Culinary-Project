@@ -14,7 +14,7 @@ Japanese cooking builds on a different set of foundational principles than Frenc
 
 ---
 
-### Monday — Dashi (Kombu and Katsuobushi Stock)
+### Session 1 — Dashi (Kombu and Katsuobushi Stock)
 
 **Skill:** Cold-infusion technique for kombu; adding bonito; filtering clearly  
 **Read first:** [Basic Japanese Dashi](https://www.seriouseats.com/basic-japanese-dashi-recipe)
@@ -30,7 +30,7 @@ Japanese cooking builds on a different set of foundational principles than Frenc
 
 ---
 
-### Tuesday — Tonkatsu (Japanese Breaded Pork Cutlet)
+### Session 2 — Tonkatsu (Japanese Breaded Pork Cutlet)
 
 **Skill:** Japanese breading technique (flour → egg → panko); deep-fry temperature management  
 **Read first:** [Tonkatsu — Japanese Breaded Cutlets](https://www.seriouseats.com/tonkatsu-chicken-pork-katsu-japanese-breaded-cutlets-recipe)
@@ -45,7 +45,7 @@ Japanese cooking builds on a different set of foundational principles than Frenc
 
 ---
 
-### Wednesday — Tamagoyaki (Japanese Rolled Omelette)
+### Session 3 — Tamagoyaki (Japanese Rolled Omelette)
 
 **Skill:** Dashi-seasoned egg rolling technique; control of thin layer cooking  
 **Read first:** [Home-Style Tamagoyaki](https://www.seriouseats.com/home-style-tamagoyaki-japanese-rolled-omelette)
@@ -97,7 +97,7 @@ Japanese cooking builds on a different set of foundational principles than Frenc
 
 ---
 
-### Friday — Tempura
+### Session 4 — Tempura
 
 **Skill:** Ice-cold batter technique; frying at high temperature; tempura dipping sauce from dashi  
 **Read first:** [Deep-Fried Green Bean and Shiitake Tempura](https://www.seriouseats.com/deep-fried-green-bean-and-shiitake-tempura-with-ponzu-mayonnaise-recipe)
@@ -110,7 +110,7 @@ Japanese cooking builds on a different set of foundational principles than Frenc
 
 ---
 
-### Saturday — PROJECT: Oyakodon + Full Japanese Dinner
+### Session 5 — PROJECT: Oyakodon + Full Japanese Dinner
 
 **Skill:** Donburi-style (rice bowl) cooking; egg barely set at the finish  
 **Read first:** [Oyakodon — Japanese Chicken and Egg Rice Bowl](https://www.seriouseats.com/oyakodon-japanese-chicken-and-egg-rice-bowl-recipe)
@@ -131,7 +131,7 @@ Japanese cooking builds on a different set of foundational principles than Frenc
 
 ---
 
-### Monday — Tonkotsu-Style Ramen (Quick Weeknight Approach)
+### Session 6 — Tonkotsu-Style Ramen (Quick Weeknight Approach)
 
 **Skill:** Building ramen-adjacent richness without a 12-hour bone broth; tare (seasoning sauce)  
 **Read first:** [15-Minute Miso Butter Ramen](https://www.seriouseats.com/15-minute-miso-butter-ramen-recipe-11907783)
@@ -146,7 +146,7 @@ Japanese cooking builds on a different set of foundational principles than Frenc
 
 ---
 
-### Tuesday — Teriyaki Sauce from Scratch + Chicken Thighs
+### Session 7 — Teriyaki Sauce from Scratch + Chicken Thighs
 
 **Skill:** Building teriyaki glaze (soy + mirin + sake + sugar); applying it to grilled or pan-seared protein  
 **Read first:** [Teriyaki Sauce — How to Make at Home](https://www.seriouseats.com/teriyaki-sauce-how-to-make-at-home-recipe)
@@ -159,7 +159,7 @@ Japanese cooking builds on a different set of foundational principles than Frenc
 
 ---
 
-### Wednesday — Yakitori (Grilled Chicken Skewers)
+### Session 8 — Yakitori (Grilled Chicken Skewers)
 
 **Skill:** Skewering technique; tare application during grilling; cooking different chicken parts  
 **Read first:** [Negima Yakitori (Chicken and Scallion Skewers)](https://www.seriouseats.com/japanese-yakitori-negima-grilled-chicken-skewer-recipe)
@@ -172,11 +172,8 @@ Japanese cooking builds on a different set of foundational principles than Frenc
 
 ---
 
-### Thursday — Rest Day
 
----
-
-### Friday — Shabu-Shabu or Sukiyaki (Hot Pot)
+### Session 9 — Shabu-Shabu or Sukiyaki (Hot Pot)
 
 **Skill:** Japanese hot pot; building a table cooking experience; broth control  
 **Read first:** Shabu-shabu is a technique, not a recipe — no recipe needed. Buy paper-thin sliced ribeye from a Japanese grocery (or freeze a piece 2 hours and slice with a sharp knife). Stock: one large sheet of kombu in cold water, warmed slowly to 150°F — do not boil. Swirl 2–3 slices at a time for 10–15 seconds. Two dipping sauces: ponzu (citrus + soy) and sesame (tahini + rice vinegar + soy + sesame oil).
@@ -190,7 +187,7 @@ Japanese cooking builds on a different set of foundational principles than Frenc
 
 ---
 
-### Saturday — PROJECT: Full Japanese Kaiseki-Inspired Dinner
+### Session 10 — PROJECT: Full Japanese Kaiseki-Inspired Dinner
 
 **Skill:** Multi-component Japanese meal; balance of flavors and textures across courses  
 **Goal:** Build a simplified kaiseki-inspired meal across 4 courses:

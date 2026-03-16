@@ -1,4 +1,4 @@
-# 🐟 Weeks 23–24: Seafood — Fish
+# 🐟 Weeks 19–20: Seafood — Fish
 
 ← [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
 
@@ -8,13 +8,13 @@
 
 ---
 
-## Week 21 — The Fundamentals of Fish Cookery
+## Week 19 — The Fundamentals of Fish Cookery
 
 **The central principle this week:** Fish cooks faster than you think, at lower temperatures than you're used to, and the margin between perfect and overdone is about 30 seconds. Salmon at 125°F (slightly translucent at the center) is perfect. At 145°F it becomes dry and flaky in the wrong way. Everything this week is about developing the instinct to pull fish early.
 
 ---
 
-### Monday — Crispy-Skin Pan-Seared Salmon
+### Session 1 — Crispy-Skin Pan-Seared Salmon
 
 **Skill:** Perfectly crisped fish skin in a pan is one of the most technically satisfying results in everyday cooking. The two secrets are: dry the skin completely before cooking (paper towels, uncovered in fridge if possible), and resist the urge to move it. The skin needs sustained contact with the hot pan to release its moisture and crisp. If it sticks, it's not ready.
 
@@ -27,7 +27,7 @@
 
 ---
 
-### Tuesday — Sole Meunière: The French Lesson
+### Session 2 — Sole Meunière: The French Lesson
 
 **Skill:** Sole meunière is one of the first dishes classically taught to French culinary students. It's also one of the most instructive: dredge in flour, cook in butter, make the brown butter sauce in the same pan in 60 seconds, finish with lemon. Brown butter (beurre noisette) is a flavor you'll reach for constantly once you know it.
 
@@ -40,7 +40,7 @@
 
 ---
 
-### Wednesday — The Universal Crispy Fish Technique
+### Session 3 — The Universal Crispy Fish Technique
 
 **Skill:** [Serious Eats — The Easiest Crispy Pan-Seared Fish](https://www.seriouseats.com/the-easiest-crispy-pan-seared-fish-food-lab-recipe) — works on almost any white fish fillet. Tonight: cod, halibut, sea bass, or snapper — whatever is freshest and least expensive at your market. This is the workhorse technique you'll use for the rest of your life.
 
@@ -79,7 +79,7 @@
 
 ---
 
-### Friday — Miso-Glazed Salmon: Japanese Technique
+### Session 4 — Miso-Glazed Salmon: Japanese Technique
 
 **Skill:** The miso glaze (white miso, mirin, sake, sugar) is applied to salmon and left to cure for several hours or overnight. The sugars in the miso caramelize under the broiler in 3–4 minutes. This is one of the most famous fish preparations in Japanese home cooking — Nobu Matsuhisa's black cod version made it internationally famous, but salmon is the accessible entry point.
 
@@ -90,7 +90,7 @@
 
 ---
 
-### Saturday — PROJECT: Whole Roasted Fish
+### Session 5 — PROJECT: Whole Roasted Fish
 
 **Skill:** A whole fish — scored, stuffed with aromatics, and roasted at high heat — is one of the most impressive and least technically demanding cooks in this program. The bones protect the fish from overcooking significantly more than fillets do. The crispy skin pulls away from the bone with a wonderful texture.
 
@@ -103,17 +103,11 @@
 
 ---
 
-### Sunday — OFF
-
-Write: what was the biggest mental adjustment about fish cookery compared to beef and pork? Most people cook fish longer than necessary — did you resist this tonight?
+## Week 20 — Fish: Deeper Techniques & Global Preparations
 
 ---
 
-## Week 22 — Fish: Deeper Techniques & Global Preparations
-
----
-
-### Monday — Seared Fish + Mushroom, Asian Style
+### Session 6 — Seared Fish + Mushroom, Asian Style
 
 **Skill:** Pan-searing fish over a bed of shiitake mushrooms and aromatics — a technique from Chinese and East Asian cooking where the mushrooms both flavor the fish and prevent it from sticking dramatically. The result is fish with deeply savory umami below it, almost stock-like in the pan.
 
@@ -123,7 +117,7 @@ Write: what was the biggest mental adjustment about fish cookery compared to bee
 
 ---
 
-### Tuesday — Fish Tacos: West Coast Done Right
+### Session 7 — Fish Tacos: West Coast Done Right
 
 **Skill:** Baja fish tacos — battered, fried white fish, shredded cabbage, crema, and salsa. The batter is rice-flour-light; the oil temperature matters (350°F); the fish cooks in 90 seconds. Building a perfect taco is a lesson in acid, fat, heat, and crunch in one bite.
 
@@ -134,7 +128,7 @@ Write: what was the biggest mental adjustment about fish cookery compared to bee
 
 ---
 
-### Wednesday — Salmon Teriyaki: The Weeknight Standard
+### Session 8 — Salmon Teriyaki: The Weeknight Standard
 
 **Skill:** True teriyaki is a Japanese glaze (soy, mirin, sake, sugar) applied and cooked in the pan — not the thick bottled sauce you pour over cooked meat. The technique: sear the salmon, flip, add the teriyaki glaze to the pan, baste continuously as it reduces and lacquers the fish. This takes about 4 minutes total.
 
@@ -144,13 +138,7 @@ Write: what was the biggest mental adjustment about fish cookery compared to bee
 
 ---
 
-### Thursday — OFF
-
-📖 Think about this week's fish sources. Where did you buy them? Can you learn to identify freshness yourself — clear eyes on whole fish, smell (ocean mild, not "fishy"), gills that are bright red, flesh that springs back? Challenge: go to the fish counter and choose the freshest fillet without asking.
-
----
-
-### Friday — Whole Grilled Branzino
+### Session 9 — Whole Grilled Branzino
 
 **Skill:** Small whole fish on the grill — scored, rubbed with olive oil, placed over direct heat, flipped once. The bones protect the flesh from drying, the skin chars beautifully, and the result is cleaner-tasting than almost any fillet preparation. Two minutes per side is usually enough for a 500g fish.
 
@@ -162,7 +150,7 @@ Write: what was the biggest mental adjustment about fish cookery compared to bee
 
 ---
 
-### Saturday — PROJECT: Bouillabaisse (The Grand Fish Stew)
+### Session 10 — PROJECT: Bouillabaisse (The Grand Fish Stew)
 
 **Skill:** Bouillabaisse is the most technically demanding fish recipe in this block — and the most rewarding. It requires: a flavorful, deeply reduced broth made from fish bones and shells; aromatics cooked in stages; multiple fish and shellfish added in sequence by how long they need. The rouille (saffron-garlic aioli spread on croutons) is the soul of the dish.
 
@@ -173,12 +161,6 @@ This is a half-day project. Buy the bones/shells the same day (ask your fishmong
 **The Saturday spread:** Bouillabaisse + rouille croutons + crusty bread + simple green salad
 
 > 🎥 **Compare Notes:** [Bouillabaisse and How to Make Fish Stock](https://www.youtube.com/watch?v=Ul_ymBC-cxk) *(Helen Rennie)* — The stock-building section is the real lesson; watch how she extracts flavor from bones and shells before anything else goes in the pot.
-
----
-
-### Sunday — OFF
-
-Write: what is the universal fish truth you take away from these two weeks? (Suggested reflection direction: fish communicates readiness — it turns from translucent to opaque, from raw pink to cooked white, from raw flesh that sticks to the pan to cooked flesh that releases. All you have to do is watch.)
 
 ---
 
@@ -217,4 +199,4 @@ Bouillabaisse is a lesson in building shellfish stock, saffron, and rouille — 
 
 ---
 
-← [Weeks 21–22](../21-22-pork/index.md) | [Weeks 25–26 →](../25-26-shellfish/index.md)
+← [Weeks 17–18: Beef Fundamentals](../17-18-beef-fundamentals/index.md) | [Weeks 21–22: Beef Advanced →](../21-22-beef-advanced/index.md)

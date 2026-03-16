@@ -24,7 +24,7 @@ The CIA spends four full weeks on vegetable fabrication and cookery before touch
 
 ## Week 11 — Vegetable Mastery
 
-### Monday — Blanching, Shocking, and Color Science
+### Session 1 — Blanching, Shocking, and Color Science
 
 **Skill:** Blanching (brief boiling) plus shocking (ice bath) is the professional technique for preserving color, texture, and nutritional value in vegetables. It's also the mise en place move for any vegetable that needs to be partially cooked ahead of service.
 
@@ -58,7 +58,7 @@ The CIA spends four full weeks on vegetable fabrication and cookery before touch
 
 ---
 
-### Tuesday — Roasting: Caramelization and Concentration
+### Session 2 — Roasting: Caramelization and Concentration
 
 **Skill:** Roasting drives out moisture and concentrates flavor while caramelizing the natural sugars in vegetables. It's the technique that turns broccoli from something people tolerate into something people want seconds of.
 
@@ -85,7 +85,7 @@ The CIA spends four full weeks on vegetable fabrication and cookery before touch
 
 ---
 
-### Wednesday — Sauté, Braise, and the Crucifer Redemption
+### Session 3 — Sauté, Braise, and the Crucifer Redemption
 
 **Skill:** Cruciferous vegetables (Brussels sprouts, cabbage, cauliflower, broccoli) are the most-hated and most-abused vegetable family. The problem is almost always method — boiled vegetables taste of sulfur; roasted or properly braised vegetables taste of caramelization and sweetness.
 
@@ -132,7 +132,7 @@ Both can be passed through a fine mesh sieve for professional-smooth results. Th
 
 ---
 
-### Friday — Grilling and Charring: Fire as Flavor
+### Session 4 — Grilling and Charring: Fire as Flavor
 
 **Skill:** Direct heat on vegetables produces char — carbon compounds that add bitterness, smokiness, and complexity. This is the single most underused technique for home vegetable cookery.
 
@@ -155,7 +155,7 @@ Both can be passed through a fine mesh sieve for professional-smooth results. Th
 
 ---
 
-### Saturday — PROJECT: Plant-Forward Dinner Party
+### Session 5 — PROJECT: Plant-Forward Dinner Party
 
 Cook a complete dinner where vegetables are the headline, not the support act. No protein required (though a soft-boiled egg or some cheese is allowed).
 
@@ -174,17 +174,11 @@ Cook a complete dinner where vegetables are the headline, not the support act. N
 
 ---
 
-### Sunday — OFF
-
-Write: what vegetable do you dislike? Cook it using a method from this week that you've never applied to it. Report back to yourself.
-
----
-
 ## Week 12 — Plant-Forward & Advanced Vegetable Technique
 
 ---
 
-### Monday — The Composed Salad: Dressing Is a Technique
+### Session 6 — The Composed Salad: Dressing Is a Technique
 
 **Skill:** A well-composed salad is not a bowl of things with dressing poured over it. It's a dish with its own architecture: texture contrast, temperature contrast, acid-fat balance, and deliberate seasoning.
 
@@ -206,7 +200,7 @@ Write: what vegetable do you dislike? Cook it using a method from this week that
 
 ---
 
-### Tuesday — Legumes and Beans: The Forgotten Protein
+### Session 7 — Legumes and Beans: The Forgotten Protein
 
 **Skill:** Beans cooked from dried are meaningfully better than canned. They also teach you patience, seasoning over time, and how to build flavor in a humble ingredient.
 
@@ -231,7 +225,7 @@ Write: what vegetable do you dislike? Cook it using a method from this week that
 
 ---
 
-### Wednesday — Mushrooms: Umami in Plant Form
+### Session 8 — Mushrooms: Umami in Plant Form
 
 **Skill:** Mushrooms deserve an entire session because they behave unlike any other vegetable — they're 80–90% water, which means crowding a pan turns them into steamed rubber. The technique that produces deep flavor is identical to a proper sear: high heat, no crowding, don't stir.
 
@@ -276,7 +270,7 @@ Write: what vegetable do you dislike? Cook it using a method from this week that
 
 ---
 
-### Friday — A Completely Vegetable-Driven Main
+### Session 9 — A Completely Vegetable-Driven Main
 
 **Skill:** Executing a dinner where a vegetable is the structural main course — not a supplement to protein, not a side.
 
@@ -296,7 +290,7 @@ The stuffing is the lesson: aromatic base (onion, garlic) + grain (rice, farro, 
 
 ---
 
-### Saturday — PROJECT: The Vegetable Tasting Menu
+### Session 10 — PROJECT: The Vegetable Tasting Menu
 
 Cook 4–5 vegetable preparations using different techniques. Serve them as a tasting — small plates, one at a time, with bread.
 
@@ -309,12 +303,6 @@ Cook 4–5 vegetable preparations using different techniques. Serve them as a ta
 | 5 | Quick-pickled vegetables + bread | Fermentation + pickling |
 
 This is practice for the multi-course timing you'll need for the dinner parties in Weeks 53–54.
-
----
-
-### Sunday — OFF
-
-The sauerkraut you started Thursday needs checking. Push it down under the brine if any has floated above the liquid. It should smell pleasantly sour, not foul.
 
 ---
 

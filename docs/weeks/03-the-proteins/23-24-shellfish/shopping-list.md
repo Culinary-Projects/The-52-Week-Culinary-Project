@@ -1,4 +1,4 @@
-# 🛒 Shopping List — Weeks 25–26: Shellfish
+# 🛒 Shopping List — Weeks 23–24: Shellfish
 
 ← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)
 

@@ -14,7 +14,7 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 
 ---
 
-### Monday — Mushroom Risotto
+### Session 1 — Mushroom Risotto
 
 **Skill:** Ladle-by-ladle stock addition; risotto consistency (mantecatura); choosing the right rice  
 **Read first:** [Pressure Cooker Mushroom Risotto](https://www.seriouseats.com/pressure-cooker-mushroom-risotto-recipe)
@@ -29,7 +29,7 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 
 ---
 
-### Tuesday — Minestrone (The Full Version)
+### Session 2 — Minestrone (The Full Version)
 
 **Skill:** Building vegetable-forward Italian broth; proper pasta-in-soup timing  
 **Read first:** [The Best Minestrone Soup](https://www.seriouseats.com/the-best-minestrone-soup-recipe)
@@ -44,7 +44,7 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 
 ---
 
-### Wednesday — Osso Buco alla Milanese
+### Session 3 — Osso Buco alla Milanese
 
 **Skill:** Cross-cut veal shank braising; gremolata (the raw herb-lemon finish)  
 **Read first:** [Osso Buco — Italian Braised Veal Shanks](https://www.seriouseats.com/osso-buco-italian-braised-veal-shanks-recipe)
@@ -59,13 +59,8 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 
 ---
 
-### Thursday — Rest Day
 
-**Reflect:** Three big Italian dishes, three different timelines. Risotto: real-time attention. Minestrone: low supervision. Osso buco: long and unattended. Which style suits your schedule best? How do you plan a week's cooking to include all three types?
-
----
-
-### Friday — Ribollita (Tuscan Bean Bread Soup)
+### Session 4 — Ribollita (Tuscan Bean Bread Soup)
 
 **Skill:** Tuscan "re-boiled" soup; building body with day-old bread  
 **Read first:** [Pressure Cooker Ribollita](https://www.seriouseats.com/pressure-cooker-ribollita)
@@ -78,7 +73,7 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 
 ---
 
-### Saturday — PROJECT: Pan-Roasted Whole Branzino + Tiramisu
+### Session 5 — PROJECT: Pan-Roasted Whole Branzino + Tiramisu
 
 **Skill:** Herbed whole fish for the table; tiramisu assembly and setting time  
 **Read first:** [Pan-Roasted Whole Branzino](https://www.seriouseats.com/pan-roasted-whole-branzino) | [Best Tiramisu](https://www.seriouseats.com/best-tiramisu-recipe)
@@ -98,7 +93,7 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 
 ---
 
-### Monday — Gnocchi from Scratch
+### Session 6 — Gnocchi from Scratch
 
 **Skill:** Potato gnocchi dough; reading texture by feel; avoiding gummy results  
 **Read first:** [Light and Tender Potato Gnocchi](https://www.seriouseats.com/light-tender-potato-gnocchi-recipe)
@@ -113,7 +108,7 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 
 ---
 
-### Tuesday — Pasta Fresca (Fresh Egg Pasta)
+### Session 7 — Pasta Fresca (Fresh Egg Pasta)
 
 **Skill:** Making egg pasta dough by hand; rolling and cutting; various shapes  
 **Read first:** Reference pasta-making from Weeks 13–14 (pasta fresca was introduced there) — this session goes deeper into filled pasta
@@ -128,7 +123,7 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 
 ---
 
-### Wednesday — Spaghetti alle Vongole (Revisited from Italian Perspective)
+### Session 8 — Spaghetti alle Vongole (Revisited from Italian Perspective)
 
 **Skill:** Building a white brothy sauce; pasta finishing technique; the two vongole versions (in bianco vs. in rosso)  
 **Read first:** [Spaghetti alle Vongole](https://www.seriouseats.com/spaghetti-pasta-alle-vongole-clams-recipe) *(used in Week 23 for shellfish technique — now revisit as Italian pasta lesson)*
@@ -141,11 +136,8 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 
 ---
 
-### Thursday — Rest Day
 
----
-
-### Friday — Saltimbocca alla Romana
+### Session 9 — Saltimbocca alla Romana
 
 **Skill:** Pan-searing thin veal or chicken cutlets; prosciutto application; sage crisp  
 **Read first:** [Veal Saltimbocca](https://www.seriouseats.com/veal-saltimbocca-roman-sauteed-cutlet-recipe) — or [Chicken Saltimbocca](https://www.seriouseats.com/chicken-saltimbocca-recipe-11764806) if substituting
@@ -159,7 +151,7 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 
 ---
 
-### Saturday — PROJECT: Italian Sunday Dinner
+### Session 10 — PROJECT: Italian Sunday Dinner
 
 **Skill:** Multi-course Italian meal; timing, preparation, and service  
 **Goal:** Build a complete Italian Sunday dinner for 4 or more:

@@ -14,7 +14,7 @@ Southeast Asia is not one cuisine but a family of distinct traditions connected 
 
 ---
 
-### Monday — Pad Thai
+### Session 1 — Pad Thai
 
 **Skill:** Wok technique for noodles; tamarind-palm sugar sauce balance; egg incorporation  
 **Read first:** [Pad Thai](https://www.seriouseats.com/pad-thai-recipe-11680356)
@@ -29,7 +29,7 @@ Southeast Asia is not one cuisine but a family of distinct traditions connected 
 
 ---
 
-### Tuesday — Traditional Beef Pho
+### Session 2 — Traditional Beef Pho
 
 **Skill:** Long bone broth (or pressure cooker shortcut); pho spice toasting; assembly  
 **Read first:** [Traditional Beef Pho](https://www.seriouseats.com/traditional-beef-pho-recipe)
@@ -41,7 +41,7 @@ Southeast Asia is not one cuisine but a family of distinct traditions connected 
 > 🎥 **Compare Notes:** [Southern-Style Vietnamese Chicken Pho](https://www.youtube.com/watch?v=3ZgnKg8pEaI) — He makes the chicken version; compare the broth-building logic and see how the aromatic charring technique carries across both.
 ---
 
-### Wednesday — Nasi Goreng (Indonesian Fried Rice)
+### Session 3 — Nasi Goreng (Indonesian Fried Rice)
 
 **Skill:** Day-old rice technique; shrimp paste (terasi) handling; kecap manis application  
 **Read first:** [Nasi Goreng](https://www.seriouseats.com/nasi-goreng-recipe)
@@ -56,13 +56,8 @@ Southeast Asia is not one cuisine but a family of distinct traditions connected 
 
 ---
 
-### Thursday — Rest Day
 
-**Reflect:** Three countries in three days. Thailand's pad Thai, Vietnam's pho, Indonesia's nasi goreng. What's the common thread? What's the dominant seasoning logic in each?
-
----
-
-### Friday — Curry Laksa (Malaysian)
+### Session 4 — Curry Laksa (Malaysian)
 
 **Skill:** Coconut curry broth; building the spice paste (rempah) from scratch; laksa garnish assembly  
 **Read first:** [Curry Laksa](https://www.seriouseats.com/curry-laksa-recipe-11796414)
@@ -77,7 +72,7 @@ Southeast Asia is not one cuisine but a family of distinct traditions connected 
 
 ---
 
-### Saturday — PROJECT: Thai Chicken Satay + Som Tam
+### Session 5 — PROJECT: Thai Chicken Satay + Som Tam
 
 **Skill:** Satay marinade (turmeric, lemongrass, coconut milk); peanut sauce from scratch; green papaya prep  
 **Read first:** [Thai Chicken Satay](https://www.seriouseats.com/thai-chicken-satay-recipe) | [Som Tam — Green Papaya Salad](https://www.seriouseats.com/som-tam-green-papaya-salad-5208332)
@@ -97,7 +92,7 @@ Southeast Asia is not one cuisine but a family of distinct traditions connected 
 
 ---
 
-### Monday — Pad See Ew
+### Session 6 — Pad See Ew
 
 **Skill:** Wide rice noodle technique; high-wok-heat char ("wok hei"); soy-based noodle sauce  
 **Read first:** [Pad See Ew](https://www.seriouseats.com/pad-see-ew-recipe-8784741)
@@ -110,7 +105,7 @@ Southeast Asia is not one cuisine but a family of distinct traditions connected 
 
 ---
 
-### Tuesday — Chicken Pho (Pho Gà — 30-Minute Pressure Cooker)
+### Session 7 — Chicken Pho (Pho Gà — 30-Minute Pressure Cooker)
 
 **Skill:** Pressure cooker pho technique; understanding pho gà vs. pho bò; quick broth extraction  
 **Read first:** [30-Minute Pressure Cooker Pho Gà](https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe)
@@ -122,7 +117,7 @@ Southeast Asia is not one cuisine but a family of distinct traditions connected 
 
 ---
 
-### Wednesday — Banh Mi
+### Session 8 — Banh Mi
 
 **Skill:** Picking/curing the daikon and carrot; Vietnamese pâté or headcheese; bread selection  
 **Read first:** [Breakfast Banh Mi](https://www.seriouseats.com/breakfast-banh-mi-recipe)
@@ -146,7 +141,7 @@ Southeast Asia is not one cuisine but a family of distinct traditions connected 
 
 ---
 
-### Friday — Beef Rendang (Malaysian/Indonesian)
+### Session 9 — Beef Rendang (Malaysian/Indonesian)
 
 **Skill:** Dry coconut braising technique; toasting desiccated coconut; rendang spice paste  
 **Read first:** [Beef Rendang](https://www.seriouseats.com/beef-rendang-recipe-8731804)
@@ -160,7 +155,7 @@ Southeast Asia is not one cuisine but a family of distinct traditions connected 
 
 ---
 
-### Saturday — PROJECT: Southeast Asian Dinner Party (Selection)
+### Session 10 — PROJECT: Southeast Asian Dinner Party (Selection)
 
 **Skill:** Multi-nationality Southeast Asian menu; timing a large spread  
 **Goal:** Build a Southeast Asian dinner from dishes spanning the block:

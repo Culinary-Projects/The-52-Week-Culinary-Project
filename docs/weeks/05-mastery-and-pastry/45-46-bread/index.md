@@ -14,7 +14,7 @@ This week establishes the principles of bread-making through the two most forgiv
 
 ---
 
-### Monday — Better No-Knead Bread
+### Session 1 — Better No-Knead Bread
 
 **Skill:** Autolyse; long cold fermentation; Dutch oven steam baking  
 **Read first:** [Better No-Knead Bread](https://www.seriouseats.com/better-no-knead-bread-recipe)
@@ -31,7 +31,7 @@ This week establishes the principles of bread-making through the two most forgiv
 
 ---
 
-### Tuesday — No-Knead Bread Variation (Folding Technique Upgrade)
+### Session 2 — No-Knead Bread Variation (Folding Technique Upgrade)
 
 **Skill:** Stretch-and-fold technique during bulk fermentation; shaping surface tension  
 **Read first:** Reference the better no-knead technique; try incorporating 3–4 rounds of stretch-and-fold during the first 2 hours
@@ -43,7 +43,7 @@ This week establishes the principles of bread-making through the two most forgiv
 
 ---
 
-### Wednesday — No-Knead Focaccia
+### Session 3 — No-Knead Focaccia
 
 **Skill:** High-hydration bread; olive oil bath; dimpling and topping technique  
 **Read first:** [Easy No-Knead Focaccia](https://www.seriouseats.com/easy-no-knead-focaccia)
@@ -58,13 +58,8 @@ This week establishes the principles of bread-making through the two most forgiv
 
 ---
 
-### Thursday — Rest Day
 
-**Reflect:** You've now made three loaves of bread. How has each one been different? Notice how dough temperature, hydration, and fermentation time affect crust and crumb. Write down your observations.
-
----
-
-### Friday — Pullman Loaf (Sandwich Bread)
+### Session 4 — Pullman Loaf (Sandwich Bread)
 
 **Skill:** Enriched bread dough technique; Pullman pan use; proper slice structure  
 **Read first:** [Pullman Loaf — Sandwich Bread](https://www.seriouseats.com/bread-baking-pullman-loaf-recipe)
@@ -79,7 +74,7 @@ This week establishes the principles of bread-making through the two most forgiv
 
 ---
 
-### Saturday — PROJECT: Sourdough Starter + First Sourdough
+### Session 5 — PROJECT: Sourdough Starter + First Sourdough
 
 **Skill:** Starting a natural yeast culture; understanding sourdough fermentation timeline  
 **Read first:** [Sourdough Starter](https://www.seriouseats.com/sourdough-starter)
@@ -100,7 +95,7 @@ This week establishes the principles of bread-making through the two most forgiv
 
 ---
 
-### Monday — Sourdough: First Real Loaf
+### Session 6 — Sourdough: First Real Loaf
 
 **Skill:** Levain build; bulk fermentation judgment; shaping; cold retard  
 **Read first:** Reference the sourdough starter from Week 41; consult your flour brand's recommended ratios
@@ -113,7 +108,7 @@ This week establishes the principles of bread-making through the two most forgiv
 
 ---
 
-### Tuesday — Sourdough: Bake Day
+### Session 7 — Sourdough: Bake Day
 
 **Skill:** Cold-retarded sourdough baking; scoring technique; reading the oven spring  
 **Read first:** Continue sourdough journey — score with a lame or sharp razor; bake covered 20 min, uncovered 20–25 min
@@ -126,7 +121,7 @@ This week establishes the principles of bread-making through the two most forgiv
 
 ---
 
-### Wednesday — Brioche
+### Session 8 — Brioche
 
 **Skill:** Enriched dough with high butter content; emulsifying butter into dough; long cold overnight rest  
 **Read first:** [Brioche Loaf](https://www.seriouseats.com/brioche-loaf-recipe-6755249)
@@ -139,13 +134,8 @@ This week establishes the principles of bread-making through the two most forgiv
 
 ---
 
-### Thursday — Rest Day
 
-**Reflect:** This week's progression: no-knead → focaccia → sandwich loaf → sourdough → brioche covers the full spectrum of bread hydration, fermentation, and enrichment. What was the hardest step in each?
-
----
-
-### Friday — Croissants
+### Session 9 — Croissants
 
 **Skill:** Laminated dough technique (détrempe + beurrage); layering (tourage); the fold method  
 **Read first:** [Croissants](https://www.seriouseats.com/croissants-recipe-11863500)
@@ -160,7 +150,7 @@ This week establishes the principles of bread-making through the two most forgiv
 
 ---
 
-### Saturday — PROJECT: Bread Tasting and Final Bake
+### Session 10 — PROJECT: Bread Tasting and Final Bake
 
 **Skill:** Assessing all your bakes; understanding the baker's vocabulary for evaluating bread  
 **Goal:** Slice and taste all breads you baked this week alongside the best bread you can buy locally. Evaluate: crust texture, crumb structure, flavor complexity, fermentation character.

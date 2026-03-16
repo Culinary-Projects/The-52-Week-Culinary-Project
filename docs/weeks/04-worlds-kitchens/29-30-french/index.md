@@ -14,7 +14,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 
 ---
 
-### Monday — French Onion Soup
+### Session 1 — French Onion Soup
 
 **Skill:** Low-and-slow caramelized onion technique; proper gratinée finish  
 **Read first:** [French Onion Soup](https://www.seriouseats.com/french-onion-soup-recipe)
@@ -29,7 +29,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 
 ---
 
-### Tuesday — Hollandaise and Eggs Benedict
+### Session 2 — Hollandaise and Eggs Benedict
 
 **Skill:** Emulsified egg-yolk sauce; gentle double-boiler heat control  
 **Read first:** [Foolproof 2-Minute Hollandaise](https://www.seriouseats.com/foolproof-2-minute-hollandaise-recipe)
@@ -44,7 +44,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 
 ---
 
-### Wednesday — Béarnaise Sauce with Steak
+### Session 3 — Béarnaise Sauce with Steak
 
 **Skill:** Béarnaise (hollandaise with tarragon vinegar reduction); pan-seared steak application  
 **Read first:** [Foolproof Béarnaise](https://www.seriouseats.com/foolproof-bearnaise-sauce-recipe)
@@ -57,13 +57,8 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 
 ---
 
-### Thursday — Rest Day
 
-**Reflect:** Compare Monday's soup (sugar extraction) vs. Tuesday's sauce (emulsification) vs. Wednesday's sauce (emulsification + acid reduction). Three different French techniques used in three days. Write a note on which felt most precarious.
-
----
-
-### Friday — Steak Frites
+### Session 4 — Steak Frites
 
 **Skill:** The restaurant standard: perfect fries + properly cooked steak in parallel  
 **Read first:** [Steak Frites](https://www.seriouseats.com/steak-frites-recipe-8729192)
@@ -76,7 +71,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 
 ---
 
-### Saturday — PROJECT: Cassoulet
+### Session 5 — PROJECT: Cassoulet
 
 **Skill:** Bean preparation; regional French braising (multi-component slow dish)  
 **Read first:** [Traditional French Cassoulet](https://www.seriouseats.com/traditional-french-cassoulet-recipe)
@@ -94,7 +89,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 
 ---
 
-### Monday — Beurre Blanc (White Butter Sauce)
+### Session 6 — Beurre Blanc (White Butter Sauce)
 
 **Skill:** Pure butter emulsion sauce; wine-and-shallot reduction base  
 **Read first:** [Beurre Blanc](https://www.seriouseats.com/beurre-blanc-recipe-7643412)
@@ -107,7 +102,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 
 ---
 
-### Tuesday — Duck à l'Orange
+### Session 7 — Duck à l'Orange
 
 **Skill:** Roasting duck; building a bittersweet gastrique  
 **Read first:** [Duck à l'Orange](https://www.seriouseats.com/duck-a-lorange)
@@ -120,7 +115,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 
 ---
 
-### Wednesday — Soufflé (Cheese or Chocolate)
+### Session 8 — Soufflé (Cheese or Chocolate)
 
 **Skill:** Whipped egg white foam structure; baking to serve immediately  
 **Read first:** [Savory Cheese Soufflé](https://www.seriouseats.com/savory-cheese-souffle)
@@ -135,13 +130,8 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 
 ---
 
-### Thursday — Rest Day
 
-**Reflect:** French week has covered: soup-based technique, two emulsified sauces, a gastrique, a butter sauce, slow bean braise, and egg foam structure. You've touched most of French technique's pillars. What surprised you?
-
----
-
-### Friday — French Bistro Dinner
+### Session 9 — French Bistro Dinner
 
 **Skill:** Multi-component French bistro execution; proper service timing  
 **Goal:** Cook a complete three-course French bistro meal:
@@ -158,7 +148,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 
 ---
 
-### Saturday — PROJECT: Le Grand Aioli (Provence-Style)
+### Session 10 — PROJECT: Le Grand Aioli (Provence-Style)
 
 **Skill:** Making aioli from scratch (emulsified garlic mayo); Provençal composed platter  
 **Goal:** Grand aioli is one of Provence's great communal dishes: a massive creamy garlic sauce served alongside a platter of vegetables (blanched and raw), salt cod, and hard-boiled eggs. Everything on the table, aioli in the center.

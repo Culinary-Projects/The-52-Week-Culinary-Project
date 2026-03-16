@@ -1,6 +1,6 @@
-# Weeks 25–26: Shellfish
+# Weeks 23–24: Shellfish
 
-← [Weeks 23–24: Fish](../23-24-fish/index.md) | [Weeks 27–28: Charcuterie & Curing →](../27-28-charcuterie-review/index.md)
+← [Weeks 21–22: Beef Advanced](../21-22-beef-advanced/index.md) | [Weeks 25–26: Pork →](../25-26-pork/index.md)
 
 ---
 
@@ -14,7 +14,7 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 
 ---
 
-### Monday — Spaghetti alle Vongole (Clams + White Wine)
+### Session 1 — Spaghetti alle Vongole (Clams + White Wine)
 
 **Skill:** Clam selection, purging sand, building a brothy pasta sauce from shellfish liquor  
 **Read first:** [Spaghetti alle Vongole](https://www.seriouseats.com/spaghetti-pasta-alle-vongole-clams-recipe)
@@ -27,7 +27,7 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 > 🎥 **Compare Notes:** [How to Make Pasta alle Vongole](https://www.youtube.com/watch?v=8q8M60LXMtY) — Watch when he adds the pasta to the clam pan — the starchy pasta water is the sauce, not an afterthought.
 ---
 
-### Tuesday — Moules Marinière (Mussels, French Style)
+### Session 2 — Moules Marinière (Mussels, French Style)
 
 **Skill:** Sourcing and cleaning mussels; building "broth in a pot" cooking technique  
 **Read first:** [The Best Moules Marinière](https://www.seriouseats.com/the-best-moules-mariniere-sailor-style-mussels-recipe)
@@ -40,7 +40,7 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 
 ---
 
-### Wednesday — Roasted Oysters with Bacon and Parmesan
+### Session 3 — Roasted Oysters with Bacon and Parmesan
 
 **Skill:** Buying and handling live oysters; dry heat cooking for bivalves  
 **Read first:** [Roasted Oysters with Bacon and Parmesan](https://www.seriouseats.com/roasted-oysters-with-bacon-and-parmesan-recipe-11874377)
@@ -55,13 +55,8 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 
 ---
 
-### Thursday — Rest Day
 
-**Reflect:** You've now worked through clams, mussels, and oysters. What was the brininess difference? What happened to the mussels' texture if you left them a minute too long? Note it.
-
----
-
-### Friday — Shrimp Scampi
+### Session 4 — Shrimp Scampi
 
 **Skill:** Quick-cooking crustaceans, building a pan sauce in under 5 minutes  
 **Read first:** [Shrimp Scampi](https://www.seriouseats.com/shrimp-scampi-pasta)
@@ -76,7 +71,7 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 
 ---
 
-### Saturday — PROJECT: Lobster Night
+### Session 5 — PROJECT: Lobster Night
 
 **Skill:** Cooking whole live lobster humanely and confidently; making a pan sauce or bisque from shells  
 **Read first:** [Stop Overcooking Lobster](https://www.seriouseats.com/stop-overcooking-lobster-11899689) | [Lobster Bisque](https://www.seriouseats.com/lobster-bisque-recipe)
@@ -98,7 +93,7 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 
 ---
 
-### Monday — Chili Crab (Singaporean)
+### Session 6 — Chili Crab (Singaporean)
 
 **Skill:** Cooking blue crab or Dungeness crab; sweet-savory-spicy sauce building  
 **Read first:** [Singapore Chili Crab](https://www.seriouseats.com/singaporean-singapore-chili-crab-recipe)
@@ -112,7 +107,7 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 
 ---
 
-### Tuesday — Shrimp Bisque / Shrimp in Compound Butter
+### Session 7 — Shrimp Bisque / Shrimp in Compound Butter
 
 **Skill:** Transforming shrimp shells into flavorful stock; reading shrimp doneness  
 **Read first:** [Shrimp Scampi — Butter-Garlic Version](https://www.seriouseats.com/shrimp-scampi-butter-garlic-recipe)
@@ -125,7 +120,7 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 
 ---
 
-### Wednesday — Clam Chowder or Clam + Corn Pasta
+### Session 8 — Clam Chowder or Clam + Corn Pasta
 
 **Skill:** Using canned clams confidently; chowder-building ratios  
 **Read first:** [New England Clam Chowder](https://www.seriouseats.com/new-england-clam-chowder-recipe)
@@ -140,13 +135,8 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 
 ---
 
-### Thursday — Rest Day
 
-**Reflect:** Look back at your shellfish notes from both weeks. Which protein had the narrowest doneness window? Where did you mess up? What would you do differently with lobster next time?
-
----
-
-### Friday — Mussels in Tomato-Saffron Broth
+### Session 9 — Mussels in Tomato-Saffron Broth
 
 **Skill:** Building a second mussel preparation with Mediterranean flavors vs. French  
 **Read first:** [Moules Marinières (Sailor-Style Mussels)](https://www.seriouseats.com/the-best-moules-mariniere-sailor-style-mussels-recipe) for the base technique — today you’re swapping white wine and cream for saffron, tomato, and fennel. Same bivalve, different broth logic.
@@ -159,7 +149,7 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 
 ---
 
-### Saturday — PROJECT: Multi-Shellfish Plateau (Cold & Hot)
+### Session 10 — PROJECT: Multi-Shellfish Plateau (Cold & Hot)
 
 **Skill:** Sourcing, timing, and presenting multiple shellfish together  
 **Goal:** Buy three types of shellfish. Serve some raw (or cured), some broiled, some in a sauce. This is a dinner-party-ready shellfish spread.
@@ -213,4 +203,4 @@ A properly seared scallop has a deep, dry crust on each flat side and remains tr
 ---
 
 *Navigation:*
-← [Weeks 23–24: Fish](../23-24-fish/index.md) | [Weeks 27–28: Charcuterie & Curing →](../27-28-charcuterie-review/index.md)
+← [Weeks 21–22: Beef Advanced](../21-22-beef-advanced/index.md) | [Weeks 25–26: Pork →](../25-26-pork/index.md)

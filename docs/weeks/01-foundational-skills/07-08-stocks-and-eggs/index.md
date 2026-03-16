@@ -2,7 +2,6 @@
 
 > *"Stocks are the foundation of professional cooking. Eggs are the chef's ultimate test."*
 
-
 **Quick Reference:** [→ Week 7–8 Recipe Quick Ref](quick-ref.md)
 
 ---
@@ -19,7 +18,7 @@ Read these first:
 
 ## Week 7 — Stocks & Broths
 
-### Monday — Chicken Stock from Scratch
+### Session 1 — Chicken Stock from Scratch
 
 **Skill:** Cold water start, gentle simmer (never boil), skim the foam in the first 20 minutes, don't stir. A good stock simmers for 3–4 hours. It should be golden, clear (not murky), and taste of chicken without being aggressively salty. Cool it in an ice bath, then refrigerate. **A proper stock should gel when cold — that's the gelatin from the bones.**
 
@@ -35,7 +34,7 @@ This takes time but is mostly passive. Start it when you get home, let it simmer
 
 ---
 
-### Tuesday — Pan Sauces from Real Stock
+### Session 2 — Pan Sauces from Real Stock
 
 **Skill:** Now that you have fresh stock, you understand why pan sauces taste so much better when made with real stock instead of water or canned broth. The gelatin creates body and silkiness that nothing else can replicate. Tonight's lesson: **the difference is in your freezer.**
 
@@ -49,7 +48,7 @@ This takes time but is mostly passive. Start it when you get home, let it simmer
 
 ---
 
-### Wednesday — Fish Stock + Fumet
+### Session 3 — Fish Stock + Fumet
 
 **Skill:** Fish stock (fumet) takes only 20–30 minutes — fish bones give up their gelatin quickly and become bitter if cooked too long. Ask your fishmonger for frames (carcasses) or use shrimp shells. Aromatics are lighter: white wine, leek, fennel, parsley stems, bay leaf.
 
@@ -98,7 +97,7 @@ The roasting step is optional but worth it: it caramelizes the squash and adds d
 
 ---
 
-### Friday — Vegetable Stock + Risotto
+### Session 4 — Vegetable Stock + Risotto
 
 **Skill:** Vegetable stock is the quickest and most approachable. Key: don't over-simmer — 45–60 minutes max, or it turns bitter. Tonight you'll use it immediately for risotto, which also teaches you another core technique: the gradual addition of hot liquid while stirring to coax starch from Arborio rice.
 
@@ -112,7 +111,7 @@ The roasting step is optional but worth it: it caramelizes the squash and adds d
 
 ---
 
-### Saturday — PROJECT MEAL: A Whole Soup Kitchen Day
+### Session 5 — PROJECT MEAL: A Whole Soup Kitchen Day
 
 This Saturday you make three things — stock, soup, and a complete dinner — that set you up with leftovers and frozen stock for weeks.
 
@@ -138,7 +137,7 @@ This Saturday you make three things — stock, soup, and a complete dinner — t
 
 ---
 
-### Monday — The French Scramble
+### Session 6 — The French Scramble
 
 **Skill:** French scrambled eggs are not American scrambled eggs. They're cooked low and slow, constantly stirred with a spatula, off and on the heat, until they form soft, creamy, barely-set curds. The result tastes like what restaurants serve for brunch at $22 a plate.
 
@@ -156,7 +155,7 @@ A French scramble dinner is a legitimately elegant meal when served with smoked 
 
 ---
 
-### Tuesday — The Perfect Poached Egg
+### Session 7 — The Perfect Poached Egg
 
 **Skill:** Fresh eggs, a wide shallow pan, simmering (not boiling) water with a splash of vinegar, a gentle swirl, and confidence. The white should be fully set and the yolk should run when broken. Most home cooks are afraid of poached eggs — by the end of tonight, you shouldn't be.
 
@@ -172,7 +171,7 @@ A French scramble dinner is a legitimately elegant meal when served with smoked 
 
 ---
 
-### Wednesday — The Omelette
+### Session 8 — The Omelette
 
 **Skill:** The French omelette is one of the hardest things in cooking to get right — pale, barely colored outside, softly set inside, folded into a cylinder in under 2 minutes. Practice the French version until you get it right. Make two omelettes — one for practice, one to eat.
 
@@ -191,13 +190,7 @@ A properly made omelette with a glass of wine and a green salad is one of the mo
 
 ---
 
-### Thursday — OFF
-
-📺 Watch: Jacques Pépin making a French omelette on YouTube. You'll either feel inspired or deeply humbled. Probably both.
-
----
-
-### Friday — Custard: Eggs as Thickener
+### Session 9 — Custard: Eggs as Thickener
 
 **Skill:** When eggs are heated in liquid (cream, milk), the proteins set and thicken the mixture into a custard. Key: temperature control — too high and the eggs scramble, too low and it never sets. A proper custard coats the back of a spoon and holds a line when you drag your finger through it.
 
@@ -215,7 +208,7 @@ Carbonara is a savory egg custard sauce — eggs, pasta water, guanciale or panc
 
 ---
 
-### Saturday — PROJECT MEAL: A Complete Egg Dinner Party (3 Courses)
+### Session 10 — PROJECT MEAL: A Complete Egg Dinner Party (3 Courses)
 
 **The challenge:** Cook a 3-course egg-forward dinner for at least two people, without recipes open in front of you during service.
 
