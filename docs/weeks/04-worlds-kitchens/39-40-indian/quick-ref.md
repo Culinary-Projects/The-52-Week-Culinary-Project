@@ -8,22 +8,22 @@
 
 | Session | Dish | Technique | Key Point |
 |-----|------|-----------|-----------|
+| Session 0 | ⏰ [Garlic Naan](https://www.seriouseats.com/garlic-naan-recipe-8784140) *(optional BYS)* | Yeast flatbread on screaming-hot cast iron | Optional; great as a standalone cook before the block |
 | Session 1 | [Butter Chicken](https://www.seriouseats.com/stovetop-butter-chicken) | Spice bloom in ghee; tomato cream sauce | [Broil chicken first for char](https://www.seriouseats.com/stovetop-butter-chicken) |
 | Session 2 | [Moong Dal + Tarka](https://www.seriouseats.com/moong-dal-recipe-8744764) | Tarka = spices bloomed in hot fat poured over | Cumin seed should sizzle immediately |
 | Session 3 | [Chicken Tikka Masala](https://www.seriouseats.com/chicken-tikka-masala-for-the-grill-recipe) | [Grill char on tikka; masala sauce](https://www.seriouseats.com/chicken-tikka-masala-for-the-grill-recipe) | Yogurt marinade minimum 2 hrs |
-| Session 4 | [Garlic Naan](https://www.seriouseats.com/garlic-naan-recipe-8784140) | Yeast flatbread on screaming-hot cast iron | Preheat pan minimum 5 min |
-| Session 5 | ⏰ [Dal Makhani](https://www.seriouseats.com/dal-makhani-recipe-8770680) | [Long-cook black lentils; cream + butter finish](https://www.seriouseats.com/stovetop-butter-chicken) | Pressure cooker shortcut: 40 min |
-| Session 6 | [**PROJECT:** North Indian Feast](https://www.amazon.com/dp/0374527849) | Multi-dish banquet coordination | Reheat curries; fresh naan last |
+| Session 4 | ⏰ [Dal Makhani](https://www.seriouseats.com/dal-makhani-recipe-8770680) | [Long-cook black lentils; cream + butter finish](https://www.seriouseats.com/stovetop-butter-chicken) | Pressure cooker shortcut: 40 min |
+| Session 5 | [**PROJECT:** North Indian Feast](https://www.amazon.com/dp/0374527849) | Multi-dish banquet coordination | Reheat curries; fresh naan last |
 
 ## Block 36 — South India + Vegetarian Mastery
 
 | Session | Dish | Technique | Key Point |
 |-----|------|-----------|-----------|
-| Session 7 | [Chana Masala](https://www.seriouseats.com/chana-masala-recipe-8665080) | [Dried chickpea soak + tomato masala](https://www.seriouseats.com/chicken-tikka-masala-for-the-grill-recipe) | Amchur or lemon at finish |
-| Session 8 | [Aloo Gobi](https://www.seriouseats.com/aloo-gobi-recipe-5220973) | Dry curry; bhunao spice technique | No sauce — crispy edges matter |
-| Session 9 | [Lamb Biryani](https://www.seriouseats.com/lamb-biryani) | Dum (sealed steam cook); layered rice | Par-cook rice before layering |
-| Session 10 | [Garam Masala from Scratch](https://www.seriouseats.com/garam-masala-recipe) | Toast whole spices; grind fresh | Use at end of cooking, not beginning |
-| Session 11 | ⏰ [**PROJECT:** South Indian Thali](https://www.amazon.com/dp/0374527849) | [Dosa + sambar + coconut chutney](https://www.spiceupthecurry.com/sambar-recipe/) | Ferment batter Thu/Fri night |
+| Session 6 | [Chana Masala](https://www.seriouseats.com/chana-masala-recipe-8665080) | [Dried chickpea soak + tomato masala](https://www.seriouseats.com/chicken-tikka-masala-for-the-grill-recipe) | Amchur or lemon at finish |
+| Session 7 | [Aloo Gobi](https://www.seriouseats.com/aloo-gobi-recipe-5220973) | Dry curry; bhunao spice technique | No sauce — crispy edges matter |
+| Session 8 | [Lamb Biryani](https://www.seriouseats.com/lamb-biryani) | Dum (sealed steam cook); layered rice | Par-cook rice before layering |
+| Session 9 | [Garam Masala from Scratch](https://www.seriouseats.com/garam-masala-recipe) | Toast whole spices; grind fresh | Use at end of cooking, not beginning |
+| Session 10 | ⏰ [**PROJECT:** South Indian Thali](https://www.amazon.com/dp/0374527849) | [Dosa + sambar + coconut chutney](https://www.spiceupthecurry.com/sambar-recipe/) | Ferment batter Thu/Fri night |
 
 ---
 

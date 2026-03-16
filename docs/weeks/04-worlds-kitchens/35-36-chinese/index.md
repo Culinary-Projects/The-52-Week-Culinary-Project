@@ -28,7 +28,7 @@ Two weeks is a narrow aperture. The goal is not representativeness — it is flu
 📖 **Read first:** [Serious Eats — How to Build a Chinese Pantry](https://thewoksoflife.com/chinese-pantry/) — the pantry items in Chinese cooking are unlike a Western pantry. Stock these two weeks ahead of time.
 
 
-### Dan Dan Noodles
+### Session 0 — Dan Dan Noodles *(optional)*
 
 **Skill:** Dan dan noodles are a Sichuan street food that demonstrates the entire Sichuan flavor vocabulary in one bowl: málà (numbing + heat from Sichuan peppercorn + chilli), sour (black vinegar), sweet, rich (sesame paste), savory (soy), and the crunchy textural contrast of ya cai (preserved mustard greens).
 
@@ -227,7 +227,7 @@ Cook a complete Sichuan-focused dinner for two to four people. The goal is to co
 
 ## Before You Start Block 36
 
-### Kung Pao Chicken (宫保鸡丁)
+### Session 0 — Kung Pao Chicken *(optional)*
 
 **Skill:** Kung pao chicken is one of the most technically balanced dishes in Chinese cooking. It requires: velveted chicken, a fried-peanut garnish, the dual texture of the dried chillies (the shells add smokiness, the seeds add heat), and a sauce that is simultaneously sour, sweet, salty, and a little numbing.
 

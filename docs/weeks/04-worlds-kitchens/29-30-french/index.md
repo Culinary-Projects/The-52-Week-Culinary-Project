@@ -76,7 +76,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 
 ---
 
-### Session 5 — PROJECT: Cassoulet
+### ⏰ Session 5 — PROJECT: Cassoulet
 
 **Skill:** Bean preparation; regional French braising (multi-component slow dish)  
 **Read first:** [Traditional French Cassoulet](https://www.seriouseats.com/traditional-french-cassoulet-recipe)

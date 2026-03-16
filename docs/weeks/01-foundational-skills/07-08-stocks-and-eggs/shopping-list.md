@@ -42,7 +42,7 @@
 - [ ] Fennel — 1 bulb (bouillabaisse + stock)
 - [ ] Leeks — 2 (vegetable stock, Week 7 Fri)
 - [ ] Mushrooms (cremini or mixed) — 1 lb (Week 7 Fri risotto)
-- [ ] Butternut squash — 1 medium (Week 7 Thu roasted purée soup)
+- [ ] Butternut squash — 1 medium (Session 0 Soup Architecture / Week 7 roasted purée soup)
 - [ ] Potatoes (Yukon Gold) — 1.5 lbs (Week 7 Tue crispy roasted potatoes)
 - [ ] Arugula — 2 bags (Week 7 Fri salad + Week 8 Fri salad)
 - [ ] Bitter greens (radicchio, endive) — 1 head each (Week 7 Tue salad)

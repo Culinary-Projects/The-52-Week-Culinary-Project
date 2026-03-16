@@ -60,6 +60,7 @@
 - [ ] **Almond extract** — small bottle (optional tart variations)
 - [ ] **Apricot jam / preserves** — 1 jar (glaze for fruit tart + tarte tatin)
 - [ ] **Bittersweet chocolate (65–70%)** — 8 oz (éclair glaze + mille-feuille décor)
+- [ ] **Dark couverture chocolate (60–72%, high cocoa butter)** — 1 lb for Session 0 tempering; look for Valrhona, Callebaut, or Guittard; must be couverture-grade (not chips)
 - [ ] **Cocoa powder** — (chocolate variations)
 - [ ] **Lard** — 4 oz (Tuesday Week 44 pie crust; optional but dramatically better)
 - [ ] **Puff pastry, store-bought** — 1–2 sheets as backup for mille-feuille (Sat Week 43)

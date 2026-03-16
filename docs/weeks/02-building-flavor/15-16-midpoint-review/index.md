@@ -152,7 +152,7 @@ This is the most important reflection yet. Five questions, five sentences minimu
 
 ---
 
-### Session 10 — PROJECT: Duck Confit
+### ⏰ Session 10 — PROJECT: Duck Confit
 
 **Skill:** Confit is patience-based cooking. Duck legs cured overnight in salt and aromatics, then slow-cooked in their own fat (or olive oil, which works fine) for 2–3 hours at 200°F. The result is impossibly tender, deeply flavorful meat that also crisp-skins beautifully when you finish it in a hot pan.
 

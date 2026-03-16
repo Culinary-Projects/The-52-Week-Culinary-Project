@@ -16,7 +16,7 @@
 
 ---
 
-## Block 47 — Wok Session
+## Block 49 — Wok Session
 
 - [ ] High smoke-point oil (peanut, grapeseed, or avocado) — 16 oz
 - [ ] Garlic — 1 head
@@ -29,7 +29,7 @@
 
 ---
 
-## Block 47 — Cookie Session
+## Block 49 — Cookie Session
 
 *Note: purchase based on your planned variation from Week 46 batch*
 
@@ -44,7 +44,7 @@
 
 ---
 
-## Block 47 — Mise en Place Dinner (3-Course)
+## Block 49 — Mise en Place Dinner (3-Course)
 
 *These items depend entirely on your menu choice; below is a suggested path:*
 

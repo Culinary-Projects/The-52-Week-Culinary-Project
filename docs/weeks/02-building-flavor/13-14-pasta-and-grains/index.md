@@ -21,8 +21,9 @@
 
 > ⏰ **Planning Ahead**
 >
-> - **Session 2 (Lamb Shoulder Ragu):** lamb shoulder needs 4 hrs in the oven; start mid-afternoon
 > - **Session 5 (PROJECT: Italian Pasta Dinner):** make Bolognese the morning of — it needs 3 hrs
+> - **Session 7 (Persian Rice + Slow-Roasted Lamb Shoulder):** lamb shoulder takes 4 hrs; start by early afternoon
+> - **Session 8 (Polenta + Braise):** braised short ribs or ragu takes 3–4 hrs; can use Session 7 lamb leftovers
 
 
 ### Session 1 — The Dough: Meeting Gluten
@@ -91,7 +92,7 @@ Aglio e olio is garlic, olive oil, pasta water, pasta, chili flakes, and parsley
 
 ---
 
-### Session 5 — PROJECT MEAL: A Full Italian Pasta Dinner
+### ⏰ Session 5 — PROJECT MEAL: A Full Italian Pasta Dinner
 
 **The challenge:** Three pasta shapes, three sauces, made in one evening. This is how an Italian family the rest day lunch actually works — generous, abundant, and a showcase of everything pasta can do.
 
@@ -130,7 +131,7 @@ The soy sauce called for in the Serious Eats mushroom risotto recipe is delibera
 
 ---
 
-### Session 7 — Rice: The World's Most Important Grain
+### ⏰ Session 7 — Rice: The World's Most Important Grain
 
 **Skill:** Most home cooks treat rice as an afterthought. Tonight it's the focus. You'll cook Persian-style rice with a tahdig crust — the goal is a golden, crispy bottom that releases from the pot in a crown. Too high heat and it burns; too low and it stays soft. This is heat control and patience in one dish.
 
@@ -144,7 +145,7 @@ Tahdig — the crispy rice crust at the bottom of the Persian rice pot — is on
 
 ---
 
-### Session 8 — Polenta: Low and Slow
+### ⏰ Session 8 — Polenta: Low and Slow
 
 **Skill:** Traditional polenta is not the quick-cook kind. It takes 45–60 minutes of stirring over low heat, adding stock or water gradually as the cornmeal absorbs it. The result is fundamentally different from the 5-minute version — creamier, with a deeper corn flavor and a silky consistency that coats the back of a spoon.
 

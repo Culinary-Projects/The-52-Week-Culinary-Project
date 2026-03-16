@@ -10,7 +10,7 @@
 
 ## Before You Start Block 33
 
-### Deep Frying as a Systematic Skill
+### Session 0 — The Deep Fry: Method Before Recipes *(optional)*
 
 **Skill:** Understanding deep frying as a discipline — not just "put food in hot oil." Tonight: karaage (Japanese fried chicken), which teaches double-frying, the most important technique in deep-fry cooking because it separates moisture removal from crust formation.
 

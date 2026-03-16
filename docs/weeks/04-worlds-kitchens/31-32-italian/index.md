@@ -10,6 +10,11 @@
 
 ## Block 29 — Risotto, Osso Buco, and the Art of Italian Patience
 
+> ⏰ **Planning Ahead**
+>
+> - **Session 3 (Osso Buco):** braise takes 2–3 hrs; start by early afternoon
+> - **Session 10 (PROJECT: Italian Sunday Dinner):** multi-component; allow 3–4 hrs for the full session
+
 Italian classics this week: risotto (patience + stirring + understanding when it's done), osso buco (braised veal shanks that take the afternoon and reward you royally), and a proper cold-weather ribollita. These are not quick Italian dishes. These are the ones that define why Italian cuisine is foundational.
 
 ---
@@ -44,7 +49,7 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 
 ---
 
-### Session 3 — Osso Buco alla Milanese
+### ⏰ Session 3 — Osso Buco alla Milanese
 
 **Skill:** Cross-cut veal shank braising; gremolata (the raw herb-lemon finish)  
 **Read first:** [Osso Buco — Italian Braised Veal Shanks](https://www.seriouseats.com/osso-buco-italian-braised-veal-shanks-recipe)

@@ -93,7 +93,7 @@
 ## 🥩 Protein (Optional — all proteins in this block are supplementary)
 
 - [ ] Chicken thighs — 4 (for sheet pan Tuesday; skip if cooking vegetarian)
-- [ ] Duck breast or scallops — 2 portions (for purée Thursday; skip if vegetarian)
+- [ ] Duck breast or scallops — 2 portions (Session 0 Two Purées optional / purée protein)
 - [ ] Eggs — 1 dozen (poached for bean toast, boiled for salads)
 
 ---

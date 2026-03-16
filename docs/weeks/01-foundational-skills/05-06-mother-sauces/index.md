@@ -59,7 +59,7 @@ The pot pie filling is a classic chicken velouté extended with vegetables and c
 
 ---
 
-### Session 3 — Sauce Tomat: The Slow Tomato
+### ⏰ Session 3 — Sauce Tomat: The Slow Tomato
 
 **Skill:** The mother tomato sauce is not marinara. It's a deeply flavored, long-cooked sauce built on a pork fat base, mirepoix, tomatoes, stock, and aromatics. The key is patience — low heat, long time, and tasting as the sauce develops. **Learn to season in layers, not all at once.**
 
@@ -95,7 +95,7 @@ The pan sauce is your simplified Espagnole: browned bits from the steak, deglaze
 
 ---
 
-### Session 5 — PROJECT MEAL: Greek Moussaka
+### ⏰ Session 5 — PROJECT MEAL: Greek Moussaka
 
 **Skill:** A synthesis dish — you'll make a tomato-based lamb meat sauce *and* a béchamel *and* roast eggplant, then layer them together and bake. Uses two of the five mother sauces in a single dish.
 

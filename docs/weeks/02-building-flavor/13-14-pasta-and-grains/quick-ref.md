@@ -21,8 +21,8 @@
 | Session | Dish | Skill | Link |
 |-----|------|-------|------|
 | **Session 6** | Mushroom and Asparagus Risotto + Bitter Greens Salad | Risotto mastery — technique, not just recipe | [Risotto](https://www.seriouseats.com/mushroom-asparagus-risotto-recipe) · [Salad](https://www.seriouseats.com/five-minute-radicchio-watercress-arugula-salad-recipe) |
-| **Session 7** | Persian Rice with Tahdig + Slow-Roasted Lamb Shoulder + Cucumber Yogurt Salad | Tahdig — heat control and patience | [Rice](https://www.seriouseats.com/tahdig-persian-crunchy-rice-7187445) · [Lamb](https://www.seriouseats.com/slow-roasted-lamb-garlic-anchovy-lemon-rosemary-food-lab-recipe) · [Salad](https://www.seriouseats.com/greek-yogurt-tzatziki-recipe) |
-| **Session 8** | Creamy Parmesan Polenta + Braised Short Ribs or Lamb Ragu + Green Salad | Slow polenta — 45–60 min of stirring | [Polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe) · [Ribs](https://www.seriouseats.com/red-wine-braised-beef-short-ribs-recipe) · [Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) |
+| **Session 7** | ⏰ Persian Rice with Tahdig + Slow-Roasted Lamb Shoulder + Cucumber Yogurt Salad | Tahdig — heat control and patience | [Rice](https://www.seriouseats.com/tahdig-persian-crunchy-rice-7187445) · [Lamb](https://www.seriouseats.com/slow-roasted-lamb-garlic-anchovy-lemon-rosemary-food-lab-recipe) · [Salad](https://www.seriouseats.com/greek-yogurt-tzatziki-recipe) |
+| **Session 8** | ⏰ Creamy Parmesan Polenta + Braised Short Ribs or Lamb Ragu + Green Salad | Slow polenta — 45–60 min of stirring | [Polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe) · [Ribs](https://www.seriouseats.com/red-wine-braised-beef-short-ribs-recipe) · [Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) |
 | **Session 9** | Farro Salad with Beets & Goat Cheese + Crispy Salmon + Arugula Salad | Farro — dress while hot | [Farro](https://www.seriouseats.com/farro-salad-with-blue-cheese-pine-nuts-and-tomatoes-recipe) · [Salmon](https://www.seriouseats.com/how-to-cook-salmon-pan-fry-fish-food-lab) · [Salad](https://www.seriouseats.com/fennel-orange-and-roasted-pepper-arugula-salad-recipe) |
 | **Session 10** | 🔨 **PROJECT: Grain-Forward Dinner Party — Whipped Ricotta Crostini + Saffron Risotto + Pan-Seared Scallops + Fennel Blood Orange Salad** | Grains as the star of a dinner party | [Crostini](https://www.seriouseats.com/crostini-blistered-cherry-tomatoes-burrata-recipe) · [Risotto](https://www.seriouseats.com/risotto-alla-milanese-saffron-recipe) · [Scallops](https://www.seriouseats.com/the-food-lab-best-seared-scallops-seafood-recipe) · [Salad](https://www.seriouseats.com/grilling-fennel-and-orange-salad-recipe) |
 
@@ -34,6 +34,6 @@
 
 **Block 11 Session 1 tip:** Make a double batch of tomato sugo on the day before — you'll use it Session 1 and the leftover becomes Pasta 2 on the project session dinner if needed.
 
-**Block 12 Session 2:** Lamb shoulder needs 4 hours in the oven. Start it mid-afternoon or set it early and hold warm. Leftover lamb becomes the ragu for Session 3's polenta.
+**Block 14 Session 7:** Lamb shoulder needs 4 hours in the oven. Start it mid-afternoon or set it early and hold warm. Leftover lamb becomes the ragu for Session 8’s polenta.
 
 **Block 12 project session:** Scallops must be completely dry before searing. Pat thoroughly on paper towels and let them sit uncovered on the rack in the fridge for 30 min before cooking. Wet scallops steam; dry scallops sear.

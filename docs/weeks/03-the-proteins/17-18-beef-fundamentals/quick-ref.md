@@ -20,7 +20,7 @@
 
 | Session | Dish | Skill | Link |
 |-----|------|-------|------|
-| **Session 6** | Red Wine Braised Short Ribs + Polenta or Egg Noodles | Collagen → gelatin braise; patience | [Short Ribs](https://www.seriouseats.com/red-wine-braised-beef-short-ribs-recipe) |
+| **Session 6** | ⏰ Red Wine Braised Short Ribs + Polenta or Egg Noodles | Collagen → gelatin braise; patience | [Short Ribs](https://www.seriouseats.com/red-wine-braised-beef-short-ribs-recipe) |
 | **Session 7** | Chuck Pot Roast + Braising Vegetables | Low-and-slow chuck; weeknight timing | [Pot Roast Method](https://www.seriouseats.com/mississippi-pot-roast-recipe-8774586) |
 | **Session 8** | ⏰ Braised Brisket + Pickled Onions + Coleslaw + Rye | Brisket; fat and collagen; long low cook | [Brisket Methods](https://www.seriouseats.com/brisket-cooking-methods-tested-11869530) |
 | **Session 9** | Steak au Poivre + Roast Potatoes + Grilled Asparagus | Cream-cognac pan sauce; pepper crust | [Steak au Poivre](https://www.seriouseats.com/steak-au-poivre) · [Roast Potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) |

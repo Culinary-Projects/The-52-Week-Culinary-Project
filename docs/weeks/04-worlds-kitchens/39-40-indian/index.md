@@ -10,7 +10,7 @@
 
 ## Before You Start Block 39
 
-### Garlic Naan from Scratch
+### Session 0 — Garlic Naan *(optional)*
 
 **Skill:** Leavened flatbread technique; cast-iron skillet substitute for tandoor; garlic + butter finish  
 **Read first:** [Garlic Naan](https://www.seriouseats.com/garlic-naan-recipe-8784140)
@@ -32,8 +32,8 @@ The first Indian week focuses on three foundational preparations: a tomato-cream
 
 > ⏰ **Planning Ahead**
 >
-> - **Session 5 (Dal Makhani):** traditional version takes 4+ hrs low cook; pressure cooker = 40 min
-> - **Session 11 (PROJECT: South Indian Thali + Dosa):** ferment dosa batter 24–48 hrs ahead — start two days before
+> - **Session 4 (Dal Makhani):** traditional version takes 4+ hrs low cook; pressure cooker = 40 min
+> - **Session 10 (PROJECT: South Indian Thali + Dosa):** ferment dosa batter 24–48 hrs ahead — start two days before
 
 
 ### Session 1 — Butter Chicken (Murgh Makhani)
@@ -80,7 +80,7 @@ The first Indian week focuses on three foundational preparations: a tomato-cream
 
 ---
 
-### Session 4 — Dal Makhani (All-Day Slow Dal)
+### ⏰ Session 4 — Dal Makhani (All-Day Slow Dal)
 
 **Skill:** Long-cook black lentil + kidney bean dal; cream integration; patience  
 **Read first:** [Dal Makhani](https://www.seriouseats.com/dal-makhani-recipe-8770680)

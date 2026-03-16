@@ -25,7 +25,7 @@ This block is structured differently. The first week is technical catch-up and d
 
 ## Before You Start Block 49
 
-### Mise en Place: Full Professional Setup
+### Session 0 — Mise en Place at Scale *(optional)*
 
 **Skill:** Station organization; timing a multi-dish dinner from scratch; cook-to-plate flow  
 **Read first:** [Mise en Place](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro)

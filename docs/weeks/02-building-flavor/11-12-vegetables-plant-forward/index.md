@@ -21,7 +21,7 @@ The CIA spends four full weeks on vegetable fabrication and cookery before touch
 📖 **Read first:** [Serious Eats — The Science of Browning Vegetables](https://www.bonappetit.com/story/how-to-roast-vegetables) — the same Maillard logic from Week 3–4 applies here; the only difference is water content and sugar concentration.
 
 
-### Vegetable Purées: Texture as a Skill
+### Session 0 — Two Purées, One Method *(optional)*
 
 **Skill:** A vegetable purée is deceptively simple and technically demanding. The difference between a good purée and a great one is entirely in the texture — silky versus grainy, the right viscosity to coat a spoon, seasoned at every stage.
 
@@ -174,7 +174,7 @@ Cook a complete dinner where vegetables are the headline, not the support act. N
 
 ## Before You Start Block 12
 
-### Fermentation and Pickling: Vegetables That Last
+### Session 0 — Quick Pickles & First Ferment *(optional)*
 
 **Skill:** Understanding the difference between quick pickling (brine + acid), lacto-fermentation (brine + time + natural bacteria), and their role in a well-built kitchen.
 

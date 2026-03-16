@@ -64,6 +64,7 @@
 - [ ] Sake — cooking sake or drinking sake
 - [ ] Rice vinegar — 1 bottle
 - [ ] Sesame oil — toasted
+- [ ] **Neutral frying oil** (canola, peanut, or grapeseed) — at least 48 oz; use for Session 0 deep fry, tempura, and tonkatsu
 - [ ] Sesame seeds — white
 - [ ] Panko breadcrumbs — 1 large bag
 - [ ] Japanese short-grain rice — 5-lb bag

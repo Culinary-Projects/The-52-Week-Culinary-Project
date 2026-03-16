@@ -10,7 +10,7 @@
 
 ## Before You Start Block 17
 
-### Beef Butchery: Primal Cuts & Fabrication
+### Session 0 — Beef Fabrication *(optional)*
 
 **Skill:** Understanding the beef primal map — where every cut comes from and why it costs what it costs. Tonight is theory and light hands-on work: you'll trim and portion a short rib rack or fabricate a chuck roast into uniform braising pieces.
 
@@ -165,7 +165,7 @@ The reverse sear — low oven first, then high-heat sear — gives you precise t
 
 ---
 
-### Session 8 — Brisket: Patience as a Virtue
+### ⏰ Session 8 — Brisket: Patience as a Virtue
 
 **Skill:** Brisket is a study in patience. At 6–8 hours (lower temp, longer time), the fat renders, the collagen converts, and the flat and point achieve very different textures. This is a the project cook being previewed midweek on a smaller scale.
 

@@ -10,7 +10,7 @@
 
 ## Before You Start Block 19
 
-### Fish Butchery: Filleting a Whole Fish
+### Session 0 — Fillet a Whole Fish *(optional)*
 
 **Skill:** Breaking down a whole round fish into two clean fillets. This is the single most useful fish skill you can own — when you can fillet, you buy whole fish (cheaper, fresher, more honest), and you understand why a halibut fillet costs what it does.
 

@@ -21,6 +21,7 @@
 - [ ] **Toasted sesame oil** — 1 small bottle (finishing only; not cooking)
 - [ ] **Fermented black beans** (douchi) — 1 small bag or jar
 - [ ] **Sichuan peppercorns** — 1 small bag (buy fresh; they lose numbness over time)
+- [ ] **Chinese sesame paste** (芹麻酱) — 1 small jar (dan dan noodles; not the same as tahini but tahini works as a substitute)
 - [ ] **Dried tianjin chillies** or facing heaven chillies — 1 bag
 - [ ] **Five-spice powder** — 1 small jar
 - [ ] **Rock sugar** (冰糖) — 1 small package (for hong shao rou — can sub with brown sugar if needed)

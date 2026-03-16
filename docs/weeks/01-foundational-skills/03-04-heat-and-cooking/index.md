@@ -180,7 +180,7 @@ If you need to glance at times and temperatures, that's fine. But close the reci
 
 ---
 
-### Session 10 — PROJECT MEAL: Braised Short Ribs
+### ⏰ Session 10 — PROJECT MEAL: Braised Short Ribs
 
 **Skill:** The full braise from start to finish. This is a long cook (3–4 hours) but almost entirely passive — you sear the ribs in batches, build the braising liquid, and let the oven do the rest. The hardest part is the patience.
 

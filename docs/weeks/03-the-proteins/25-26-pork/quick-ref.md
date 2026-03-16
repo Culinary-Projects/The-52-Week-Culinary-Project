@@ -21,7 +21,7 @@
 | Session | Dish | Skill | Link |
 |-----|------|-------|------|
 | **Session 6** | Crispy Pork Belly Lardons + White Beans + Wilted Greens | Fat rendering; lardon technique; no brine needed | — |
-| **Session 7** | Oven-and-Grill Ribs + Coleslaw + Cornbread | Collagen + caramelization hybrid method | [Pork Ribs Method](https://www.seriouseats.com/sous-vide-pork-ribs-recipe-food-lab) |
+| **Session 7** | ⏰ Oven-and-Grill Ribs + Coleslaw + Cornbread | Collagen + caramelization hybrid method | [Pork Ribs Method](https://www.seriouseats.com/sous-vide-pork-ribs-recipe-food-lab) |
 | **Session 8** | Porchetta + Braised White Beans + Arugula Salad | Roll + tie; fennel-rosemary-garlic; crispy skin | [All-Belly Porchetta](https://www.seriouseats.com/all-belly-porchetta-recipe-italian-roast-pork) |
 | **Session 9** | Pork Meatballs + Tomato Sugo + Pasta | Ground pork; milk-bread ratio; sear not bake | — |
 | **Session 10** | 🔨 **PROJECT: Carnitas Taco Dinner** + Salsa Verde + Guacamole + Pickled Jalapeños | Fat-braise; water-fry finish; taco assembly | [Carnitas](https://www.seriouseats.com/no-waste-tacos-de-carnitas-with-salsa-verde-recipe) · [Salsa Verde](https://www.seriouseats.com/charred-salsa-verde-tomatillo-salsa) |

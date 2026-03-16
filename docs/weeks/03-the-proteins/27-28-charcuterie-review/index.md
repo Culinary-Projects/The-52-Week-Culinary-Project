@@ -17,6 +17,7 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 > ⏰ **Planning Ahead**
 >
 > - **Session 1 (Gravlax):** start the cure at Session 1 — it needs 48–72 hrs before Session 3
+> - **Session 5 (PROJECT: Charcuterie Spread + Pork Rillettes):** rillettes need 3–4 hrs at 300°F; start early afternoon
 > - **Session 6 (Pancetta-Style Cured Belly):** needs 7-day dry cure; begin mid-block at latest
 > - **Session 7 (Duck Rillettes):** 3–4 hr confit cook; plan as a long afternoon project
 
@@ -80,7 +81,7 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 
 ---
 
-### Session 5 — PROJECT: Full Charcuterie Spread + Potted Rillettes
+### ⏰ Session 5 — PROJECT: Full Charcuterie Spread + Potted Rillettes
 
 **Skill:** Making rillettes (pork potted in its own fat); assembling a composed spread  
 **Goal:** Cook a rillette-style spread using pork shoulder or duck (slow cook in fat, shred, pot in fat with seasoning). This is beginner charcuterie production. Plus, compose a full charcuterie spread featuring the week's cured products.

@@ -204,9 +204,9 @@ Tarte tatin requires caramelizing sugar in butter. It sounds terrifying. But car
 
 ---
 
-## Before You Start Block 45
+## Before You Start Block 47
 
-### Chocolate Tempering & Confections
+### Session 0 — Chocolate Tempering & Truffles *(optional)*
 
 **Skill:** Chocolate tempering — the technique that gives chocolate its gloss, snap, and professional finish. And truffles, which are the most accessible entry point into chocolate confectionery.
 

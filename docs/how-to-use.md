@@ -51,15 +51,15 @@ The feedback you get from cooking a full meal — timing pressure, heat manageme
 
 ---
 
-## The Three-Sentence Sunday Habit
+## The Three-Sentence End of Block Habit
 
-Every week ends with a Sunday reflection prompt. It asks for three sentences:
+Every block ends with a reflection prompt. It asks for three sentences:
 
-1. What felt awkward this week?
+1. What felt awkward this block?
 2. What clicked?
 3. What do you want to fix?
 
-This sounds trivial. It isn't. After 52 weeks you'll have a document that tracks your actual development as a cook — not a highlight reel, but a real log. It also forces you to pay attention during the week in a way that knowing you'll have to write about it creates.
+This sounds trivial. It isn't. After 52 blocks you'll have a document that tracks your actual development as a cook — not a highlight reel, but a real log. It also forces you to pay attention during the block in a way that knowing you'll have to write about it creates.
 
 Your notes app is fine. A text file is fine. The format doesn't matter. The habit does.
 

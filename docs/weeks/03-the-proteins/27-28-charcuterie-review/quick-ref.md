@@ -12,7 +12,7 @@
 | Session 2 | [Merguez sausage](https://www.seriouseats.com/homemade-merguez-sausage-recipe) | Grind + season + stuff | Cook same day |
 | Session 3 | [Taste gravlax + charcuterie board](https://www.seriouseats.com/gravlax-cured-salmon-recipe) | Slice cured fish; compose spread | Slice thin, on bias |
 | Session 4 | Quick pickles | Vinegar brine | Ready in 1–2 hours; keeps 2 weeks |
-| Session 5 | [**PROJECT:** Pork rillettes + spread](https://www.seriouseats.com/easy-pork-rillettes-recipe) | Slow confit + shred + pot in fat | 3–4 hrs active; chill 2+ hrs before serving |
+| Session 5 | ⏰ [**PROJECT:** Pork rillettes + spread](https://www.seriouseats.com/easy-pork-rillettes-recipe) | Slow confit + shred + pot in fat | 3–4 hrs active; chill 2+ hrs before serving |
 
 ## Block 26 — Applied Curing + Six-Month Review
 

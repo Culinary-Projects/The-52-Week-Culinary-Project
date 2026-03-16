@@ -23,7 +23,7 @@
 - [ ] **Salmon fillets, skin-on** — 2 thick pieces (Mon); 2 more pieces (Fri miso glaze)
 - [ ] **Dover sole or flounder fillets** — 2–4 (Tue meunière)
 - [ ] **Fresh white fish fillet** — cod, halibut, or sea bass; 2 pieces (Wed technique practice)
-- [ ] **Whole fish** — 1–2 branzino, snapper, or sea bass, 500g–1kg each (Sat)
+- [ ] **Whole fish** — 1–2 branzino, snapper, or sea bass, 500g–1kg each (Sat; buy an extra for Session 0 filleting practice if doing it)
 
 ---
 

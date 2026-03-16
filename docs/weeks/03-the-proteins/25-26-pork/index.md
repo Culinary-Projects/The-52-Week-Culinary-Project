@@ -20,6 +20,7 @@
 > - **Session 2 (Chashu Pork Belly):** 2–3 hr braise; plan it as this session's main event
 > - **Session 4 (Vietnamese Pork Chop):** marinate at least 2 hrs ahead; overnight gives best char
 > - **Session 5 (PROJECT: Slow-Roasted Pork Shoulder):** dry-brine the night before; plan for 6–8 hr low cook
+> - **Session 7 (Pork Ribs):** 2 hrs low in the oven before finishing on grill/broiler; start the oven early
 
 
 ### Session 1 — Perfect Pork Chop
@@ -35,7 +36,7 @@
 
 ---
 
-### Session 2 — Chashu Pork Belly: Low and Slow Japanese-Style
+### ⏰ Session 2 — Chashu Pork Belly: Low and Slow Japanese-Style
 
 **Skill:** Chashu is braised and rolled pork belly — the origin is Japanese but the technique (braise in soy, mirin, sake, sugar) is a master class in balancing the four flavor elements in one preparation. The rendered belly collagen gives the braising liquid richness; the soy gives umami; the mirin and sugar give the glaze sweetness and lacquer.
 
@@ -70,7 +71,7 @@
 
 ---
 
-### Session 5 — PROJECT: Ultra-Crispy Slow-Roasted Pork Shoulder
+### ⏰ Session 5 — PROJECT: Ultra-Crispy Slow-Roasted Pork Shoulder
 
 **Skill:** One of the most satisfying large-format cooks in the pork repertoire. The shoulder (Boston butt or picnic) goes into a 300°F oven for 5–6 hours, then gets blasted at 500°F for 20–30 minutes to develop explosive crackling. The result feeds a crowd and requires almost no active cooking — mostly patience.
 
@@ -97,7 +98,7 @@
 
 ---
 
-### Session 7 — Pork Ribs: Understanding the Two Methods
+### ⏰ Session 7 — Pork Ribs: Understanding the Two Methods
 
 **Skill:** Spare ribs (more fat, more flavor) vs. baby back ribs (more tender, faster). Tonight: a hybrid method — 2 hours low in the oven, then a finish on the grill or under the broiler. This solves the classic rib problem: you need collagen conversion (time + moderate heat) AND caramelized exterior (high heat).
 

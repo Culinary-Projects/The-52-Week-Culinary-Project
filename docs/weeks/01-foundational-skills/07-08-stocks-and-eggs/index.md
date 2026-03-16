@@ -15,7 +15,7 @@ Read these first:
 **The Week 7 Rule:** Get your frozen chicken carcass from Week 2 out of the freezer the night before the block starts. You're going to use it.
 
 
-### Soups: A Taxonomy
+### Session 0 — Soup Architecture *(optional)*
 
 **Skill:** Understanding soup as a category — not recipes, but architecture. Tonight you make one purée soup and learn how the same structure produces every purée soup in existence.
 
@@ -139,6 +139,8 @@ The project session you make three things — stock, soup, and a complete dinner
 ---
 
 ## Before You Start Block 8
+
+Block 8 dives straight into egg technique — no additional reading required. Sessions pick up below.
 
 ---
 
