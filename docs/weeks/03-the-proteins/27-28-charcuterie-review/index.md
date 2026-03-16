@@ -14,6 +14,13 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 
 ---
 
+> ⏰ **Planning Ahead**
+>
+> - **Session 1 (Gravlax):** start the cure at Session 1 — it needs 48–72 hrs before Session 3
+> - **Session 6 (Pancetta-Style Cured Belly):** needs 7-day dry cure; begin mid-block at latest
+> - **Session 7 (Duck Rillettes):** 3–4 hr confit cook; plan as a long afternoon project
+
+
 ### Session 1 — Gravlax (Cured Salmon)
 
 **Skill:** Dry cure ratios, curing time, slicing technique  
@@ -21,11 +28,11 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 
 **What you're learning:** Gravlax is cured salmon — no heat involved. A 2:1 salt-to-sugar ratio by weight, plus dill, applied to fresh salmon for 48–72 hours. The salt draws out moisture, firms the texture, and intensifies flavor. The result eats like the best smoked salmon you've ever had, made at home for a fraction of the cost.
 
-**Note:** Start the cure *tonight* (Monday). It will be ready to slice and eat by Wednesday or Thursday.
+**Note:** Start the cure *tonight* (Session 1). It will be ready to slice and eat by Session 3 or Session 4.
 
 **Full Meal:**
 - Begin gravlax cure — no dinner from this tonight
-- Quick seared salmon for Monday dinner (side benefit: perfect salmon to compare against cured version later)
+- Quick seared salmon for Session 1 dinner (side benefit: perfect salmon to compare against cured version later)
 
 ---
 
@@ -49,7 +56,7 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 **Skill:** Slicing cured fish, building a charcuterie spread  
 **Read first:** [Best Charcuterie Boards](https://www.seriouseats.com/best-charcuterie-boards-8424659)
 
-**What you're learning:** Today you slice your gravlax (if it went in Monday) and taste the result alongside store-bought cured products — prosciutto, salami, coppa. The comparison trains your palate on what curing does to flavor and texture.
+**What you're learning:** Today you slice your gravlax (if it went in at Session 1) and taste the result alongside store-bought cured products — prosciutto, salami, coppa. The comparison trains your palate on what curing does to flavor and texture.
 
 **Full Meal:**
 - Charcuterie board: your gravlax + store-bought cured meats, mustard, cornichons, bread

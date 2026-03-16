@@ -31,7 +31,7 @@
 - Flesh: springs back when pressed; doesn't hold the indentation
 - "Sushi-grade" has no legal definition — it means the seller is comfortable selling it raw. Ask your fishmonger directly
 
-**Full Meal:** Fillet and cook the fish in whatever style you prefer tonight — the miso glaze is already prepped for Friday, or use the Wednesday technique (crispy skin pan sear). You've broken it down yourself. That changes how it tastes.
+**Full Meal:** Fillet and cook the fish in whatever style you prefer tonight — the miso glaze is already prepped for later in the block, or use the earlier pan-sear technique (crispy skin pan sear). You've broken it down yourself. That changes how it tastes.
 
 > **Why this matters beyond skills:** A whole 2 lb branzino costs $12–14 at a good fishmonger. The same fish sold as fillets costs $18–22. You just learned where $6–8 of the price comes from — and you can have fresher fish for less money.
 
@@ -42,6 +42,11 @@
 **The central principle this week:** Fish cooks faster than you think, at lower temperatures than you're used to, and the margin between perfect and overdone is about 30 seconds. Salmon at 125°F (slightly translucent at the center) is perfect. At 145°F it becomes dry and flaky in the wrong way. Everything this week is about developing the instinct to pull fish early.
 
 ---
+
+> ⏰ **Planning Ahead**
+>
+> - **Session 4 (Miso-Glazed Salmon):** apply miso marinade 24–48 hrs before this session
+
 
 ### Session 1 — Crispy-Skin Pan-Seared Salmon
 
@@ -86,7 +91,7 @@
 **Skill:** The miso glaze (white miso, mirin, sake, sugar) is applied to salmon and left to cure for several hours or overnight. The sugars in the miso caramelize under the broiler in 3–4 minutes. This is one of the most famous fish preparations in Japanese home cooking — Nobu Matsuhisa's black cod version made it internationally famous, but salmon is the accessible entry point.
 
 - **Read:** [Serious Eats — Miso-Glazed Salmon](https://www.seriouseats.com/miso-glazed-salmon-in-the-toaster-oven-recipe) — toaster oven technique; standard oven broiler works identically
-- Glaze and refrigerate Thursday night. Friday is 8 minutes total.
+- Glaze and refrigerate the night before Session 4. Session 4 is 8 minutes total.
 
 **Full Meal:** Miso-glazed salmon + steamed rice + [quick pickled cucumbers](https://www.seriouseats.com/quick-pickled-cucumbers-rice-vinegar-recipe) + wilted bok choy
 
@@ -99,7 +104,7 @@
 - **Read:** [Serious Eats — Salt-Baked Whole Fish with Fresh Herbs](https://www.seriouseats.com/salt-baked-whole-fish-with-fresh-herbs-5212108) — a more dramatic version of the whole-fish concept; alternatively roast the fish simply with just olive oil, lemon, and herbs in a 425°F oven for 25–30 minutes per kilo
 - Any whole fish works: snapper, branzino, sea bass, striped bass, or whatever is freshest
 
-**The Saturday meal:** Whole roasted or salt-baked fish + olive oil, lemon, and capers dressed over the top + [roasted potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) or simple rice + salad
+**The project meal:** Whole roasted or salt-baked fish + olive oil, lemon, and capers dressed over the top + [roasted potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) or simple rice + salad
 
 > 🎥 **Compare Notes:** [How to Grill and Eat a Whole Fish (Branzino)](https://www.youtube.com/watch?v=220Q_ppV8bs) *(Helen Rennie)* — Same fish, different heat source; pay attention to how she talks about the bones changing the cook time calculus compared to fillets.
 
@@ -160,7 +165,7 @@ This is a half-day project. Buy the bones/shells the same day (ask your fishmong
 
 - **Read:** [Serious Eats — Bouillabaisse Marseillaise](https://www.seriouseats.com/bouillabaisse-marseillaise-fish-stew-recipe) — the definitive home-cook version
 
-**The Saturday spread:** Bouillabaisse + rouille croutons + crusty bread + simple green salad
+**The project spread:** Bouillabaisse + rouille croutons + crusty bread + simple green salad
 
 > 🎥 **Compare Notes:** [Bouillabaisse and How to Make Fish Stock](https://www.youtube.com/watch?v=Ul_ymBC-cxk) *(Helen Rennie)* — The stock-building section is the real lesson; watch how she extracts flavor from bones and shells before anything else goes in the pot.
 

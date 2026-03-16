@@ -160,7 +160,7 @@ While you have your knife out: grab a small handful of fresh basil leaves. Stack
 
 **Full Meal:** [Chicken Piccata](https://www.seriouseats.com/chicken-piccata-italian-fried-cutlet-recipe) (use the breasts) + [Burst Cherry Tomatoes](https://www.seriouseats.com/fast-easy-pasta-blistered-cherry-tomato-sauce-recipe)
 
-The thighs and legs go in the fridge (use them Friday) or freeze for later. Nothing wasted.
+The thighs and legs go in the fridge (use them later in the block) or freeze for later. Nothing wasted.
 
 | Component | Recipe |
 |-----------|--------|
@@ -176,13 +176,13 @@ The thighs and legs go in the fridge (use them Friday) or freeze for later. Noth
 
 **Skill:** Time yourself dicing one onion. Write it down. This is your baseline. At the end of Week 4, you'll time yourself again. Speed is not the goal — having a reference point is.
 
-**Full Meal:** [Shakshuka](https://www.seriouseats.com/shakshuka-north-african-shirred-eggs-tomato-pepper-recipe) + Wednesday's leftover chicken thighs (warmed in a skillet)
+**Full Meal:** [Shakshuka](https://www.seriouseats.com/shakshuka-north-african-shirred-eggs-tomato-pepper-recipe) + leftover chicken from earlier in the block thighs (warmed in a skillet)
 
 Shakshuka requires dicing onion, pepper, and garlic as its entire prep — your speed drill is built into the recipe.
 
 | Component | Recipe |
 |-----------|--------|
-| Protein | Eggs poached in the shakshuka sauce + Wednesday's leftover chicken thighs |
+| Protein | Eggs poached in the shakshuka sauce + leftover chicken from earlier in the block thighs |
 | Veg | Onion, bell pepper, tomatoes (the shakshuka base) |
 | Starch | Crusty bread for dipping |
 
@@ -260,9 +260,9 @@ Reading about knife technique only goes so far. These videos show you what the g
 
 ### The Broader Concept: Mise en Place
 
-The Friday session introduces mise en place but only as setup. The idea runs a lot deeper:
+Session 4 introduces mise en place but only as setup. The idea runs a lot deeper:
 
-- 📖 [How to Set Up a Prep Station Like a Pro Cook](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro) — Sohla El-Waylly on the practical side of mise en place: how professional kitchens organize their workspace for vegetables, proteins, frying, and more. The Friday session introduces the habit; this shows you what it looks like fully applied.
+- 📖 [How to Set Up a Prep Station Like a Pro Cook](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro) — Sohla El-Waylly on the practical side of mise en place: how professional kitchens organize their workspace for vegetables, proteins, frying, and more. Session 4 introduces the habit; this shows you what it looks like fully applied.
 
 ---
 

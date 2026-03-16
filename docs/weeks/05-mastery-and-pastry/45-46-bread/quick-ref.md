@@ -6,25 +6,23 @@
 
 ## Block 41 — The Forgiving Loaves
 
-| Day | Bread | Hydration | Method | Timing |
+| Session | Bread | Hydration | Method | Timing |
 |-----|-------|-----------|--------|--------|
-| Mon | [No-Knead Boule](https://www.seriouseats.com/better-no-knead-bread-recipe) | ~80% | Mix Sun night; bake Mon | 12–18 hr ferment + 45 min bake |
-| Tue | [No-Knead (stretch-and-fold upgrade)](https://www.seriouseats.com/better-no-knead-bread-recipe) | ~80% | 3–4 folds in first 2 hrs | Compare crumb to Monday's |
-| Wed | [No-Knead Focaccia](https://www.seriouseats.com/easy-no-knead-focaccia) | ~80–85% | Pan bake; oil-slicked | Mix morning; dimple + bake same day |
-| Thu | **Rest** | [—](https://www.seriouseats.com/better-no-knead-bread-recipe) | [—](https://www.seriouseats.com/better-no-knead-bread-recipe) | [—](https://www.seriouseats.com/better-no-knead-bread-recipe) |
-| Fri | [Pullman Sandwich Loaf](https://www.seriouseats.com/bread-baking-pullman-loaf-recipe) | ~65% | [Enriched; Pullman pan](https://www.seriouseats.com/bread-baking-pullman-loaf-recipe) | Standard 2-hour proof |
-| Sat | [**Sourdough Starter** (start)](https://www.seriouseats.com/sourdough-starter) | n/a | Mix flour + water; 5–7 day culture | Won't use until Week 42 |
+| Session 1 | ⏰ [No-Knead Boule](https://www.seriouseats.com/better-no-knead-bread-recipe) | ~80% | Mix Sun night; bake Mon | 12–18 hr ferment + 45 min bake |
+| Session 2 | [No-Knead (stretch-and-fold upgrade)](https://www.seriouseats.com/better-no-knead-bread-recipe) | ~80% | 3–4 folds in first 2 hrs | Compare crumb to Session 1's |
+| Session 3 | [No-Knead Focaccia](https://www.seriouseats.com/easy-no-knead-focaccia) | ~80–85% | Pan bake; oil-slicked | Mix morning; dimple + bake same day |
+| Session 4 | [Pullman Sandwich Loaf](https://www.seriouseats.com/bread-baking-pullman-loaf-recipe) | ~65% | [Enriched; Pullman pan](https://www.seriouseats.com/bread-baking-pullman-loaf-recipe) | Standard 2-hour proof |
+| Session 5 | ⏰ [**Sourdough Starter** (start)](https://www.seriouseats.com/sourdough-starter) | n/a | Mix flour + water; 5–7 day culture | Won't use until Week 42 |
 
 ## Block 42 — Sourdough, Brioche, Croissants
 
-| Day | Bread | Method | Key Milestone |
+| Session | Bread | Method | Key Milestone |
 |-----|-------|--------|---------------|
-| Mon | [Sourdough — levain build + mix](https://www.seriouseats.com/sourdough-starter) | Levain 4–6 hrs; bulk ferment; refrigerate overnight | [Check starter is bubbly before mixing](https://www.seriouseats.com/sourdough-starter) |
-| Tue | [Sourdough — Bake](https://www.seriouseats.com/sourdough-starter) | Dutch oven; 250°C; covered then uncovered | Score before loading; wait 1 hr to cut |
-| Wed | [Brioche](https://www.seriouseats.com/brioche-loaf-recipe-6755249) | Enriched; butter added gradually; refrigerate overnight | Butter must be room temp |
-| Thu | **Rest** | [—](https://www.seriouseats.com/better-no-knead-bread-recipe) | [—](https://www.seriouseats.com/better-no-knead-bread-recipe) |
-| Fri | [Croissants](https://www.seriouseats.com/croissants-recipe-11863500) | Laminated; 3+ book folds; refrigerate between | Keep everything cold; block out full day |
-| Sat | **PROJECT:** Bread Board + Rebake | Taste + evaluate; rebake best loaf | Compare all five breads side by side |
+| Session 6 | ⏰ [Sourdough — levain build + mix](https://www.seriouseats.com/sourdough-starter) | Levain 4–6 hrs; bulk ferment; refrigerate overnight | [Check starter is bubbly before mixing](https://www.seriouseats.com/sourdough-starter) |
+| Session 7 | [Sourdough — Bake](https://www.seriouseats.com/sourdough-starter) | Dutch oven; 250°C; covered then uncovered | Score before loading; wait 1 hr to cut |
+| Session 8 | ⏰ [Brioche](https://www.seriouseats.com/brioche-loaf-recipe-6755249) | Enriched; butter added gradually; refrigerate overnight | Butter must be room temp |
+| Session 9 | [Croissants](https://www.seriouseats.com/croissants-recipe-11863500) | Laminated; 3+ book folds; refrigerate between | Keep everything cold; block out full day |
+| Session 10 | **PROJECT:** Bread Board + Rebake | Taste + evaluate; rebake best loaf | Compare all five breads side by side |
 
 ---
 

@@ -4,7 +4,6 @@
 
 ---
 
-> **Your Schedule:** Monday · Tuesday · Wednesday · Friday cook | **Saturday** = Big Project | **Thursday & Sunday** = Off
 >
 > **Where we are:** Knife skills done. Heat methods done. Mother sauces done. Stocks and eggs done. Now we go deeper — into the invisible architecture of flavor itself.
 
@@ -25,10 +24,16 @@
 
 > The lesson: salt behaves differently at different stages of cooking, and learning to recognize *what* your food is missing — flat? dull? one-dimensional? — is more valuable than any single technique.
 
-**The Week 9 experiment (do this before Monday):**
+**The Week 9 experiment (do this before the block starts):**
 Take a carrot. Cut it in two. Salt one half with a pinch of kosher salt and wait two minutes. Taste both back to back. The salted carrot will taste more carrot-y — brighter, sweeter, more itself. That's the point. Salt doesn't make food taste salty. It makes food taste like *food*.
 
 ---
+
+> ⏰ **Planning Ahead**
+>
+> - **Session 1 (Brined Chicken Thighs):** dry-brine the night before your first session
+> - **Session 10 (Miso-Glazed Cod Project):** apply miso marinade 24–48 hrs ahead; start two days before
+
 
 ### Session 1 — Early Salt: Brining
 
@@ -183,7 +188,7 @@ This pasta uses anchovies (umami), mushrooms (umami), and tomato (umami) in comb
 
 ### Session 10 — PROJECT MEAL: A Composed Tasting Plate
 
-**The challenge:** This Saturday isn't about following a single recipe. It's about applying everything from Weeks 9–10 in one deliberate meal. You'll cook a three-component plate and consciously think about salt timing, acid balance, fat choice, and umami depth for each component.
+**The challenge:** The project session isn't about following a single recipe. It's about applying everything from Weeks 9–10 in one deliberate meal. You'll cook a three-component plate and consciously think about salt timing, acid balance, fat choice, and umami depth for each component.
 
 **Suggested composed plate:**
 

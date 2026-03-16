@@ -105,7 +105,7 @@ When deciding if a dish is "yours," ask:
 
 ## Week 47–48 Sessions at a Glance
 
-| Day | Session | Key Skill |
+| Session | Session | Key Skill |
 |---|---|---|
 | W47 Mon | [Wok technique deep dive](https://www.amazon.com/dp/0393541215) | Wok hei, seasoning |
 | W47 Tue | Knife skills assessment | Self-audit; brunoise |

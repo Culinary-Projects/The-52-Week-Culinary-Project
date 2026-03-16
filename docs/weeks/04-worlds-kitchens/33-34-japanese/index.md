@@ -55,6 +55,11 @@ Japanese cooking builds on a different set of foundational principles than Frenc
 
 ---
 
+> ⏰ **Planning Ahead**
+>
+> - **Session 10 (PROJECT: Kaiseki Dinner):** make pickles and tamagoyaki ahead — both are better with rest time
+
+
 ### Session 1 — Dashi (Kombu and Katsuobushi Stock)
 
 **Skill:** Cold-infusion technique for kombu; adding bonito; filtering clearly  

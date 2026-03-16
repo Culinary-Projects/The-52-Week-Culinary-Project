@@ -14,6 +14,13 @@ French pastry week is the most technically demanding section of this program. Th
 
 ---
 
+> ⏰ **Planning Ahead**
+>
+> - **Session 3 (Rough Puff Pastry):** make a day ahead; puff pastry needs cold rest between turns
+> - **Session 6 (Pâte Brisée + Lemon Tart):** chill tart shell at least 30 min before blind baking
+> - **Session 9 (Crème Brûlée):** custard needs 2+ hrs to set (or overnight) before torching
+
+
 ### Session 1 — Pâte Sucrée (Sweet Tart Dough)
 
 **Skill:** Creaming method for tart dough; blind baking; preventing shrinkage  
@@ -35,7 +42,7 @@ French pastry week is the most technically demanding section of this program. Th
 **What you're learning:** Pastry cream is the filling for every French pastry: eclairs, mille-feuille, fruit tarts, cream puffs. It's thickened with cornstarch and egg yolks. The key skills: tempering (pouring hot milk slowly into yolks to prevent scrambling), cooking while whisking constantly until it thickens (it will lump if you stop), and pressing plastic wrap directly on the surface to prevent a skin.
 
 **Full Meal:**
-- Eclairs or cream puffs using pastry cream (choux pastry — see Week 44 Friday for the full technique, or make a basic choux: butter + water + flour + eggs piped and baked at 400°F)
+- Eclairs or cream puffs using pastry cream (choux pastry — see  for the full technique, or make a basic choux: butter + water + flour + eggs piped and baked at 400°F)
 - Chocolate glaze dipped
 
 > 🎥 **Compare Notes:** [How To Make A Fruit Tart](https://www.youtube.com/watch?v=DVh_EXHZsSQ) *(Claire Saffitz)* — Pastry cream is the central skill in this video; watch her tempering step and the moment she declares it done — that's the texture you're aiming for.
@@ -74,7 +81,7 @@ French pastry week is the most technically demanding section of this program. Th
 ### Session 5 — PROJECT: Mille-Feuille (Napoleon)
 
 **Skill:** Baked puff pastry sheets; layering and assembly; fondant or icing finish  
-**Goal:** Bake puff pastry into flat sheets (store-bought puff pastry is acceptable here — your rough puff from Friday can also be used). Layer with pastry cream between three sheets of puff. Top with fondant (or powdered sugar glaze) and optional chocolate feathering.
+**Goal:** Bake puff pastry into flat sheets (store-bought puff pastry is acceptable here — your rough puff from Session 4 can also be used). Layer with pastry cream between three sheets of puff. Top with fondant (or powdered sugar glaze) and optional chocolate feathering.
 
 **Full Meal:**
 - Mille-Feuille: the test of pastry cream + puff pastry execution together
@@ -108,7 +115,7 @@ French pastry week is the most technically demanding section of this program. Th
 
 **Full Meal:**
 - Apple Pie with vanilla ice cream
-- This is a Tuesday, and that's fine
+- This is a Session 2, and that's fine
 
 > 🎥 **Compare Notes:** [How to Make an Apple Pie — Sous Vide Method](https://www.youtube.com/watch?v=DkRMDdcddf0) — He uses sous vide to pre-cook the filling so it's never soupy; compare his fat rationale for the crust to the approach you chose.
 
@@ -117,7 +124,7 @@ French pastry week is the most technically demanding section of this program. Th
 ### Session 8 — Pâte Brisée (Savory Shortcrust) + Lemon Tart
 
 **Skill:** Savory shortcrust (unsweetened); lemon curd filling; balancing sweetness and acid  
-**Read first:** Reference pâte sucrée technique (Monday Week 43) — pâte brisée is the same method without the sugar
+**Read first:** Reference pâte sucrée technique (Session 1 Week 43) — pâte brisée is the same method without the sugar
 
 **What you're learning:** A lemon tart uses a baked pâte brisée or pâte sucrée shell, filled with lemon curd (eggs + sugar + lemon juice + butter, cooked to 170°F) that is poured in warm and sets as it cools. It should taste bright, sour, and sweet in equal measure.
 
@@ -136,7 +143,7 @@ French pastry week is the most technically demanding section of this program. Th
 **What you're learning:** Choux is a cooked starch paste. The eggs are beaten in gradually — the correct dough consistency is "ribbon-y" when dropped from a spoon (falls in a thick, slow V). Underbaked choux will collapse. Properly baked choux has a hollow interior ready for filling.
 
 **Full Meal:**
-- Chocolate-glazed éclairs with pastry cream filling (pastry cream already mastered Tuesday Week 43)
+- Chocolate-glazed éclairs with pastry cream filling (pastry cream already mastered Session 2 Week 43)
 - Or profiteroles (small choux balls) with ice cream + chocolate sauce
 
 > 🎥 **Compare Notes:** [Chocolate Éclairs / Pâte à Choux](https://www.youtube.com/watch?v=lB9X_nr2P7M) *(Claire Saffitz)* — Watch her dough consistency test — the ribbon drop off the spoon — that's the single diagnostic that tells you whether the choux will rise properly or collapse.
@@ -150,7 +157,7 @@ French pastry week is the most technically demanding section of this program. Th
 
 1. Finger sandwiches (savory — cucumber, smoked salmon, egg salad on Pullman bread from Week 41)
 2. Petit fours or [madeleine cookies](https://www.seriouseats.com/madeleines-6951118) (easy to add; baked in madeleine pan with browned butter batter)
-3. Lemon tart (from Wednesday) sliced
+3. Lemon tart (from Session 3) sliced
 4. Eclairs or mille-feuille from this week
 5. [Scones](https://www.bbcgoodfood.com/recipes/classic-scones-jam-clotted-cream) with clotted cream and jam (or plain croissants from Week 42)
 
@@ -298,7 +305,7 @@ This week is about cold and room-temperature desserts — the ones that reward a
 
 **Full Meal:**
 - Pavlova with whipped cream, kiwi, passion fruit, strawberries
-- This is a Friday dinner: a big pavlova is a celebratory dessert
+- This is a Session 4 dinner: a big pavlova is a celebratory dessert
 
 > 🎥 **Compare Notes:** [Easy Pavlova](https://www.youtube.com/watch?v=jHkSIqm_Occ) *(Claire Saffitz)* — Watch how she handles the meringue stiffness and the oven door-crack finish; those two details are what create the marshmallowy interior.
 
@@ -374,7 +381,7 @@ This week is about cold and room-temperature desserts — the ones that reward a
 **What you're learning:** A well-executed layer cake requires: even layers (weigh the batter), flat tops (cake strips or dome trim), proper cooling before frosting (warm cake will melt buttercream), a crumb coat, refrigerating the crumb coat before final frosting, and patience. Make a 3-layer cake: vanilla, chocolate, or lemon curd between layers.
 
 **Full Meal:**
-- Layer cake — completed tonight or Saturday depending on timing
+- Layer cake — completed tonight or the project session depending on timing
 - Serve to anyone available; this is a milestone bake
 
 ---
@@ -385,7 +392,7 @@ This week is about cold and room-temperature desserts — the ones that reward a
 **Goal:** Invite people over. Serve three desserts from this two-week block:
 
 1. **Petit dessert first:** Individual panna cotta already made, or chocolate mousse in small cups
-2. **Main dessert:** The layer cake from Friday, or the tiramisu from Saturday Week 45
+2. **Main dessert:** The layer cake from Session 4, or the tiramisu from the project session Week 45
 3. **Mignardises:** Chocolate truffles (ganache rolled in cocoa powder — simple to make), salted caramel bites
 
 **Full Meal:**

@@ -10,9 +10,14 @@
 
 ## Block 27 — The Sauces: Hollandaise, Béarnaise, and the French Mother Sauces
 
-French cooking week means sauce week. No other cuisine has built such a systematic framework around sauce-making — not just for tradition's sake, but because the system *works*. This week you'll tackle the two emulsified egg yolk sauces (hollandaise and béarnaise), build a proper French onion soup, and finish with a cassoulet that will take most of Saturday.
+French cooking week means sauce week. No other cuisine has built such a systematic framework around sauce-making — not just for tradition's sake, but because the system *works*. This week you'll tackle the two emulsified egg yolk sauces (hollandaise and béarnaise), build a proper French onion soup, and finish with a cassoulet that will take most of the project session day.
 
 ---
+
+> ⏰ **Planning Ahead**
+>
+> - **Session 5 (PROJECT: Cassoulet):** soak beans overnight; plan for 4–6 hrs on project day — start by noon
+
 
 ### Session 1 — French Onion Soup
 
@@ -76,7 +81,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 **Skill:** Bean preparation; regional French braising (multi-component slow dish)  
 **Read first:** [Traditional French Cassoulet](https://www.seriouseats.com/traditional-french-cassoulet-recipe)
 
-**What you're learning:** Cassoulet is the great peasant dish of southwestern France: confit duck, pork sausage, white beans, and a crust that forms and gets pushed down repeatedly. It's a multi-component dish requiring 4–6 hours on Saturday. The payoff is extraordinary. Start by noon.
+**What you're learning:** Cassoulet is the great peasant dish of southwestern France: confit duck, pork sausage, white beans, and a crust that forms and gets pushed down repeatedly. It's a multi-component dish requiring 4–6 hours during the project session. The payoff is extraordinary. Start by noon on project day.
 
 **Full Meal:**
 - Cassoulet (serves 4–6; freeze the rest)

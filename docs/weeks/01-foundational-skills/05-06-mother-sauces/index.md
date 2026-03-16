@@ -20,6 +20,12 @@ Four out of five start with a roux. **Learn the roux and you learn four sauces a
 
 ## Block 5 — Roux-Based Sauces
 
+> ⏰ **Planning Ahead**
+>
+> - **Session 3 (Bolognese):** needs 3–4 hrs simmering; start early in the session
+> - **Session 5 (Moussaka project):** plan for 2 hrs: make both béchamel and tomato sauce before assembly
+
+
 ### Session 1 — Béchamel: The White Sauce
 
 **Skill:** A béchamel is a white roux (equal parts butter and flour, cooked briefly until it smells nutty but hasn't browned) whisked with warm milk. The key is adding the milk gradually while whisking constantly, and cooking it long enough to lose the raw flour taste. Season with salt, white pepper, and a pinch of nutmeg.
@@ -59,7 +65,7 @@ The pot pie filling is a classic chicken velouté extended with vegetables and c
 
 **Full Meal:** [The Best Slow-Cooked Bolognese](https://www.seriouseats.com/the-best-slow-cooked-bolognese-sauce-recipe)
 
-Bolognese takes 3–4 hours. Make it on a Wednesday when you can let it simmer while doing other things.
+Bolognese takes 3–4 hours. Make it on a low-key evening when you can let it simmer while doing other things.
 
 | Component | Recipe |
 |-----------|--------|

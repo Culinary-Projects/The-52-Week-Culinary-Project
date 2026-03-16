@@ -49,6 +49,13 @@
 
 ---
 
+> ⏰ **Planning Ahead**
+>
+> - **Session 1 (Reverse-Seared Ribeye):** dry-brine the steak the night before the block starts
+> - **Session 5 (PROJECT: Standing Rib Roast):** dry-brine 1–2 days ahead; budget 4–5 hrs total roast time
+> - **Session 8 (Brisket):** 6–8 hrs low and slow; start by mid-morning
+
+
 ### Session 1 — The Dry Brine + Reverse Sear Method
 
 **Skill:** Dry brining (salting and leaving uncovered in the fridge for at least 12 hours) is the single highest-leverage improvement most home cooks can make to their steak. Salt draws moisture to the surface, which then gets reabsorbed carrying salt deeper into the meat. The surface dries out — which means better, faster crust formation.
@@ -56,7 +63,7 @@
 The reverse sear — low oven first, then high-heat sear — gives you precise temperature control and faster, drier surface for searing.
 
 - **Read before cooking:** [Serious Eats — How to Dry Brine](https://www.seriouseats.com/how-to-dry-brine) — the definitive explanation
-- Dry brine your steak Sunday night. Reverse sear Monday.
+- Dry brine your steak the night before the block starts. Reverse sear Session 1.
 - **Read:** [Serious Eats — Reverse-Seared Steak](https://www.seriouseats.com/reverse-seared-steak-recipe)
 
 **Full Meal:** Reverse-seared ribeye + [Serious Eats — Rich and Creamy Mashed Potatoes](https://www.seriouseats.com/rich-and-creamy-mashed-potatoes-recipe) + simple green salad
@@ -114,11 +121,11 @@ The reverse sear — low oven first, then high-heat sear — gives you precise t
 - **Read:** [Serious Eats — Perfect Prime Rib](https://www.seriouseats.com/perfect-prime-rib-beef-recipe) — read the whole thing, twice
 - [Serious Eats — High Heat vs. Low and Slow Prime Rib](https://www.seriouseats.com/high-heat-vs-low-and-slow-prime-rib-11875575) — understand both approaches before choosing one
 
-**The Saturday spread:**
+**The project spread:**
 1. **Standing rib roast** — 2-bone minimum, reverse sear if it's your first time
 2. Horseradish cream sauce (crème fraîche + prepared horseradish + lemon + black pepper)
 3. [Serious Eats — Creamed Spinach](https://www.seriouseats.com/food-lab-creamed-spinach-recipe) — the steakhouse classic
-4. Roasted garlic mashed potatoes (use Monday's mashed potato technique)
+4. Roasted garlic mashed potatoes (from earlier in the block mashed potato technique)
 
 *What you learn today: cooking to temperature on an expensive cut. If it's wrong, you know immediately. That's the best teacher.*
 
@@ -160,7 +167,7 @@ The reverse sear — low oven first, then high-heat sear — gives you precise t
 
 ### Session 8 — Brisket: Patience as a Virtue
 
-**Skill:** Brisket is a study in patience. At 6–8 hours (lower temp, longer time), the fat renders, the collagen converts, and the flat and point achieve very different textures. This is a Saturday cook being previewed midweek on a smaller scale.
+**Skill:** Brisket is a study in patience. At 6–8 hours (lower temp, longer time), the fat renders, the collagen converts, and the flat and point achieve very different textures. This is a the project cook being previewed midweek on a smaller scale.
 
 - **Read:** [Serious Eats — Brisket Cooking Methods Tested](https://www.seriouseats.com/brisket-cooking-methods-tested-11869530) — compare the approaches and understand why they produce different results
 

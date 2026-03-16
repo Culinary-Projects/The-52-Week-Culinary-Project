@@ -6,25 +6,23 @@
 
 ## Block 43 — French Pastry Foundations
 
-| Day | Preparation | Key Technique | Critical Point |
+| Session | Preparation | Key Technique | Critical Point |
 |-----|-------------|---------------|----------------|
-| Mon | [Pâte Sucrée + Fruit Tart](https://www.seriouseats.com/pate-sucree-tart-shell-recipe) | Creaming method; blind bake | No water; press wrap to cool |
-| Tue | [Pastry Cream (Crème Pâtissière)](https://www.seriouseats.com/vanilla-pastry-cream-creme-patissiere) | Temper eggs; constant whisking | Plastic wrap directly on surface to prevent skin |
-| Wed | [Tarte Tatin](https://www.seriouseats.com/tarte-tatin-recipe-11844901) | Dry caramel in cast iron; inversion | Time inversion: golden, not liquid, not rock-hard |
-| Thu | **Rest** | [—](https://www.seriouseats.com/pate-sucree-tart-shell-recipe) | [—](https://www.seriouseats.com/pate-sucree-tart-shell-recipe) |
-| Fri | [Rough Puff Pastry](https://www.seriouseats.com/vanilla-pastry-cream-creme-patissiere) | Grated frozen butter; fold 3–4× | Keep cold; rest between folds |
-| Sat | [**PROJECT:** Mille-Feuille](https://www.seriouseats.com/mille-feuille-recipe-8729243) | [Baked puff sheets + pastry cream layers](https://www.seriouseats.com/vanilla-pastry-cream-creme-patissiere) | [Level the pastry sheets; press layers gently](https://www.seriouseats.com/vanilla-pastry-cream-creme-patissiere) |
+| Session 1 | [Pâte Sucrée + Fruit Tart](https://www.seriouseats.com/pate-sucree-tart-shell-recipe) | Creaming method; blind bake | No water; press wrap to cool |
+| Session 2 | [Pastry Cream (Crème Pâtissière)](https://www.seriouseats.com/vanilla-pastry-cream-creme-patissiere) | Temper eggs; constant whisking | Plastic wrap directly on surface to prevent skin |
+| Session 3 | ⏰ [Tarte Tatin](https://www.seriouseats.com/tarte-tatin-recipe-11844901) | Dry caramel in cast iron; inversion | Time inversion: golden, not liquid, not rock-hard |
+| Session 4 | [Rough Puff Pastry](https://www.seriouseats.com/vanilla-pastry-cream-creme-patissiere) | Grated frozen butter; fold 3–4× | Keep cold; rest between folds |
+| Session 5 | [**PROJECT:** Mille-Feuille](https://www.seriouseats.com/mille-feuille-recipe-8729243) | [Baked puff sheets + pastry cream layers](https://www.seriouseats.com/vanilla-pastry-cream-creme-patissiere) | [Level the pastry sheets; press layers gently](https://www.seriouseats.com/vanilla-pastry-cream-creme-patissiere) |
 
 ## Block 44 — Applied Pastry: Quiche, Pie, Lemon Tart, Choux
 
-| Day | Preparation | Key Technique | Critical Point |
+| Session | Preparation | Key Technique | Critical Point |
 |-----|-------------|---------------|----------------|
-| Mon | [Quiche Lorraine](https://www.seriouseats.com/quiche-lorraine-recipe-8715255) | [Savory custard in tart shell](https://www.seriouseats.com/pate-sucree-tart-shell-recipe) | Pull at 160°F; jiggly center is correct |
-| Tue | Apple Pie (double crust) | Flaky pie crust; butter-lard blend | Ice cold fat; add water 1 tbsp at a time |
-| Wed | Lemon Tart | Lemon curd to 170°F; pour warm into shell | Balance acid-sweet; should taste clearly sour |
-| Thu | **Rest** | [—](https://www.seriouseats.com/pate-sucree-tart-shell-recipe) | [—](https://www.seriouseats.com/pate-sucree-tart-shell-recipe) |
-| Fri | [Choux Pastry / Éclairs](https://www.seriouseats.com/vanilla-pastry-cream-creme-patissiere) | Cooked paste; eggs added one at a time | Ribbon test; fully bake (25–30 min) |
-| Sat | **PROJECT:** Afternoon Tea | Multi-pastry spread; composed service | Most items make-ahead; assemble 1 hr before |
+| Session 6 | ⏰ [Quiche Lorraine](https://www.seriouseats.com/quiche-lorraine-recipe-8715255) | [Savory custard in tart shell](https://www.seriouseats.com/pate-sucree-tart-shell-recipe) | Pull at 160°F; jiggly center is correct |
+| Session 7 | Apple Pie (double crust) | Flaky pie crust; butter-lard blend | Ice cold fat; add water 1 tbsp at a time |
+| Session 8 | Lemon Tart | Lemon curd to 170°F; pour warm into shell | Balance acid-sweet; should taste clearly sour |
+| Session 9 | ⏰ [Choux Pastry / Éclairs](https://www.seriouseats.com/vanilla-pastry-cream-creme-patissiere) | Cooked paste; eggs added one at a time | Ribbon test; fully bake (25–30 min) |
+| Session 10 | **PROJECT:** Afternoon Tea | Multi-pastry spread; composed service | Most items make-ahead; assemble 1 hr before |
 
 ---
 

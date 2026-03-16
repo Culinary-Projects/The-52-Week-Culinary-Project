@@ -6,7 +6,7 @@
 
 ---
 
-> "There is no final exam with a pass or fail. There is only the cook you have become, compared to the cook you were. The real exam was every Monday morning when you had to decide to keep going. You kept going."
+> "There is no final exam with a pass or fail. There is only the cook you have become, compared to the cook you were. The real exam was every Session 1 morning when you had to decide to keep going. You kept going."
 
 ---
 ## Menus, Timing & Dinner Party Execution
@@ -31,6 +31,12 @@ Over two weeks, you will plan and execute three increasingly ambitious dinners, 
 
 ---
 
+> ⏰ **Planning Ahead**
+>
+> - **Session 1 (Final Exam Planning):** plan your menu now — final dinner requires multi-day prep
+> - **Session 5 (PROJECT: Final Dinner Party):** write your mise en place timeline the night before
+
+
 ### Session 1 — Menu Design Theory
 
 **Skill:** Menu composition; flavor arc; season-appropriate choices; dietary accommodation
@@ -40,7 +46,7 @@ Over two weeks, you will plan and execute three increasingly ambitious dinners, 
 **Exercise:**
 - Write three different 4-course menus using only dishes from this program
 - Identify the weight/flavor arc of each
-- Choose one to execute this Friday
+- Choose one to execute this Session 4
 
 ---
 
@@ -50,7 +56,7 @@ Over two weeks, you will plan and execute three increasingly ambitious dinners, 
 
 **What you're learning:** The professional kitchen trick for home cooks is the same as it is in restaurants: almost nothing at a dinner party should be cooked to order. The goal is to have 80% of the meal finished before guests arrive so you are present at the table, not absent in the kitchen. Today, take one of your three menus and do a component-by-component make-ahead audit.
 
-**Exercise — Build a run-of-show for Friday's dinner:**
+**Exercise — Build a run-of-show for later in the block dinner:**
 
 | Component | How Far Ahead | Notes |
 |---|---|---|
@@ -119,7 +125,7 @@ No cooking today. Write or record:
 **What you're learning:** Most recipes scale linearly in ingredients — double the recipe, double the quantities. But timing does not scale linearly: a 2-inch-thick steak and a 4-pound roast don't take twice as long in proportion; they take 4× longer. Braising liquid doesn't always need to double. Seasoning perception can shift when quantities are large. Baking, especially, does not always scale simply.
 
 **Exercise:**
-- Take your Friday dinner recipe and scale it from 4 to 8 servings
+- Take your Session 4 dinner recipe and scale it from 4 to 8 servings
 - Identify every element that requires adjustment beyond simple multiplication
 - Practice scaling a sauce or braise quantity on your stovetop
 
@@ -152,7 +158,7 @@ No cooking today. Write or record:
 - Afternoon: All vegetable prep; all sauces; all components plated/organized
 - Evening: Final walkthrough of your mise en place; set the table; rest
 
-**Target:** When guests arrive Saturday, you have less than 30 minutes of cooking left.
+**Target:** When guests arrive the project session, you have less than 30 minutes of cooking left.
 
 ---
 

@@ -14,6 +14,14 @@
 
 ---
 
+> ⏰ **Planning Ahead**
+>
+> - **Session 1 (Pork Chop):** dry-brine the pork chop the night before
+> - **Session 2 (Chashu Pork Belly):** 2–3 hr braise; plan it as this session's main event
+> - **Session 4 (Vietnamese Pork Chop):** marinate at least 2 hrs ahead; overnight gives best char
+> - **Session 5 (PROJECT: Slow-Roasted Pork Shoulder):** dry-brine the night before; plan for 6–8 hr low cook
+
+
 ### Session 1 — Perfect Pork Chop
 
 **Skill:** The hardest weeknight cook well-done: a bone-in pork chop, properly seared, properly finished, properly rested. Most home cooks overcook pork chops because they're afraid of undercooked pork. Tonight: understand the actual target (145°F), achieve it, taste the difference.
@@ -32,8 +40,8 @@
 **Skill:** Chashu is braised and rolled pork belly — the origin is Japanese but the technique (braise in soy, mirin, sake, sugar) is a master class in balancing the four flavor elements in one preparation. The rendered belly collagen gives the braising liquid richness; the soy gives umami; the mirin and sugar give the glaze sweetness and lacquer.
 
 - **Read:** [Serious Eats — Chashu Pork Belly for Ramen](https://www.seriouseats.com/chashu-pork-marinated-braised-pork-belly-for-tonkotsu-ramen-recipe)
-- This is a 3–4 hour project cook on a Tuesday — start by 3 PM
-- The leftover chashu will be used Thursday and works for ramen all week
+- This is a 3–4 hour project cook on a Session 2 — start by 3 PM
+- The leftover chashu will be great later in the block and works for ramen all week
 
 **Full Meal:** Chashu pork belly + steamed rice + quick pickled cucumbers + soft-boiled egg
 
@@ -69,7 +77,7 @@
 - **Read (and mostly follow):** [Serious Eats — Ultra-Crispy Slow-Roasted Pork Shoulder](https://www.seriouseats.com/ultra-crispy-slow-roasted-pork-shoulder-recipe)
 - Start by 11 AM. Score the fat cap deeply. Dry brine overnight.
 
-**The Saturday spread:** Pulled/sliced pork shoulder + whatever sides feel right — slaw, pickled jalapeños, fresh tortillas, or a simple potato salad. This is a meal for the table.
+**The project spread:** Pulled/sliced pork shoulder + whatever sides feel right — slaw, pickled jalapeños, fresh tortillas, or a simple potato salad. This is a meal for the table.
 
 > 🎥 **Compare Notes:** [Easy Oven-Pulled Pork (Plus Four Ways to Use the Leftovers)](https://www.youtube.com/watch?v=-07gtGrdeyE) — Compare his oven temperature and internal temp target to yours — two different paths to the same falling-apart shoulder, and the differences are instructive.
 
@@ -104,7 +112,7 @@
 **Skill:** Porchetta is pork belly wrapped around a seasoned loin (or all-belly), rolled, tied, and slow-roasted. Fennel seed, rosemary, garlic, black pepper, and lemon zest are traditional. The skin crackles. The interior stays impossibly juicy. This is the most complex pork project of the block.
 
 - **Read:** [Serious Eats — All-Belly Porchetta](https://www.seriouseats.com/all-belly-porchetta-recipe-italian-roast-pork)
-- Prep and roll Thursday or Friday and refrigerate uncovered — the drying is critical for the skin.
+- Prep and roll a day or two ahead and refrigerate uncovered — the drying is critical for the skin.
 
 **Full Meal:** Porchetta slices + [braised white beans](https://www.seriouseats.com/30-minute-tuscan-white-bean-soup-recipe) + simple arugula salad with lemon
 

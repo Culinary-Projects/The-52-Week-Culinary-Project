@@ -14,6 +14,12 @@ Southeast Asia is not one cuisine but a family of distinct traditions connected 
 
 ---
 
+> ⏰ **Planning Ahead**
+>
+> - **Session 4 (Beef Rendang):** 3–4 hr low simmer; builds better flavor if made the day before
+> - **Session 5 (Project: SE Asian Feast):** Rendang is best made Session 4 and reheated — plan accordingly
+
+
 ### Session 1 — Pad Thai
 
 **Skill:** Wok technique for noodles; tamarind-palm sugar sauce balance; egg incorporation  
@@ -110,7 +116,7 @@ Southeast Asia is not one cuisine but a family of distinct traditions connected 
 **Skill:** Pressure cooker pho technique; understanding pho gà vs. pho bò; quick broth extraction  
 **Read first:** [30-Minute Pressure Cooker Pho Gà](https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe)
 
-**What you're learning:** Pho gà is lighter and faster than beef pho. The pressure cooker approach extracts enough flavor in 20–25 minutes from a whole chicken broken down with aromatics. Compare it to the beef pho from Monday Week 39 — how does the lighter chicken broth change the eating experience?
+**What you're learning:** Pho gà is lighter and faster than beef pho. The pressure cooker approach extracts enough flavor in 20–25 minutes from a whole chicken broken down with aromatics. Compare it to the beef pho from Session 1 Week 39 — how does the lighter chicken broth change the eating experience?
 
 **Full Meal:**
 - Pho Gà with the same herb plate: basil, lime, bean sprouts, chili
@@ -154,8 +160,8 @@ Southeast Asia is not one cuisine but a family of distinct traditions connected 
 - Satay skewers (make fresh on the grill)
 - Curry Laksa (make broth ahead; assemble to order)
 - Nasi Goreng (best made on the spot at high heat)
-- Beef Rendang (reheat from Friday beautifully)
-- Pho Gà broth from Tuesday as an opening "tea"
+- Beef Rendang (reheat from Session 4 beautifully)
+- Pho Gà broth from Session 2 as an opening "tea"
 
 **Full Meal:**
 - Southeast Asian Dinner Party

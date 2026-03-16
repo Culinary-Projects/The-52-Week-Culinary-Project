@@ -6,25 +6,23 @@
 
 ## Block 37 — Hummus, Shakshuka, Shawarma
 
-| Day | Dish | Technique | Key Point |
+| Session | Dish | Technique | Key Point |
 |-----|------|-----------|-----------|
-| Mon | [Hummus b'Tahini](https://www.seriouseats.com/hummus-b-tahini-hummus-tahini-recipe-11887965) | Dried chickpeas + baking soda; blend warm | Warm chickpeas → silkier blend |
-| Tue | [Shakshuka](https://www.seriouseats.com/shakshuka-north-african-shirred-eggs-tomato-pepper-recipe) | Tomato-pepper sauce; eggs poached in it | Don't over-set the yolks |
-| Wed | [Baba Ganoush + Muhammara](https://www.seriouseats.com/muhammara-recipe-11725275) | Direct flame char; roasted pepper walnut blend | Black eggplant skin = the smoke flavor |
-| Thu | **Rest** | [—](https://www.seriouseats.com/hummus-b-tahini-hummus-tahini-recipe-11887965) | [—](https://www.seriouseats.com/hummus-b-tahini-hummus-tahini-recipe-11887965) |
-| Fri | [Falafel + Fattoush](https://www.seriouseats.com/fattoush-recipe-8638102) | Raw soaked chickpeas (never canned); 350°F fry | Must use dried chickpeas |
-| Sat | [**PROJECT:** Beef Shawarma + Tabbouleh](https://www.seriouseats.com/beef-shawarma-recipe-11825269) | Thin-cut marinated beef; broil or sear hot | [Tabbouleh = mostly parsley](https://www.seriouseats.com/tabbouleh-salad-recipe) |
+| Session 1 | [Hummus b'Tahini](https://www.seriouseats.com/hummus-b-tahini-hummus-tahini-recipe-11887965) | Dried chickpeas + baking soda; blend warm | Warm chickpeas → silkier blend |
+| Session 2 | [Shakshuka](https://www.seriouseats.com/shakshuka-north-african-shirred-eggs-tomato-pepper-recipe) | Tomato-pepper sauce; eggs poached in it | Don't over-set the yolks |
+| Session 3 | [Baba Ganoush + Muhammara](https://www.seriouseats.com/muhammara-recipe-11725275) | Direct flame char; roasted pepper walnut blend | Black eggplant skin = the smoke flavor |
+| Session 4 | [Falafel + Fattoush](https://www.seriouseats.com/fattoush-recipe-8638102) | Raw soaked chickpeas (never canned); 350°F fry | Must use dried chickpeas |
+| Session 5 | [**PROJECT:** Beef Shawarma + Tabbouleh](https://www.seriouseats.com/beef-shawarma-recipe-11825269) | Thin-cut marinated beef; broil or sear hot | [Tabbouleh = mostly parsley](https://www.seriouseats.com/tabbouleh-salad-recipe) |
 
 ## Block 38 — Kebabs, Grains, Aromatic Rice
 
-| Day | Dish | Technique | Key Point |
+| Session | Dish | Technique | Key Point |
 |-----|------|-----------|-----------|
-| Mon | [Adana Kebab](https://www.seriouseats.com/adana-kebab-turkish-ground-lamb-kebab-recipe) | [Kneaded ground lamb on flat skewers](https://www.seriouseats.com/adana-kebab-turkish-ground-lamb-kebab-recipe) | Knead until sticky; no egg needed |
-| Tue | [Fattoush + Tabbouleh deep dive](https://www.seriouseats.com/fattoush-recipe-8638102) | Fried pita; sumac; herb-heavy | Both are acid-forward; compare them |
-| Wed | [Kuku Sabzi or Chelow with Tahdig](https://www.seriouseats.com/tahdig-persian-crunchy-rice-7187445) | [Herb frittata or Persian steamed rice](https://www.seriouseats.com/chelow-persian-steamed-white-rice-recipe-7197809) | Tahdig: crust forms at bottom; requires confidence |
-| Thu | **Rest** | [—](https://www.seriouseats.com/hummus-b-tahini-hummus-tahini-recipe-11887965) | [—](https://www.seriouseats.com/hummus-b-tahini-hummus-tahini-recipe-11887965) |
-| Fri | [Kabsa](https://www.seriouseats.com/kabsa-spiced-chicken-and-rice-11878672) | [One-pot rice + spiced chicken stock](https://www.seriouseats.com/kabsa-spiced-chicken-and-rice-11878672) | Black lime is essential |
-| Sat | **PROJECT:** Full Mezze Table | Multi-component spread from both weeks | Cold mezze first; hot served last |
+| Session 6 | [Adana Kebab](https://www.seriouseats.com/adana-kebab-turkish-ground-lamb-kebab-recipe) | [Kneaded ground lamb on flat skewers](https://www.seriouseats.com/adana-kebab-turkish-ground-lamb-kebab-recipe) | Knead until sticky; no egg needed |
+| Session 7 | [Fattoush + Tabbouleh deep dive](https://www.seriouseats.com/fattoush-recipe-8638102) | Fried pita; sumac; herb-heavy | Both are acid-forward; compare them |
+| Session 8 | [Kuku Sabzi or Chelow with Tahdig](https://www.seriouseats.com/tahdig-persian-crunchy-rice-7187445) | [Herb frittata or Persian steamed rice](https://www.seriouseats.com/chelow-persian-steamed-white-rice-recipe-7197809) | Tahdig: crust forms at bottom; requires confidence |
+| Session 9 | [Kabsa](https://www.seriouseats.com/kabsa-spiced-chicken-and-rice-11878672) | [One-pot rice + spiced chicken stock](https://www.seriouseats.com/kabsa-spiced-chicken-and-rice-11878672) | Black lime is essential |
+| Session 10 | **PROJECT:** Full Mezze Table | Multi-component spread from both weeks | Cold mezze first; hot served last |
 
 ---
 

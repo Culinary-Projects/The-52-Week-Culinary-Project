@@ -105,12 +105,10 @@
 | 11 | Mon | [Brown butter asparagus + haricots verts](https://www.seriouseats.com/the-food-lab-all-about-asparagus) | [Blanch + shock + beurre noisette](https://www.seriouseats.com/food-lab-spring-produce-how-to-blanch) |
 | 11 | Tue | Sheet pan carrots, cauliflower, beets | Roasting |
 | 11 | Wed | [Crispy Brussels + charred cabbage with miso](https://www.simplyrecipes.com/recipes/roasted_brussels_sprouts/) | Pan sear + char |
-| 11 | Thu | Celery root + parsnip purées | Purée + strain |
 | 11 | Fri | Baba ganoush + grilled veg spread | Charring + grilling |
 | 11 | Sat | [Plant-forward dinner party](https://www.seriouseats.com/sheet-pan-chicken-potato-fennel-gratin-dinner) | Multi-technique |
 | 12 | Mon | [Caesar salad from scratch](https://www.bonappetit.com/recipe/classic-caesar-salad) | Emulsification + dressing |
 | 12 | Tue | [Braised white beans + crispy chickpeas](https://www.seriouseats.com/beans-legumes-pulses-varieties-recipes-cooking-tips) | Braising + pan-frying legumes |
 | 12 | Wed | [Mushroom Bourguignon](https://www.bonappetit.com/recipe/mushroom-bourguignon) | Sear + braise |
-| 12 | Thu | [Quick pickles + start sauerkraut](https://www.seriouseats.com/homemade-fermented-sauerkraut-recipe) | [Pickling + fermentation](https://www.bonappetit.com/recipe/quick-pickled-vegetables) |
 | 12 | Fri | [Stuffed roasted peppers](https://www.bonappetit.com/recipe/stuffed-peppers) | Roasting + grain stuffing |
 | 12 | Sat | [5-course vegetable tasting menu](https://www.bonappetit.com/story/how-to-roast-vegetables) | Multi-technique |

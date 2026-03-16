@@ -14,6 +14,14 @@ This week establishes the principles of bread-making through the two most forgiv
 
 ---
 
+> ⏰ **Planning Ahead**
+>
+> - **Session 1 (Better No-Knead Bread):** mix dough the night before the block starts (12–18 hr rise)
+> - **Session 5 (PROJECT: Sourdough Starter + First Loaf):** starter must be active; feed it the day before this session
+> - **Session 6 (Sourdough: First Real Loaf):** bulk ferment 4–5 hrs + overnight cold proof
+> - **Session 8 (Brioche):** dough needs overnight cold retard after initial mix
+
+
 ### Session 1 — Better No-Knead Bread
 
 **Skill:** Autolyse; long cold fermentation; Dutch oven steam baking  
@@ -21,7 +29,7 @@ This week establishes the principles of bread-making through the two most forgiv
 
 **What you're learning:** No-knead bread works because a long rest (12–18 hours) allows gluten strands to organize themselves without the mechanical action of kneading. The Dutch oven creates the steam that a commercial deck oven provides — essential for the brittle, shiny crust. Dough should be shaggy and wet; this is correct.
 
-**Note:** Mix the dough Sunday night for Monday baking.
+**Note:** Mix the dough the night before the block starts for Session 1 baking.
 
 **Full Meal:**
 - No-Knead Bread, first loaf
@@ -36,7 +44,7 @@ This week establishes the principles of bread-making through the two most forgiv
 **Skill:** Stretch-and-fold technique during bulk fermentation; shaping surface tension  
 **Read first:** Reference the better no-knead technique; try incorporating 3–4 rounds of stretch-and-fold during the first 2 hours
 
-**What you're learning:** The "better" part of Better No-Knead Bread is using the stretch-and-fold technique instead of just leaving the dough alone. This builds more structure and improves the crumb. Compare your Tuesday loaf to Monday's — the crumb should be more open and even.
+**What you're learning:** The "better" part of Better No-Knead Bread is using the stretch-and-fold technique instead of just leaving the dough alone. This builds more structure and improves the crumb. Compare your Session 2 loaf to earlier in the block's — the crumb should be more open and even.
 
 **Full Meal:**
 - Bread loaf #2 with different toppings or served alongside a simple soup
@@ -85,7 +93,7 @@ This week establishes the principles of bread-making through the two most forgiv
 
 **Full Meal:**
 - Focaccia (make a second batch if desired — your no-knead skill is solid by now)
-- Saturday dinner designed around the focaccia
+- the project dinner designed around the focaccia
 
 > 🎥 **Compare Notes:** [A Non-Baker's Guide to Making Sourdough Bread](https://www.youtube.com/watch?v=APEavQg8rMw) *(Alex French Guy Cooking)* — His beginner lens matches yours right now. Watch when he knows the fermentation is right and how he reads the dough before shaping — that instinct is what you're building today.
 
@@ -100,7 +108,7 @@ This week establishes the principles of bread-making through the two most forgiv
 **Skill:** Levain build; bulk fermentation judgment; shaping; cold retard  
 **Read first:** Reference the sourdough starter from Week 41; consult your flour brand's recommended ratios
 
-**What you're learning:** Your starter (if started Saturday Week 41) should now be active and bubbly. Build a levain (a measured feeding of your starter used as the leavener), mix into a dough, bulk ferment 4–6 hours with stretch-and-folds, shape, refrigerate overnight. Bake in a Dutch oven Tuesday morning.
+**What you're learning:** Your starter (if started the project session Week 41) should now be active and bubbly. Build a levain (a measured feeding of your starter used as the leavener), mix into a dough, bulk ferment 4–6 hours with stretch-and-folds, shape, refrigerate overnight. Bake in a Dutch oven Session 2 morning.
 
 **Full Meal:**
 - Continue building the starter (no bread from this session yet)

@@ -14,6 +14,13 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 
 ---
 
+> ⏰ **Planning Ahead**
+>
+> - **Session 6 (Birria de Res):** marinade and braise: plan 3–4 hrs; best if marinated overnight
+> - **Session 7 (Mole Negro):** simplified mole still takes 2–3 hrs; start early in the session
+> - **Session 8 (Tamales):** soak corn husks 2 hrs ahead; have filling and chile sauce fully prepped before spreading masa
+
+
 ### Session 1 — Carne Asada
 
 **Skill:** Marinating thin beef for grill; char without overcooking; proper resting  
@@ -93,7 +100,7 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 **Skill:** Long beef braise in a complex chile marinade; consommé for dipping  
 **Read first:** [Birria de Res (Beef Birria)](https://www.seriouseats.com/birria-de-res-beef-birria-recipe-8362004)
 
-**What you're learning:** Birria is Jalisco's slow-braised chile-rubbed beef (or goat in the original version). The braising liquid becomes the consommé — the broth in which you dip your quesabirria taco before eating it. This is a Saturday project that ended up on Monday because of its recent popularity; know the real version.
+**What you're learning:** Birria is Jalisco's slow-braised chile-rubbed beef (or goat in the original version). The braising liquid becomes the consommé — the broth in which you dip your quesabirria taco before eating it. This is a project session cook that ended up on Session 1 because of its recent popularity; know the real version.
 
 **Full Meal:**
 - Birria tacos / quesabirria with consommé for dipping

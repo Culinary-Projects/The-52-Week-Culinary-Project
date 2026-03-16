@@ -18,6 +18,11 @@ Read this first:
 
 ## Block 3 — Dry Heat: The Maillard Reaction Is Your Best Friend
 
+> ⏰ **Planning Ahead**
+>
+> - **Session 10 (Short Ribs):** plan for a 3–4 hr cook; start by early afternoon
+
+
 ### Session 1 — Sauté: Hot Pan, Don't Crowd
 
 **Skill:** Sautéing means high heat, small amount of fat, food in a single layer, moving frequently. The most common home cook mistake: cold pan, crowded pan, food that steams instead of browns. Tonight, heat your pan until a drop of water evaporates immediately before adding oil. Cook in batches if needed.
@@ -40,7 +45,7 @@ Read this first:
 
 **Full Meal:** [Sheet Pan Chicken Thighs with Roasted Vegetables](https://www.seriouseats.com/honey-mustard-sheet-pan-chicken-recipe-11780416) + [Simple Green Salad](https://www.seriouseats.com/simple-vinaigrette-recipe)
 
-Use bone-in, skin-on thighs. Pat them completely dry. Compare the color and crispness tonight to Wednesday's braise — you'll eat the difference.
+Use bone-in, skin-on thighs. Pat them completely dry. Compare the color and crispness tonight to earlier in the block's braise — you'll eat the difference.
 
 | Component | Recipe |
 |-----------|--------|
@@ -56,7 +61,7 @@ Use bone-in, skin-on thighs. Pat them completely dry. Compare the color and cris
 
 **Full Meal:** [Braised Chicken Thighs with Tomatoes and Capers](https://www.seriouseats.com/chicken-cacciatore-red-peppers-recipe) + Crusty bread or polenta
 
-Notice the difference in texture from Tuesday's roasted thighs — same cut of meat, entirely different result because of heat and moisture.
+Notice the difference in texture from earlier in the block roasted thighs — same cut of meat, entirely different result because of heat and moisture.
 
 | Component | Recipe |
 |-----------|--------|

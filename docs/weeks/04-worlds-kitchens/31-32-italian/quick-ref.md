@@ -6,25 +6,23 @@
 
 ## Block 29 — Italian Patience Dishes
 
-| Day | Dish | Technique | Key Point |
+| Session | Dish | Technique | Key Point |
 |-----|------|-----------|-----------|
-| Mon | [Mushroom Risotto](https://www.seriouseats.com/pressure-cooker-mushroom-risotto-recipe) | Ladle-by-ladle stock; mantecatura | Serve immediately; never cream |
-| Tue | [Minestrone](https://www.seriouseats.com/the-best-minestrone-soup-recipe) | Stage-order veg, Parmesan rind broth | Pasta/beans go in last 15 min |
-| Wed | [Osso Buco + Saffron Risotto](https://www.seriouseats.com/osso-buco-italian-braised-veal-shanks-recipe) | [Brown all sides; 2–3 hr braise](https://www.seriouseats.com/osso-buco-italian-braised-veal-shanks-recipe) | Gremolata added raw at serving |
-| Thu | **Rest** | [—](https://www.seriouseats.com/pressure-cooker-mushroom-risotto-recipe) | [—](https://www.seriouseats.com/pressure-cooker-mushroom-risotto-recipe) |
-| Fri | [Ribollita](https://www.seriouseats.com/pressure-cooker-ribollita) | Day-old bread in soup; reheat | Better day 2; olive oil on top |
-| Sat | [**PROJECT:** Whole Branzino + Tiramisu](https://www.seriouseats.com/pan-roasted-whole-branzino) | [Pan-roast fish; tiramisu sets 4+ hrs](https://www.seriouseats.com/best-tiramisu-recipe) | [Make tiramisu in the morning](https://www.seriouseats.com/best-tiramisu-recipe) |
+| Session 1 | [Mushroom Risotto](https://www.seriouseats.com/pressure-cooker-mushroom-risotto-recipe) | Ladle-by-ladle stock; mantecatura | Serve immediately; never cream |
+| Session 2 | [Minestrone](https://www.seriouseats.com/the-best-minestrone-soup-recipe) | Stage-order veg, Parmesan rind broth | Pasta/beans go in last 15 min |
+| Session 3 | [Osso Buco + Saffron Risotto](https://www.seriouseats.com/osso-buco-italian-braised-veal-shanks-recipe) | [Brown all sides; 2–3 hr braise](https://www.seriouseats.com/osso-buco-italian-braised-veal-shanks-recipe) | Gremolata added raw at serving |
+| Session 4 | [Ribollita](https://www.seriouseats.com/pressure-cooker-ribollita) | Day-old bread in soup; reheat | Better day 2; olive oil on top |
+| Session 5 | [**PROJECT:** Whole Branzino + Tiramisu](https://www.seriouseats.com/pan-roasted-whole-branzino) | [Pan-roast fish; tiramisu sets 4+ hrs](https://www.seriouseats.com/best-tiramisu-recipe) | [Make tiramisu in the morning](https://www.seriouseats.com/best-tiramisu-recipe) |
 
-## Block 30 — Fresh Pasta, Bistecca, and the Sunday Feast
+## Block 30 — Fresh Pasta, Bistecca, and the the day before Feast
 
-| Day | Dish | Technique | Key Point |
+| Session | Dish | Technique | Key Point |
 |-----|------|-----------|-----------|
-| Mon | [Gnocchi](https://www.seriouseats.com/light-tender-potato-gnocchi-recipe) | [Baked potato + minimal flour](https://www.seriouseats.com/light-tender-potato-gnocchi-recipe) | Test one before rolling all |
-| Tue | Fresh Ricotta Ravioli | Egg pasta dough + filled shape | Don't over-flour the filling |
-| Wed | [Spaghetti alle Vongole](https://www.seriouseats.com/spaghetti-pasta-alle-vongole-clams-recipe) | White or red brothy pasta | Reserve pasta water; finish in pan |
-| Thu | **Rest** | [—](https://www.seriouseats.com/pressure-cooker-mushroom-risotto-recipe) | [—](https://www.seriouseats.com/pressure-cooker-mushroom-risotto-recipe) |
-| Fri | [Saltimbocca alla Romana](https://www.seriouseats.com/veal-saltimbocca-roman-sauteed-cutlet-recipe) | Fast sauté; prosciutto-down first | 15-minute dish; prep everything first |
-| Sat | [**PROJECT:** Italian Sunday Dinner](https://www.seriouseats.com/osso-buco-italian-braised-veal-shanks-recipe) | 4-course meal; parallel timing | Antipasto → Primo → Secondo → Dolce |
+| Session 6 | [Gnocchi](https://www.seriouseats.com/light-tender-potato-gnocchi-recipe) | [Baked potato + minimal flour](https://www.seriouseats.com/light-tender-potato-gnocchi-recipe) | Test one before rolling all |
+| Session 7 | Fresh Ricotta Ravioli | Egg pasta dough + filled shape | Don't over-flour the filling |
+| Session 8 | [Spaghetti alle Vongole](https://www.seriouseats.com/spaghetti-pasta-alle-vongole-clams-recipe) | White or red brothy pasta | Reserve pasta water; finish in pan |
+| Session 9 | [Saltimbocca alla Romana](https://www.seriouseats.com/veal-saltimbocca-roman-sauteed-cutlet-recipe) | Fast sauté; prosciutto-down first | 15-minute dish; prep everything first |
+| Session 10 | [**PROJECT:** Italian Sunday Dinner](https://www.seriouseats.com/osso-buco-italian-braised-veal-shanks-recipe) | 4-course meal; parallel timing | Antipasto → Primo → Secondo → Dolce |
 
 ---
 

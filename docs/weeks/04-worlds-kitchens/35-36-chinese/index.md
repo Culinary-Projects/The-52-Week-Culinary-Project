@@ -82,6 +82,11 @@ Before Week 35 begins, verify you have:
 
 ## Block 35 — Core Chinese Techniques
 
+> ⏰ **Planning Ahead**
+>
+> - **Session 2 (Hong Shao Rou):** plan for a 2–3 hr low braise; make it early in the day or the session before — it reheats beautifully
+
+
 ### Session 1 — The Wok: Heat, Motion, and Wok Hei
 
 **Skill:** Wok cooking at home is a compromise because home stovetops produce roughly 7,000–15,000 BTUs, while restaurant wok ranges produce 150,000+ BTUs. Understanding this limits your expectations and teaches you to optimize within the constraint.
@@ -335,7 +340,7 @@ The traditional Chinese dinner table presents everything at once — multiple di
 | Celery root and cucumber appetizer | Light opener; no cooking |
 | Hot and sour soup | Starter; the egg ribbon technique on display |
 | Steamed whole fish | Cantonese technique; freshness as the statement |
-| Hong shao rou | Red-braised pork; make it Monday, reheat and it's even better |
+| Hong shao rou | Red-braised pork; make it early in the block, reheat and it's even better |
 | Stir-fried bok choy with garlic | Fast, green, balancing the rich dishes |
 | Steamed jasmine rice | Cook double the amount |
 

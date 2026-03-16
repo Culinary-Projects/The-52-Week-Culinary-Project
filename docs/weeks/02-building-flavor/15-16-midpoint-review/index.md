@@ -14,21 +14,27 @@
 
 ---
 
+> ⏰ **Planning Ahead**
+>
+> - **Session 6 (High-Heat Whole-Bird Roast):** dry-brine the bird the night before this session
+> - **Session 10 (PROJECT: Duck Confit):** cure the duck legs the evening before; plan for 4–6 hr low cook
+
+
 ### Session 1 — Menu Planning
 
-**Skill:** Professional kitchens don't decide what to cook while standing in front of the stove. They plan. Tonight's task: design a 3-course dinner menu for Saturday using only techniques you've learned in Weeks 1–12. Write the menu down. Plan the timing. Make your shopping list.
+**Skill:** Professional kitchens don't decide what to cook while standing in front of the stove. They plan. Tonight's task: design a 3-course dinner menu for the project session using only techniques you've learned in Weeks 1–12. Write the menu down. Plan the timing. Make your shopping list.
 
 *Questions to ask yourself while planning:*
 
 - Does the menu have balance? (Rich and light? Warm and cool? Fat-forward and acid-bright?)
 - Can I execute all three courses in the same kitchen, at the same time, without losing my mind?
-- Is there anything on this menu I'm not confident about? (If yes, practice that thing this week, not Saturday.)
+- Is there anything on this menu I'm not confident about? (If yes, practice that thing this week, not the project session.)
 
 ---
 
 ### Session 2 — Dry Run: The Most Difficult Component
 
-Whatever you identified as the hardest part of Saturday's menu — make it tonight as a dry run. No guests, no pressure. Just you and the technique.
+Whatever you identified as the hardest part of the project menu — make it tonight as a dry run. No guests, no pressure. Just you and the technique.
 
 **Full Meal:** Your chosen dry-run dish + [Serious Eats — Simple Green Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) + whatever protein is simplest alongside
 
@@ -36,7 +42,7 @@ Whatever you identified as the hardest part of Saturday's menu — make it tonig
 
 ### Session 3 — Knife Speed Benchmark
 
-**Skill:** Time yourself dicing one onion. This is the third benchmark in the program (Week 2 Friday and Week 4 Thursday were the others). Write the time down. You should be measurably faster than Week 2. More importantly: are your cuts more uniform? Speed is the secondary metric. Consistency is the primary one.
+**Skill:** Time yourself dicing one onion. This is the third benchmark in the program ( and  were the others). Write the time down. You should be measurably faster than Week 2. More importantly: are your cuts more uniform? Speed is the secondary metric. Consistency is the primary one.
 
 **Full Meal:** [Serious Eats — Thai-Style Larb (Ground Meat Salad)](https://www.seriouseats.com/larb-muang-moo-northern-thai-style-chopped-pork-salad-recipe) + [Serious Eats — Jasmine Rice](https://www.seriouseats.com/perfect-stovetop-thai-jasmine-rice) + [Serious Eats — Quick-Pickled Cucumbers](https://www.seriouseats.com/quick-pickled-cucumbers-rice-vinegar-recipe)
 
@@ -50,7 +56,7 @@ Larb requires a lot of fine knife work — fresh herbs, shallots, chili, lemongr
 
 ### Session 4 — Final Prep Day
 
-Mise en place everything for Saturday's dinner. Every sauce component prepped. Every vegetable cut. Every protein seasoned in advance (if appropriate). Every sauce component thought through. The goal: Saturday service should feel calm and controlled, not frantic and reactive.
+Mise en place everything for the project dinner. Every sauce component prepped. Every vegetable cut. Every protein seasoned in advance (if appropriate). Every sauce component thought through. The goal: the project session service should feel calm and controlled, not frantic and reactive.
 
 **Dinner tonight:** Something simple and low-effort — [Serious Eats — The Best Grilled Cheese](https://www.seriouseats.com/crispy-grilled-cheese-sandwich-tip-11891994) + [Serious Eats — Tomato Soup](https://www.seriouseats.com/thick-creamy-tomato-soup-recipe) — because you deserve a night off the skills grind.
 
@@ -70,7 +76,6 @@ Mise en place everything for Saturday's dinner. Every sauce component prepped. E
 
 ---
 
-### Sunday — OFF: 13-Week Reflection
 
 This is the most important reflection yet. Five questions, five sentences minimum each:
 
@@ -93,7 +98,7 @@ This is the most important reflection yet. Five questions, five sentences minimu
 **Skill:** The classic high-heat roast — 450°F, bird dry-brined overnight, no basting. This produces crackling skin and juicy meat if you understand why: the high heat cooks so fast it dries the surface before the interior overcooks. A chicken at high heat is not an accident. It's physics.
 
 - **Read (before you cook):** [Serious Eats — The Science of Perfect Roast Chicken](https://www.seriouseats.com/perfect-roast-chicken-recipe-8384377)
-- Dry-brine the bird Sunday night: kosher salt inside and out, uncovered in the fridge
+- Dry-brine the bird the night before the block starts: kosher salt inside and out, uncovered in the fridge
 - Roast at 450°F on a rack. No tent. No basting. Let it go.
 
 **Full Meal:** Roast chicken + [Serious Eats — The Best Roast Potatoes Ever](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + simple green salad
@@ -113,7 +118,7 @@ This is the most important reflection yet. Five questions, five sentences minimu
 
 **Full Meal:** Spatchcocked chicken (your own seasoning, not theirs) + [Serious Eats — Roasted Cauliflower with Pine Nuts, Raisins & Capers](https://www.seriouseats.com/roasted-cauliflower-pine-nut-raisin-caper-food-lab-recipe) + tahdig or rice
 
-*Side-by-side comparison optional: write down the cooking time and internal temp readings compared to Monday's whole bird. Did the spatchcock cook faster? More evenly? This is active learning.*
+*Side-by-side comparison optional: write down the cooking time and internal temp readings compared to earlier in the block's whole bird. Did the spatchcock cook faster? More evenly? This is active learning.*
 
 > 🎥 **Compare Notes:** [For the Best Roast Chicken, Slather Your Spatchcock in Mayo](https://www.youtube.com/watch?v=2Sz40WqBg8E) — A twist on the technique you're using — watch how the mayo acts as a fat and protein barrier that crisps differently than dry-brined skin.
 
@@ -136,7 +141,7 @@ This is the most important reflection yet. Five questions, five sentences minimu
 
 ### Session 9 — Pan-Seared Chicken Breast + Pan Sauce
 
-**Skill:** The hardest everyday cook: a chicken breast at exactly the right temperature, seared in a pan, with a pan sauce built from the fond. Two proteins in two weeks — Monday's whole bird and tonight's breast — show you how different the same animal can be when you change the cut and the method.
+**Skill:** The hardest everyday cook: a chicken breast at exactly the right temperature, seared in a pan, with a pan sauce built from the fond. Two proteins in two weeks — earlier in the block's whole bird and tonight's breast — show you how different the same animal can be when you change the cut and the method.
 
 - **Read:** [Serious Eats — Pan-Seared Chicken Breast with White Wine Pan Sauce](https://www.seriouseats.com/easy-pan-seared-chicken-breast-white-wine-fines-herbes-pan-sauce-food-lab-recipe)
 - The pan sauce is the skill. Deglaze the fond. Reduce. Mount with butter. Taste. Fix.
@@ -152,9 +157,9 @@ This is the most important reflection yet. Five questions, five sentences minimu
 **Skill:** Confit is patience-based cooking. Duck legs cured overnight in salt and aromatics, then slow-cooked in their own fat (or olive oil, which works fine) for 2–3 hours at 200°F. The result is impossibly tender, deeply flavorful meat that also crisp-skins beautifully when you finish it in a hot pan.
 
 - **Read:** [Serious Eats — Classic Duck Confit](https://www.seriouseats.com/classic-duck-confit-recipe)
-- Start the cure Friday night. Saturday is a long, low project cook. This is the kind of thing you can only learn by doing it.
+- Start the cure the evening before the project session. the project session is a long, low project cook. This is the kind of thing you can only learn by doing it.
 
-**The Saturday menu:**
+**The the project menu:**
 1. **Duck confit legs** — crisped in a cast iron at high heat after the slow cook
 2. [Serious Eats — French Bistro Salad](https://www.seriouseats.com/french-bistro-salad-recipe-8707601) — frisée or endive, lardons, mustard vinaigrette, a poached egg if you feel like it
 3. [Lentils or white beans](https://www.seriouseats.com/30-minute-tuscan-white-bean-soup-recipe) cooked simply in the duck fat from the confit — this is called using the whole animal
@@ -165,7 +170,6 @@ This is the most important reflection yet. Five questions, five sentences minimu
 
 ---
 
-### Sunday — OFF: Week 14 Reflection
 
 You've now cooked poultry four different ways in one week: high-heat whole roast, spatchcock, red-wine braise, pan sear, and duck confit. Write one paragraph: of everything in the first 14 weeks, what technique do you now feel like you actually *own*? What still feels like you're following instructions rather than cooking?
 

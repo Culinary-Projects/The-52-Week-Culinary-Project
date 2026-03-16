@@ -16,6 +16,12 @@
 
 ---
 
+> ⏰ **Planning Ahead**
+>
+> - **Session 2 (Bolognese):** 3–4 hr simmer; start the sauce by early afternoon
+> - **Session 4 (Korean Galbi):** marinate short ribs at least 4 hrs ahead — overnight is better
+
+
 ### Session 1 — T-Bone: Two Steaks, One Animal
 
 **Skill:** The T-bone is a porterhouse by another name — strip on one side of the bone, tenderloin on the other. The problem: strip requires higher heat for longer; tenderloin overcooks at lower temperature. Understanding how to grill a T-bone is the most concentrated lesson in thermal management for beef.

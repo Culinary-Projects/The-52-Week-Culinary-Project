@@ -44,6 +44,11 @@ This block is structured differently. The first week is technical catch-up and d
 
 ---
 
+> ⏰ **Planning Ahead**
+>
+> - **Session 1 (Signature #1 + 2 Design):** commit to both dishes now — let the ideas rest before Session 3
+
+
 ### Session 1 — Advanced Wok Technique
 
 **Skill:** High-heat wok work; "wok hei" production; toss technique; seasoning a wok  
@@ -137,7 +142,7 @@ Write these down. These are your current signatures.
 
 ---
 
-### Tuesday, Wednesday — Refine Signature #1 and #2
+### Session 2, Session 3 — Refine Signature #1 and #2
 
 **Skill:** Intentional, focused repetition  
 **Goal:** Execute Signature dishes #1 and #2 from your list, back-to-back on consecutive evenings. Make notes:

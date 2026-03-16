@@ -18,7 +18,7 @@
 **What you're learning:** Naan requires yeast or baking powder, yogurt (for color and tang), and extremely high heat. A fully preheated cast iron skillet at maximum heat is the home substitute for a 900°F tandoor. The result should have char spots, a slight chew, and elastic pull. Once you can make fresh naan, takeout naan will feel like a step backward.
 
 **Full Meal:**
-- Garlic Naan × 8–10 (it's flatbread night — pair with leftover dal from Tuesday or butter chicken)
+- Garlic Naan × 8–10 (it's flatbread night — pair with leftover dal from earlier in the block or butter chicken)
 
 > 🎥 **Compare Notes:** [Naan in a Pizza Oven](https://www.youtube.com/watch?v=Ikz9l_7q-_s) — Watch how he manages extreme heat and why the char spots are a feature, not a mistake.
 
@@ -30,6 +30,12 @@ The first Indian week focuses on three foundational preparations: a tomato-cream
 
 ---
 
+> ⏰ **Planning Ahead**
+>
+> - **Session 5 (Dal Makhani):** traditional version takes 4+ hrs low cook; pressure cooker = 40 min
+> - **Session 11 (PROJECT: South Indian Thali + Dosa):** ferment dosa batter 24–48 hrs ahead — start two days before
+
+
 ### Session 1 — Butter Chicken (Murgh Makhani)
 
 **Skill:** Tandoor-style marination; tomato cream sauce construction; achieving the balance no restaurant can get wrong  
@@ -40,7 +46,7 @@ The first Indian week focuses on three foundational preparations: a tomato-cream
 **Full Meal:**
 - Butter Chicken
 - Basmati rice
-- Store-bought naan (garlic naan is fine; you'll make fresh on Thursday)
+- Store-bought naan (garlic naan is fine; you'll make fresh ahead of Session 4)
 
 > 🎥 **Compare Notes:** [Lower-Calorie Butter Chicken](https://www.youtube.com/watch?v=K9Whv0oVMUw) *(Ethan Chlebowski)* — He approaches the same dish analytically — compare his sauce construction and fat tradeoffs to the SE version you made.
 
@@ -83,7 +89,7 @@ The first Indian week focuses on three foundational preparations: a tomato-cream
 
 **Full Meal:**
 - Dal Makhani
-- Basmati rice + naan (from Thursday's batch if any remain)
+- Basmati rice + naan (from Session 4's batch if any remain)
 - Chopped tomato, onion, cucumber salad alongside
 
 > 🎥 **Compare Notes:** [Dal Makhani](https://www.youtube.com/watch?v=dOiwccflDkY) *(Ranveer Brar)* — Restaurant-trained perspective on the long cook; pay attention to his point about why time — not more cream — is what makes dal makhani creamy.
@@ -98,7 +104,7 @@ The first Indian week focuses on three foundational preparations: a tomato-cream
 1. **Starters:** Samosas (store-bought is fine, focus on chutney — make a [tamarind chutney](https://www.seriouseats.com/sweet-tamarind-chutney-recipe) and [mint chutney](https://www.seriouseats.com/mint-chutney-recipe))
 2. **Main dal:** Dal makhani or moong dal
 3. **Main curry:** Butter chicken or tikka masala (from batch earlier in week)
-4. **Bread:** Fresh naan from Thursday
+4. **Bread:** Fresh naan from Session 4
 5. **Sides:** Raita, papad, mango pickle
 
 **Full Meal:**
@@ -139,7 +145,7 @@ South Indian cooking is different from North Indian in almost every way: less cr
 **Full Meal:**
 - Aloo Gobi
 - Roti or naan
-- Toor dal alongside (quick version — see Thursday Week 35 moong dal approach, applied to toor)
+- Toor dal alongside (quick version — see Session 4 Week 35 moong dal approach, applied to toor)
 
 ---
 
@@ -179,7 +185,7 @@ South Indian cooking is different from North Indian in almost every way: less cr
 **Skill:** Dosai batter fermentation; sambar construction; full South Indian thali  
 **Goal:** Try a South Indian preparation:
 
-- Masala dosa: fermented lentil and rice batter crepe filled with spiced potato (requires batter made Thursday or Friday night in advance — or use fast-sour version)
+- Masala dosa: fermented lentil and rice batter crepe filled with spiced potato (requires batter made Session 4 or the evening before the project session in advance — or use fast-sour version)
 - [Sambar](https://www.spiceupthecurry.com/sambar-recipe/): Toor dal-based vegetable soup / curry (tamarind-based, South Indian)
 - [Coconut chutney](https://www.seriouseats.com/coconut-chutney-recipe-8690338): Fresh coconut + green chiles + curry leaves
 

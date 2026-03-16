@@ -19,6 +19,12 @@
 
 ---
 
+> ⏰ **Planning Ahead**
+>
+> - **Session 2 (Lamb Shoulder Ragu):** lamb shoulder needs 4 hrs in the oven; start mid-afternoon
+> - **Session 5 (PROJECT: Italian Pasta Dinner):** make Bolognese the morning of — it needs 3 hrs
+
+
 ### Session 1 — The Dough: Meeting Gluten
 
 **Skill:** Fresh pasta dough is flour, eggs, and time. The gluten network forms as you knead, the dough becomes elastic, and it needs to rest so the gluten relaxes and becomes rollable. Your job tonight: understand what the dough is telling you at each stage. Too dry — it cracks when folded. Too wet — it sticks and tears. Properly rested — smooth, supple, and cooperative.
@@ -42,7 +48,7 @@ Make a basic egg pasta dough. Rest it for 30 minutes. Roll it by hand or with a 
 
 **Full Meal:** [Serious Eats — Ricotta-Filled Ravioli with Brown Butter and Sage](https://www.seriouseats.com/fresh-egg-pasta) using the same base dough + [Serious Eats — Roasted Cherry Tomatoes](https://www.seriouseats.com/tomato-raisins-oven-dried-whole-cherry-tomatoes) + [Serious Eats — Radicchio Salad with Anchovy Vinaigrette](https://www.seriouseats.com/five-minute-radicchio-watercress-arugula-salad-recipe)
 
-Make the same dough from Monday (make it in the morning if you want to save time — it keeps in the fridge wrapped tightly overnight). Fill with ricotta, parmesan, lemon zest, and herbs. Toss the finished ravioli in brown butter and crispy sage.
+Make the same dough from Session 1 (make it in the morning if you want to save time — it keeps in the fridge wrapped tightly overnight). Fill with ricotta, parmesan, lemon zest, and herbs. Toss the finished ravioli in brown butter and crispy sage.
 
 - **Protein:** Ricotta filling + parmesan
 - **Starch:** Your own fresh ravioli
@@ -87,13 +93,13 @@ Aglio e olio is garlic, olive oil, pasta water, pasta, chili flakes, and parsley
 
 ### Session 5 — PROJECT MEAL: A Full Italian Pasta Dinner
 
-**The challenge:** Three pasta shapes, three sauces, made in one evening. This is how an Italian family Sunday lunch actually works — generous, abundant, and a showcase of everything pasta can do.
+**The challenge:** Three pasta shapes, three sauces, made in one evening. This is how an Italian family the rest day lunch actually works — generous, abundant, and a showcase of everything pasta can do.
 
 **Full Meal (serves 4–6):**
 
 1. **Antipasto:** [Serious Eats — Bruschetta with Tomato and Basil](https://www.seriouseats.com/fresh-tomato-bruschetta-recipe) — toasted bread, ripe tomatoes, garlic, good olive oil
 2. **Pasta 1:** [Serious Eats — Classic Cacio e Pepe](https://www.seriouseats.com/perfect-cacio-e-pepe-sauce-pasta-recipe-8780373) — a small portion per person as a first pasta
-3. **Pasta 2:** Your fresh tagliatelle from Monday's dough (make it ahead) with [Serious Eats — Slow-Cooked Bolognese](https://www.seriouseats.com/the-best-slow-cooked-bolognese-sauce-recipe) (make the sauce Saturday morning — it needs 3 hours)
+3. **Pasta 2:** Your fresh tagliatelle from earlier in the block dough (make it ahead) with [Serious Eats — Slow-Cooked Bolognese](https://www.seriouseats.com/the-best-slow-cooked-bolognese-sauce-recipe) (make the sauce the morning of the project session — it needs 3 hours)
 4. **Salad:** [Serious Eats — Classic Italian Green Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) with a simple lemon and olive oil dressing
 
 *Skill targets: Bolognese seasoned in layers throughout a 3-hour cook. Fresh pasta cut to even width. Cacio e Pepe silky and sauce-y, not dry and clumpy.*
@@ -142,11 +148,11 @@ Tahdig — the crispy rice crust at the bottom of the Persian rice pot — is on
 
 **Skill:** Traditional polenta is not the quick-cook kind. It takes 45–60 minutes of stirring over low heat, adding stock or water gradually as the cornmeal absorbs it. The result is fundamentally different from the 5-minute version — creamier, with a deeper corn flavor and a silky consistency that coats the back of a spoon.
 
-**Full Meal:** [Serious Eats — Creamy Parmesan Polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe) + [Serious Eats — Braised Short Ribs or Beef Ragu](https://www.seriouseats.com/red-wine-braised-beef-short-ribs-recipe) (use leftover braising liquid from Tuesday's lamb, or start fresh with beef cheeks) + [Serious Eats — Simple Green Salad](https://www.seriouseats.com/simple-vinaigrette-recipe)
+**Full Meal:** [Serious Eats — Creamy Parmesan Polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe) + [Serious Eats — Braised Short Ribs or Beef Ragu](https://www.seriouseats.com/red-wine-braised-beef-short-ribs-recipe) (use leftover braising liquid from earlier in the block lamb, or start fresh with beef cheeks) + [Serious Eats — Simple Green Salad](https://www.seriouseats.com/simple-vinaigrette-recipe)
 
 The polenta goes underneath. The braise goes on top. The salad cuts the richness. This is the entire meal and it's deeply satisfying.
 
-- **Protein:** Braised short ribs or lamb ragu (use Tuesday's lamb leftovers if you have them)
+- **Protein:** Braised short ribs or lamb ragu (from earlier in the block lamb leftovers if you have them)
 - **Starch:** Slow-cooked creamy polenta
 - **Salad:** Simple green salad
 
@@ -170,7 +176,7 @@ The warm farro salad is a full grain side dish. The crispy salmon is the protein
 
 ### Session 10 — PROJECT MEAL: A Grain-Forward Dinner Party
 
-**The challenge:** Grains as the hero — not the side. This Saturday's dinner could comfortably be served to guests who don't cook, and they would never suspect that every dish was a skills exercise in disguise.
+**The challenge:** Grains as the hero — not the side. The project session's dinner could comfortably be served to guests who don't cook, and they would never suspect that every dish was a skills exercise in disguise.
 
 **Full Meal:**
 

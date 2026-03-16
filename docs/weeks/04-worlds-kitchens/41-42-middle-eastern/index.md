@@ -50,8 +50,8 @@ The first week focuses on building the foundational components of a Middle Easte
 **What you're learning:** Baba ganoush requires eggplant charred directly over a gas flame or under a broiler until the skin is entirely black and the interior is soft. This char creates the smoke flavor that makes baba ganoush what it is — without it, it's just mashed eggplant. Muhammara (Syrian roasted red pepper and walnut dip) is the day's second preparation — make both and compare how they complement versus compete on a mezze board.
 
 **Full Meal:**
-- Mezze board: baba ganoush + muhammara + hummus (from Monday) + pita
-- Falafel from the freezer or store (you'll make fresh on Friday)
+- Mezze board: baba ganoush + muhammara + hummus (from Session 1) + pita
+- Falafel from the freezer or store (you'll make fresh on Session 4)
 
 > 🎥 **Compare Notes:** [Creamiest Baba Ghanoush](https://www.youtube.com/watch?v=KZAFXT7sCJU) *(Middle Eats)* — Watch how long he lets the eggplant char; most home cooks stop too early and miss the smoke flavor that makes the dish what it is.
 

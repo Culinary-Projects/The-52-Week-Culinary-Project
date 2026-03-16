@@ -12,7 +12,7 @@ Read these first:
 
 - 📖 [The Difference Between Stock and Broth](https://www.seriouseats.com/chicken-stock-vs-broth-11899112)
 
-**The Week 7 Rule:** Get your frozen chicken carcass from Week 2 out of the freezer Sunday night. You're going to use it.
+**The Week 7 Rule:** Get your frozen chicken carcass from Week 2 out of the freezer the night before the block starts. You're going to use it.
 
 
 ### Soups: A Taxonomy
@@ -49,6 +49,12 @@ The roasting step is optional but worth it: it caramelizes the squash and adds d
 ---
 
 ## Block 7 — Stocks & Broths
+
+> ⏰ **Planning Ahead**
+>
+> - **Session 1 (Chicken Stock):** 3–4 hrs of gentle simmering; start afternoon or earlier
+> - **Session 5 (PROJECT: Beef Stock Day):** start stock by 9 AM; 6–8 hrs passive + soup assembly at dinner
+
 
 ### Session 1 — Chicken Stock from Scratch
 
@@ -111,7 +117,7 @@ This takes time but is mostly passive. Start it when you get home, let it simmer
 
 ### Session 5 — PROJECT MEAL: A Whole Soup Kitchen Day
 
-This Saturday you make three things — stock, soup, and a complete dinner — that set you up with leftovers and frozen stock for weeks.
+The project session you make three things — stock, soup, and a complete dinner — that set you up with leftovers and frozen stock for weeks.
 
 | Time | Task | Recipe |
 |------|------|--------|
@@ -220,7 +226,6 @@ Carbonara is a savory egg custard sauce — eggs, pasta water, guanciale or panc
 
 ---
 
-### Sunday — OFF + Eight-Week Reflection
 
 You've been cooking for eight weeks with deliberate intention. Before Week 9 (Seasoning & Flavor Building), write five sentences:
 
@@ -246,7 +251,7 @@ Set a timer. Brunoise one medium onion. Stop the timer when you're done.
 |-------------|-------------|---|
 | _____ min | _____ min | _____ |
 
-If your time has improved by more than 20%, your knife skills are compounding. If not — that's useful information too, not a failure. Return to Week 2's onion exercise on a Saturday before Week 9.
+If your time has improved by more than 20%, your knife skills are compounding. If not — that's useful information too, not a failure. Return to Week 2's onion exercise on a the project session before Week 9.
 
 ### Cook-From-Memory Test
 
@@ -271,7 +276,7 @@ Before Module 2, you should be able to answer yes to all of these:
 
 If you're checking all of these: you're ready for Module 2.
 
-If you have two or more unchecked: spend Week 9's first Monday revisiting the weak spots before committing to the new material. It's worth it.
+If you have two or more unchecked: spend the start of Block 9 revisiting the weak spots before committing to the new material. It's worth it.
 
 ---
 

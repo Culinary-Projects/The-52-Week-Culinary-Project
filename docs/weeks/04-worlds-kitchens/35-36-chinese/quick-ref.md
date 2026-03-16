@@ -111,19 +111,17 @@ Mix thoroughly; taste; adjust heat/sour/sweet. Spoon over noodles.
 
 ---
 
-## Week 35–36 Dishes Summary
+## Block 35–36 Session Summary
 
-| Week | Day | Dish | Technique |
-|------|-----|------|-----------|
-| 35 | Mon | [Chicken and broccoli stir-fry](https://thewoksoflife.com/beef-with-broccoli/) | Wok + velveting |
-| 35 | Tue | [Hong shao rou (red-braised pork belly)](https://thewoksoflife.com/red-braised-pork/) | [Red braise](https://thewoksoflife.com/red-braised-pork/) |
-| 35 | Wed | [Cantonese steamed whole fish](https://thewoksoflife.com/cantonese-steamed-fish/) | Steaming |
-| 35 | Thu | [Dan dan noodles](https://thewoksoflife.com/dan-dan-noodles/) | [Sichuan sauce building](https://thewoksoflife.com/sichuan-peppercorn/) |
-| 35 | Fri | [Mapo tofu](https://www.seriouseats.com/real-deal-mapo-dofu-tofu-chinese-sichuan-recipe) | Doubanjiang base + soft tofu |
-| 35 | Sat | [Sichuan dinner party](https://thewoksoflife.com/sichuan-peppercorn/) | Multi-technique |
-| 36 | Mon | [Congee (rice porridge)](https://www.seriouseats.com/congee-rice-porridge-minced-pork-crispy-shallots-recipe) | Long simmer |
-| 36 | Tue | Har gow + char siu bao | Dim sum dough + steaming |
-| 36 | Wed | [Egg fried rice](https://thewoksoflife.com/egg-fried-rice/) | Wok + egg integration |
-| 36 | Thu | [Kung pao chicken](https://thewoksoflife.com/kung-pao-chicken/) | [Stir-fry + nut garnish](https://thewoksoflife.com/beef-with-broccoli/) |
-| 36 | Fri | [Hot and sour soup](https://thewoksoflife.com/hot-sour-soup/) | Egg ribbon + thickening |
-| 36 | Sat | [Full Chinese banquet](https://thewoksoflife.com/chinese-pantry/) | Multi-dish timing |
+| Session | Dish | Technique |
+|---------|------|-----------|
+| Session 1 | [Chicken and broccoli stir-fry](https://thewoksoflife.com/beef-with-broccoli/) | Wok + velveting |
+| Session 2 | ⏰ [Hong shao rou (red-braised pork belly)](https://thewoksoflife.com/red-braised-pork/) | [Red braise](https://thewoksoflife.com/red-braised-pork/) |
+| Session 3 | [Cantonese steamed whole fish](https://thewoksoflife.com/cantonese-steamed-fish/) | Steaming |
+| Session 4 | [Mapo tofu](https://www.seriouseats.com/real-deal-mapo-dofu-tofu-chinese-sichuan-recipe) | Doubanjiang base + soft tofu |
+| Session 5 | [🔨 PROJECT: Sichuan dinner party](https://thewoksoflife.com/sichuan-peppercorn/) | Multi-technique |
+| Session 6 | [Congee (rice porridge)](https://www.seriouseats.com/congee-rice-porridge-minced-pork-crispy-shallots-recipe) | Long simmer |
+| Session 7 | Har gow + char siu bao | Dim sum dough + steaming |
+| Session 8 | [Egg fried rice](https://thewoksoflife.com/egg-fried-rice/) | Wok + egg integration |
+| Session 9 | [Hot and sour soup](https://thewoksoflife.com/hot-sour-soup/) | Egg ribbon + thickening |
+| Session 10 | [🔨 PROJECT: Full Chinese banquet](https://thewoksoflife.com/chinese-pantry/) | Multi-dish timing |

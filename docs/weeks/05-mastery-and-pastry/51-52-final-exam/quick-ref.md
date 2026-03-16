@@ -110,7 +110,7 @@ Answer before cooking your final exam dish:
 
 ## Week 51–52 at a Glance
 
-| Day | Activity |
+| Session | Activity |
 |---|---|
 | W51 Mon | Skills inventory + knife time trial |
 | W51 Tue | Cook one dish from weeks 1–10 |

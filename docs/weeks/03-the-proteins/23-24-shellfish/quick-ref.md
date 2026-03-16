@@ -6,25 +6,23 @@
 
 ## Block 23 — Bivalves & Crustaceans
 
-| Day | Dish | Technique | Key Temp / Timing |
+| Session | Dish | Technique | Key Temp / Timing |
 |-----|------|-----------|-------------------|
-| Mon | [Spaghetti alle Vongole](https://www.seriouseats.com/spaghetti-pasta-alle-vongole-clams-recipe) | Steam-open in wine | Open = done; ~5 min |
-| Tue | [Moules Marinière](https://www.seriouseats.com/the-best-moules-mariniere-sailor-style-mussels-recipe) | Steam open in aromatics | Open = done; 4–6 min |
-| Wed | [Roasted Oysters w/ Bacon](https://www.seriouseats.com/roasted-oysters-with-bacon-and-parmesan-recipe-11874377) | Dry heat oven roast | 450°F until open; 8–10 min |
-| Thu | **Rest** | [—](https://www.seriouseats.com/spaghetti-pasta-alle-vongole-clams-recipe) | [—](https://www.seriouseats.com/spaghetti-pasta-alle-vongole-clams-recipe) |
-| Fri | [Shrimp Scampi](https://www.seriouseats.com/shrimp-scampi-pasta) | [Fast sauté + butter pan sauce](https://www.seriouseats.com/shrimp-scampi-butter-garlic-recipe) | Shrimp: 1–2 min/side; pull early |
-| Sat | [**PROJECT:** Lobster Night](https://www.seriouseats.com/stop-overcooking-lobster-11899689) | [Broil / steam + shell bisque](https://www.seriouseats.com/lobster-bisque-recipe) | Internal 140°F; rest before serving |
+| Session 1 | [Spaghetti alle Vongole](https://www.seriouseats.com/spaghetti-pasta-alle-vongole-clams-recipe) | Steam-open in wine | Open = done; ~5 min |
+| Session 2 | [Moules Marinière](https://www.seriouseats.com/the-best-moules-mariniere-sailor-style-mussels-recipe) | Steam open in aromatics | Open = done; 4–6 min |
+| Session 3 | [Roasted Oysters w/ Bacon](https://www.seriouseats.com/roasted-oysters-with-bacon-and-parmesan-recipe-11874377) | Dry heat oven roast | 450°F until open; 8–10 min |
+| Session 4 | [Shrimp Scampi](https://www.seriouseats.com/shrimp-scampi-pasta) | [Fast sauté + butter pan sauce](https://www.seriouseats.com/shrimp-scampi-butter-garlic-recipe) | Shrimp: 1–2 min/side; pull early |
+| Session 5 | [**PROJECT:** Lobster Night](https://www.seriouseats.com/stop-overcooking-lobster-11899689) | [Broil / steam + shell bisque](https://www.seriouseats.com/lobster-bisque-recipe) | Internal 140°F; rest before serving |
 
 ## Block 24 — Complex Shellfish
 
-| Day | Dish | Technique | Notes |
+| Session | Dish | Technique | Notes |
 |-----|------|-----------|-------|
-| Mon | [Singaporean Chili Crab](https://www.seriouseats.com/singaporean-singapore-chili-crab-recipe) | Stir-fry crab in sauce | [Pre-crack shell before cooking](https://www.seriouseats.com/stop-overcooking-lobster-11899689) |
-| Tue | [Shrimp in Compound Butter](https://www.seriouseats.com/shrimp-scampi-pasta) | Quick sauté, shell stock | [Make compound butter for freezer](https://www.seriouseats.com/shrimp-scampi-butter-garlic-recipe) |
-| Wed | [Clam Chowder or Clam-Corn Pasta](https://www.seriouseats.com/new-england-clam-chowder-recipe) | Simmer / pasta | [Canned clams fine for chowder](https://www.seriouseats.com/new-england-clam-chowder-recipe) |
-| Thu | **Rest** | [—](https://www.seriouseats.com/spaghetti-pasta-alle-vongole-clams-recipe) | [—](https://www.seriouseats.com/spaghetti-pasta-alle-vongole-clams-recipe) |
-| Fri | [Mussels in Tomato-Saffron](https://www.seriouseats.com/the-best-moules-mariniere-sailor-style-mussels-recipe) | Steam open in broth | Same technique as Week 23 Tue |
-| Sat | **PROJECT:** Shellfish Plateau | [Multi-prep, raw + roasted + seared](https://www.seriouseats.com/roasted-oysters-with-bacon-and-parmesan-recipe-11874377) | Time: cold first, hot served last |
+| Session 6 | [Singaporean Chili Crab](https://www.seriouseats.com/singaporean-singapore-chili-crab-recipe) | Stir-fry crab in sauce | [Pre-crack shell before cooking](https://www.seriouseats.com/stop-overcooking-lobster-11899689) |
+| Session 7 | [Shrimp in Compound Butter](https://www.seriouseats.com/shrimp-scampi-pasta) | Quick sauté, shell stock | [Make compound butter for freezer](https://www.seriouseats.com/shrimp-scampi-butter-garlic-recipe) |
+| Session 8 | [Clam Chowder or Clam-Corn Pasta](https://www.seriouseats.com/new-england-clam-chowder-recipe) | Simmer / pasta | [Canned clams fine for chowder](https://www.seriouseats.com/new-england-clam-chowder-recipe) |
+| Session 9 | [Mussels in Tomato-Saffron](https://www.seriouseats.com/the-best-moules-mariniere-sailor-style-mussels-recipe) | Steam open in broth | Same technique as Week 23 Tue |
+| Session 10 | **PROJECT:** Shellfish Plateau | [Multi-prep, raw + roasted + seared](https://www.seriouseats.com/roasted-oysters-with-bacon-and-parmesan-recipe-11874377) | Time: cold first, hot served last |
 
 ---
 

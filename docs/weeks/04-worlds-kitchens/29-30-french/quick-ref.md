@@ -6,25 +6,23 @@
 
 ## Block 27 — Sauces & Braises
 
-| Day | Dish | Technique | Key Point |
+| Session | Dish | Technique | Key Point |
 |-----|------|-----------|-----------|
-| Mon | [French Onion Soup](https://www.seriouseats.com/french-onion-soup-recipe) | Low-slow caramelized onions | 45–60 mins for real caramelization |
-| Tue | [Eggs Benedict + Hollandaise](https://www.seriouseats.com/foolproof-2-minute-hollandaise-recipe) | Blender emulsified egg-yolk sauce | 160°F danger zone — keep warm, not hot |
-| Wed | [Béarnaise + Steak](https://www.seriouseats.com/foolproof-bearnaise-sauce-recipe) | Tarragon reduction + egg yolk emulsion | Make reduction cold, whisk in butter warm |
-| Thu | **Rest** | [—](https://www.seriouseats.com/french-onion-soup-recipe) | [—](https://www.seriouseats.com/french-onion-soup-recipe) |
-| Fri | [Steak Frites](https://www.seriouseats.com/steak-frites-recipe-8729192) | Parallel timing: steak rest + fries | [Twice-fry for crispy frites](https://www.seriouseats.com/steak-frites-recipe-8729192) |
-| Sat | [**PROJECT:** Cassoulet](https://www.seriouseats.com/traditional-french-cassoulet-recipe) | Multi-component bean braise, 4–6 hrs | Break crust and push down 3–4 times |
+| Session 1 | [French Onion Soup](https://www.seriouseats.com/french-onion-soup-recipe) | Low-slow caramelized onions | 45–60 mins for real caramelization |
+| Session 2 | [Eggs Benedict + Hollandaise](https://www.seriouseats.com/foolproof-2-minute-hollandaise-recipe) | Blender emulsified egg-yolk sauce | 160°F danger zone — keep warm, not hot |
+| Session 3 | [Béarnaise + Steak](https://www.seriouseats.com/foolproof-bearnaise-sauce-recipe) | Tarragon reduction + egg yolk emulsion | Make reduction cold, whisk in butter warm |
+| Session 4 | [Steak Frites](https://www.seriouseats.com/steak-frites-recipe-8729192) | Parallel timing: steak rest + fries | [Twice-fry for crispy frites](https://www.seriouseats.com/steak-frites-recipe-8729192) |
+| Session 5 | ⏰ [**PROJECT:** Cassoulet](https://www.seriouseats.com/traditional-french-cassoulet-recipe) | Multi-component bean braise, 4–6 hrs | Break crust and push down 3–4 times |
 
 ## Block 28 — Duck, Butter Sauces & Composed Plates
 
-| Day | Dish | Technique | Key Point |
+| Session | Dish | Technique | Key Point |
 |-----|------|-----------|-----------|
-| Mon | [Beurre Blanc + Seared Fish](https://www.seriouseats.com/beurre-blanc-recipe-7643412) | Cold-butter emulsion into acid reduction | [Don't boil the beurre blanc — it will break](https://www.seriouseats.com/beurre-blanc-recipe-7643412) |
-| Tue | [Duck à l'Orange](https://www.seriouseats.com/duck-a-lorange) | [Gastrique + roasted duck](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) | Render fat slowly; sauce balance: not too sweet |
-| Wed | [Cheese Soufflé](https://www.seriouseats.com/savory-cheese-souffle) | Béchamel base + folded egg whites | Stiff peaks; fold gently; serve immediately |
-| Thu | **Rest** | [—](https://www.seriouseats.com/french-onion-soup-recipe) | [—](https://www.seriouseats.com/french-onion-soup-recipe) |
-| Fri | [French Bistro Dinner (3 courses)](https://www.seriouseats.com/french-onion-soup-recipe) | Multi-course timing + composition | [Do mousse ahead; mise en place everything](https://www.seriouseats.com/chocolate-mousse-recipe-7109970) |
-| Sat | **PROJECT:** Le Grand Aioli | Scratch aioli + composed vegetable platter | Use room-temp eggs; add oil drop by drop first |
+| Session 6 | [Beurre Blanc + Seared Fish](https://www.seriouseats.com/beurre-blanc-recipe-7643412) | Cold-butter emulsion into acid reduction | [Don't boil the beurre blanc — it will break](https://www.seriouseats.com/beurre-blanc-recipe-7643412) |
+| Session 7 | [Duck à l'Orange](https://www.seriouseats.com/duck-a-lorange) | [Gastrique + roasted duck](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) | Render fat slowly; sauce balance: not too sweet |
+| Session 8 | [Cheese Soufflé](https://www.seriouseats.com/savory-cheese-souffle) | Béchamel base + folded egg whites | Stiff peaks; fold gently; serve immediately |
+| Session 9 | [French Bistro Dinner (3 courses)](https://www.seriouseats.com/french-onion-soup-recipe) | Multi-course timing + composition | [Do mousse ahead; mise en place everything](https://www.seriouseats.com/chocolate-mousse-recipe-7109970) |
+| Session 10 | **PROJECT:** Le Grand Aioli | Scratch aioli + composed vegetable platter | Use room-temp eggs; add oil drop by drop first |
 
 ---
 
@@ -40,7 +38,7 @@
 
 ---
 
-## Cassoulet Component Timing (Saturday)
+## Cassoulet Component Timing (project session)
 
 | Component | Cook Time | Notes |
 |-----------|-----------|-------|

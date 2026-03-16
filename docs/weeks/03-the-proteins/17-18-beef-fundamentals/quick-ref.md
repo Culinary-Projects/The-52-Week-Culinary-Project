@@ -6,27 +6,25 @@
 
 ## Week 15 Recipes — The Steak Education
 
-| Day | Dish | Skill | Link |
+| Session | Dish | Skill | Link |
 |-----|------|-------|------|
-| **Mon** | Reverse-Seared Ribeye + Creamy Mashed Potatoes + Salad | Dry brine; reverse sear; temp precision | [Dry Brine](https://www.seriouseats.com/how-to-dry-brine) · [Reverse Sear](https://www.seriouseats.com/reverse-seared-steak-recipe) · [Mashed Potatoes](https://www.seriouseats.com/rich-and-creamy-mashed-potatoes-recipe) |
-| **Tue** | Pan-Seared Strip + Compound Butter + Creamed Spinach | High-heat pan sear; classical butter finish | [Steak Myths](https://www.seriouseats.com/old-wives-tales-about-cooking-steak) · [Creamed Spinach](https://www.seriouseats.com/food-lab-creamed-spinach-recipe) |
-| **Wed** | Smash Burgers | Fat ratio; Maillard contact; ground beef handling | [Smash Burgers](https://www.seriouseats.com/classic-smashed-burgers-recipe) |
-| **Thu** | *OFF* | Optional read: room-temp steak myth | [Room Temp Steak?](https://www.seriouseats.com/should-you-bring-steaks-and-roasts-to-room-temperature-before-cooking-11873888) |
-| **Fri** | Skirt Steak + Chimichurri + Rice | Thin cuts; always against the grain; marination | [Skirt Steak Fajitas](https://www.seriouseats.com/grilled-skirt-steak-fajitas-food-lab-recipe) · [Chimichurri](https://www.seriouseats.com/sauced-chimichurri-sauce-recipe) |
-| **Sat** | 🔨 **PROJECT: Standing Rib Roast** + Creamed Spinach + Roast Garlic Mashed | Expensive cut precision; reverse sear at scale | [Prime Rib](https://www.seriouseats.com/perfect-prime-rib-beef-recipe) · [High vs Low Heat](https://www.seriouseats.com/high-heat-vs-low-and-slow-prime-rib-11875575) · [Creamed Spinach](https://www.seriouseats.com/food-lab-creamed-spinach-recipe) |
+| **Session 1** | ⏰ Reverse-Seared Ribeye + Creamy Mashed Potatoes + Salad | Dry brine; reverse sear; temp precision | [Dry Brine](https://www.seriouseats.com/how-to-dry-brine) · [Reverse Sear](https://www.seriouseats.com/reverse-seared-steak-recipe) · [Mashed Potatoes](https://www.seriouseats.com/rich-and-creamy-mashed-potatoes-recipe) |
+| **Session 2** | Pan-Seared Strip + Compound Butter + Creamed Spinach | High-heat pan sear; classical butter finish | [Steak Myths](https://www.seriouseats.com/old-wives-tales-about-cooking-steak) · [Creamed Spinach](https://www.seriouseats.com/food-lab-creamed-spinach-recipe) |
+| **Session 3** | Smash Burgers | Fat ratio; Maillard contact; ground beef handling | [Smash Burgers](https://www.seriouseats.com/classic-smashed-burgers-recipe) |
+| **Session 4** | Skirt Steak + Chimichurri + Rice | Thin cuts; always against the grain; marination | [Skirt Steak Fajitas](https://www.seriouseats.com/grilled-skirt-steak-fajitas-food-lab-recipe) · [Chimichurri](https://www.seriouseats.com/sauced-chimichurri-sauce-recipe) |
+| **Session 5** | ⏰ 🔨 **PROJECT: Standing Rib Roast** + Creamed Spinach + Roast Garlic Mashed | Expensive cut precision; reverse sear at scale | [Prime Rib](https://www.seriouseats.com/perfect-prime-rib-beef-recipe) · [High vs Low Heat](https://www.seriouseats.com/high-heat-vs-low-and-slow-prime-rib-11875575) · [Creamed Spinach](https://www.seriouseats.com/food-lab-creamed-spinach-recipe) |
 
 ---
 
 ## Week 16 Recipes — Braising & Tougher Cuts
 
-| Day | Dish | Skill | Link |
+| Session | Dish | Skill | Link |
 |-----|------|-------|------|
-| **Mon** | Red Wine Braised Short Ribs + Polenta or Egg Noodles | Collagen → gelatin braise; patience | [Short Ribs](https://www.seriouseats.com/red-wine-braised-beef-short-ribs-recipe) |
-| **Tue** | Chuck Pot Roast + Braising Vegetables | Low-and-slow chuck; weeknight timing | [Pot Roast Method](https://www.seriouseats.com/mississippi-pot-roast-recipe-8774586) |
-| **Wed** | Braised Brisket + Pickled Onions + Coleslaw + Rye | Brisket; fat and collagen; long low cook | [Brisket Methods](https://www.seriouseats.com/brisket-cooking-methods-tested-11869530) |
-| **Thu** | *OFF* | Reflect on what made each braise different | — |
-| **Fri** | Steak au Poivre + Roast Potatoes + Grilled Asparagus | Cream-cognac pan sauce; pepper crust | [Steak au Poivre](https://www.seriouseats.com/steak-au-poivre) · [Roast Potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) |
-| **Sat** | 🔨 **PROJECT: Beef Dinner for Four — technique of your choice** | Full synthesis: planning + execution for guests | [Beef Guides Reference](https://www.seriouseats.com/beef-guides-5118010) |
+| **Session 6** | Red Wine Braised Short Ribs + Polenta or Egg Noodles | Collagen → gelatin braise; patience | [Short Ribs](https://www.seriouseats.com/red-wine-braised-beef-short-ribs-recipe) |
+| **Session 7** | Chuck Pot Roast + Braising Vegetables | Low-and-slow chuck; weeknight timing | [Pot Roast Method](https://www.seriouseats.com/mississippi-pot-roast-recipe-8774586) |
+| **Session 8** | ⏰ Braised Brisket + Pickled Onions + Coleslaw + Rye | Brisket; fat and collagen; long low cook | [Brisket Methods](https://www.seriouseats.com/brisket-cooking-methods-tested-11869530) |
+| **Session 9** | Steak au Poivre + Roast Potatoes + Grilled Asparagus | Cream-cognac pan sauce; pepper crust | [Steak au Poivre](https://www.seriouseats.com/steak-au-poivre) · [Roast Potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) |
+| **Session 10** | 🔨 **PROJECT: Beef Dinner for Four — technique of your choice** | Full synthesis: planning + execution for guests | [Beef Guides Reference](https://www.seriouseats.com/beef-guides-5118010) |
 
 ---
 
@@ -45,7 +43,7 @@
 ## Shopping Notes
 
 **Week 15:**
-- **Ribeye** — 1.5–2 inch thick, bone-in preferred; buy Thursday for Monday dry brine
+- **Ribeye** — 1.5–2 inch thick, bone-in preferred; buy a day or two ahead for the Session 1 dry brine
 - **Strip steak** — 2 pieces, 1 inch thick
 - **Ground beef** — 80/20, NOT lean; 1.5 lbs for burgers for 2
 - **Skirt steak** — 1–1.5 lbs (inside skirt is often more tender than outside)
