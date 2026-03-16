@@ -1,6 +1,6 @@
 # Block 49–50: Signature Dishes
 
-← [Block 47–50: Pastry & Desserts](../47-48-pastry/index.md) | [Block 51–52: Final Exam →](../51-52-final-exam/index.md)
+← [Block 47–48: Pastry & Desserts](../47-48-pastry/index.md) | [Block 51–52: Final Exam →](../51-52-final-exam/index.md)
 
 ---
 
@@ -44,7 +44,7 @@ This block is structured differently. The first week is technical catch-up and d
 
 ---
 
-## Block 47 — Mastery Sessions: Wok, Knife, Chocolate, Mise en Place
+## Block 49 — Mastery Sessions: Wok, Knife, Chocolate, Mise en Place
 
 ---
 
@@ -128,7 +128,7 @@ Look back at your notes across 47 weeks. Which dish didn't go as planned? Which 
 
 ---
 
-## Block 48 — Building Your Signature
+## Block 50 — Building Your Signature
 
 ---
 
@@ -146,7 +146,7 @@ Write these down. These are your current signatures.
 
 ---
 
-### Session 2, Session 3 — Refine Signature #1 and #2
+### Session 7 and Session 8 — Refine Signature #1 and #2
 
 **Skill:** Intentional, focused repetition 
 **Goal:** Execute Signature dishes #1 and #2 from your list, back-to-back on consecutive evenings. Make notes:
@@ -222,9 +222,9 @@ The jump from following a recipe to owning a dish happens through iteration: mak
 
 ### A Book Worth Having
 
-- 📚 [***The Wok: Recipes and Techniques* by J. Kenji López-Alt**](https://www.amazon.com/dp/0393541215) — The most thorough wok cookbook ever written in English. Every heat level, every protein, every regional application. The natural follow-on from your Block 47–48 work.
+- 📚 [***The Wok: Recipes and Techniques* by J. Kenji López-Alt**](https://www.amazon.com/dp/0393541215) — The most thorough wok cookbook ever written in English. Every heat level, every protein, every regional application. The natural follow-on from your Block 49–50 work.
 
 ---
 
 *Navigation:*
-← [Block 47–50: Pastry & Desserts](../47-48-pastry/index.md) | [Block 51–52: Final Exam →](../51-52-final-exam/index.md)
+← [Block 47–48: Pastry & Desserts](../47-48-pastry/index.md) | [Block 51–52: Final Exam →](../51-52-final-exam/index.md)

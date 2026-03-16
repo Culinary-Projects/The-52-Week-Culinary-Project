@@ -1,6 +1,6 @@
 # Block 49–50: Signature Dishes — Quick Reference
 
-← [Block 47–50: Pastry & Desserts](../47-48-pastry/index.md) | [Block 51–52: Final Exam →](../51-52-final-exam/index.md)
+← [Block 47–48: Pastry & Desserts](../47-48-pastry/index.md) | [Block 51–52: Final Exam →](../51-52-final-exam/index.md)
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## Knife Skill Self-Assessment
 
-| Skill | Block 1 Target | Block 47 Target | Benchmark |
+| Skill | Block 1 Target | Block 49 Target | Benchmark |
 |---|---|---|---|
 | Onion dice (medium) | 3–4 minutes | Under 90 seconds | 1 min = professional |
 | Carrot brunoise (2mm) | Rough approximation | Uniform cubes | Zero guesswork on size |

@@ -57,8 +57,8 @@ Rate each skill honestly on a 1–5 scale:
 | Bread | 41–42 | Sourdough loaf; croissants |
 | Pastry | 43–44 | Pâte sucrée; tarte tatin |
 | Desserts | 45–46 | Panna cotta; crème brûlée; pavlova |
-| Signature / Mastery | 47–48 | Your defined dishes |
-| Menus / Timing | 49–50 | Dinner party for 8, on time |
+| Signature / Mastery | 49–50 | Your defined dishes |
+| Self-Assessment & Final Exam | 51–52 | Cook from memory; final exam dish |
 
 ---
 
