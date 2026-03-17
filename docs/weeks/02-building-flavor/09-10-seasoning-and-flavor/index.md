@@ -217,6 +217,15 @@ The single biggest improvement most home cooks can make is learning to salt earl
 
 ---
 
+### Spice Blends & Marinades: Seasoning with Depth
+
+Spice blends are dry-rub seasoning applied before cooking — essentially a flavored version of the dry-brining technique from Session 1. Marinades are liquid equivalents (acid + fat + spice) that season the surface and, over longer contact time, begin to alter texture.
+
+- 📖 [Serious Eats — Garam Masala](https://www.seriouseats.com/garam-masala-recipe) — How to build a spice blend from scratch: toasting whole spices, grinding, balancing. The principle transfers to every spice blend (ras el hanout, za’atar, Chinese five-spice). Once you've made one from scratch, you understand all of them.
+- 📖 [Serious Eats — Chimichurri](https://www.seriouseats.com/sauced-chimichurri-sauce-recipe) — The herbaceous Argentine marinade/sauce; a model for understanding how acid (vinegar), fat (oil), and a punch of fresh herb work together as a marinade or a finishing sauce.
+
+---
+
 ### Acid: The Underused Seasoning
 
 Salt gets all the attention, but acid is what makes a dish taste complete. A squeeze of lemon or a splash of vinegar at the end is often all a dish needs.

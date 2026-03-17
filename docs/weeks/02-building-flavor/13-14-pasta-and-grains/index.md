@@ -23,7 +23,7 @@
 >
 > - **Session 5 (PROJECT: Italian Pasta Dinner):** make Bolognese the morning of — it needs 3 hrs
 > - **Session 7 (Persian Rice + Slow-Roasted Lamb Shoulder):** lamb shoulder takes 4 hrs; start by early afternoon
-> - **Session 8 (Polenta + Braise):** braised short ribs or ragu takes 3–4 hrs; can use Session 7 lamb leftovers
+> - **Session 8 (Polenta + Osso Buco):** osso buco braise takes 2–3 hrs; start by early afternoon
 
 
 ### Session 1 — The Dough: Meeting Gluten
@@ -115,19 +115,19 @@ Aglio e olio is garlic, olive oil, pasta water, pasta, chili flakes, and parsley
 
 ---
 
-### Session 6 — Risotto: Patience as Technique
+### Session 6 — Risotto alla Milanese: Saffron and Patience
 
-**Skill (revisited with intention):** You made risotto in Week 7 as a vehicle for vegetable stock. This week it's the subject. Risotto is a method — gradual liquid addition, constant encouragement, finishing with cold butter and parmesan off the heat. Tonight: no extra protein, no elaborate sauce. Just risotto made perfectly, to the point where the texture alone is enough.
+**Skill (with new intention):** Saffron risotto — the gold standard of Italian risotto — is simpler than it sounds and more demanding than it looks. The saffron blooms in warm stock before it goes in; the gradual ladle-by-ladle addition coaxes starch from the Arborio; the final mantecatura (cold butter stirred in off the heat) makes it loose and silky. Tonight the risotto itself is the subject.
 
-**Full Meal:** [Serious Eats — Mushroom and Asparagus Risotto](https://www.seriouseats.com/mushroom-asparagus-risotto-recipe) + [Serious Eats — Bitter Greens Salad with Walnut and Gorgonzola](https://www.seriouseats.com/five-minute-radicchio-watercress-arugula-salad-recipe)
+**Full Meal:** [Serious Eats — Saffron Risotto alla Milanese](https://www.seriouseats.com/risotto-alla-milanese-saffron-recipe) + [Serious Eats — Bitter Greens Salad with Walnut and Gorgonzola](https://www.seriouseats.com/five-minute-radicchio-watercress-arugula-salad-recipe)
 
-The soy sauce called for in the Serious Eats mushroom risotto recipe is deliberate — it's a hit of umami (Week 10 callback) that deepens the mushroom flavor without tasting like soy sauce. Trust it.
+Bloom a generous pinch of saffron in 2 tablespoons of warm stock for 20 minutes before starting the risotto — that bloomed liquid goes in early. The risotto should finish with a deep golden colour and a faint floral perfume.
 
-- **Protein:** Mushrooms and parmesan carry the savory weight; add a fried egg on top if you want more substance
-- **Starch:** The risotto is the dish
+- **Protein:** Parmesan and butter carry the richness; add a fried egg on top if you want more substance
+- **Starch:** The saffron risotto is the dish
 - **Salad:** Bitter greens with gorgonzola and walnuts to cut through the richness
 
-> 🎥 **Compare Notes:** [How to Pause Risotto Halfway Through to Finish Later](https://www.youtube.com/shorts/JFngi1BKzy4) — A 60-second technique that changes how you host. Watch the starch behavior when he stops and restarts — that's what you're riding on every stir.
+> 🎥 **Compare Notes:** [How to Pause Risotto Halfway Through to Finish Later](https://www.youtube.com/shorts/JFngi1BKzy4) — A 60-second technique that changes how you host. Watch the starch behaviour when he stops and restarts — that's what you're riding on every stir.
 
 ---
 
@@ -149,11 +149,11 @@ Tahdig — the crispy rice crust at the bottom of the Persian rice pot — is on
 
 **Skill:** Traditional polenta is not the quick-cook kind. It takes 45–60 minutes of stirring over low heat, adding stock or water gradually as the cornmeal absorbs it. The result is fundamentally different from the 5-minute version — creamier, with a deeper corn flavor and a silky consistency that coats the back of a spoon.
 
-**Full Meal:** [Serious Eats — Creamy Parmesan Polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe) + [Serious Eats — Braised Short Ribs or Beef Ragu](https://www.seriouseats.com/red-wine-braised-beef-short-ribs-recipe) (use leftover braising liquid from earlier in the block lamb, or start fresh with beef cheeks) + [Serious Eats — Simple Green Salad](https://www.seriouseats.com/simple-vinaigrette-recipe)
+**Full Meal:** [Serious Eats — Creamy Parmesan Polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe) + [Recipe Tin Eats — Osso Buco](https://www.recipetineats.com/osso-buco/) (a veal or beef shank braise; the marrow inside the bone is the reward for patience) + [Serious Eats — Simple Green Salad](https://www.seriouseats.com/simple-vinaigrette-recipe)
 
-The polenta goes underneath. The braise goes on top. The salad cuts the richness. This is the entire meal and it's deeply satisfying.
+The polenta goes underneath. The osso buco braise goes on top. Finish with gremolata (parsley + lemon zest + garlic, stirred in raw at the very end) — its fresh bite against the deep braise is the whole point of the dish.
 
-- **Protein:** Braised short ribs or lamb ragu (from earlier in the block lamb leftovers if you have them)
+- **Protein:** Osso buco — cross-cut veal or beef shank, braised 2–3 hrs until the bone loosens
 - **Starch:** Slow-cooked creamy polenta
 - **Salad:** Simple green salad
 

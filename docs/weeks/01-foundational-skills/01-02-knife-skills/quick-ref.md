@@ -35,3 +35,18 @@
 **Buy for Block 2:** One whole chicken — you'll break it down yourself. Breasts go in Piccata; thighs/legs go in the fridge for Session 4's Shakshuka.
 
 **Freeze:** The chicken carcass from Block 2 → **this is your Week 7 stock.**
+
+---
+
+## Food Safety
+
+> 📢 Before you cook raw protein for the first time (Block 3), read the food safety primer embedded in Block 3–4.
+
+| Key rule | Detail |
+|----------|--------|
+| **Danger zone** | 40°F–140°F (4°C–60°C) — bacteria multiply here. Food should not sit in this range for more than 2 hours. |
+| **Cross-contamination** | Raw protein never touches ready-to-eat food. Use separate cutting boards or wash and sanitize between tasks. |
+| **Cooling stocks** | Transfer hot stock to a wide shallow container; ice-bath until below 70°F within 2 hours before refrigerating. |
+| **Internal temperatures** | Poultry 165°F. Pork 145°F. Ground beef 160°F. Whole-muscle steak can be seared at lower internal temps because bacteria live on the outside. |
+
+📖 **Full primer:** See the [Block 3–4: Heat & Cooking Methods](../../03-04-heat-and-cooking/index.md) — Food Safety Fundamentals section.

@@ -25,7 +25,7 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 ### Session 1 — Gravlax (Cured Salmon)
 
 **Skill:** Dry cure ratios, curing time, slicing technique  
-**Read first:** [Gravlax — Cured Salmon](https://www.seriouseats.com/gravlax-cured-salmon-recipe)
+**Read first:** [BBC Good Food — Gravadlax](https://www.bbcgoodfood.com/recipes/gravadlax)
 
 **What you're learning:** Gravlax is cured salmon — no heat involved. A 2:1 salt-to-sugar ratio by weight, plus dill, applied to fresh salmon for 48–72 hours. The salt draws out moisture, firms the texture, and intensifies flavor. The result eats like the best smoked salmon you've ever had, made at home for a fraction of the cost.
 
@@ -117,18 +117,18 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 
 ---
 
-### Session 7 — Duck or Chicken Rillettes
+### Session 7 — Chicken Liver Pâté
 
-**Skill:** Confiting poultry; rillettes texture and fat ratio  
-**Read first:** Reference classic duck confit technique from Week 14
+**Skill:** Pâté as a gateway to the broader charcuterie craft — building smooth, silky spreadable pâté from chicken livers, butter, aromatics, and brandy. This is one of the simplest luxury preparations in French cooking.
+**Read first:** [BBC Good Food — Chicken Liver Pâté](https://www.bbcgoodfood.com/recipes/chicken-liver-pate)
 
-**What you're learning:** Chicken thighs confited in duck fat (or vegetable oil), then shredded and packed in their own fat, become rillettes. Lighter than pork rillettes, equally rich. This builds on the poultry confiting technique from Week 14.
+**What you're learning:** Properly cooked chicken livers (pink in the center, never gray through) blended with softened shallots, garlic, thyme, and butter into a silky pâté. The butter seal on top (clarified butter poured over the surface) preserves it in the fridge for up to a week and gives it a finished, professional appearance. Chill for at least 2 hours before serving.
 
 **Full Meal:**
-- [Chicken rillettes](https://www.seriouseats.com/easy-pork-rillettes-recipe) on toast
-- [Simple pickled vegetable salad](https://www.seriouseats.com/quick-pickle-rapid-pickled-onion-recipe)
+- Chicken liver pâté on toast with cornichons, Dijon mustard, and cured pickled vegetables from Session 4
+- Glass of Sauternes or a light Riesling pairs perfectly
 
-> 🎥 **Compare Notes:** [Chicken Jardinière](https://www.youtube.com/watch?v=shvxFx5CRGQ) *(Jacques Pépin)* — Pépin shows poultry cooked low-and-slow in fat and aromatics — the same principle your rillette is built on. Watch how he reads texture rather than temperature.
+> 🎥 **Compare Notes:** [Chicken Liver Parfait](https://www.bbcgoodfood.com/recipes/chicken-liver-parfait) — a more refined parfait version; compare the texture difference between blended pâté (rougher, more rustic) and the strained parfait (silky and smooth). Both are correct — they're targeting different textures.
 
 ---
 

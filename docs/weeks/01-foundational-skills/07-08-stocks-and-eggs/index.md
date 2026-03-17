@@ -19,9 +19,11 @@ Read these first:
 **The Block 7 Rule:** Get your frozen chicken carcass from Block 2 out of the freezer the night before the block starts. You're going to use it.
 
 
-### Session 0 — Soup Architecture *(optional)*
+### Session 1 — Soup Architecture
 
 **Skill:** Understanding soup as a category — not recipes, but architecture. Tonight you make one purée soup and learn how the same structure produces every purée soup in existence.
+
+This session is required — soup architecture is foundational to stock-building and flavor layering in everything that follows.
 
 📖 **Read first:** [How to Make Any Purée Soup](https://www.seriouseats.com/classic-butternut-squash-soup-recipe) — the technique scales to any vegetable.
 

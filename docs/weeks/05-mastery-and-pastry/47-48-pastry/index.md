@@ -111,18 +111,28 @@ This block covers five core dessert structures — each uses a different mechani
 > - **Session 10 (Layer Cake PROJECT):** bake layers a day ahead; frost the morning of service
 
 
-### Session 6 — Caramel: Wet and Dry Methods
+### Session 6 — Dessert Sauces: Caramel, Crème Anglaise, and Coulis
 
-**Skill:** Dry vs. wet caramel; temperature stages of sugar; caramel sauce
+**Skill:** The three foundational pourable dessert sauces — each using a different mechanism. Making all three in one session teaches you how fat-based, egg-based, and fruit-based sauces differ.
+
+**Skill:** Dry vs. wet caramel; egg custard thickening; fruit coulis reduction
 **Read first:** [Caramel vs. Butterscotch vs. Toffee](https://www.seriouseats.com/caramel-vs-butterscotch-vs-toffee-11828566)
 
-**What you're learning:** Sugar has distinct flavor stages as it heats. Dry caramel (no water) is faster and more consistent but harder to control. Wet caramel (water added first) is more forgiving. The difference between caramel, butterscotch, and toffee is entirely about when and how butter enters — explained clearly in the SE article. Make a caramel sauce from scratch today.
+**Caramel sauce:** Sugar has distinct flavor stages as it heats. Dry caramel (no water) is faster and more consistent but harder to control. Wet caramel (water added first) is more forgiving. The difference between caramel, butterscotch, and toffee is entirely about when and how butter enters. Make a caramel sauce from scratch today.
+
+**Crème anglaise** — pourable egg custard: egg yolks + sugar + hot milk or cream, cooked gently to 170°F until it coats a spoon (the nappe). This is the sauce that turns a simple dessert into a restaurant plate — pool it beneath a tarte tatin, flood it around a warm chocolate brownie, or spoon it over fresh fruit.
+
+📖 **Read:** [Simply Recipes — Crème Anglaise](https://www.simplyrecipes.com/creme-anglaise-recipe-5213001/)
+
+**Raspberry coulis** — blended and strained fresh or frozen berries with a little sugar and lemon juice. Simple, fast, bright. Used throughout the block as a foil to rich cream desserts.
+
+📖 **Reference:** [BBC Good Food — Raspberry Coulis](https://www.bbcgoodfood.com/recipes/raspberry-coulis) (also used in Session 8 panna cotta)
 
 **Full Meal:**
-- Caramel sauce over vanilla ice cream
-- Butterscotch variation for comparison (add butter at the start instead of the end)
+- Taste all three sauces with vanilla ice cream — the comparison is the lesson
+- Butterscotch variation for further comparison (add butter at the start of caramel instead of the end)
 
-> 🎥 **Compare Notes:** [Perfect Stovetop Chocolate Caramels](https://www.youtube.com/watch?v=KXH2SFX_8Ts) *(Claire Saffitz)* — She's working at hard-crack stage rather than sauce stage; watch how she reads color as the primary signal and treats the thermometer as secondary.
+> 🎥 **Compare Notes:** [Perfect Stovetop Chocolate Caramels](https://www.youtube.com/watch?v=KXH2SFX_8Ts) *(Claire Saffitz)* — She's working at hard-crack stage rather than sauce stage; watch how she reads colour as the primary signal and treats the thermometer as secondary.
 
 ---
 

@@ -1,214 +1,196 @@
-# Block 33–34: Japanese
+# 🇰🇷 Block 33–34: Korean Cuisine
 
 ← [Block 31–32: Italian](../31-32-italian/index.md) | [Block 35–36: Chinese →](../35-36-chinese/index.md)
 
 ---
 
-> "Japanese cooking is the art of restraint applied to extraordinary ingredients. The recipe is the last thing a Japanese chef learns. First: knife skills, stock-making, fire control, and respect for the season. The recipe is a formality — the judgment underneath is everything."
+> "Korean cooking is a cuisine of fermentation, fire, and contrast. The same meal might include mild steamed rice, fiercely spiced kimchi, umami-rich doenjang, and the charred sweetness of gochujang-lacquered short ribs. Heat and cooling. Sour and sweet. Pungent and subtle. Korea's table doesn't resolve these tensions — it holds them in deliberate, delicious balance."
 
 ---
 
 ## Before You Start Block 33
 
-### Session 0 — The Deep Fry: Method Before Recipes *(optional)*
+**Read these first:**
 
-**Skill:** Understanding deep frying as a discipline — not just "put food in hot oil." Tonight: karaage (Japanese fried chicken), which teaches double-frying, the most important technique in deep-fry cooking because it separates moisture removal from crust formation.
+- 📖 [Serious Eats — Everything You Need to Know About Korean Ingredients](https://www.seriouseats.com/korean-food-ingredients-guide) — gochujang, doenjang, ganjang (soy), gochugaru, toasted sesame oil, perilla — the pantry that makes Korean food Korean
+- 📖 [Maangchi — About Korean Cooking](https://www.maangchi.com/about) — Maangchi is the most trusted Korean cooking resource in English. You'll use her recipes throughout this block.
 
-📖 **Read first:** [Just One Cookbook — Karaage](https://www.justonecookbook.com/karaage/) — the double-fry logic is explained clearly here.
+**Stock your pantry before starting this block:**
 
-**The principles that govern every deep-fry — Japanese or otherwise:**
-
-| Variable | What it controls | Target for most frying |
-|----------|-----------------|------------------------|
-| **Oil temperature** | Crust formation speed; steam generation | 325–375°F depending on item |
-| **Oil volume** | Temperature recovery after adding food | At least 3" deep; more is better |
-| **Batch size** | Temperature drop | Never more than 30% of surface area at once |
-| **Moisture in food** | Steam (which escapes) vs. oil absorption | Drier surface = less oil absorbed |
-| **Batter/coating type** | Crust texture and thickness | See below |
-
-**The batter taxonomy:**
-- **Dry coat (flour/cornstarch)** — karaage, Korean fried chicken; creates a thin, very crispy shell
-- **Wet batter (flour + liquid)** — tempura, fish and chips; creates a puffed, lighter crust
-- **Bread crumb (panko/breadcrumbs)** — tonkatsu, schnitzel; creates the thickest, crunchiest crust
-- **Double coat (flour → egg → breadcrumb)** — standard Western breading; creates maximum thickness
-
-**The double-fry technique (karaage and Korean fried chicken):**
-1. **First fry at 325°F** — low temperature drives out moisture from the inside; the crust forms but doesn't fully color; 3–4 minutes; remove and rest on a rack
-2. **Rest 5 minutes** — steam continues to escape; the interior finishes cooking from residual heat
-3. **Second fry at 375°F** — high heat rapidly crisps the exterior without overcooking the interior; 1–2 minutes until deep golden
-
-**Oil management (what most home cooks don't do):**
-- Strain the oil after frying through a fine mesh sieve; store in a sealed container
-- Cool oil can be reused 3–5 times if filtered; discard when it smokes at lower temperatures than normal, smells rancid, or turns very dark
-- Never mix oils from different frying sessions
-- Never add water to hot oil (steam explosion risk)
-
-**Full Meal:** [Japanese Karaage](https://www.justonecookbook.com/karaage/) + steamed rice + kewpie mayo + lemon + [quick cucumber salad](https://norecipes.com/sunomono/)
-
-> **Why the double-fry matters:** A single fry at medium heat can't simultaneously cook the interior and crisp the exterior. The moisture escaping from inside prevents the crust from setting. Two fries at two temperatures solve this completely. This logic applies to French fries, fried chicken everywhere, and any thick-cut fried item.
+| Ingredient | Notes |
+|-----------|-------|
+| **Gochujang** (fermented chili paste) | The backbone of Korean red sauce cooking |
+| **Doenjang** (fermented soybean paste) | Korean miso — funkier, more complex |
+| **Gochugaru** (Korean chili flakes) | Coarse red flakes — essential for kimchi and most banchan |
+| **Sesame oil** (toasted) | Finishing oil, not cooking oil |
+| **Soy sauce** (Korean style or Japanese dark) | Ganjang, or Korean soy sauce |
+| **Rice vinegar** | Mild acid for dressings and pickles |
+| **Fish sauce** | Background depth in many dishes |
+| **Short grain white rice** | The foundation of every meal |
 
 ---
 
-## Block 31 — Foundations: Dashi, Katsu, Tamagoyaki, Tempura
-
-Japanese cooking builds on a different set of foundational principles than French or Italian cooking, but the logic is the same: master the foundational techniques first, then apply them broadly. Dashi is the Japanese stock — it underpins miso soup, ramen, braises, and sauces. Learn dashi and you understand Japanese flavor.
-
----
+## Block 33 — Foundations: Fermentation and Fire
 
 > ⏰ **Planning Ahead**
 >
-> - **Session 10 (PROJECT: Kaiseki Dinner):** make pickles and tamagoyaki ahead — both are better with rest time
-
-
-### Session 1 — Dashi (Kombu and Katsuobushi Stock)
-
-**Skill:** Cold-infusion technique for kombu; adding bonito; filtering clearly  
-**Read first:** [Basic Japanese Dashi](https://www.seriouseats.com/basic-japanese-dashi-recipe)
-
-**What you're learning:** Dashi is made in under 30 minutes from two ingredients — kombu (dried kelp) and katsuobushi (dried bonito flakes). Cold-soak the kombu, bring slowly to 140°F, remove kombu, add bonito, steep, strain. The result is subtle, deeply savory (umami-forward), and nothing like Western stock in color or flavor.
-
-**Full Meal:**
-- Miso soup from your dashi (the simplest application)
-- Simple Japanese rice with furikake
-- Practice making the dashi twice to compare extraction timing
-
-> 🎥 **Compare Notes:** [Cheap, Quick and Easy Shoyu Ramen](https://www.youtube.com/watch?v=r3_tcQiyGG8) *(Way of Ramen)* — Watch the broth layering: the tare goes in after the stock, not during. That's the same logic as dashi — build a clean base, then season at service.
+> - **Session 1 (Kimchi):** kimchi needs 24–48 hrs fermentation before it's really ready; make it immediately and taste it each day
+> - **Session 5 (PROJECT: Korean Barbecue Night):** marinate galbi 24 hrs ahead; marinate bulgogi at least 4 hrs ahead
 
 ---
 
-### Session 2 — Tonkatsu (Japanese Breaded Pork Cutlet)
+### Session 1 — Kimchi: The Soul of the Korean Kitchen
 
-**Skill:** Japanese breading technique (flour → egg → panko); deep-fry temperature management  
-**Read first:** [Tonkatsu — Japanese Breaded Cutlets](https://www.seriouseats.com/tonkatsu-chicken-pork-katsu-japanese-breaded-cutlets-recipe)
+**Skill:** Kimchi is not just a condiment — it's a fermentation technique, a flavor system, and the defining element of Korean cuisine. Tonight you'll make a basic napa cabbage kimchi from scratch. The process takes about 2 hours of total hands-on time, and the kimchi will be ready to eat after 24–48 hours at room temperature.
 
-**What you're learning:** Panko breadcrumbs create a uniquely airy, shattering crust because the flakes are flatter and lighter than Western breadcrumbs. The frying oil at 350°F (180°C) is the critical variable. Tonkatsu sauce (Worcestershire + ketchup + soy) goes on everything.
+- **Read first:** [Maangchi — How to Make Kimchi](https://www.maangchi.com/recipe/kimchi) — follow this recipe exactly your first time
+- **Also useful:** [BBC Good Food — Kimchi](https://www.bbcgoodfood.com/recipes/kimchi) for a second perspective on timing and ratios
+- **Technique key:** The cabbage must be properly salted and rinsed before the paste goes on. Under-salted cabbage will be mushy. Over-rinsed paste will be bland. The goal: leaves that are limp but still have some backbone, and a paste that coats evenly.
+- **The fermentation:** Pack the kimchi tightly into a jar, leaving 2 inches of headspace (it will expand). Leave at room temperature for 24–48 hours; taste after 24 and refrigerate when it has a pleasantly sour, tangy quality.
 
-**Full Meal:**
-- Tonkatsu with shredded cabbage slaw and tonkatsu sauce
-- White rice and pickled ginger
+**Full Meal:** Tonight is a light kimchi-making session — pair with store-bought japchae or bibimbap, or simple rice and whatever you have. The kimchi is the project, not the meal.
 
-> 🎥 **Compare Notes:** [How to Make Tonkatsu](https://www.youtube.com/watch?v=9Dg7kSKrSnk) — Pay attention to his breading station setup and why the panko matters more than you'd expect.
-
----
-
-### Session 3 — Tamagoyaki (Japanese Rolled Omelette)
-
-**Skill:** Dashi-seasoned egg rolling technique; control of thin layer cooking  
-**Read first:** [Home-Style Tamagoyaki](https://www.seriouseats.com/home-style-tamagoyaki-japanese-rolled-omelette)
-
-**What you're learning:** Tamagoyaki is a multi-layer rolled omelette made in a rectangular pan with sweetened, dashi-flavored egg. The technique: pour a thin layer, allow to set partially, roll toward you, push aside, pour another layer underneath, roll again. Each layer bonds to the last. Patience creates the beautiful cross-section.
-
-**Full Meal:**
-- Tamagoyaki with white rice and miso soup (a full Japanese breakfast-style dinner)
-- Quick [cucumber sunomono](https://norecipes.com/sunomono/) (rice vinegar, sesame, cucumber)
+> 🎥 **Compare Notes:** [How to make kimchi — Maangchi](https://www.youtube.com/watch?v=0p44rCFBiEo) — Maangchi's video is simply the best tutorial available in English. Watch it in full before starting.
 
 ---
 
-### Session 4 — Tempura
+### Session 2 — Japchae: Glass Noodles, Vegetables, and Technique
 
-**Skill:** Ice-cold batter technique; frying at high temperature; tempura dipping sauce from dashi  
-**Read first:** [Deep-Fried Green Bean and Shiitake Tempura](https://www.seriouseats.com/deep-fried-green-bean-and-shiitake-tempura-with-ponzu-mayonnaise-recipe)
+**Skill:** Japchae is a celebratory Korean noodle dish — stir-fried dangmyeon (sweet potato glass noodles) with vegetables, beef, and sesame. The technique is component cooking: each element is cooked separately to its ideal texture, then combined at the end. This is mise en place as architecture, not just organization.
 
-**What you're learning:** Tempura batter is barely mixed (lumpy is correct), ice cold (prevents gluten development), and fried hot (350–370°F). The result is a translucent, almost ghostly crust — not thick bread coating. Mix the batter immediately before frying, not ahead of time.
+- **Read first:** [Serious Eats — Japchae](https://www.seriouseats.com/japchae-recipe) — the SE version is excellent and follows the correct technique
+- **Also see:** [Maangchi — Japchae](https://www.maangchi.com/recipe/japchae) for the more traditional approach
+- **Technique key:** The noodles must be tossed in sesame oil immediately after cooking to prevent sticking. The vegetables must each be cooked separately (spinach takes 30 seconds; mushrooms Take 3 minutes; beef takes 4 minutes) and then assembled. Combining them prematurely ruins every component.
 
-**Full Meal:**
-- Vegetable and/or shrimp tempura with tentsuyu dipping sauce (dashi + mirin + soy)
-- White rice or soba noodles underneath
+**Full Meal:** Japchae as the main dish + short grain rice + your fresh kimchi from Session 1 (taste it — see what 24 hours has done)
 
----
-
-### Session 5 — PROJECT: Oyakodon + Full Japanese Dinner
-
-**Skill:** Donburi-style (rice bowl) cooking; egg barely set at the finish  
-**Read first:** [Oyakodon — Japanese Chicken and Egg Rice Bowl](https://www.seriouseats.com/oyakodon-japanese-chicken-and-egg-rice-bowl-recipe)
-
-**What you're learning:** Oyakodon ("parent and child bowl") is chicken and egg simmered together in a dashi-based sauce and poured over rice. The eggs go in last and are taken off heat while still slightly runny — they finish cooking from residual heat. Restraint on the egg is the whole lesson.
-
-**Full Meal:**
-- Oyakodon × 4
-- Miso soup
-- Pickled vegetables
-- Finish: matcha with a Japanese confection (mochi, yokan, whatever's available)
-
-> 🎥 **Compare Notes:** [How to Make Oyakodon](https://www.youtube.com/watch?v=kSmH01K76lY) — Notice the moment he kills the heat and how far the eggs are from done — that's the whole trick.
+> 🎥 **Compare Notes:** [Maangchi — Japchae](https://www.youtube.com/watch?v=vPtTGLrZDTE) — Watch how she manages the heat for each component separately and assemble only at the very end. Component cooking is the lesson.
 
 ---
 
-## Block 32 — Ramen, Teriyaki Logic, and Japanese Fire Cooking
+### Session 3 — Doenjang Jjigae: The Everyday Soup
+
+**Skill:** Doenjang jjigae (fermented soybean paste soup) is to Korea what miso soup is to Japan — but deeper, more pungent, more complex. It's an everyday soup that uses doenjang as the primary seasoning, with vegetables, tofu, and sometimes meat or seafood. The key technique: the paste goes in early (not last) so it can bloom in fat and stock.
+
+- **Read first:** [Maangchi — Doenjang Jjigae](https://www.maangchi.com/recipe/doenjang-jjigae) — this is the definitive home version
+- **Technique key:** Sauté the doenjang briefly in a tiny bit of oil before adding the anchovy stock. This blooms the fermented paste, softening its raw funkiness. The tofu goes in last — it only needs 5 minutes. Over-cooking tofu in soups makes it rubbery.
+
+**Full Meal:** Doenjang jjigae + steamed short grain rice + any remaining kimchi + banchan (any small vegetable side — spinach blanched with sesame oil and garlic, or cucumber in gochugaru)
+
+> 🎥 **Compare Notes:** [Doenjang Jjigae — Korean Fermented Soybean Paste Stew](https://www.youtube.com/watch?v=MWuclHpqHks) — Watch when the paste goes in and how the stock is built from anchovies and kombu. The base stock technique is foundational Korean cooking.
 
 ---
 
-### Session 6 — Tonkotsu-Style Ramen (Quick Weeknight Approach)
+### Session 4 — Tteokbokki: Spicy Rice Cakes
 
-**Skill:** Building ramen-adjacent richness without a 12-hour bone broth; tare (seasoning sauce)  
-**Read first:** [15-Minute Miso Butter Ramen](https://www.seriouseats.com/15-minute-miso-butter-ramen-recipe-11907783)
+**Skill:** Tteokbokki (spicy stir-fried rice cakes) is one of the most popular Korean street foods — soft, chewy tteok (rice cakes) cooked in a sweet-spicy gochujang sauce. The technique is straightforward but the sauce balance is the skill: gochujang, sugar, soy and anchovy stock must be in perfect proportion. Too sweet and it's candy; too spicy and you can't taste the rice cakes.
 
-**What you're learning:** True tonkotsu ramen takes 12 hours. This session uses the SE technique for weeknight ramen that still teaches the essential components: rich base (miso + butter or pork fat), tare (concentrated seasoning added to bowl, not pot), toppings cooked separately, noodles cooked separately. Even shortcut ramen has architecture.
+- **Read first:** [Maangchi — Tteokbokki](https://www.maangchi.com/recipe/tteokbokki) — follow the sauce ratios exactly your first time
+- **Ingredient note:** Frozen or refrigerated tteok (cylindrical rice cakes) can be found at any Korean grocery. If you can't find them, substitute any thick, chewy Asian rice cake.
+- **Technique key:** Start with cold tteok in cold sauce and bring everything up together. If you add them to hot sauce they'll seize on the outside and stay hard inside.
 
-**Full Meal:**
-- Miso butter ramen with soft-boiled eggs (marinated in soy + mirin)
-- Nori, corn, green onion, sesame on top
+**Full Meal:** Tteokbokki + steamed eggs (gyeran-jjim, silky steamed egg custard in a stone pot) + rice + kimchi
 
-> 🎥 **Compare Notes:** [Beginner Recipe for Rich Tonkotsu Ramen](https://www.youtube.com/watch?v=2fBs5MNlK2s) *(Way of Ramen)* — Tonkotsu broth is the opposite philosophy from your miso ramen — one is built on clarity, one on emulsified fat. Make the same toppings and taste the difference the broth alone makes.
-
----
-
-### Session 7 — Teriyaki Sauce from Scratch + Chicken Thighs
-
-**Skill:** Building teriyaki glaze (soy + mirin + sake + sugar); applying it to grilled or pan-seared protein  
-**Read first:** [Teriyaki Sauce — How to Make at Home](https://www.seriouseats.com/teriyaki-sauce-how-to-make-at-home-recipe)
-
-**What you're learning:** Store-bought teriyaki is sweet, gloopy, and a poor substitute for the real thing — which is bright, salty-sweet, and translucent. Make the sauce from scratch, then use it on pan-seared chicken thighs with skin. The technique of glazing — reducing the sauce in the pan around the protein in the last 2 minutes — creates the restaurant sheen.
-
-**Full Meal:**
-- Teriyaki chicken thighs
-- Steamed rice, cucumber salad, pickled ginger
+> 🎥 **Compare Notes:** [Tteokbokki — Maangchi](https://www.youtube.com/watch?v=9nXGmwFI7DQ) — Watch the sauce progression as it reduces and thickens. The gochujang deepens in color as it cooks — that's what you're aiming for.
 
 ---
 
-### Session 8 — Yakitori (Grilled Chicken Skewers)
+### ⏰ Session 5 — PROJECT: Korean Barbecue Night
 
-**Skill:** Skewering technique; tare application during grilling; cooking different chicken parts  
-**Read first:** [Negima Yakitori (Chicken and Scallion Skewers)](https://www.seriouseats.com/japanese-yakitori-negima-grilled-chicken-skewer-recipe)
+**The challenge:** A full Korean barbecue table at home. Marinate everything the night before. Cook tableside (grill pan or tabletop grill) or sear in a cast iron skillet with very high heat.
 
-**What you're learning:** Yakitori is a study in whole-animal use and fire management. If you only use breast meat, you're missing the point — yakitori celebrates offal and underused cuts. Try at minimum: thigh, skin-wrapped tail (negima), and chicken skin skewers. Brush with tare every 30 seconds near the end.
+**The spread:**
 
-**Full Meal:**
-- Yakitori assortment (aim for 3–4 different cuts)
-- Beer, rice, Japanese mayo for dipping
+| Dish | Recipe | Notes |
+|------|--------|-------|
+| **Bulgogi** (marinated beef) | [Maangchi — Bulgogi](https://www.maangchi.com/recipe/bulgogi) | Marinate 4+ hrs; cook in thin slices, very hot pan |
+| **Galbi** (short ribs) | [Maangchi — Galbi](https://www.maangchi.com/recipe/galbi) | Marinate 24 hrs; flanken-cut short ribs |
+| **Kimchi** | Your kimchi from Session 1 | Taste it — 4 days of fermentation is significant |
+| **Steamed rice** | Short grain, done properly | The anchor of the table |
+| **Ssam board** | Lettuce leaves, garlic, gochujang, perilla | For wrapping meat |
+| **Congee/porridge** (optional) | Simple anchovy broth rice | Light closer if people want it |
 
----
-
-
-### Session 9 — Shabu-Shabu or Sukiyaki (Hot Pot)
-
-**Skill:** Japanese hot pot; building a table cooking experience; broth control  
-**Read first:** Shabu-shabu is a technique, not a recipe — no recipe needed. Buy paper-thin sliced ribeye from a Japanese grocery (or freeze a piece 2 hours and slice with a sharp knife). Stock: one large sheet of kombu in cold water, warmed slowly to 150°F — do not boil. Swirl 2–3 slices at a time for 10–15 seconds. Two dipping sauces: ponzu (citrus + soy) and sesame (tahini + rice vinegar + soy + sesame oil).
-
-**What you're learning:** Shabu-shabu means "swish-swish" — describing how briefly the beef meets the broth. The broth absorbs flavor from the beef as cooking progresses. This is a communal, slow-paced dinner that builds as the meal goes on, ending with udon or rice cooked in the enriched broth.
-
-**Full Meal:**
-- Shabu-shabu with thinly sliced beef ribeye, mushrooms, tofu, noodles, napa cabbage
-- Ponzu and sesame dipping sauces
-- Udon or rice to finish in the enriched broth
+*Skill targets: Both proteins marinated at least 4 hours (24 for galbi). Grill pan screaming hot before any meat goes on. All banchan ready before cooking the proteins.*
 
 ---
 
-### Session 10 — PROJECT: Full Japanese Kaiseki-Inspired Dinner
+## Block 34 — Depth: Fried, Simmered, and Composed
 
-**Skill:** Multi-component Japanese meal; balance of flavors and textures across courses  
-**Goal:** Build a simplified kaiseki-inspired meal across 4 courses:
+---
 
-1. **Sakizuke:** Small aperitif bite — tamagoyaki slice + [cucumber sunomono](https://norecipes.com/sunomono/)
-2. **Soup:** Clear dashi soup with tofu, mitsuba, yuzu zest
-3. **Main:** Teriyaki salmon or yakitori selection
-4. **Shokuji:** Rice + miso soup + tsukemono (pickles)
+### Session 6 — Bibimbap: The Composed Bowl
 
-**Full Meal:**
-- Simplified 4-course Japanese dinner (formal but achievable)
-- Green tea and wagashi (Japanese sweets) to close
+**Skill:** Bibimbap (mixed rice and vegetable bowl) is one of Korea's most famous dishes — a composed bowl of steamed rice, seasoned vegetables (namul), a fried egg, and gochujang, mixed together at the table. The skill is in the namul: each vegetable is prepared separately, each with its own seasoning, then arranged artfully on the rice before serving. Variety, technique, and visual presentation all matter.
 
-> 🎥 **Compare Notes:** [I Made Ramen From Scratch Using TRASH ft. Ramen Lord](https://www.youtube.com/watch?v=HNJEx0XM0VM) *(Alex French Guy Cooking)* — Alex and Ramen Lord turn kitchen scraps into serious broth. The mindset here — nothing is waste, everything extracts — is the kaiseki philosophy applied to ramen.
+- **Read first:** [Maangchi — Bibimbap](https://www.maangchi.com/recipe/bibimbap) — detailed namul preparation for each vegetable
+- **Also see:** [BBC Good Food — Bibimbap](https://www.bbcgoodfood.com/recipes/bibimbap) for a simpler version if you're short on time
+- **Technique key:** Each namul is different: blanched spinach gets sesame oil and garlic; bean sprouts get the same; sautéed zucchini gets gochugaru; mushrooms get soy and sesame. The variety of seasoning within a simple framework is what makes bibimbap special.
+- **The egg:** Fried, runny yolk. The yolk is the sauce. It's not negotiable.
+
+**Full Meal:** Bibimbap is the complete meal — rice, vegetables, protein (if adding beef or tofu), egg, and gochujang at the table to mix with.
+
+> 🎥 **Compare Notes:** [Bibimbap — Maangchi](https://www.youtube.com/watch?v=6BQgCGBsQa0) — Watch her namul preparation sequence. The order of vegetables and the specific seasoning for each one is the lesson.
+
+---
+
+### Session 7 — Korean Fried Chicken: The Science of the Crisp
+
+**Skill:** Korean fried chicken is distinguished from American fried chicken by three things: a double-fry technique (first fry at lower temp to cook through; second fry at high temp to super-crisp the skin), thinner batter (potato starch + a small amount of flour, no thick breading), and the lacquered sauce applied after the second fry. The result is extraordinarily crispy.
+
+- **Read first:** [Serious Eats — Korean Fried Chicken](https://www.seriouseats.com/korean-fried-chicken-recipe) — the double-fry method explained
+- **Also see:** [Maangchi — Dakgangjeong (Crispy Korean Fried Chicken)](https://www.maangchi.com/recipe/dakgangjeong) — a soy-garlic style with sticky glaze
+- **Technique key:** The first fry (325°F for 12–15 minutes) cooks the chicken through. The second fry (375°F for 3–5 minutes) drives off remaining moisture in the skin and creates the characteristic shatter. Skipping the second fry makes fine fried chicken — it just isn't Korean fried chicken.
+
+**Full Meal:** Korean fried chicken (half plain, half glazed with yangnyeom sauce) + pickled daikon + steamed rice
+
+> 🎥 **Compare Notes:** [Korean Fried Chicken — Maangchi](https://www.youtube.com/watch?v=YiSIm8Tf0oo) — Watch the double-fry temperatures and timing. The first and second fry serve completely different purposes — make sure you understand both before your first attempt.
+
+---
+
+### Session 8 — Pajeon: Korean Savory Pancakes
+
+**Skill:** Pajeon (scallion pancakes) exemplify the Korean approach to quick, satisfying everyday cooking. The batter is simple — flour, water, egg, and salt — but the technique matters enormously. The pan must be well-oiled and hot so the outside crisps immediately. And the toppings (scallions, seafood, kimchi) must be folded in gently, not mixed to death, so they hold their texture.
+
+- **Read first:** [Maangchi — Pajeon](https://www.maangchi.com/recipe/pajeon) — haemul pajeon (seafood style) or basic scallion
+- **Technique key:** All in one pan, medium-high heat, enough oil to shallow-fry the edges. Press the pancake flat with a spatula after pouring. Flip only once. The bottom should be deeply golden and crispy — pale pajeon isn't right.
+- **Dipping sauce:** soy sauce + rice vinegar + sesame oil + gochugaru + scallion. Equal parts soy and vinegar, everything else to taste.
+
+**Full Meal:** Pajeon + dipping sauce + doenjang jjigae (quick version — 20-minute soup) + rice
+
+> 🎥 **Compare Notes:** [Pajeon — Korean Scallion Pancake](https://www.youtube.com/watch?v=QHwPHC4iw8E) — Watch the oil quantity and the pan temperature. Korean pancakes need more oil than you'd expect — they're closer to a shallow-fry than a dry sauté.
+
+---
+
+### Session 9 — Galbi-Jjim: Braised Short Ribs
+
+**Skill:** Galbi-jjim is the Korean-style braised short rib — the same cut as your galbi from Session 5, but thoroughly braised rather than quickly grilled. The sauce is soy-based rather than gochujang-based, with Asian pear or apple for tenderizing enzymes and deep sweetness. The results are glossy, deeply flavored, and profoundly satisfying.
+
+- **Technique:** Blanch the ribs briefly in boiling water first (this removes blood and impurities and produces a cleaner, clearer braising liquid). Then braise in the soy-based sauce with garlic, ginger, Asian pear, and vegetables for 1.5–2 hours. The sauce should reduce to a thick, glossy coating in the last 20 minutes (uncover and increase heat).
+- **Reference:** [Maangchi — Galbi-Jjim](https://www.maangchi.com/recipe/galbi-jjim) — Korean braised short ribs
+
+**Full Meal:** Galbi-jjim + steamed short grain rice + sautéed spinach banchan (blanched, seasoned with sesame oil and garlic) + kimchi
+
+> 🎥 **Compare Notes:** [Korean Braised Short Ribs (Galbi-Jjim)](https://www.youtube.com/watch?v=KnjkPkBWMCo) — The pre-blanching step distinguishes Korean braising from French braising — it's not about fond development, it's about clarity.
+
+---
+
+### ⏰ Session 10 — PROJECT: A Korean Dinner Party
+
+**The challenge:** Cook a full Korean dinner for guests. Every dish must be planned, prepped, and timed. The goal is a table where everything arrives together — not a procession of dishes with 10-minute gaps.
+
+**The menu:**
+
+| Course | Dish | Link | Timing |
+|--------|------|------|--------|
+| **Welcome** | Makgeolli (Korean rice wine) or cold beer | — | Have it waiting |
+| **Banchan** | Kimchi (yours), cucumber kimchi, spinach namul | Various | Make in advance |
+| **Soup** | Doenjang jjigae | [Maangchi](https://www.maangchi.com/recipe/doenjang-jjigae) | Make 30 mins before |
+| **Main 1** | Galbi-jjim (braised short ribs) | [Maangchi](https://www.maangchi.com/recipe/galbi-jjim) | Start 3 hrs before service |
+| **Main 2** | Pajeon (seafood pancakes) | [Maangchi](https://www.maangchi.com/recipe/pajeon) | Cook to order, right before serving |
+| **Rice** | Short grain, perfectly cooked | — | Time to finish with the mains |
+| **Dessert** | Bingsu (Korean shaved ice) | [Maangchi — Patbingsu](https://www.maangchi.com/recipe/patbingsu) | Assemble at the table |
+
+*Skill targets: Banchan ready before guests arrive. Both mains plated at the same time. Doenjang jjigae served hot. Bingsu assembled at the table — it's theatrical and delicious.*
 
 ---
 
@@ -218,32 +200,34 @@ These aren't required reading — but if something from this block sparked a que
 
 ---
 
-### Dashi: The Foundation
+### The Korean Pantry: Fermentation as Foundation
 
-Dashi is made in 10 minutes and is the reason Japanese soups, braises, and sauces taste the way they do. Once you understand that katsuobushi and kombu are the primary umami sources, you start seeing them everywhere.
+Korean cooking's depth comes from fermented ingredients. Gochujang, doenjang, and kimchi aren't just condiments — they're the flavor infrastructure.
 
-- 📖 [Basic Japanese Dashi](https://www.seriouseats.com/basic-japanese-dashi-recipe) — The method and the reasoning, in Kenji's words. Also explains the difference between ichiban dashi (first extraction) and niban dashi (second extraction).
+- 📖 [Serious Eats — Gochujang, Explained](https://www.seriouseats.com/what-is-gochujang-korean-chili-paste-7559022) — what it is, how it's different from other chili pastes, and how to use it beyond the obvious
+- 📖 [Serious Eats — What is Doenjang?](https://www.seriouseats.com/what-is-doenjang-korean-fermented-soybean-paste) — the sister fermented paste to gochujang, and why it's more versatile than it looks
 
 ---
 
-### The Japanese Approach to Simplicity
+### Korean Barbecue: Beyond the Restaurant
 
-Japanese cooking is defined by restraint: fewer ingredients, better technique, more precise execution. It's the cuisine that rewards preparation and penalizes carelessness most directly.
+The Korean BBQ table at home is one of the most social, interactive meals you can cook.
 
-- 📖 [How to Butter-Baste Steaks, Chops, and Fish](https://www.seriouseats.com/how-to-butter-baste-steaks-chops-fish) — Not Japanese, but the technique connects to the close-attention cooking style you're practicing this week with tonkatsu.
+- 📖 [Maangchi — Bulgogi](https://www.maangchi.com/recipe/bulgogi) — the canonical marinade explained in full, with the specific pear or kiwi enzyme tenderizing step that makes a difference
+- 📖 [BBC Good Food — Bulgogi](https://www.bbcgoodfood.com/recipes/bulgogi) — a slightly simplified version for weeknight cooking
 
 ---
 
 ### Watching a Pro Do It
 
-- 📺 [**Ramen master at work**](https://www.youtube.com/results?search_query=ivan+ramen+documentary) — Understanding the scale of commitment that goes into a proper ramen bowl puts your home version in context.
-- 📺 [**Knife sharpening in Japan**](https://www.youtube.com/results?search_query=japanese+knife+sharpening+whetstone) — The knife skills block from Week 1 revisited through a Japanese lens.
+- 📺 [**Maangchi's YouTube Channel**](https://www.youtube.com/@maangchi) — Maangchi is the most trusted Korean cooking teacher on the internet. Her channel has every dish from this block; watch any video before you cook the dish.
 
 ---
 
 ### A Book Worth Having
 
-- 📚 [***Japanese Farm Food* by Nancy Singleton Hachisu**](https://www.amazon.com/dp/1449418295) — Home-style Japanese cooking that isn't intimidating. Goes deep on dashi, fermentation, and the logic of the Japanese kitchen.
+- 📚 [***Korean Home Cooking* by Sohui Kim**](https://www.amazon.com/dp/1419732935) — The most comprehensive Korean cooking book for the home cook. Goes deep on banchan, fermentation, and the logic of the Korean table.
+- 📚 [***Koreatown* by Deuki Hong & Matt Rodbard**](https://www.amazon.com/dp/0804186731) — Korean-American cooking, with equal depth on technique and culture. The restaurant profiles add useful context.
 
 ---
 

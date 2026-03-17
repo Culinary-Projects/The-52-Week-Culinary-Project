@@ -45,7 +45,7 @@
 
 > ⏰ **Planning Ahead**
 >
-> - **Session 4 (Miso-Glazed Salmon):** apply miso marinade 24–48 hrs before this session
+> - **Session 5 (PROJECT: Whole Roasted Fish):** buy a whole fish the same day for maximum freshness
 
 
 ### Session 1 — Crispy-Skin Pan-Seared Salmon
@@ -86,14 +86,17 @@
 
 ---
 
-### Session 4 — Miso-Glazed Salmon: Japanese Technique
+### Session 4 — Ceviche: Fish Cooked by Acid
 
-**Skill:** The miso glaze (white miso, mirin, sake, sugar) is applied to salmon and left to cure for several hours or overnight. The sugars in the miso caramelize under the broiler in 3–4 minutes. This is one of the most famous fish preparations in Japanese home cooking — Nobu Matsuhisa's black cod version made it internationally famous, but salmon is the accessible entry point.
+**Skill:** Ceviche is the technique of "cooking" raw fish with citrus acid — the low pH of lime juice denatures the surface proteins of the fish, turning it opaque and firm without any heat. This is one of the most intellectually interesting preparations in the program: you are cooking without a stove.
 
-- **Read:** [Serious Eats — Miso-Glazed Salmon](https://www.seriouseats.com/miso-glazed-salmon-in-the-toaster-oven-recipe) — toaster oven technique; standard oven broiler works identically
-- Glaze and refrigerate the night before Session 4. Session 4 is 8 minutes total.
+- **Read:** [BBC Good Food — Ceviche](https://www.bbcgoodfood.com/recipes/ceviche)
+- Use the freshest fish you can find — sushi-grade sea bass, snapper, or halibut; dice to 1cm cubes; cover completely with fresh lime juice; cure in the fridge for 20–30 minutes; season with salt, chili, red onion, and coriander
+- Taste at 10 minutes and again at 30 — notice the texture change happening in real time
 
-**Full Meal:** Miso-glazed salmon + steamed rice + [quick pickled cucumbers](https://www.seriouseats.com/quick-pickled-cucumbers-rice-vinegar-recipe) + wilted bok choy
+**Full Meal:** Ceviche as a starter or light main + [quick-pickled cucumbers](https://www.seriouseats.com/quick-pickled-cucumbers-rice-vinegar-recipe) + tostadas or tortilla chips + avocado slices
+
+*Skill note: The line between perfectly cured (firm outside, just barely opaque inside) and overcooked (rubbery all the way through) is about 15 minutes. Pull it at the earlier end.*
 
 ---
 
@@ -157,17 +160,19 @@
 
 ---
 
-### Session 10 — PROJECT: Bouillabaisse (The Grand Fish Stew)
+### Session 10 — PROJECT: A Full Fish Dinner
 
-**Skill:** Bouillabaisse is the most technically demanding fish recipe in this block — and the most rewarding. It requires: a flavorful, deeply reduced broth made from fish bones and shells; aromatics cooked in stages; multiple fish and shellfish added in sequence by how long they need. The rouille (saffron-garlic aioli spread on croutons) is the soul of the dish.
+**The challenge:** Build a complete three-component fish dinner using techniques from the block. Nothing from a packet. Everything cooked the same evening.
 
-This is a half-day project. Buy the bones/shells the same day (ask your fishmonger to save fish bones when you buy the fillets).
+**Full Meal (serves 2–4):**
 
-- **Read:** [Serious Eats — Bouillabaisse Marseillaise](https://www.seriouseats.com/bouillabaisse-marseillaise-fish-stew-recipe) — the definitive home-cook version
+1. **Starter:** Ceviche (from Session 4 technique) — fresh-made, served immediately after curing, with tostadas and sliced avocado
+2. **Main:** Crispy-skin pan-seared fish of your choice (Session 1 or 3 technique) + [salsa verde](https://www.seriouseats.com/italian-salsa-verde-with-parsley-and-capers) drizzled over the top
+3. **Sides:** [Roasted potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + a simple green salad dressed with vinaigrette
 
-**The project spread:** Bouillabaisse + rouille croutons + crusty bread + simple green salad
+*Skill targets: Ceviche fish properly opaque but not rubbery. Crispy fish skin that doesn't stick to the plate. Everything on the table at the same time — this is the timing challenge.*
 
-> 🎥 **Compare Notes:** [Bouillabaisse and How to Make Fish Stock](https://www.youtube.com/watch?v=Ul_ymBC-cxk) *(Helen Rennie)* — The stock-building section is the real lesson; watch how she extracts flavor from bones and shells before anything else goes in the pot.
+> Write: What single technique from this block will you use the most in everyday cooking? Not the most impressive — the most useful.
 
 ---
 
@@ -206,4 +211,4 @@ Bouillabaisse is a lesson in building shellfish stock, saffron, and rouille — 
 
 ---
 
-← [Block 17–18: Beef Fundamentals](../17-18-beef-fundamentals/index.md) | [Block 21–22: Beef Advanced →](../21-22-beef-advanced/index.md)
+← [Block 17–18: Lamb & Game](../17-18-beef-fundamentals/index.md) | [Block 21–22: Whole Fish & Curing →](../21-22-fish/index.md)

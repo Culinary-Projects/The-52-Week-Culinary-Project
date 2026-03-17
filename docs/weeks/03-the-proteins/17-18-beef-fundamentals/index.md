@@ -1,200 +1,201 @@
-# 🥩 Block 17–18: Beef — Fundamentals
+# 🐑 Block 17–18: Lamb & Game
 
 ← [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
 
 ---
 
-> *"Beef is the protein that teaches you the most about heat. Every cut is a different conversation with the fire, and every mistake is immediately apparent on the plate."*
+> *"Lamb is the most aromatic protein in the Western kitchen. Its fat carries flavors that no other animal's does — herbs cling to it, heat transforms it, and time mellows it into something profound. Learn lamb and you understand a third of the world's meat cuisines."*
 
 ---
 
 ## Before You Start Block 17
 
-### Session 0 — Beef Fabrication *(optional)*
+### Session 0 — Lamb Butchery Overview *(optional)*
 
-**Skill:** Understanding the beef primal map — where every cut comes from and why it costs what it costs. Tonight is theory and light hands-on work: you'll trim and portion a short rib rack or fabricate a chuck roast into uniform braising pieces.
+**Skill:** Understanding where lamb cuts come from — and why they cost what they cost. Tonight is theory and light hands-on work.
 
-📖 **Read first:** [Beef Cuts Explained: A Guide to the Different Cuts of Beef](https://www.beefitswhatsfordinner.com/cuts) — understand why the same animal produces both a $6/lb chuck and a $30/lb tenderloin.
+📖 **Read first:** [Serious Eats — Lamb Cuts Explained](https://www.seriouseats.com/lamb-cuts-guide) — understand why a rack of loin costs four times what a shoulder does, and why that shoulder will taste better braised.
 
-**The primal cut map — every beef cut descends from 8 primals:**
+**The lamb primal map:**
 
 | Primal | Characteristics | Cuts it yields |
 |--------|----------------|----------------|
-| **Chuck** (shoulder) | Well-worked muscle, lots of collagen | Chuck roast, short ribs, flat iron |
-| **Rib** | Less-worked, heavily marbled | Ribeye, prime rib, ribeye cap |
-| **Short loin** | Tender, central back | T-bone, porterhouse, strip steak |
-| **Sirloin** | Moderately worked | Sirloin steak, tri-tip |
-| **Round** (rear leg) | Lean, tough | Round roast, top round, eye of round |
-| **Brisket** (chest) | Very tough, collagen-heavy | Whole brisket, flat, point |
-| **Flank/plate** | Flat, thin, fibrous | Skirt steak, flank steak, hanger |
-| **Shank** | Very tough, maximum gelatin | Osso buco (cross-cut shank) |
+| **Neck/chuck** | Heavily worked, collagen-rich | Neck for stews, shoulder |
+| **Shoulder** | Tough with fat, great for slow cooking | Bone-in shoulder, blade chops |
+| **Rack (rib)** | Tender, elegant | Rack of lamb, rib chops |
+| **Loin** | Most tender | Loin chops, saddle |
+| **Leg** | Semi-tough, versatile | Bone-in leg, butterflied leg, mince |
+| **Shank** | Very tough, gelatin-heavy | Braised shank |
+| **Breast/flank** | Thin, fatty, cheap | Rolled breast, riblets |
 
-**The fabrication principle:** Tough cuts (chuck, brisket, shank) need low heat and long time to convert collagen to gelatin. Tender cuts (rib, loin) need high heat and short time. The method should always match the muscle's work history.
+**The butchery principle:** Like beef, tough cuts (shank, shoulder, neck) need time and low heat. Rack and loin are cooked fast and hot. Leg sits in between — it can be roasted as a whole or butterflied for the grill.
 
-**Hands-on tonight:** Buy a rack of bone-in short ribs from your butcher as a slab (not pre-cut English style). Practice:
-1. Identifying the grain direction of the meat
-2. Trimming excess fat cap (leave ¼" — flavor, not waste)
-3. Portioning between bones for even braising pieces
-4. Asking yourself: could I have bought these pre-portioned? Yes. But now you understand what you're paying for when you don't.
-
-**Full Meal:** The short ribs you trim tonight — braise them tomorrow or this weekend (see Week 16 for the full recipe). Tonight pair with whatever you have: bread and a salad is fine.
-
-📖 **Also worth reading:** [Serious Eats — Should You Bring Steaks to Room Temperature Before Cooking?](https://www.seriouseats.com/should-you-bring-steaks-and-roasts-to-room-temperature-before-cooking-11873888) — the answer is more interesting than you expect.
+**Tonight:** Ask your butcher to show you a whole leg alongside a rack. Examine the muscles, fat distribution, and bone placement. If your butcher is willing, watch them French the rack (clean the bones). This is the kind of knowledge you can't get from watching YouTube.
 
 ---
 
-## Block 15 — The Steak Education
+## Block 17 — Lamb: Hot and Fast
 
-**The central question this week:** Why does a ribeye require a different approach than a strip? Why does a two-inch-thick steak need different handling than a thin one? Beef cuts are not interchangeable — their fat content, fiber direction, and thickness all dictate the method.
+> *"Every culture that raises sheep has a way with lamb. France grills it with herbs de Provence. The Middle East marinates it in yogurt and cumin. Greece roasts a whole leg with lemon and oregano. The cut and the grill are universal; the spice is local."*
 
 ---
 
 > ⏰ **Planning Ahead**
 >
-> - **Session 1 (Reverse-Seared Ribeye):** dry-brine the steak the night before the block starts
-> - **Session 5 (PROJECT: Standing Rib Roast):** dry-brine 1–2 days ahead; budget 4–5 hrs total roast time
-> - **Session 8 (Brisket):** 6–8 hrs low and slow; start by mid-morning
-
-
-### Session 1 — The Dry Brine + Reverse Sear Method
-
-**Skill:** Dry brining (salting and leaving uncovered in the fridge for at least 12 hours) is the single highest-leverage improvement most home cooks can make to their steak. Salt draws moisture to the surface, which then gets reabsorbed carrying salt deeper into the meat. The surface dries out — which means better, faster crust formation.
-
-The reverse sear — low oven first, then high-heat sear — gives you precise temperature control and faster, drier surface for searing.
-
-- **Read before cooking:** [Serious Eats — How to Dry Brine](https://www.seriouseats.com/how-to-dry-brine) — the definitive explanation
-- Dry brine your steak the night before the block starts. Reverse sear Session 1.
-- **Read:** [Serious Eats — Reverse-Seared Steak](https://www.seriouseats.com/reverse-seared-steak-recipe)
-
-**Full Meal:** Reverse-seared ribeye + [Serious Eats — Rich and Creamy Mashed Potatoes](https://www.seriouseats.com/rich-and-creamy-mashed-potatoes-recipe) + simple green salad
-
-*Skill check: Take the steak's internal temperature in three places before searing. Write the readings down. This is how you learn to stop cutting into steak to check doneness.*
-
-> 🎥 **Compare Notes:** [The Reverse Sear is Still the Best Way to Cook Steak](https://www.youtube.com/watch?v=Azarsj8xlBk) — Follow his oven temp and timer — then compare your internal temp curve to his. The reverse sear is consistent precisely because you can watch it happen.
+> - **Session 4 (Slow-Roasted Shoulder):** needs 4 hours; start by early afternoon
+> - **Session 5 (PROJECT: Lamb Feast):** multi-component; allow 3–4 hrs
+> - **Session 6 (Braised Shanks):** 2.5–3 hrs braising; start by early afternoon
 
 ---
 
-### Session 2 — Pan-Seared Strip Steak + Compound Butter
+### Session 1 — Lamb Chops: Pan-Sear & Grill
 
-**Skill:** A strip steak requires more finesse than a ribeye — it has less marbling to protect the meat from drying out. Tonight: cast iron, very high heat, minimal interference. Compound butter (softened butter + herbs + acid) is a classical French technique for finishing steaks — it's also a foundational formula you'll use in many other contexts.
+**Skill:** Lamb chops are the steak of the lamb world — quick-cook, best rare to medium, and benefiting enormously from a hard sear. Tonight: rib chops with a rosemary-garlic crust. The fat cap should be rendered; the interior pink and luscious.
 
-- **Read (for context):** [Serious Eats — Old Wives' Tales About Cooking Steak](https://www.seriouseats.com/old-wives-tales-about-cooking-steak) — debunks the myths you've definitely heard
-- Compound butter formula: ½ stick softened butter + minced herbs (parsley, thyme, chive) + ½ tsp lemon zest + 1 tsp Dijon. Roll in plastic wrap. Refrigerate.
+- **Read first:** [Recipe Tin Eats — Lamb Chops](https://www.recipetineats.com/lamb-chops/) — covers both pan-searing and grilling, seasoning, and resting
+- **Technique key:** Press the fat cap against the hot pan first (30 seconds to 1 minute) to render it before searing the flesh sides. Lamb fat that hasn't been rendered is the source of the "muttony" flavor people complain about — render it and it becomes sweet and fragrant.
 
-**Full Meal:** Pan-seared strip steak + compound butter + [Serious Eats — Creamed Spinach](https://www.seriouseats.com/food-lab-creamed-spinach-recipe) + crusty bread
+**Full Meal:** Pan-seared rib chops + [Serious Eats — Best Roast Potatoes Ever](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + simple salad of cucumber, tomato, and feta
 
----
-
-### Session 3 — Burgers: Understanding Ground Beef
-
-**Skill:** A great burger requires understanding fat ratios (80/20 is the standard — leaner grinds = drier burgers), handling (overworking = tough), and heat (screaming hot surface = crust without grey band). The smash burger technique works because maximum surface contact with maximum heat creates maximum Maillard reaction.
-
-- **Read:** [Serious Eats — Classic Smash Burgers](https://www.seriouseats.com/classic-smashed-burgers-recipe)
-- One rule: don't touch the beef. Season right before cooking, smash once, don't press again.
-
-**Full Meal:** Smash burgers (double patty) + whatever you feel like alongside — this is your call
-
-*Skill note: Make the patties with one hand. Loose, barely formed. No mix-ins. Salt only. Then smash.*
-
-> 🎥 **Compare Notes:** [How to make a smash burger](https://www.youtube.com/watch?v=rsIlzNqN0ok) — Watch how hard he smashes and how fast the crust forms — that's the Maillard reaction happening in real time.
+> 🎥 **Compare Notes:** [How to Cook Lamb Chops — Gordon Ramsay](https://www.youtube.com/watch?v=_2B6K0AViTI) — Watch his pan temperature, his herb basting technique, and the resting time. The herbs should be singed and fragrant, not raw.
 
 ---
 
-### Session 4 — Skirt Steak: Thin Cuts & Marination
+### Session 2 — Rack of Lamb: The Showstopper
 
-**Skill:** Thin cuts (skirt, flank, hanger) are the workhorse steaks of Latin American and Asian cuisines — they're cheap, extremely flavorful, and completely different from the thick-cut luxury steaks of earlier this week. Two rules: high heat, short time. And always cut against the grain — these muscles have very pronounced fiber direction, and cutting the wrong way makes them nearly inedible.
+**Skill:** A rack of lamb is one of the most dramatic presentations in domestic cooking — a row of eight rib bones, Frenched bare, the loin curved into a perfect arc. The technique is straightforward: a hard sear on all sides, then a brief roasting until the interior reaches 125–130°F (rare to medium-rare). The crust: breadcrumbs, Dijon, and fresh herbs applied after searing.
 
-- **Read:** [Serious Eats — Grilled Skirt Steak Fajitas](https://www.seriouseats.com/grilled-skirt-steak-fajitas-food-lab-recipe) — the method applies even if you don't want fajitas
-- Marinade is not optional here. Acid (lime/citrus), oil, aromatics — at least 30 minutes, preferably overnight.
-- Finish with [Serious Eats — Chimichurri](https://www.seriouseats.com/sauced-chimichurri-sauce-recipe)
+- **Technique:** Sear the rack fat-side down to render some fat and build crust. Coat with Dijon mustard, then press herb-breadcrumb crust onto the fat cap. Roast at 425°F for 12–15 minutes. Rest 8 minutes before cutting between the bones.
+- **Serve with:** [BBC Good Food — Dauphinoise Potatoes](https://www.bbcgoodfood.com/recipes/dauphinoise-potatoes) — the classic French pairing. Start the dauphinoise 1.5 hours before the lamb.
 
-**Full Meal:** Skirt steak + chimichurri + grilled or [roasted peppers](https://www.bbcgoodfood.com/recipes/collection/roasted-pepper-recipes) + rice or tortillas
+**Full Meal:** Herb-crusted rack of lamb + dauphinoise potatoes + roasted green beans with toasted almonds
 
-> 🎥 **Compare Notes:** [Grilled Skirt Steak with Herb Sauce](https://www.youtube.com/watch?v=PTCfv3aZyR8) — Compare his sear time and resting method to yours — skirt steak is thin enough that even 30 seconds matters.
+*Skill check: Use your thermometer. A $30 rack of lamb is not the time to "trust your instincts."*
 
----
-
-### Session 5 — PROJECT: The Prime Rib
-
-**Skill:** The prime rib (standing rib roast) is the most impressive home cook project in the beef repertoire. High-heat sear first (or last), then low-and-slow roasting to precise internal temperature. This is a $80+ cut of meat — you don't wing it. You plan it.
-
-- **Read:** [Serious Eats — Perfect Prime Rib](https://www.seriouseats.com/perfect-prime-rib-beef-recipe) — read the whole thing, twice
-- [Serious Eats — High Heat vs. Low and Slow Prime Rib](https://www.seriouseats.com/high-heat-vs-low-and-slow-prime-rib-11875575) — understand both approaches before choosing one
-
-**The project spread:**
-1. **Standing rib roast** — 2-bone minimum, reverse sear if it's your first time
-2. Horseradish cream sauce (crème fraîche + prepared horseradish + lemon + black pepper)
-3. [Serious Eats — Creamed Spinach](https://www.seriouseats.com/food-lab-creamed-spinach-recipe) — the steakhouse classic
-4. Roasted garlic mashed potatoes (from earlier in the block mashed potato technique)
-
-*What you learn today: cooking to temperature on an expensive cut. If it's wrong, you know immediately. That's the best teacher.*
-
-> 🎥 **Compare Notes:** [The Food Lab's Reverse-Seared Prime Rib](https://www.youtube.com/watch?v=KCHpiHmOXyU) — Watch how the internal temperature climbs through the overnight rest — that carry-over on a roast this size is part of the method, not a mistake.
+> 🎥 **Compare Notes:** [Gordon Ramsay's Rack of Lamb](https://www.youtube.com/watch?v=TjBxWwlMzm0) — Compare his searing order and crust application to your approach. Note when he puts the thermometer in.
 
 ---
 
-## Block 16 — Beef: Braising & the Tougher Cuts
+### Session 3 — Ground Lamb: Kofta and Beyond
 
-> *"The most flavorful beef in the animal is in the cuts that require the most time. This is not a coincidence."*
+**Skill:** Ground lamb behaves differently from ground beef — it's fattier and more aromatic, which means it handles warming spices better and holds together more easily. Tonight: lamb kofta (grilled ground lamb skewers seasoned with cumin, coriander, cinnamon, and herbs). The technique — mixing, shaping, and grilling — applies to any ground lamb dish.
 
----
+- **Technique:** Mix the ground lamb with spices by hand, working quickly so the fat doesn't warm. Wet your hands with cold water before shaping. Press firmly around the skiwer — they should be dense, not fluffy. If grilling, get the grill hot; they should cook in 8–10 minutes.
+- **Reference:** The spice ratio for kofta: 1 lb ground lamb + 1 tsp cumin + 1 tsp coriander + ¼ tsp cinnamon + ½ tsp paprika + salt + fresh parsley. That's it.
 
-### Session 6 — Red Wine Braised Short Ribs
+**Full Meal:** Lamb kofta skewers + warm flatbread or pita + tzatziki + [Serious Eats — Shirazi Salad](https://www.seriouseats.com/salad-e-shirazi-persian-cucumber-and-tomato-salad-recipe-8385448)
 
-**Skill:** Short ribs take a 3-hour braise minimum in red wine and aromatics. The collagen-rich meat transforms from tough connective tissue into silk. This is the braise that impresses everyone — and it's also deeply forgiving. The only way to ruin it is rushing it.
-
-- **Read:** [Serious Eats — Red Wine Braised Beef Short Ribs](https://www.seriouseats.com/red-wine-braised-beef-short-ribs-recipe)
-- Brown the short ribs in batches — don't crowd the pan or they'll steam instead of sear
-- Start by 2 PM if you're eating at 7
-
-**Full Meal:** Braised short ribs + egg noodles or [creamy polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe) + whatever vegetables are in season
-
-> 🎥 **Compare Notes:** [Forget Short Ribs, Try Red Wine-Braised Chuck Instead](https://www.youtube.com/watch?v=0yRT1vlwFfI) — A direct comparison of the same braise technique on a different cut — watch what the different fat and collagen content does to the final texture.
+> 🎥 **Compare Notes:** [Lamb Kofta from Scratch](https://www.youtube.com/watch?v=K5BvdBkGDVE) — Watch the shaping technique and the grill management — a kofta that falls off the skewer is usually under-mixed or too warm.
 
 ---
 
-### Session 7 — Pot Roast: Low and Slow Chuck
+### ⏰ Session 4 — Slow-Roasted Lamb Shoulder
 
-**Skill:** Chuck roast (blade roast) is the pot roast cut — it has connective tissue, fat pockets, and marbling in all the right places for a slow braise. Tonight is a weeknight version: the braise starts at 3 PM, everything goes in the Dutch oven, and dinner is ready at 7. The technique is identical to short ribs but the cut behaves differently.
+**Skill:** Lamb shoulder is to lamb what chuck roast is to beef — the best-flavored, toughest-textured cut that rewards patience with extraordinary results. At 300°F for 4 hours, the tough shoulder muscles relax, the fat renders, and the meat becomes fork-pullable with a deep, sweet flavor nothing else can replicate.
 
-- **Read:** [Serious Eats — Mississippi Pot Roast](https://www.seriouseats.com/mississippi-pot-roast-recipe-8774586) — don't make this one exactly, but understand the method completely
+- **Technique:** Score the fat cap in a crosshatch. Stuff the cuts with garlic slivers and rosemary. Rub with olive oil, salt, lemon zest, and dried oregano. Place on a rack over a pan of onions and a splash of white wine. Roast at 300°F until a fork twists out with no resistance (4–5 hours). Rest 20 minutes before pulling.
+- **From the book:** This is one of the most satisfying weeknight project cooks — it takes 10 minutes to prep and 4 hours of patience. The house will smell extraordinary for the last hour.
 
-**Full Meal:** Pot roast with braising liquid + the vegetables from the braise + whatever bread is around
+**Full Meal:** Slow-roasted lamb shoulder (pulled or sliced) + [BBC Good Food — Dauphinoise Potatoes](https://www.bbcgoodfood.com/recipes/dauphinoise-potatoes) OR roasted root vegetables + plain Greek yogurt as sauce
 
-*Skill note: Taste the braising liquid at the start, midway, and end. Watch what reduction does to salt concentration. You may not need to add salt at all — the liquid will already be intensifying.*
-
----
-
-### ⏰ Session 8 — Brisket: Patience as a Virtue
-
-**Skill:** Brisket is a study in patience. At 6–8 hours (lower temp, longer time), the fat renders, the collagen converts, and the flat and point achieve very different textures. This is a the project cook being previewed midweek on a smaller scale.
-
-- **Read:** [Serious Eats — Brisket Cooking Methods Tested](https://www.seriouseats.com/brisket-cooking-methods-tested-11869530) — compare the approaches and understand why they produce different results
-
-**Full Meal:** Braised brisket slices + [quick-pickled onions](https://www.seriouseats.com/quick-pickle-rapid-pickled-onion-recipe) + [coleslaw](https://www.seriouseats.com/creamy-cole-slaw) + rye bread
+> 🎥 **Compare Notes:** [How to Roast a Lamb Shoulder — Jamie Oliver](https://www.youtube.com/watch?v=LDUhYWFBvqE) — Note the internal temperature reading and the resting time relative to the size of the cut. Big shoulders need longer rests than their oven time would suggest.
 
 ---
 
-### Session 9 — Steak au Poivre
+### ⏰ Session 5 — PROJECT: A Lamb Feast for Four
 
-**Skill:** A French bistro classic that teaches two things at once: how to build a pan sauce from heavy cream and cognac, and how to handle intense, well-seasoned pan heat. This sauce is more aggressive than a simple butter sauce — it has body, alcohol, and the floral warmth of cracked black pepper.
+**The challenge:** Cook a complete lamb dinner for at least four people. Every component planned, prepped, and executed together.
 
-- **Read:** [Serious Eats — Steak au Poivre](https://www.seriouseats.com/steak-au-poivre) — follow it precisely your first time
+**Suggested menu:**
 
-**Full Meal:** Steak au Poivre + [Serious Eats — Best Roast Potatoes Ever](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + [grilled asparagus](https://www.seriouseats.com/how-to-cook-asparagus-7487955) with olive oil and sea salt
+| Course | Dish | Notes |
+|--------|------|-------|
+| **Starter** | [Serious Eats — Tzatziki](https://www.seriouseats.com/greek-yogurt-tzatziki-recipe) with warm pita | Make in the morning |
+| **Meze** | Hummus, olives, roasted peppers, feta | Bought is fine |
+| **Main** | Rack of lamb (from Session 2) or slow-roasted shoulder (from Session 4) | Choose the one you found more rewarding |
+| **Side 1** | [BBC Good Food — Dauphinoise Potatoes](https://www.bbcgoodfood.com/recipes/dauphinoise-potatoes) | Start 1.5 hrs before service |
+| **Side 2** | Green vegetable of your choice | Season it confidently |
+| **Dessert** | [Serious Eats — Best Brownies](https://www.seriouseats.com/best-brownies-recipe) | Make in the morning |
+
+*Skill targets: Everything on the table at the same time. Lamb at proper internal temperature. No phone open during service.*
 
 ---
 
-### Session 10 — PROJECT: The Beef Meal for Four
+## Block 18 — Braising Lamb & Introduction to Game
 
-**Skill:** You've cooked beef five different ways this week. Tonight's project: cook a full meal for at least four people using one technique of your choice from this two-week block. Plan it, mise en place it, execute it without referring to recipes during service.
+> *"The 18th-century French kitchen didn't waste a single animal. Duck confit, rabbit stew, venison daube — what we now call 'game cooking' was then just Thursday. Humble ingredients, extraordinary results."*
 
-*Suggested menu if you want a framework:*
-1. [Serious Eats — Shrimp Cocktail](https://www.seriouseats.com/shrimp-cocktail-recipe) as a starter
-2. Reverse-seared ribeye (your technique, not a recipe) + pan sauce from the fond + mashed potatoes
-3. A salad dressed with a vinaigrette you make from memory
+---
 
-*The real test: can you cook a proper steak dinner for people without opening your phone once during service?*
+### Session 6 — Braised Lamb Shanks
+
+**Skill:** The lamb shank is the gateway braise — it has a dramatic bone-in presentation, deeply flavored meat that falls away from the bone, and braising liquid that becomes a rich, winey sauce. Plan 2.5 to 3 hours in the oven.
+
+- **Read first:** [BBC Good Food — Braised Lamb Shanks](https://www.bbcgoodfood.com/recipes/braised-lamb-shanks) — follow this technique; it's the canonical approach
+- **Also see:** [Recipe Tin Eats — Slow Cooked Lamb Shanks](https://www.recipetineats.com/slow-cooked-lamb-shanks/) for a slightly different flavor profile with similar technique
+- **The sauce:** After braising, strain and reduce the braising liquid by half. Mount with a tablespoon of cold butter. This should coat a spoon — not drip.
+
+**Full Meal:** Braised lamb shanks + [Serious Eats — Creamy Polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe) + gremolata (parsley + lemon zest + garlic, raw, scattered on finish)
+
+> 🎥 **Compare Notes:** [Braised Lamb Shanks with Rosemary and Red Wine](https://www.youtube.com/watch?v=oOkBOb0vxBU) — Notice how the liquid level is set: one-third up the shank, not covering it. Lamb shanks braise, not boil.
+
+---
+
+### Session 7 — Lamb Navarin (French Spring Braise)
+
+**Skill:** Navarin d'agneau is the French version of lamb stew — but it's lighter and more aromatic than the braised shanks of Session 6. The vegetables go in at different times (root vegetables early, tender vegetables late). The result should taste of spring even in winter.
+
+- **Technique:** Brown lamb neck or shoulder pieces (cut into 2-inch cubes) in batches. Build the sauce with onion, garlic, tomato paste, white wine, and lamb stock. Add turnips and carrots halfway through. Add peas and new potatoes in the last 20 minutes. Finish with fresh tarragon and parsley. The sauce should be light and brothy, not thick.
+- **Key lesson:** Navarin is the anti-braise braise — everything is lighter than the shanks from Session 6. The herbs are fresh rather than dried. The liquid is white, not red. Cook it in a Dutch oven at 325°F for 1.5 hours maximum.
+
+**Full Meal:** Lamb navarin + crusty baguette + nothing else is needed (it's a complete dish)
+
+> 🎥 **Compare Notes:** [Navarin d'agneau — traditional French lamb stew](https://www.youtube.com/watch?v=Igg0mVAKrrc) — Watch when the different vegetables go in. Timing matters in a navarin; the spring vegetables must stay bright.
+
+---
+
+### Session 8 — Duck: Confit Technique Introduction
+
+**Skill:** Duck fat-confiting is the gateway to French game cooking and the charcuterie tradition. Tonight: a simplified confit (duck legs slowly cooked submerged in their own rendered fat at low temperature until silky). You'll return to this technique in Block 27–28 with more depth — tonight is about understanding why it works.
+
+- **Read first:** [Recipe Tin Eats — Duck Confit](https://www.recipetineats.com/duck-confit/) — follow the full method
+- **Why it works:** At 180–200°F, the duck leg's collagen converts to gelatin while the fat prevents the surrounding liquid from reaching above that temperature. The duck can't overcook because the fat constrains the temperature. It's physics as cooking technique.
+- **Prep note:** Duck legs benefit from an overnight salt cure (just salt, thyme, garlic, bay leaf rubbed on) before confiting. If you can start this the night before, do it.
+
+**Full Meal:** Duck confit legs + [Serious Eats — Best Roast Potatoes Ever](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) (roast them in duck fat — yes, it's worth it) + bitter greens with mustard vinaigrette
+
+> 🎥 **Compare Notes:** [Duck Confit: How, Why, and When to Make It](https://www.youtube.com/watch?v=JpG01TbNjFw) — The temperature chart midway through the video shows exactly how the confit temperature plateau works. This is phyiscs-as-cooking in a single clear graphic.
+
+---
+
+### Session 9 — Pan-Seared Duck Breast
+
+**Skill:** Duck breast is the most forgiving of the "game" proteins if you understand one thing: render the fat first. Score the skin in a tight crosshatch, place it cold into a cold pan, and bring up the heat slowly. The fat renders from beneath; the skin becomes lacquered and crisp; the interior reaches medium-rare (130°F) without overcooking.
+
+- **Technique:** Score crosshatch without cutting into the flesh. Season generously. Cold pan, skin-side down, medium-low heat until the fat has rendered and skin is golden — 8 to 12 minutes. Flip, 3 minutes on the flesh side. Rest 5 minutes. The rendered duck fat in the pan is yours to keep — refrigerate and use for potatoes all week.
+- **Sauce option:** A quick cherry pan sauce (deglaze with red wine, add chicken stock and a handful of pitted cherries, reduce until syrupy) is the classic pairing.
+
+**Full Meal:** Pan-seared duck breast + cherry pan sauce + [Serious Eats — Quick-Pickled Cucumbers](https://www.seriouseats.com/quick-pickled-cucumbers-rice-vinegar-recipe) + sautéed greens
+
+> 🎥 **Compare Notes:** [How to Cook Duck Breast — Perfect Every Time](https://www.youtube.com/watch?v=1cKaIsmgLPQ) — Watch the cold-pan start. The fat renders from beneath before the skin ever browns — this is the opposite of every other sear you've done this month.
+
+---
+
+### ⏰ Session 10 — PROJECT: Lamb & Duck Dinner
+
+**The challenge:** A composed dinner using both proteins from Block 18. Cook for at least four people. Plan the timing so both proteins arrive at the table rested and at proper temperature.
+
+**Suggested menu:**
+
+| Course | Dish | Timing |
+|--------|------|--------|
+| **Starter** | Chicken liver parfait + toast points | [BBC Good Food — Chicken Liver Parfait](https://www.bbcgoodfood.com/recipes/chicken-liver-parfait) · make the day before |
+| **Main 1** | Braised lamb shank | Start 3 hrs before service |
+| **Main 2** | Pan-seared duck breast | Start 20 mins before service |
+| **Side** | Creamy polenta or [dauphinoise potatoes](https://www.bbcgoodfood.com/recipes/dauphinoise-potatoes) | Choose one |
+| **Salad** | Bitter greens with walnut vinaigrette | Dress right before serving |
+
+*What you learn today: multi-protein timing. The braise waits; the duck can't. Build your timeline backwards from service.*
 
 ---
 
@@ -204,32 +205,33 @@ These aren't required reading — but if something from this block sparked a que
 
 ---
 
-### Understanding Beef Cuts
+### Lamb Across Cultures
 
-Most home cooks buy whatever their supermarket stocks. Understanding the muscle map changes that.
+The same animal, radically different treatments.
 
-- 📖 [The Right Way to Use a Meat Thermometer](https://www.seriouseats.com/how-to-take-meat-temperature-thermometer-cooking-doneness) — Temperature, not touch or time, is the only honest signal for steak doneness. Read this once and use it every time.
+- 📖 [Serious Eats — Persian-Style Slow-Roasted Spiced Lamb Shoulder](https://www.seriouseats.com/slow-roasted-lamb-garlic-anchovy-lemon-rosemary-food-lab-recipe) — The herb and spice treatment is different; the technique is identical to what you did in Session 4. That's the whole lesson.
+- 📖 [Serious Eats — Greek Moussaka](https://www.seriouseats.com/moussaka-6361068) — Ground lamb as the base of a baked layered dish with béchamel. The same ground meat from Session 3, a completely different application.
 
 ---
 
-### Steak Myths Worth Busting
+### Duck and Game: The French Tradition
 
-Most steak advice is either wrong or oversimplified. The Food Lab has done more careful testing on steak than anyone else.
+Duck confit and duck breast are the entry point into French farmhouse cooking — a tradition built on preservation and maximum use of every animal.
 
-- 📖 [Old Wives' Tales About Cooking Steak, Debunked](https://www.seriouseats.com/old-wives-tales-about-cooking-steak) — Searing to "seal in juices," letting it come to room temperature, pressing with a finger for doneness — all tested, most debunked.
+- 📖 [Recipe Tin Eats — Duck Confit](https://www.recipetineats.com/duck-confit/) — Read the "Why This Works" section carefully. The physics of fat-as-temperature-controller are the same principle as sous vide, invented centuries earlier.
 
 ---
 
 ### Watching a Pro Do It
 
-- 📺 [**Kenji's reverse sear at home**](https://www.youtube.com/@JKenjiLopezAlt) — Watch the technique in real time. His narration explains the why behind each step better than any written recipe can.
+- 📺 [**Jacques Pépin — Duck Preparations**](https://www.youtube.com/watch?v=zQ4U9RFWQ90) — Pépin has forgotten more about duck cookery than most chefs will ever know. Watch the efficiency and confidence — no second-guessing.
 
 ---
 
 ### A Book Worth Having
 
-- 📚 [***The Food Lab* by J. Kenji López-Alt**](https://www.amazon.com/dp/0393081087) — The beef chapter is the most thorough analysis of home steak cookery ever written. If you haven't read it yet, start there.
+- 📚 [***Bones: Recipes, History, and Lore* by Jennifer McLagan**](https://www.amazon.com/dp/1580086071) — McLagan covers the whole animal, including lamb and game cuts most cookbooks ignore. The shank and navarin chapters are the most relevant for this block.
 
 ---
 
-← [Weeks 15–16](../../02-building-flavor/15-16-midpoint-review/index.md) | [Block 19–20: Fish →](../19-20-fish/index.md)
+← [Block 15–16: Beef Fundamentals](../15-16-beef-fundamentals/index.md) | [Block 19–20: Fish — Flatfish & Round Fish →](../19-20-fish/index.md)
