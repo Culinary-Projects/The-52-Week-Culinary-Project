@@ -96,7 +96,7 @@ Stir-fries punish you for skipping mise en place. The heat is too high and thing
 
 ---
 
-### Session 5 — PROJECT MEAL: French Onion Soup
+### ⏰ Service 1 — French Onion Soup
 
 **Skill:** Slicing 4–5 lbs of onions into uniform thin half-moons. This takes 20+ minutes and teaches you more than any drill — because caramelization depends entirely on uniform thickness. Thin, even slices cook at the same rate. Uneven ones create pockets of raw and burned.
 
@@ -116,7 +116,7 @@ The grip is feeling more natural. Now we add vocabulary and intentionality to th
 
 ---
 
-### Session 6 — The Julienne
+### Session 5 — The Julienne
 
 **Skill:** Take two carrots and one zucchini. Square off each vegetable first (cut a flat face on one side so it doesn't roll). Slice into planks. Stack the planks and cut into matchsticks — roughly 2–3 inches long, ⅛ inch thick. This is also the foundation of the brunoise (tiny dice). Go slow. Precision before speed.
 
@@ -136,7 +136,7 @@ While you have your knife out: grab a small handful of fresh basil leaves. Stack
 
 ---
 
-### Session 7 — The Dice (Small, Medium, Large)
+### Session 6 — The Dice (Small, Medium, Large)
 
 **Skill:** Dice three potatoes — one small (¼"), one medium (½"), one large (¾"). Notice the process: planks first, then batons, then cubes. Cook all three in the same hot pan at the same time. Watch what happens — the small ones finish first. The large ones are still raw when the small ones are done. **That's the entire lesson.**
 
@@ -154,7 +154,7 @@ While you have your knife out: grab a small handful of fresh basil leaves. Stack
 
 ---
 
-### Session 8 — Breaking Down a Whole Chicken
+### Session 7 — Breaking Down a Whole Chicken
 
 **Skill:** Buy a whole chicken. Read [How to Break Down a Chicken](https://www.seriouseats.com/knife-skills-how-to-break-down-a-chicken) first, then do it. You'll get two bone-in breasts, two thighs, two drumsticks, two wings, and a carcass. **Put the carcass in a zip-lock in the freezer — that's Week 7 stock material.** Follow the joints, not the bones. Let the knife find the natural seams.
 
@@ -172,7 +172,7 @@ The thighs and legs go in the fridge (use them later in the block) or freeze for
 
 ---
 
-### Session 9 — Speed Benchmark
+### Session 8 — Speed Benchmark
 
 **Skill:** Time yourself dicing one onion. Write it down. This is your baseline. At the end of Week 4, you'll time yourself again. Speed is not the goal — having a reference point is.
 
@@ -190,7 +190,7 @@ Shakshuka requires dicing onion, pepper, and garlic as its entire prep — your 
 
 ---
 
-### Session 10 — PROJECT MEAL: Provençal Vegetable Tian
+### ⏰ Service 2 — Provençal Vegetable Tian
 
 **Skill:** Slice eggplant, zucchini, yellow squash, and tomatoes into rounds of *identical* thickness — ideally ⅛ to ¼ inch. The beauty of the finished dish is a direct function of your slicing precision. Uniform slices = a dish that looks like a restaurant made it.
 
@@ -216,7 +216,7 @@ These aren't required reading — but if something from this block sparked a que
 
 ### Food Safety Fundamentals
 
-Covered in [Block 3 — Before You Start](../03-04-heat-and-cooking/index.md) — that's the first block where you cook raw protein directly, which is the right time to read it.
+[Block 3–4: Heat & Cooking →](../03-04-heat-and-cooking/index.md)
 
 ---
 
@@ -249,3 +249,4 @@ Session 4 introduces mise en place but only as setup. The idea runs a lot deeper
 ### A Book Worth Having
 
 - 📚 [***The Food Lab* by J. Kenji López-Alt**](https://www.amazon.com/dp/0393081087) — The first chapter covers knife skills and mise en place with the same scientific rigour as everything else in the book. If you're going to own one reference book for this program, this is it.
+

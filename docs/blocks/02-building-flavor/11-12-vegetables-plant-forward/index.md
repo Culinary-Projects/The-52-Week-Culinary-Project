@@ -1,6 +1,6 @@
-# 🥦 Block 13–14: Vegetables & Plant-Forward Cooking
+# 🥦 Block 11–12: Vegetables & Plant-Forward Cooking
 
-← [Block 9–10: Seasoning & Flavor](../09-10-seasoning-and-flavor/index.md) | [Block 15–16: Pasta & Grains →](../13-14-pasta-and-grains/index.md)
+← [Block 9–10: Seasoning & Flavor](../09-10-seasoning-and-flavor/index.md) | [Block 13–14: Pasta & Grains →](../13-14-pasta-and-grains/index.md)
 
 ---
 
@@ -21,7 +21,7 @@ The CIA spends four full weeks on vegetable fabrication and cookery before touch
 📖 **Read first:** [Serious Eats — The Science of Browning Vegetables](https://www.bonappetit.com/story/how-to-roast-vegetables) — the same Maillard logic from Week 3–4 applies here; the only difference is water content and sugar concentration.
 
 
-### Session 0 — Two Purées, One Method *(optional)*
+### Lab 1 — Two Purées, One Method *(optional)*
 
 **Skill:** A vegetable purée is deceptively simple and technically demanding. The difference between a good purée and a great one is entirely in the texture — silky versus grainy, the right viscosity to coat a spoon, seasoned at every stage.
 
@@ -43,7 +43,7 @@ Both can be passed through a fine mesh sieve for professional-smooth results. Th
 
 ## Block 11 — Vegetable Mastery
 
-### Session 1 — Blanching, Shocking, and Color Science
+### Session 42 — Blanching, Shocking, and Color Science
 
 **Skill:** Blanching (brief boiling) plus shocking (ice bath) is the professional technique for preserving color, texture, and nutritional value in vegetables. It's also the mise en place move for any vegetable that needs to be partially cooked ahead of service.
 
@@ -77,7 +77,7 @@ Both can be passed through a fine mesh sieve for professional-smooth results. Th
 
 ---
 
-### Session 2 — Roasting: Caramelization and Concentration
+### Session 43 — Roasting: Caramelization and Concentration
 
 **Skill:** Roasting drives out moisture and concentrates flavor while caramelizing the natural sugars in vegetables. It's the technique that turns broccoli from something people tolerate into something people want seconds of.
 
@@ -104,7 +104,7 @@ Both can be passed through a fine mesh sieve for professional-smooth results. Th
 
 ---
 
-### Session 3 — Sauté, Braise, and the Crucifer Redemption
+### Session 44 — Sauté, Braise, and the Crucifer Redemption
 
 **Skill:** Cruciferous vegetables (Brussels sprouts, cabbage, cauliflower, broccoli) are the most-hated and most-abused vegetable family. The problem is almost always method — boiled vegetables taste of sulfur; roasted or properly braised vegetables taste of caramelization and sweetness.
 
@@ -130,7 +130,7 @@ Both can be passed through a fine mesh sieve for professional-smooth results. Th
 
 ---
 
-### Session 4 — Grilling and Charring: Fire as Flavor
+### Session 45 — Grilling and Charring: Fire as Flavor
 
 **Skill:** Direct heat on vegetables produces char — carbon compounds that add bitterness, smokiness, and complexity. This is the single most underused technique for home vegetable cookery.
 
@@ -153,7 +153,7 @@ Both can be passed through a fine mesh sieve for professional-smooth results. Th
 
 ---
 
-### Session 5 — PROJECT: Plant-Forward Dinner Party
+### ⏰ Service 11 — Plant-Forward Dinner Party
 
 Cook a complete dinner where vegetables are the headline, not the support act. No protein required (though a soft-boiled egg or some cheese is allowed).
 
@@ -174,7 +174,7 @@ Cook a complete dinner where vegetables are the headline, not the support act. N
 
 ## Before You Start Block 12
 
-### Session 0 — Quick Pickles & First Ferment *(optional)*
+### Lab 2 — Quick Pickles & First Ferment *(optional)*
 
 **Skill:** Understanding the difference between quick pickling (brine + acid), lacto-fermentation (brine + time + natural bacteria), and their role in a well-built kitchen.
 
@@ -199,7 +199,7 @@ Cook a complete dinner where vegetables are the headline, not the support act. N
 
 ---
 
-### Session 6 — The Composed Salad: Dressing Is a Technique
+### Session 46 — The Composed Salad: Dressing Is a Technique
 
 **Skill:** A well-composed salad is not a bowl of things with dressing poured over it. It's a dish with its own architecture: texture contrast, temperature contrast, acid-fat balance, and deliberate seasoning.
 
@@ -221,7 +221,7 @@ Cook a complete dinner where vegetables are the headline, not the support act. N
 
 ---
 
-### Session 7 — Legumes and Beans: The Forgotten Protein
+### Session 47 — Legumes and Beans: The Forgotten Protein
 
 **Skill:** Beans cooked from dried are meaningfully better than canned. They also teach you patience, seasoning over time, and how to build flavor in a humble ingredient.
 
@@ -246,7 +246,7 @@ Cook a complete dinner where vegetables are the headline, not the support act. N
 
 ---
 
-### Session 8 — Mushrooms: Umami in Plant Form
+### Session 48 — Mushrooms: Umami in Plant Form
 
 **Skill:** Mushrooms deserve an entire session because they behave unlike any other vegetable — they're 80–90% water, which means crowding a pan turns them into steamed rubber. The technique that produces deep flavor is identical to a proper sear: high heat, no crowding, don't stir.
 
@@ -270,7 +270,7 @@ Cook a complete dinner where vegetables are the headline, not the support act. N
 
 ---
 
-### Session 9 — Potatoes: The Technique Spectrum
+### Session 49 — Potatoes: The Technique Spectrum
 
 **Skill:** Potatoes are the most versatile vegetable in the curriculum — they can be crispy, silky, caramelized, creamy, or crunchy depending entirely on method. Tonight you cook potatoes three ways, comparing the technique differences side by side.
 
@@ -300,7 +300,7 @@ Cook a complete dinner where vegetables are the headline, not the support act. N
 
 ---
 
-### Session 10 — PROJECT: The Vegetable Tasting Menu
+### ⏰ Service 12 — The Vegetable Tasting Menu
 
 Cook 4–5 vegetable preparations using different techniques. Serve them as a tasting — small plates, one at a time, with bread.
 
@@ -316,7 +316,7 @@ This is practice for the multi-course timing you'll need for the dinner parties 
 
 ---
 
-## Module 2 Checkpoint Continues
+## Unit 2 Checkpoint Continues
 
 Vegetables are now in your repertoire, not just alongside your repertoire. Before moving to Weeks 15–16 (Pasta & Grains), you should be able to answer yes to:
 

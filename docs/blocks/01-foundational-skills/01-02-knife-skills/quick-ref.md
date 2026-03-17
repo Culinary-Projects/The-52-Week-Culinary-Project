@@ -12,7 +12,7 @@
 | **Session 2** | The Best Chicken Noodle Soup | The claw / mirepoix (sous vide optional — poach in broth works fine) | [Recipe](https://www.seriouseats.com/the-ultimate-chicken-noodle-soup) |
 | **Session 3** | Shrimp Scampi + Arugula, Fennel & Orange Salad | Rock chop vs. push cut | [Scampi](https://www.seriouseats.com/shrimp-scampi-butter-garlic-recipe) · [Salad](https://www.seriouseats.com/arugula-fennel-and-orange-salad-recipe) |
 | **Session 4** | Stir-Fried Beef and Broccoli | Mise en place | [Recipe](https://www.seriouseats.com/chinese-american-beef-and-broccoli-with-oyster-sauce-recipe) |
-| **Session 5** | 🔨 **PROJECT: French Onion Soup** | Uniform half-moon slices | [Recipe](https://www.seriouseats.com/french-onion-soup-recipe) |
+| **Service 1** | **French Onion Soup** | Uniform half-moon slices | [Recipe](https://www.seriouseats.com/french-onion-soup-recipe) |
 
 ---
 
@@ -20,11 +20,11 @@
 
 | Session | Dish | Skill | Link |
 |-----|------|-------|------|
-| **Session 6** | The Best Pad Thai | Julienne cut | [Recipe](https://www.seriouseats.com/pad-thai-recipe-11680356) |
-| **Session 7** | Home Fries + Crispy Pan-Seared Chicken Thighs + Green Salad | Small/medium/large dice | [Home Fries](https://www.seriouseats.com/crispy-potato-home-fries-red-onion-poblano-pepper-recipe) · [Chicken](https://www.seriouseats.com/easy-pan-roasted-chicken-breast-lemon-rosemary-pan-sauce-recipe) · [Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) |
-| **Session 8** | Chicken Piccata + Burst Cherry Tomatoes | Break down whole chicken | [Piccata](https://www.seriouseats.com/chicken-piccata-italian-fried-cutlet-recipe) · [Breakdown](https://www.seriouseats.com/knife-skills-how-to-break-down-a-chicken) · [Tomatoes](https://www.seriouseats.com/fast-easy-pasta-blistered-cherry-tomato-sauce-recipe) |
-| **Session 9** | Shakshuka + Leftover Chicken Thighs | Speed benchmark — time your onion dice | [Recipe](https://www.seriouseats.com/shakshuka-north-african-shirred-eggs-tomato-pepper-recipe) |
-| **Session 10** | 🔨 **PROJECT: Provençal Vegetable Tian** + Bread | Uniform round slices | [Tian](https://www.seriouseats.com/summer-vegetable-tian-ratatouille-recipe) |
+| **Session 5** | The Best Pad Thai | Julienne cut | [Recipe](https://www.seriouseats.com/pad-thai-recipe-11680356) |
+| **Session 6** | Home Fries + Crispy Pan-Seared Chicken Thighs + Green Salad | Small/medium/large dice | [Home Fries](https://www.seriouseats.com/crispy-potato-home-fries-red-onion-poblano-pepper-recipe) · [Chicken](https://www.seriouseats.com/easy-pan-roasted-chicken-breast-lemon-rosemary-pan-sauce-recipe) · [Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) |
+| **Session 7** | Chicken Piccata + Burst Cherry Tomatoes | Break down whole chicken | [Piccata](https://www.seriouseats.com/chicken-piccata-italian-fried-cutlet-recipe) · [Breakdown](https://www.seriouseats.com/knife-skills-how-to-break-down-a-chicken) · [Tomatoes](https://www.seriouseats.com/fast-easy-pasta-blistered-cherry-tomato-sauce-recipe) |
+| **Session 8** | Shakshuka + Leftover Chicken Thighs | Speed benchmark — time your onion dice | [Recipe](https://www.seriouseats.com/shakshuka-north-african-shirred-eggs-tomato-pepper-recipe) |
+| **Service 2** | **Provençal Vegetable Tian** + Bread | Uniform round slices | [Tian](https://www.seriouseats.com/summer-vegetable-tian-ratatouille-recipe) |
 
 ---
 
@@ -49,4 +49,4 @@
 | **Cooling stocks** | Transfer hot stock to a wide shallow container; ice-bath until below 70°F within 2 hours before refrigerating. |
 | **Internal temperatures** | Poultry 165°F. Pork 145°F. Ground beef 160°F. Whole-muscle steak can be seared at lower internal temps because bacteria live on the outside. |
 
-📖 **Full primer:** See the [Block 3–4: Heat & Cooking Methods](../../03-04-heat-and-cooking/index.md) — Food Safety Fundamentals section.
+📖 **Full primer:** See the [Block 3–4: Heat & Cooking Methods](../03-04-heat-and-cooking/index.md) — Food Safety Fundamentals section.

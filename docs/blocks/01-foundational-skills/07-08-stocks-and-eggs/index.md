@@ -19,7 +19,7 @@ Read these first:
 **The Block 7 Rule:** Get your frozen chicken carcass from Block 2 out of the freezer the night before the block starts. You're going to use it.
 
 
-### Session 1 — Soup Architecture
+### Session 25 — Soup Architecture
 
 **Skill:** Understanding soup as a category — not recipes, but architecture. Tonight you make one purée soup and learn how the same structure produces every purée soup in existence.
 
@@ -59,11 +59,11 @@ The roasting step is optional but worth it: it caramelizes the squash and adds d
 
 > ⏰ **Planning Ahead**
 >
-> - **Session 1 (Chicken Stock):** 3–4 hrs of gentle simmering; start afternoon or earlier
-> - **Session 5 (PROJECT: Beef Stock Day):** start stock by 9 AM; 6–8 hrs passive + soup assembly at dinner
+> - **Session 26 (Chicken Stock):** 3–4 hrs of gentle simmering; start afternoon or earlier
+> - **Service 7 (PROJECT: Beef Stock Day):** start stock by 9 AM; 6–8 hrs passive + soup assembly at dinner
 
 
-### Session 1 — Chicken Stock from Scratch
+### Session 26 — Chicken Stock from Scratch
 
 **Skill:** Cold water start, gentle simmer (never boil), skim the foam in the first 20 minutes, don't stir. A good stock simmers for 3–4 hours. It should be golden, clear (not murky), and taste of chicken without being aggressively salty. Cool it in an ice bath, then refrigerate. **A proper stock should gel when cold — that's the gelatin from the bones.**
 
@@ -79,7 +79,7 @@ This takes time but is mostly passive. Start it when you get home, let it simmer
 
 ---
 
-### Session 2 — Pan Sauces from Real Stock
+### Session 27 — Pan Sauces from Real Stock
 
 **Skill:** Now that you have fresh stock, you understand why pan sauces taste so much better when made with real stock instead of water or canned broth. The gelatin creates body and silkiness that nothing else can replicate. Tonight's lesson: **the difference is in your freezer.**
 
@@ -93,7 +93,7 @@ This takes time but is mostly passive. Start it when you get home, let it simmer
 
 ---
 
-### Session 3 — Fish Stock + Fumet
+### Session 28 — Fish Stock + Fumet
 
 **Skill:** Fish stock (fumet) takes only 20–30 minutes — fish bones give up their gelatin quickly and become bitter if cooked too long. Ask your fishmonger for frames (carcasses) or use shrimp shells. Aromatics are lighter: white wine, leek, fennel, parsley stems, bay leaf.
 
@@ -108,7 +108,7 @@ This takes time but is mostly passive. Start it when you get home, let it simmer
 
 ---
 
-### Session 4 — Vegetable Stock + Risotto
+### Session 29 — Vegetable Stock + Risotto
 
 **Skill:** Vegetable stock is the quickest and most approachable. Key: don't over-simmer — 45–60 minutes max, or it turns bitter. Tonight you'll use it immediately for risotto, which also teaches you another core technique: the gradual addition of hot liquid while stirring to coax starch from Arborio rice.
 
@@ -122,7 +122,7 @@ This takes time but is mostly passive. Start it when you get home, let it simmer
 
 ---
 
-### Session 5 — PROJECT MEAL: A Whole Soup Kitchen Day
+### ⏰ Service 7 — A Whole Soup Kitchen Day
 
 The project session you make three things — stock, soup, and a complete dinner — that set you up with leftovers and frozen stock for weeks.
 
@@ -150,7 +150,7 @@ Block 8 dives straight into egg technique — no additional reading required. Se
 
 ---
 
-### Session 6 — The French Scramble
+### Session 30 — The French Scramble
 
 **Skill:** French scrambled eggs are not American scrambled eggs. They're cooked low and slow, constantly stirred with a spatula, off and on the heat, until they form soft, creamy, barely-set curds. The result tastes like what restaurants serve for brunch at $22 a plate.
 
@@ -168,7 +168,7 @@ A French scramble dinner is a legitimately elegant meal when served with smoked 
 
 ---
 
-### Session 7 — The Perfect Poached Egg
+### Session 31 — The Perfect Poached Egg
 
 **Skill:** Fresh eggs, a wide shallow pan, simmering (not boiling) water with a splash of vinegar, a gentle swirl, and confidence. The white should be fully set and the yolk should run when broken. Most home cooks are afraid of poached eggs — by the end of tonight, you shouldn't be.
 
@@ -184,7 +184,7 @@ A French scramble dinner is a legitimately elegant meal when served with smoked 
 
 ---
 
-### Session 8 — The Omelette
+### Session 32 — The Omelette
 
 **Skill:** The French omelette is one of the hardest things in cooking to get right — pale, barely colored outside, softly set inside, folded into a cylinder in under 2 minutes. Practice the French version until you get it right. Make two omelettes — one for practice, one to eat.
 
@@ -203,7 +203,7 @@ A properly made omelette with a glass of wine and a green salad is one of the mo
 
 ---
 
-### Session 9 — Custard: Eggs as Thickener — Quiche Lorraine
+### Session 33 — Custard: Eggs as Thickener — Quiche Lorraine
 
 **Skill:** Savory egg custard in a tart shell; cream-to-egg ratio; setting without overcooking. 
 **Read first:** [Quiche Lorraine](https://www.seriouseats.com/quiche-lorraine-recipe-8715255)
@@ -225,7 +225,7 @@ A properly made omelette with a glass of wine and a green salad is one of the mo
 
 ---
 
-### Session 10 — PROJECT MEAL: A Complete Egg Dinner Party (3 Courses)
+### ⏰ Service 8 — A Complete Egg Dinner Party (3 Courses)
 
 **The challenge:** Cook a 3-course egg-forward dinner for at least two people, without recipes open in front of you during service.
 
@@ -250,9 +250,9 @@ You've been cooking for eight weeks with deliberate intention. Before Block 9 (S
 
 ---
 
-## Module 1 Checkpoint
+## Unit 1 Checkpoint
 
-> *Before you move on to Module 2 (Building Flavor), take stock of where you are. The next module assumes everything here is solid.*
+> *Before you move on to Unit 2 (Building Flavor), take stock of where you are. The next unit assumes everything here is solid.*
 
 This is not graded. It is honest.
 
@@ -278,7 +278,7 @@ The only rule: once anything goes on heat, no tabs open.
 
 ### Skills Checklist
 
-Before Module 2, you should be able to answer yes to all of these:
+Before Unit 2, you should be able to answer yes to all of these:
 
 - [ ] I can julienne, brunoise, and chiffonade without looking up how
 - [ ] I understand the difference between sauté, sear, braise, poach, and steam — and when to use each
@@ -287,7 +287,7 @@ Before Module 2, you should be able to answer yes to all of these:
 - [ ] I can cook an egg five different ways and explain what I'm doing and why
 - [ ] My knife is sharp and I know how to maintain it
 
-If you're checking all of these: you're ready for Module 2.
+If you're checking all of these: you're ready for Unit 2.
 
 If you have two or more unchecked: spend the start of Block 9 revisiting the weak spots before committing to the new material. It's worth it.
 
@@ -320,3 +320,16 @@ You cooked eggs five ways this week. Understanding the protein science — why t
 ### A Book Worth Having
 
 - 📚 [***On Food and Cooking* by Harold McGee**](https://www.amazon.com/dp/0684800012) — The original deep dive into food science. The egg chapter alone justifies the entire book. Not a cookbook — a reference work that explains *why* everything in the kitchen works.
+
+
+← [Block 5–6: Mother Sauces](../05-06-mother-sauces/index.md) | [Block 9–10: Seasoning & Flavor →](../../02-building-flavor/09-10-seasoning-and-flavor/index.md)
+
+## Session 34: Cold Soup Lab — Vichyssoise
+
+- Focus: temperature, texture, and smooth purée workflow
+- Output: classic potato-leek vichyssoise served chilled with garnish control
+
+## Session 35: Cold Soup Lab — Gazpacho
+
+- Focus: raw blending, acid balance, and seasoning at cold temperature
+- Output: Andalusian-style gazpacho with precise texture and finish

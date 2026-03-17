@@ -31,11 +31,11 @@ Take a carrot. Cut it in two. Salt one half with a pinch of kosher salt and wait
 
 > ⏰ **Planning Ahead**
 >
-> - **Session 1 (Brined Chicken Thighs):** dry-brine the night before your first session
-> - **Session 10 (Miso-Glazed Cod Project):** apply miso marinade 24–48 hrs ahead; start two days before
+> - **Session 34 (Brined Chicken Thighs):** dry-brine the night before your first session
+> - **Service 10 (Miso-Glazed Cod Project):** apply miso marinade 24–48 hrs ahead; start two days before
 
 
-### Session 1 — Early Salt: Brining
+### Session 34 — Early Salt: Brining
 
 **Skill:** Dry-brining (salting well in advance) allows salt to penetrate proteins deeply, seasoning from within rather than just the surface. The meat loses moisture initially, which is then reabsorbed as a concentrated, seasoned brine. The result: more flavorful, more evenly seasoned meat, and — as a bonus — drier skin that crisps better in the oven. Tonight you'll dry-brine chicken thighs in the morning and cook them at dinner.
 
@@ -53,7 +53,7 @@ Before you season the broccoli, taste a raw floret. Season it with salt and tast
 
 ---
 
-### Session 2 — During Salt: Layered Seasoning
+### Session 35 — During Salt: Layered Seasoning
 
 **Skill:** Tonight, season every single component of your dish at the moment it goes into the pan — not just at the beginning or the end. Salt the onions when they go in. Salt the garlic when you add it. Salt the tomatoes when they hit the pan. Taste after each addition. You're building flavor in layers, not slapping it on at the end.
 
@@ -69,7 +69,7 @@ Amatriciana is one of the great Roman pasta sauces — guanciale (or pancetta), 
 
 ---
 
-### Session 3 — Late Salt: Finishing
+### Session 36 — Late Salt: Finishing
 
 **Skill:** Some things should not be salted early. Delicate fish toughens if salted too far in advance. Soups and braises that reduce become dangerously salty if heavily salted at the start. Finishing salts — flaky Maldon, fleur de sel — exist to add texture and a burst of flavor right at the moment of eating. They should never dissolve. Tonight you'll deliberately hold salt until the final moment and let a finishing salt do the work.
 
@@ -83,7 +83,7 @@ The white bean salad benefits enormously from being dressed early (the beans abs
 
 ---
 
-### Session 4 — Salt as Texture and Contrast
+### Session 37 — Salt as Texture and Contrast
 
 **Skill:** Tonight's focus is on salt as a *textural* and *contrast* element. A finishing salt on a rich braise doesn't just season — it provides crunch and a burst of concentrated flavor that cuts through the fat. A well-salted pasta water (it should taste "pleasantly seasoned," like a light broth) actually seasons the pasta from within, not just its surface. Both are explored tonight.
 
@@ -100,7 +100,7 @@ Cacio e Pepe is three ingredients: pasta, pecorino, black pepper. There is nowhe
 
 ---
 
-### Session 5 — PROJECT MEAL: Salt-Crusted Whole Roasted Fish
+### ⏰ Service 9 — Salt-Crusted Whole Roasted Fish
 
 **Skill:** Salt-crusting is an ancient technique where a whole fish (or chicken or beet) is encased in a thick crust of kosher salt before roasting. The salt absorbs moisture from the surface, seasons the interior gently, and creates a steaming environment inside the crust. The result is the most evenly cooked, delicately seasoned fish you will ever eat at home. Cracking the crust at the table is genuinely theatrical.
 
@@ -122,7 +122,7 @@ This is one of the most impressive things you can serve to guests and it require
 
 ---
 
-### Session 6 — Acid: The Brightness Lever
+### Session 38 — Acid: The Brightness Lever
 
 **Skill:** Acid — lemon juice, vinegar, wine, citrus zest — does something salt cannot: it lifts and brightens flavors, making food taste *fresher* and more vibrant. Most dishes benefit from a small hit of acid right at the end of cooking, before serving. Tonight you'll cook a dish twice in your mind: once without the final acid, once with. The difference is immediately obvious.
 
@@ -136,7 +136,7 @@ Before you finish the Marsala sauce, taste it. Now add a small squeeze of lemon 
 
 ---
 
-### Session 7 — Different Acids, Different Effects
+### Session 39 — Different Acids, Different Effects
 
 **Skill:** Not all acid is the same. Lemon juice is bright and immediate. Red wine vinegar is assertive and fruity. Sherry vinegar is mellow and nutty. White balsamic is sweet and gentle. Tamarind is deep and complex. Tonight you'll use two different acids in two different components of the same meal and taste the difference.
 
@@ -150,7 +150,7 @@ Balsamic on the pork: sweet, deep, slightly caramelized. Sherry vinegar in the l
 
 ---
 
-### Session 8 — Fat as Flavor
+### Session 40 — Fat as Flavor
 
 **Skill:** Fat is not just a cooking medium or a source of richness. Different fats carry fundamentally different flavors: brown butter is nutty and toasty; extra-virgin olive oil is grassy and peppery; duck fat is savory and deep; bacon fat is smoky and umami-forward. Tonight you cook the same vegetable three different ways — once in each of three fats — and taste the difference.
 
@@ -169,7 +169,7 @@ Brown butter is fat transformed — milk solids toasted to a deep hazelnut color
 
 ---
 
-### Session 9 — Umami: The Depth Dial
+### Session 41 — Umami: The Depth Dial
 
 **Skill:** Umami is the fifth taste — the savory, lingering depth you get from glutamate-rich ingredients: aged parmesan, soy sauce, miso, fish sauce, anchovies, dried mushrooms, tomato paste. Tonight you'll learn to use umami ingredients as *seasoning*, not as central flavors — a tablespoon of fish sauce where you'd normally add salt, a smear of miso in a braise, a parmesan rind dropped into a soup pot. They should deepen the dish without announcing themselves.
 
@@ -186,7 +186,7 @@ This pasta uses anchovies (umami), mushrooms (umami), and tomato (umami) in comb
 
 ---
 
-### Session 10 — PROJECT MEAL: A Composed Tasting Plate
+### ⏰ Service 10 — A Composed Tasting Plate
 
 **The challenge:** The project session isn't about following a single recipe. It's about applying everything from Weeks 9–10 in one deliberate meal. You'll cook a three-component plate and consciously think about salt timing, acid balance, fat choice, and umami depth for each component.
 
@@ -219,7 +219,7 @@ The single biggest improvement most home cooks can make is learning to salt earl
 
 ### Spice Blends & Marinades: Seasoning with Depth
 
-Spice blends are dry-rub seasoning applied before cooking — essentially a flavored version of the dry-brining technique from Session 1. Marinades are liquid equivalents (acid + fat + spice) that season the surface and, over longer contact time, begin to alter texture.
+Spice blends are dry-rub seasoning applied before cooking — essentially a flavored version of the dry-brining technique from Session 34. Marinades are liquid equivalents (acid + fat + spice) that season the surface and, over longer contact time, begin to alter texture.
 
 - 📖 [Serious Eats — Garam Masala](https://www.seriouseats.com/garam-masala-recipe) — How to build a spice blend from scratch: toasting whole spices, grinding, balancing. The principle transfers to every spice blend (ras el hanout, za’atar, Chinese five-spice). Once you've made one from scratch, you understand all of them.
 - 📖 [Serious Eats — Chimichurri](https://www.seriouseats.com/sauced-chimichurri-sauce-recipe) — The herbaceous Argentine marinade/sauce; a model for understanding how acid (vinegar), fat (oil), and a punch of fresh herb work together as a marinade or a finishing sauce.
@@ -246,4 +246,4 @@ Salt gets all the attention, but acid is what makes a dish taste complete. A squ
 
 ---
 
-← [Weeks 7–8](../../01-foundational-skills/07-08-stocks-and-eggs/index.md) | [Block 11–12: Vegetables & Plant-Forward →](../11-12-vegetables-plant-forward/index.md)
+← [Block 7–8: Stocks & Eggs](../../01-foundational-skills/07-08-stocks-and-eggs/index.md) | [Block 11–12: Vegetables →](../11-12-vegetables-plant-forward/index.md)

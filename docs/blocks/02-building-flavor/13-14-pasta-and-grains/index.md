@@ -6,9 +6,9 @@
 
 > *"Making pasta from scratch is not about showing off. It's about understanding gluten, hydration, and the relationship between flour and time — which teaches you more about cooking than any recipe."*
 
-**The Week 11–12 philosophy:** These two weeks are about making things from scratch that most people buy. Not because scratch is always better — it isn't always — but because understanding the process makes you a better cook with even the store-bought version. When you've made your own pasta dough, you know what "properly hydrated" feels like and why overworked dough turns tough. That knowledge transfers everywhere.
+**The Block 13–14 philosophy:** These two weeks are about making things from scratch that most people buy. Not because scratch is always better — it isn't always — but because understanding the process makes you a better cook with even the store-bought version. When you've made your own pasta dough, you know what "properly hydrated" feels like and why overworked dough turns tough. That knowledge transfers everywhere.
 
-**Before you start Week 11**, read:
+**Before you start Block 13**, read:
 
 - 📖 [Serious Eats — Fresh Pasta vs. Dried Pasta: Which Should You Use?](https://www.seriouseats.com/how-to-cook-pasta-salt-water-boiling-tips-the-food-lab)
 - 📖 [Serious Eats — The Science of Pasta Water](https://www.seriouseats.com/does-pasta-water-really-make-difference)
@@ -21,12 +21,12 @@
 
 > ⏰ **Planning Ahead**
 >
-> - **Session 5 (PROJECT: Italian Pasta Dinner):** make Bolognese the morning of — it needs 3 hrs
-> - **Session 7 (Persian Rice + Slow-Roasted Lamb Shoulder):** lamb shoulder takes 4 hrs; start by early afternoon
-> - **Session 8 (Polenta + Osso Buco):** osso buco braise takes 2–3 hrs; start by early afternoon
+> - **Service 13 (PROJECT: Italian Pasta Dinner):** make Bolognese the morning of — it needs 3 hrs
+> - **Session 55 (Persian Rice + Slow-Roasted Lamb Shoulder):** lamb shoulder takes 4 hrs; start by early afternoon
+> - **Session 56 (Polenta + Osso Buco):** osso buco braise takes 2–3 hrs; start by early afternoon
 
 
-### Session 1 — The Dough: Meeting Gluten
+### Session 50 — The Dough: Meeting Gluten
 
 **Skill:** Fresh pasta dough is flour, eggs, and time. The gluten network forms as you knead, the dough becomes elastic, and it needs to rest so the gluten relaxes and becomes rollable. Your job tonight: understand what the dough is telling you at each stage. Too dry — it cracks when folded. Too wet — it sticks and tears. Properly rested — smooth, supple, and cooperative.
 
@@ -43,13 +43,13 @@ Make a basic egg pasta dough. Rest it for 30 minutes. Roll it by hand or with a 
 
 ---
 
-### Session 2 — Ravioli: Pasta as a Vessel
+### Session 51 — Ravioli: Pasta as a Vessel
 
 **Skill:** Stuffed pasta (ravioli, tortellini) requires you to roll the dough thinner than you think and seal the edges properly — no air pockets inside or they burst during cooking. The filling should be firm enough to hold its shape when piped or spooned but wet enough to be creamy when cooked. Tonight: ricotta and herb filling, classic.
 
 **Full Meal:** [Serious Eats — Ricotta-Filled Ravioli with Brown Butter and Sage](https://www.seriouseats.com/fresh-egg-pasta) using the same base dough + [Serious Eats — Roasted Cherry Tomatoes](https://www.seriouseats.com/tomato-raisins-oven-dried-whole-cherry-tomatoes) + [Serious Eats — Radicchio Salad with Anchovy Vinaigrette](https://www.seriouseats.com/five-minute-radicchio-watercress-arugula-salad-recipe)
 
-Make the same dough from Session 1 (make it in the morning if you want to save time — it keeps in the fridge wrapped tightly overnight). Fill with ricotta, parmesan, lemon zest, and herbs. Toss the finished ravioli in brown butter and crispy sage.
+Make the same dough from Session 50 (make it in the morning if you want to save time — it keeps in the fridge wrapped tightly overnight). Fill with ricotta, parmesan, lemon zest, and herbs. Toss the finished ravioli in brown butter and crispy sage.
 
 - **Protein:** Ricotta filling + parmesan
 - **Starch:** Your own fresh ravioli
@@ -58,7 +58,7 @@ Make the same dough from Session 1 (make it in the morning if you want to save t
 
 ---
 
-### Session 3 — Gnocchi: Potato and Restraint
+### Session 52 — Gnocchi: Potato and Restraint
 
 **Skill:** Potato gnocchi is one of the most unforgiving things in cooking. Too much flour and they're heavy and gluey. Too little and they fall apart in the water. The secret: bake your potatoes (don't boil — water makes them wet and you'll add too much flour), rice them while hot, and handle the dough as little as humanly possible. Overworking develops gluten and makes them tough.
 
@@ -75,7 +75,7 @@ The gnocchi themselves are the project. The sage butter sauce takes 5 minutes. T
 
 ---
 
-### Session 4 — Pasta Water: The Secret Sauce Ingredient
+### Session 53 — Pasta Water: The Secret Sauce Ingredient
 
 **Skill:** Starchy pasta water is an emulsifier — it helps fat and water-based ingredients bind into a silky, coating sauce rather than separating. Aglio e olio and carbonara both depend on it. Tonight you'll make aglio e olio and notice how dramatically the pasta water changes the sauce.
 
@@ -92,7 +92,7 @@ Aglio e olio is garlic, olive oil, pasta water, pasta, chili flakes, and parsley
 
 ---
 
-### ⏰ Session 5 — PROJECT MEAL: A Full Italian Pasta Dinner
+### ⏰ Service 13 — A Full Italian Pasta Dinner
 
 **The challenge:** Three pasta shapes, three sauces, made in one evening. This is how an Italian family the rest day lunch actually works — generous, abundant, and a showcase of everything pasta can do.
 
@@ -115,7 +115,7 @@ Aglio e olio is garlic, olive oil, pasta water, pasta, chili flakes, and parsley
 
 ---
 
-### Session 6 — Risotto alla Milanese: Saffron and Patience
+### Session 54 — Risotto alla Milanese: Saffron and Patience
 
 **Skill (with new intention):** Saffron risotto — the gold standard of Italian risotto — is simpler than it sounds and more demanding than it looks. The saffron blooms in warm stock before it goes in; the gradual ladle-by-ladle addition coaxes starch from the Arborio; the final mantecatura (cold butter stirred in off the heat) makes it loose and silky. Tonight the risotto itself is the subject.
 
@@ -131,7 +131,7 @@ Bloom a generous pinch of saffron in 2 tablespoons of warm stock for 20 minutes 
 
 ---
 
-### ⏰ Session 7 — Rice: The World's Most Important Grain
+### ⏰ Session 55 — Rice: The World's Most Important Grain
 
 **Skill:** Most home cooks treat rice as an afterthought. Tonight it's the focus. You'll cook Persian-style rice with a tahdig crust — the goal is a golden, crispy bottom that releases from the pot in a crown. Too high heat and it burns; too low and it stays soft. This is heat control and patience in one dish.
 
@@ -145,7 +145,7 @@ Tahdig — the crispy rice crust at the bottom of the Persian rice pot — is on
 
 ---
 
-### ⏰ Session 8 — Polenta: Low and Slow
+### ⏰ Session 56 — Polenta: Low and Slow
 
 **Skill:** Traditional polenta is not the quick-cook kind. It takes 45–60 minutes of stirring over low heat, adding stock or water gradually as the cornmeal absorbs it. The result is fundamentally different from the 5-minute version — creamier, with a deeper corn flavor and a silky consistency that coats the back of a spoon.
 
@@ -161,7 +161,7 @@ The polenta goes underneath. The osso buco braise goes on top. Finish with gremo
 
 ---
 
-### Session 9 — Farro and Grains That Think for Themselves
+### Session 57 — Farro and Grains That Think for Themselves
 
 **Skill:** Unlike risotto, which needs constant attention, farro and other ancient grains (freekeh, barley, bulgur) are largely self-sufficient. The key is seasoning the cooking liquid well and knowing when to stop — farro should be tender but still have chew, never mushy.
 
@@ -175,7 +175,7 @@ The warm farro salad is a full grain side dish. The crispy salmon is the protein
 
 ---
 
-### Session 10 — PROJECT MEAL: A Grain-Forward Dinner Party
+### ⏰ Service 14 — A Grain-Forward Dinner Party
 
 **The challenge:** Grains as the hero — not the side. The project session's dinner could comfortably be served to guests who don't cook, and they would never suspect that every dish was a skills exercise in disguise.
 
@@ -224,4 +224,85 @@ Risotto is not about patience. It's about starch gelatinization and gradual liqu
 
 ---
 
-← [Weeks 9–10](../09-10-seasoning-and-flavor/index.md) | [Weeks 15–16 →](../15-16-midpoint-review/index.md)
+---
+
+## Block 7 Capstone — Skills Benchmark & Readiness Check
+
+**The Block 7 rule:** Recipes are allowed for preparation and mise en place. Once service begins — meaning once anything goes on the heat — close the tabs.
+
+---
+
+> ⏰ **Planning Ahead**
+>
+> - **Session 62 (High-Heat Whole-Bird Roast):** dry-brine the bird the night before this session
+> - **Service 16 (PROJECT: Duck Confit):** cure the duck legs the evening before; plan for 4–6 hr low cook
+
+
+### Session 58 — Menu Planning
+
+**Skill:** Professional kitchens don't decide what to cook while standing in front of the stove. They plan. Tonight's task: design a 3-course dinner menu for the Service using only techniques you've learned in Weeks 1–12. Write the menu down. Plan the timing. Make your shopping list.
+
+*Questions to ask yourself while planning:*
+
+- Does the menu have balance? (Rich and light? Warm and cool? Fat-forward and acid-bright?)
+- Can I execute all three courses in the same kitchen, at the same time, without losing my mind?
+- Is there anything on this menu I'm not confident about? (If yes, practice that thing this week, not the Service.)
+
+---
+
+### Session 59 — Dry Run: The Most Difficult Component
+
+Whatever you identified as the hardest part of the project menu — make it tonight as a dry run. No guests, no pressure. Just you and the technique.
+
+**Full Meal:** Your chosen dry-run dish + [Serious Eats — Simple Green Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) + whatever protein is simplest alongside
+
+---
+
+### Session 60 — Knife Speed Benchmark
+
+**Skill:** Time yourself dicing one onion. This is the third benchmark in the program ( and  were the others). Write the time down. You should be measurably faster than Week 2. More importantly: are your cuts more uniform? Speed is the secondary metric. Consistency is the primary one.
+
+**Full Meal:** [Serious Eats — Thai-Style Larb (Ground Meat Salad)](https://www.seriouseats.com/larb-muang-moo-northern-thai-style-chopped-pork-salad-recipe) + [Serious Eats — Jasmine Rice](https://www.seriouseats.com/perfect-stovetop-thai-jasmine-rice) + [Serious Eats — Quick-Pickled Cucumbers](https://www.seriouseats.com/quick-pickled-cucumbers-rice-vinegar-recipe)
+
+Larb requires a lot of fine knife work — fresh herbs, shallots, chili, lemongrass if using. It's also deeply delicious, uses acid (lime juice) and umami (fish sauce) in a way that is immediately instructive, and is unlike anything in the previous 12 weeks.
+
+- **Protein:** Ground pork or chicken, toasted with spices
+- **Starch:** Jasmine rice
+- **Salad:** Quick-pickled cucumbers alongside
+
+---
+
+### Session 61 — Final Prep Day
+
+Mise en place everything for the project dinner. Every sauce component prepped. Every vegetable cut. Every protein seasoned in advance (if appropriate). Every sauce component thought through. The goal: the Service service should feel calm and controlled, not frantic and reactive.
+
+**Dinner tonight:** Something simple and low-effort — [Serious Eats — The Best Grilled Cheese](https://www.seriouseats.com/crispy-grilled-cheese-sandwich-tip-11891994) + [Serious Eats — Tomato Soup](https://www.seriouseats.com/thick-creamy-tomato-soup-recipe) — because you deserve a night off the skills grind.
+
+---
+
+### ⏰ Service 15 — The Block 7 Service Dinner
+
+**The cook:** Execute your planned 3-course dinner for at least two guests. No recipes open during service. All techniques drawn from Weeks 1–12.
+
+*Suggested framework if you can't decide:*
+
+1. **Starter:** [Serious Eats — Classic Shrimp Cocktail with Homemade Sauce](https://www.seriouseats.com/shrimp-cocktail-recipe) — knife skills, salt timing
+2. **Main:** [Serious Eats — Pan-Seared Duck Breast with Cherry Pan Sauce](https://www.seriouseats.com/pan-seared-duck-breast) + [Serious Eats — Creamy Polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe) + [Serious Eats — Roasted Root Vegetables](https://www.seriouseats.com/roasted-root-vegetables-with-lime-dressing-8728919) — heat control, pan sauce, seasoning in layers
+3. **Salad / Cheese:** A composed cheese plate with good bread, honeycomb, and a handful of dressed greens — no recipe needed, just judgment
+
+*Skill targets: Everything on the table at the same time. At least one course where you can identify all four flavor elements — salt, acid, fat, umami — working in balance. No recipe tabs open during service.*
+
+---
+
+
+This is the most important reflection yet. Five questions, five sentences minimum each:
+
+1. What is the technique you've improved most since Week 1?
+2. What still feels unnatural or mechanical?
+3. Which recipe from the past 13 weeks do you want to master — cook repeatedly until it's genuinely yours?
+4. What ingredient have you cooked with for the first time that you now want to use regularly?
+5. You're 25% of the way through the program. Where do you want to be by the end?
+
+---
+
+← [Block 11–12: Vegetables](../11-12-vegetables-plant-forward/index.md) | [Block 15–16: Lamb & Game →](../../03-the-proteins/15-16-lamb-and-game/index.md)
