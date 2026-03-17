@@ -201,21 +201,25 @@ A properly made omelette with a glass of wine and a green salad is one of the mo
 
 ---
 
-### Session 9 — Custard: Eggs as Thickener
+### Session 9 — Custard: Eggs as Thickener — Quiche Lorraine
 
-**Skill:** When eggs are heated in liquid (cream, milk), the proteins set and thicken the mixture into a custard. Key: temperature control — too high and the eggs scramble, too low and it never sets. A proper custard coats the back of a spoon and holds a line when you drag your finger through it.
+**Skill:** Savory egg custard in a tart shell; cream-to-egg ratio; setting without overcooking. 
+**Read first:** [Quiche Lorraine](https://www.seriouseats.com/quiche-lorraine-recipe-8715255)
 
-**Full Meal:** [Pasta Carbonara](https://www.seriouseats.com/pasta-carbonara-sauce-recipe) + [Bitter Greens Salad with Anchovy Vinaigrette](https://www.seriouseats.com/five-minute-radicchio-watercress-arugula-salad-recipe)
+**What you're learning:** Quiche custard sets at 160–165°F — the exact same temperature window you'll return to with crème brûlée in Block 48. The ratio is 1 egg per ¼ cup heavy cream; this scales to any savory tart. Overbaked quiche is grainy and rubbery; done correctly it is silky and sliceable. The tart shell can be store-bought this session — the custard technique is the entire point.
 
-Carbonara is a savory egg custard sauce — eggs, pasta water, guanciale or pancetta, and pecorino. The pasta water (starchy, hot) tempers the eggs and keeps them from scrambling.
+**Full Meal:**
+- [Quiche Lorraine](https://www.seriouseats.com/quiche-lorraine-recipe-8715255) (lardons + Gruyère + chive)
+- [Simple green salad with mustard vinaigrette](https://www.seriouseats.com/french-style-vinaigrette-recipe)
 
-| Component | Recipe |
-|-----------|--------|
-| Protein | Guanciale or pancetta (built into the sauce) |
-| Starch | Spaghetti or rigatoni |
-| Salad | Bitter greens with anchovy vinaigrette |
+| Component | Notes |
+|-----------|-------|
+| Shell | Store-bought shortcrust — pastry dough is covered fully in Block 47 |
+| Custard | 3 eggs + ¾ cup heavy cream + salt + white pepper |
+| Cheese | Gruyère grated fresh; pre-shredded bags have coatings that prevent clean melting |
+| Bake | 325°F, 30–40 min; pull when center still has a gentle wobble |
 
-> 🎥 **Compare Notes:** [How to Make Classic Pasta Carbonara](https://www.youtube.com/watch?v=k1Np28NnP40) — Watch how he tempers the eggs using pasta water — this is the move that prevents scrambling.
+> 🎥 **Compare Notes:** [How to Make Quiche Lorraine](https://www.youtube.com/watch?v=DVh_EXHZsSQ) *(Claire Saffitz)* — Watch her custard pour and the oven pull moment — those two steps are the whole skill.
 
 ---
 

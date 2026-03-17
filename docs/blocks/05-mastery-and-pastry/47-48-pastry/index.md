@@ -1,4 +1,4 @@
-# Block 47–50: Pastry & Desserts
+# Block 47–48: Pastry & Desserts
 
 ← [Block 45–46: Bread](../45-46-bread/index.md) | [Block 49–50: Signature Dishes →](../49-50-signature-dishes/index.md)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Block 43 — Pastry Doughs: Pâte Sucrée, Tarte Tatin, and Puff Pastry
+## Block 47 — The Pastry Doughs
 
 French pastry week is the most technically demanding section of this program. The payoff is proportional to the investment. These are skills that make you the person in any dinner party circle who brings something people still talk about months later.
 
@@ -20,9 +20,9 @@ French pastry week is the most technically demanding section of this program. Th
 
 > ⏰ **Planning Ahead**
 >
-> - **Session 3 (Rough Puff Pastry):** make a day ahead; puff pastry needs cold rest between turns
-> - **Session 6 (Pâte Brisée + Lemon Tart):** chill tart shell at least 30 min before blind baking
-> - **Session 9 (Crème Brûlée):** custard needs 2+ hrs to set (or overnight) before torching
+> - **Session 1 (Pâte Sucrée):** tart dough needs 30+ min cold rest before rolling; make ahead
+> - **Session 2 (Pastry Cream):** make a day ahead and refrigerate — it only improves overnight
+> - **Session 5 (Mille-Feuille PROJECT):** rough puff needs cold rest between folds; start the day before
 
 
 ### Session 1 — Pâte Sucrée (Sweet Tart Dough)
@@ -69,105 +69,112 @@ French pastry week is the most technically demanding section of this program. Th
 ---
 
 
-### Session 4 — Quick Puff Pastry (Rough Puff)
-
-**Skill:** Rough puff technique; fold method; maintaining butter layers without a lamination machine 
-**Read first:** Rough puff (also called “blitz puff” or “quick puff”) has no dedicated SE recipe, but the technique is straightforward: grate frozen butter into flour, barely combine with ice water, fold 4× with 20-minute rests between. The [Mille-Feuille recipe](https://www.seriouseats.com/mille-feuille-recipe-8729243) explains the layer principle; the [Croissant recipe](https://www.seriouseats.com/croissants-recipe-11863500) demonstrates the lamination mechanics at full scale.
-
-**What you're learning:** True feuilletage (classic puff pastry) takes 6 rounds of folds over hours. Rough puff achieves 70–80% of the same result in a fraction of the time. Grate frozen butter into the flour, add water, barely combine, fold 3–4 times with 30-minute rests between. The result: flaky, buttery pastry dough for savory and sweet applications.
-
-**Full Meal:**
-- Savory pastry application: rough puff filled with caramelized onion and Gruyère (galette or tart)
-- Green salad alongside
-
----
-
-### Session 5 — PROJECT: Mille-Feuille (Napoleon)
-
-**Skill:** Baked puff pastry sheets; layering and assembly; fondant or icing finish 
-**Goal:** Bake puff pastry into flat sheets (store-bought puff pastry is acceptable here — your rough puff from Session 4 can also be used). Layer with pastry cream between three sheets of puff. Top with fondant (or powdered sugar glaze) and optional chocolate feathering.
-
-**Full Meal:**
-- Mille-Feuille: the test of pastry cream + puff pastry execution together
-- Espresso to accompany
-
----
-
-## Block 44 — Croissant Application, Quiche, and the Art of the Pie Crust
-
----
-
-### Session 6 — Quiche Lorraine
-
-**Skill:** Savory custard in a tart shell; cream-to-egg ratio; setting without overcooking 
-**Read first:** [Quiche Lorraine](https://www.seriouseats.com/quiche-lorraine-recipe-8715255)
-
-**What you're learning:** Quiche custard sets at 160–165°F. The oven texture should be: barely jiggly in the center when you pull it, firming as it cools. Overbaked quiche is grainy and rubbery. The technique applies to any savory tart or baked custard — ratio is 1 egg per 4 tablespoons (¼ cup) heavy cream.
-
-**Full Meal:**
-- Quiche Lorraine
-- Simple green salad with mustard vinaigrette
-
----
-
-### Session 7 — Flaky Pie Crust + Apple Pie
-
-**Skill:** Rubbing cold fat into flour; water addition; laminated vs. mealy crust; rolling without tearing 
-**Read first:** [Best Fat for Pie Crust](https://www.seriouseats.com/best-fat-for-pie-crust-11854802) (explains the butter vs. lard vs. shortening science)
-
-**What you're learning:** Pie crust is the democratic pastry — it should be accessible, forgiving, and made with whatever fat you have. The SE analysis of which fat produces which result (butter for flavor, lard for flakiness, shortening for structure) gives you the science to make confident decisions. Make a double-crust apple pie with a butter-lard blend if possible.
-
-**Full Meal:**
-- Apple Pie with vanilla ice cream
-- This is a Session 2, and that's fine
-
-> 🎥 **Compare Notes:** [How to Make an Apple Pie — Sous Vide Method](https://www.youtube.com/watch?v=DkRMDdcddf0) — He uses sous vide to pre-cook the filling so it's never soupy; compare his fat rationale for the crust to the approach you chose.
-
----
-
-### Session 8 — Pâte Brisée (Savory Shortcrust) + Lemon Tart
-
-**Skill:** Savory shortcrust (unsweetened); lemon curd filling; balancing sweetness and acid 
-**Read first:** Reference pâte sucrée technique (Session 1 Block 43) — pâte brisée is the same method without the sugar
-
-**What you're learning:** A lemon tart uses a baked pâte brisée or pâte sucrée shell, filled with lemon curd (eggs + sugar + lemon juice + butter, cooked to 170°F) that is poured in warm and sets as it cools. It should taste bright, sour, and sweet in equal measure.
-
-**Full Meal:**
-- Lemon Tart (serves 6–8; share)
-- No accompaniment needed — it's perfect alone
-
----
-
-
-### Session 9 — Choux Pastry (Éclairs or Profiteroles)
+### Session 4 — Choux Pastry (Éclairs or Profiteroles)
 
 **Skill:** Choux dough technique (pâte à choux); piping consistent shapes; filling and glazing 
-**Read first:** [Choux au Craquelin](https://www.seriouseats.com/choux-au-craquelin) (for plain éclairs or profiteroles, skip the craquelin sugar disc on top — the choux base technique is identical)
+**Read first:** [Choux au Craquelin](https://www.seriouseats.com/choux-au-craquelin) (for plain éclairs or profiteroles, skip the craquelin sugar disc — the choux base technique is identical)
 
-**What you're learning:** Choux is a cooked starch paste. The eggs are beaten in gradually — the correct dough consistency is "ribbon-y" when dropped from a spoon (falls in a thick, slow V). Underbaked choux will collapse. Properly baked choux has a hollow interior ready for filling.
+**What you're learning:** Choux is a cooked starch paste — one of the four French grande pâtes. The eggs are beaten in gradually; correct dough consistency is “ribbon-y” when dropped from a spoon (falls in a thick, slow V). Underbaked choux will collapse. Properly baked choux has a hollow interior ready for filling. This technique underlies éclairs, profiteroles, gougères, Paris-Brest, and churros.
 
 **Full Meal:**
-- Chocolate-glazed éclairs with pastry cream filling (pastry cream already mastered Session 2 Block 43)
-- Or profiteroles (small choux balls) with ice cream + chocolate sauce
+- Chocolate-glazed éclairs with pastry cream filling (pastry cream from Session 2)
+- Or profiteroles with vanilla ice cream + chocolate sauce
 
 > 🎥 **Compare Notes:** [Chocolate Éclairs / Pâte à Choux](https://www.youtube.com/watch?v=lB9X_nr2P7M) *(Claire Saffitz)* — Watch her dough consistency test — the ribbon drop off the spoon — that's the single diagnostic that tells you whether the choux will rise properly or collapse.
 
 ---
 
-### Session 10 — PROJECT: Pastry Afternoon Tea
+### Session 5 — PROJECT: Mille-Feuille (Napoleon)
 
-**Skill:** Composed pastry spread; timing multiple preparations 
-**Goal:** Assemble an afternoon tea spread using the two weeks of pastry work:
+**Skill:** Rough puff pastry; baked puff sheets; layering and assembly; icing finish
+**Read first:** [Mille-Feuille](https://www.seriouseats.com/mille-feuille-recipe-8729243) for the layer principle. For rough puff: grate frozen butter into flour, barely combine with ice water, fold 4x with 20-minute rests between. Store-bought all-butter puff pastry is a perfectly acceptable substitute — the assembly and pastry cream execution are the point.
 
-1. Finger sandwiches (savory — cucumber, smoked salmon, egg salad on Pullman bread from Block 41)
-2. Petit fours or [madeleine cookies](https://www.seriouseats.com/madeleines-6951118) (easy to add; baked in madeleine pan with browned butter batter)
-3. Lemon tart (from Session 3) sliced
-4. Eclairs or mille-feuille from this week
-5. [Scones](https://www.bbcgoodfood.com/recipes/classic-scones-jam-clotted-cream) with clotted cream and jam (or plain croissants from Block 42)
+**What you're learning:** Rough puff achieves 70–80% of classic feuilletage in a fraction of the time. The mille-feuille puts everything from this block together: pastry cream from Session 2 as the filling, puff pastry sheets baked flat and weighted, icing or powdered sugar finish.
 
 **Full Meal:**
-- Full afternoon tea service
-- Earl Grey, chamomile, or English breakfast tea
+- Mille-Feuille: pastry cream + puff pastry
+- Espresso to accompany
+
+---
+
+## Block 48 — Dessert Techniques
+
+This block covers five core dessert structures — each uses a different mechanism to achieve texture and stability. These are dinner-party desserts that can be made completely ahead while guests are arriving.
+
+---
+
+> ⏰ **Planning Ahead**
+>
+> - **Session 6 (Caramel):** caramel sauce keeps refrigerated for 2 weeks — make it whenever and use later
+> - **Session 7 (Crème Brûlée):** custard must set 2+ hrs (or overnight) before torching
+> - **Session 8 (Panna Cotta):** needs 4+ hrs to set; ideal make-ahead
+> - **Session 10 (Layer Cake PROJECT):** bake layers a day ahead; frost the morning of service
+
+
+### Session 6 — Caramel: Wet and Dry Methods
+
+**Skill:** Dry vs. wet caramel; temperature stages of sugar; caramel sauce
+**Read first:** [Caramel vs. Butterscotch vs. Toffee](https://www.seriouseats.com/caramel-vs-butterscotch-vs-toffee-11828566)
+
+**What you're learning:** Sugar has distinct flavor stages as it heats. Dry caramel (no water) is faster and more consistent but harder to control. Wet caramel (water added first) is more forgiving. The difference between caramel, butterscotch, and toffee is entirely about when and how butter enters — explained clearly in the SE article. Make a caramel sauce from scratch today.
+
+**Full Meal:**
+- Caramel sauce over vanilla ice cream
+- Butterscotch variation for comparison (add butter at the start instead of the end)
+
+> 🎥 **Compare Notes:** [Perfect Stovetop Chocolate Caramels](https://www.youtube.com/watch?v=KXH2SFX_8Ts) *(Claire Saffitz)* — She's working at hard-crack stage rather than sauce stage; watch how she reads color as the primary signal and treats the thermometer as secondary.
+
+---
+
+### Session 7 — Crème Brûlée
+
+**Skill:** Baked custard; water bath technique; caramelizing the sugar crust
+**Read first:** [Crème Brûlée](https://www.seriouseats.com/creme-brulee-recipe-7107199)
+
+**What you're learning:** Crème brûlée is a baked cream custard set with egg yolks only — no whites, no starch — relying entirely on egg protein coagulation, the same mechanism as the quiche in Block 8. Here the ratio is richer (heavy cream, more yolks) and the water bath (bain-marie) provides gentle, even heat. Internal temperature: 160–165°F. The sugar crust is caramelized with a kitchen torch immediately before serving.
+
+**Full Meal:**
+- Crème Brûlée × 4 (make ahead; refrigerate; brûlée right before serving)
+
+> 🎥 **Compare Notes:** [Crème Brûlée & Crème Caramel](https://www.youtube.com/watch?v=dsjoULgoCf4) *(Claire Saffitz)* — She makes both in one session; the crème caramel comparison shows how the same custard base behaves completely differently without the brûlée crust.
+
+---
+
+### Session 8 — Panna Cotta
+
+**Skill:** Gelatin quantity and bloom; cream-to-milk ratio; demoulding
+**Read first:** [Classic Panna Cotta](https://www.seriouseats.com/classic-panna-cotta-vanilla-bean-recipe)
+
+**What you're learning:** Panna cotta is gelatin-set, not egg-set — a completely different mechanism from Sessions 7 and 9. The gelatin amount must be precise: too much and it bounces; too little and it collapses when unmolded. The right amount barely holds its shape and quivers when touched. This precision with gelatin transfers directly to bavarois, mousses, and any set cream preparation.
+
+**Full Meal:**
+- Panna cotta with [raspberry coulis](https://www.bbcgoodfood.com/recipes/raspberry-coulis) or simply excellent olive oil and sea salt (the Sicilian approach)
+
+---
+
+### Session 9 — Chocolate Mousse
+
+**Skill:** Egg white foam; chocolate ganache base; folding without deflating
+**Read first:** [Chocolate Mousse](https://www.seriouseats.com/chocolate-mousse-recipe-7109970)
+
+**What you're learning:** Classic French chocolate mousse is chocolate + butter, then beaten egg whites folded in. The chocolate must be cooled before the eggs go in — hot chocolate kills the foam instantly. The folding technique — large, enveloping strokes that preserve the air — is the same foundational movement used in soufflés and génoise cake. This is the session that teaches you how air becomes structure.
+
+**Full Meal:**
+- Chocolate mousse, chilled 2 hours minimum
+- Whipped cream + bitter chocolate shavings
+
+---
+
+### Session 10 — PROJECT: Layer Cake
+
+**Skill:** Génoise or butter cake layers; simple syrup moistening; crumb coat; final frosting
+**Read first:** [Génoise Sponge](https://www.seriouseats.com/genoise-sponge-cake-recipe-6755258) for the cake layers
+
+**What you're learning:** A well-executed layer cake requires: even layers (weigh the batter into the pans), flat tops (trim the dome or use baking strips), full cooling before frosting (warm cake melts buttercream), a thin crumb coat refrigerated before the final layer, and patience. Buttercream is a fat emulsion — its temperature sensitivity ties back to Block 6. Make a 3-layer cake: vanilla, chocolate ganache between layers, Swiss meringue or American buttercream outside.
+
+**Full Meal:**
+- Layer cake — serve to anyone available; this is a milestone bake
+- Champagne or sparkling water
 
 ---
 
@@ -186,11 +193,28 @@ Sweet tart dough is the pastry equivalent of a mother sauce — once you can mak
 
 ---
 
-### Caramel: The Most Forgiving Hard Thing
+### Custard Science
 
-Tarte tatin requires caramelizing sugar in butter. It sounds terrifying. But caramel is just heated sucrose — and once you understand the temperature stages, you control it rather than fear it.
+Crème brûlée and panna cotta are both custards in the common sense, but they're set by different mechanisms: egg proteins vs. gelatin. Understanding the difference explains every texture variation in the custard family.
 
-- 📖 [Tarte Tatin](https://www.seriouseats.com/tarte-tatin-recipe-11844901) — The upside-down apple tart technique, including the caramel-base method, explained step by step.
+- 📖 [Classic Crème Brûlée](https://www.seriouseats.com/creme-brulee-recipe-7107199) — The ratio, the water bath technique, and the blowtorch logistics all in one place.
+- 📖 [Classic Panna Cotta](https://www.seriouseats.com/classic-panna-cotta-vanilla-bean-recipe) — Gelatin sets at a specific concentration. This recipe explains how to dial the bloom and amount to land the texture you want.
+
+---
+
+### Sticky Toffee Pudding *(When You Want Something Deeply Comforting)*
+
+Sticky toffee pudding is a date-rich British cake soaked in toffee sauce — not a high-technique preparation, but one of the most genuinely satisfying things you can bake for people you like. It made an earlier draft of this block and was cut to keep the curriculum focused on classical technique. It earns its place on a winter table.
+
+- 📖 [Sticky Toffee Pudding](https://www.seriouseats.com/sticky-toffee-pudding-recipe-8714674) — The dates purée into the batter and disappear; the warm toffee sauce poured immediately after baking is what makes it a "pudding." Serve warm with vanilla ice cream or clotted cream.
+
+---
+
+### Chocolate: A Module of Its Own
+
+Chocolate mousse is your introduction to working with chocolate structurally. The deeper rabbit hole — tempering, ganache ratios, bonbons, bark — is long and genuinely satisfying.
+
+- 📖 [Chocolate Mousse](https://www.seriouseats.com/chocolate-mousse-recipe-7109970) — The full recipe and technique, including the egg white folding method that creates the airy texture.
 
 ---
 
@@ -200,239 +224,6 @@ Tarte tatin requires caramelizing sugar in butter. It sounds terrifying. But car
 
 ---
 
----
-
----
-
-> "Dessert is the last thing someone tastes and the thing they remember longest. A great dessert after a good meal elevates the meal retroactively. The skills here — custard, chocolate, sugar work, meringue — combine with everything you've built over the year into the most complete expression of a cook."
-
----
-
-## Before You Start Block 47
-
-### Session 0 — Chocolate Tempering & Truffles *(optional)*
-
-**Skill:** Chocolate tempering — the technique that gives chocolate its gloss, snap, and professional finish. And truffles, which are the most accessible entry point into chocolate confectionery.
-
-📖 **Read first:** [How to Temper Chocolate](https://www.seriouseats.com/the-food-lab-best-way-to-temper-chocolate)
-
-**What tempering actually is:** Chocolate contains cocoa butter that crystallizes in six different forms depending on how it cools. Only Form V crystals (beta crystals) produce the glossy, snappy chocolate you recognize from a chocolate bar. Untempered chocolate (melted and cooled carelessly) produces Form IV or VI crystals — dull, streaky, soft. Tempering means bringing the chocolate to the right temperature sequence so only Form V crystals form.
-
-**Two methods — both produce the same result:**
-
-| Method | Technique | Best for |
-|--------|-----------|----------|
-| **Tabling** | Melt completely, pour 2/3 onto marble slab, work with spatula until cool, add back to remaining third | Professional; fastest if you have marble |
-| **Seeding** | Melt 2/3 of chocolate, add finely chopped unmelted chocolate (the "seed") in stages, stir until smooth | Home kitchen; easier to control |
-
-**The seeding method — what you'll do:**
-1. Chop 300g dark chocolate (70%+) finely. Reserve 100g.
-2. Melt 200g over a double boiler to 115°F (46°C) — fully liquid, no lumps
-3. Remove from heat. Add reserved 100g chopped chocolate in three additions, stirring until each melts
-4. Check temperature: should reach 88–90°F (31–32°C). This is the working temperature
-5. **The snap test:** Dip a teaspoon, let set 3–5 minutes at room temperature. It should be glossy with a sharp snap when you break it. Streaky or soft = not in temper; reheat gently to 88°F and try again
-
-**Full session — Chocolate Truffles:**
-
-📖 **Recipe:** [Dark Chocolate Truffles](https://www.bbcgoodfood.com/recipes/chocolate-truffles)
-
-Truffles are the truest test of tempering: a ganache center (cream + chocolate emulsion) coated in a thin tempered chocolate shell. The shell requires tempered chocolate to set cleanly without fingerprints showing.
-
-| Component | Notes |
-|-----------|-------|
-| **Ganache (filling)** | 200g dark chocolate + 100ml heavy cream; heat cream, pour over chocolate, emulsify with a stir — not a whisk; cool until firm enough to scoop |
-| **Shell** | Tempered chocolate; dip each truffle, tap off excess, set on parchment |
-| **Finish** | Roll in cocoa powder, crushed nuts, or flaky salt — your call |
-
-**The confection vocabulary — know these:**
-- **Ganache** — chocolate + cream emulsion; ratio determines texture (thick for truffles, thin for glaze)
-- **Tempered chocolate** — Form V crystals; gloss + snap
-- **Bonbon** — tempered chocolate shell with flavored ganache inside; requires a mold
-- **Bark** — tempered chocolate poured flat, topped before it sets; no skill requirement beyond tempering
-
-> **The connection to the rest of the year:** The emulsification in ganache is the same principle as hollandaise and mayonnaise — fat + water held stable by an emulsifier, in this case the lecithin in the cocoa solids. You've been building toward this all year.
-
----
-
-## Block 45 — Crème Brûlée, Panna Cotta, Chocolate Mousse, and Pavlova
-
-This week is about cold and room-temperature desserts — the ones that reward advance preparation and build confidence in gelatin, egg white foams, chocolate tempering, and custard control. These are dinner-party desserts you can make completely ahead while your guests are arriving.
-
----
-
-### Session 11 — Crème Brûlée
-
-**Skill:** Baked custard; water bath technique; caramelizing the top (brûlée) 
-**Read first:** [Crème Brûlée](https://www.seriouseats.com/creme-brulee-recipe-7107199)
-
-**What you're learning:** Crème brûlée is a baked cream custard set with egg yolks only (no whites, no starch). The water bath (bain-marie) provides gentle, even heat that prevents curdling. The internal temperature is 160–165°F — any more and the texture becomes grainy. The top sugar layer is caramelized with a kitchen torch immediately before serving (not before refrigerating — the crust will dissolve).
-
-**Full Meal:**
-- Crème Brûlée × 4 (make ahead; refrigerate; brûlée right before serving)
-- A savory dinner of your choice preceded it; this is dessert only
-
-> 🎥 **Compare Notes:** [Crème Brûlée & Crème Caramel](https://www.youtube.com/watch?v=dsjoULgoCf4) *(Claire Saffitz)* — She makes both in one session; the crème caramel comparison shows how the same custard base behaves completely differently without the brûlée crust.
-
----
-
-### Session 12 — Panna Cotta
-
-**Skill:** Gelatin quantity and bloom; cream-to-milk ratio; demoulding 
-**Read first:** [Classic Panna Cotta](https://www.seriouseats.com/classic-panna-cotta-vanilla-bean-recipe)
-
-**What you're learning:** Panna cotta ("cooked cream") is Italy's most elegant simple dessert: cream + sugar + vanilla + bloomed gelatin, set in a mold and flipped. The gelatin amount must be precise — too much and it bounces; too little and it collapses when unmolded. The right amount: barely holds its shape and quivers when touched.
-
-**Full Meal:**
-- Panna Cotta with [raspberry or strawberry coulis](https://www.bbcgoodfood.com/recipes/raspberry-coulis), fresh fruit, or simply excellent olive oil and sea salt (the Sicilian approach)
-
----
-
-### Session 13 — Chocolate Mousse
-
-**Skill:** Egg white foam; chocolate ganache base; folding without deflating 
-**Read first:** [Chocolate Mousse](https://www.seriouseats.com/chocolate-mousse-recipe-7109970)
-
-**What you're learning:** Classic French chocolate mousse is chocolate + butter, then beaten egg whites folded in. The chocolate must be cooled before the eggs go in (hot chocolate kills the foam). The folding technique — large, enveloping strokes that preserve the air — is the same technique as soufflé and génoise cake. It's a foundational movement in pastry.
-
-**Full Meal:**
-- Chocolate Mousse, chilled 2 hours minimum before serving
-- Whipped cream + bitter chocolate shavings on top
-
----
-
-### Session 14 — Pavlova
-
-**Skill:** Meringue construction; low-oven drying; stable topping 
-**Read first:** [Kiwi-Passion Fruit Pavlova](https://www.seriouseats.com/kiwi-passion-fruit-pavlova-recipe-11730985)
-
-**What you're learning:** Pavlova is a meringue case that is crispy on the outside and marshmallow-tender inside. The crispy outside requires a low, long oven (250°F / 2 hours); the marshmallow interior comes from cornstarch added to the meringue and from the moist residual air of the oven. Top with whipped cream and fresh fruit immediately before serving — the topping causes collapse if left too long.
-
-**Full Meal:**
-- Pavlova with whipped cream, kiwi, passion fruit, strawberries
-- This is a Session 4 dinner: a big pavlova is a celebratory dessert
-
-> 🎥 **Compare Notes:** [Easy Pavlova](https://www.youtube.com/watch?v=jHkSIqm_Occ) *(Claire Saffitz)* — Watch how she handles the meringue stiffness and the oven door-crack finish; those two details are what create the marshmallowy interior.
-
----
-
-### Session 15 — PROJECT: Tiramisu + Layer Dessert Review
-
-**Skill:** Tiramisu without gelatin (structure from cold mascarpone cream); building a composed dessert narrative 
-**Read first:** [Best Tiramisu](https://www.seriouseats.com/best-tiramisu-recipe)
-
-**What you're learning:** After crème brûlée (baked custard), panna cotta (gelatin), mousse (egg white foam), and pavlova (meringue), tiramisu introduces a fifth dessert structure: mascarpone cream layered with coffee-soaked ladyfingers and set in the refrigerator until the layers merge. No gelatin, no baking, no tempering — just cold cream and time.
-
-**Full Meal:**
-- Tiramisu (make at least 4 hours ahead, ideally morning for evening service)
-- Espresso to accompany
-
-> 🎥 **Compare Notes:** [Classic Tiramisu](https://www.youtube.com/watch?v=Q0yIZ8pHfK4) *(Claire Saffitz)* — Compare her mascarpone cream technique to the SE version; the egg handling difference between the two approaches tells you exactly what structure you're building in each.
-
----
-
-## Block 46 — Caramel, Sticky Toffee, Chocolate Chip Cookies, and the Layer Cake
-
----
-
-### Session 16 — Caramel: Wet and Dry Methods
-
-**Skill:** Understanding dry vs. wet caramel; temperature stages of sugar; caramel sauce + butterscotch 
-**Read first:** [Caramel vs. Butterscotch vs. Toffee](https://www.seriouseats.com/caramel-vs-butterscotch-vs-toffee-11828566)
-
-**What you're learning:** Sugar has distinct flavor stages as it heats. Dry caramel (no water) is faster and more consistent but harder to control. Wet caramel (water added first) is more forgiving. The difference between caramel (no butter until very end), butterscotch (butter added earlier), and toffee (fully crystallized) is explained clearly in the SE article. Today, make a caramel sauce from scratch.
-
-**Full Meal:**
-- Use caramel sauce over vanilla ice cream, on crepes, or as a component in your dessert drawer this week
-- Butterscotch version comparison
-
-> 🎥 **Compare Notes:** [Perfect Stovetop Chocolate Caramels](https://www.youtube.com/watch?v=KXH2SFX_8Ts) *(Claire Saffitz)* — She's working at hard-crack stage rather than sauce stage; watch how she reads color as the primary signal and where she decides the thermometer is secondary.
-
----
-
-### Session 17 — Sticky Toffee Pudding
-
-**Skill:** English pudding structure (not cold dessert); date integration; toffee sauce coverage 
-**Read first:** [Sticky Toffee Pudding](https://www.seriouseats.com/sticky-toffee-pudding-recipe-8714674)
-
-**What you're learning:** British sticky toffee pudding is a date-rich cake soaked in toffee sauce. The dates are pureed into boiling water and mixed into the batter (they disappear but contribute moisture and sweetness). The warm toffee sauce poured over immediately after baking is what creates the "pudding" character — dense, moist, caramel-soaked.
-
-**Full Meal:**
-- Sticky Toffee Pudding served warm with more toffee sauce and vanilla ice cream or clotted cream
-
----
-
-### Session 18 — The Chocolate Chip Cookie (Science)
-
-**Skill:** Understanding fat, flour, and sugar ratios in cookie baking; brown butter; salt finishing 
-**Read first:** [The Best Chocolate Chip Cookies](https://www.seriouseats.com/the-food-lab-best-chocolate-chip-cookie-recipe)
-
-**What you're learning:** The "perfect" chocolate chip cookie encapsulates all of baking science: fat type (browned butter changes flavor significantly), sugar type (more brown sugar = chewier), flour protein level (bread flour = more chew), hydration (overnight chill dries the dough and concentrates flavor), and Maillard browning at the right temperature.
-
-**Full Meal:**
-- The chocolate chip cookie session — bake some today, refrigerate the rest for tomorrow
-- Eat warm with milk or coffee
-
-> 🎥 **Compare Notes:** [Chocolate Chip Cookies](https://www.youtube.com/watch?v=kPauR6tP_cg) *(Claire Saffitz)* — Her flour and butter ratios differ from the SE brown-butter approach; bake both versions back-to-back and decide which texture you prefer.
-
----
-
-
-### Session 19 — Layer Cake Fundamentals
-
-**Skill:** Génoise or butter cake layers; simple syrup moistening; level layers; crumb coat; frosting 
-**Read first:** [Génoise Sponge](https://www.seriouseats.com/genoise-sponge-cake-recipe-6755258) for the cake layers — the crumb coat (a thin layer of frosting sealing crumbs before the final layer) is the technique that separates clean from messy results
-
-**What you're learning:** A well-executed layer cake requires: even layers (weigh the batter), flat tops (cake strips or dome trim), proper cooling before frosting (warm cake will melt buttercream), a crumb coat, refrigerating the crumb coat before final frosting, and patience. Make a 3-layer cake: vanilla, chocolate, or lemon curd between layers.
-
-**Full Meal:**
-- Layer cake — completed tonight or the project session depending on timing
-- Serve to anyone available; this is a milestone bake
-
----
-
-### Session 20 — PROJECT: Grand Dessert Finale
-
-**Skill:** Full dessert service for a dinner party 
-**Goal:** Invite people over. Serve three desserts from this two-week block:
-
-1. **Petit dessert first:** Individual panna cotta already made, or chocolate mousse in small cups
-2. **Main dessert:** The layer cake from Session 4, or the tiramisu from the project session Block 45
-3. **Mignardises:** Chocolate truffles (ganache rolled in cocoa powder — simple to make), salted caramel bites
-
-**Full Meal:**
-- Full dessert dinner party
-- Champagne, dessert wines, or coffee throughout
-
----
-
-## Optional: Go Deeper
-
-These aren't required reading — but if something from this block sparked a question, here's where to go.
-
----
-
-### Custard Science
-
-Crème brûlée and panna cotta are both custards, but they're set by different mechanisms: egg proteins vs. gelatin. Understanding the difference explains every texture variation in the entire custard family.
-
-- 📖 [Classic Crème Brûlée](https://www.seriouseats.com/creme-brulee-recipe-7107199) — The ratio, the water bath technique, and the blowtorch logistics all in one place.
-- 📖 [Classic Panna Cotta](https://www.seriouseats.com/classic-panna-cotta-vanilla-bean-recipe) — Gelatin sets at a specific concentration. This recipe explains how to dial the bloom and amount to land the texture you want.
-
----
-
-### Chocolate: A Module of Its Own
-
-Chocolate mousse is your introduction to working with chocolate structurally. Chopping, melting, tempering, and folding are four separate skills that the mousse exercise touches on.
-
-- 📖 [Chocolate Mousse](https://www.seriouseats.com/chocolate-mousse-recipe-7109970) — The full recipe and technique, including the egg white folding method that creates the texture.
-
----
-
-### A Book Worth Having
-
-- 📚 [***The Physiology of Taste* by Jean Anthelme Brillat-Savarin**](https://www.amazon.com/dp/0375703004) — The 19th-century French text that remains the most elegant meditation on the experience of eating and the philosophy of flavor. Not a cookbook — more like a sophisticated conversation with a great host.
-
----
-
 *Navigation:*
 ← [Block 45–46: Bread](../45-46-bread/index.md) | [Block 49–50: Signature Dishes →](../49-50-signature-dishes/index.md)
+
