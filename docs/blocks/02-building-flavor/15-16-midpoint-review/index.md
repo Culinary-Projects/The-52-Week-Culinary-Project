@@ -209,4 +209,4 @@ The midpoint capstone includes whole-bird cookery. If you want to go deeper on b
 
 ---
 
-← [Weeks 13–14](../13-14-pasta-and-grains/index.md) | [Weeks 17–18 →](../../03-the-proteins/17-18-beef-fundamentals/index.md)
+← [Weeks 13–14](../13-14-pasta-and-grains/index.md) | [Weeks 17–18 →](../../03-the-proteins/17-18-lamb-and-game/index.md)
