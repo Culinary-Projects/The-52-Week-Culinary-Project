@@ -4,10 +4,6 @@
 
 ---
 
-> ⚗️ **Experimental** — This block has not yet been cooked through by the author.
-> Content is draft; recipes and timing are untested.
-
-
 > *"Pork is the most versatile protein in the world kitchen. It scales from a 2-minute chop to a 12-hour shoulder. It responds beautifully to fat, acid, smoke, sweetness, and spice. Learning pork is learning half the world's food traditions."*
 
 ---
@@ -177,7 +173,7 @@ This week is a natural gateway to charcuterie. Bacon, pancetta, and guanciale ar
 
 ### A Book Worth Having
 
-- 📚 [***Charcuterie: The Craft of Salting, Smoking, and Curing* by Michael Ruhlman & Brian Polcyn**](https://www.amazon.com/dp/0393058298) — The gateway book into everything you'll explore in Blocks 27–28. Covers the principles and science of every cured and preserved pork product.
+- 📚 [***Charcuterie: The Craft of Salting, Smoking, and Curing* by Michael Ruhlman & Brian Polcyn**](https://www.amazon.com/dp/0393058298) — The gateway book into everything you'll explore in Weeks 27–28. Covers the principles and science of every cured and preserved pork product.
 
 ---
 

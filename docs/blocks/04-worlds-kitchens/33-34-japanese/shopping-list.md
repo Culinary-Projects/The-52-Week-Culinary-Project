@@ -1,79 +1,88 @@
-# 🛒 Shopping List — Block 33–34: Japanese
+# 🛒 Shopping List — Block 33–34: Korean Cuisine
 
 ← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)
 
 ---
 
-> **Where to shop:** Most Japanese pantry staples (kombu, katsuobushi, mirin, soba, ramen noodles, miso, panko) are found at Asian grocery stores or online. A good Japanese or Korean market is the right call here.
+> **Where to shop:** Most Korean pantry staples require a Korean or Asian grocery store (H Mart is ideal). Gochujang, doenjang, gochugaru, dangmyeon (glass noodles), tteok (rice cakes), and sesame oil in the quantities you need are rarely available at standard supermarkets. **Shop the pantry section first, before you buy proteins.**
 
 ---
 
 ## ⚠️ Equipment Check
 
-- [ ] **Tamagoyaki pan** — rectangular Japanese omelette pan (~$15–25; get it)
-- [ ] **Wok or deep Dutch oven** — for tempura and tonkatsu frying
-- [ ] **Thermometer** — for oil temperature control
-- [ ] **Bamboo skewers** — soaked in water (yakitori)
-- [ ] **Fine-mesh strainer** — for dashi and other stocks
-- [ ] **Japanese rice cooker** — helpful but optional
+- [ ] **Wok or large stainless skillet** — japchae, tteokbokki, stir-fried banchan
+- [ ] **Stone pot (dolsot)** — ideal for bibimbap; a heavy skillet works as substitute
+- [ ] **Large Dutch oven or heavy pot** — galbi-jjim (braised short ribs)
+- [ ] **Grill pan or cast iron** — Korean BBQ session; tabletop grill is optional
+- [ ] **Candy/frying thermometer** — Korean fried chicken (must hit 325°F then 375°F)
 
 ---
 
-## 🥩 Proteins — Block 31
+## 🥩 Proteins — Block 33
 
-- [ ] **Pork loin** — 4 thin cutlets, pounded flat (tonkatsu)
-- [ ] **Eggs** — 1 dozen (tamagoyaki + oyakodon)
-- [ ] **Chicken thighs, boneless** — 4 (oyakodon)
-- [ ] **Shrimp** — ½ lb, peeled (tempura)
+- [ ] **Thin-sliced beef rib eye or sirloin** — ½ lb (Session 2 japchae). Ask the Asian grocery to slice thin, or freeze briefly and slice yourself.
+- [ ] **Flanken-cut short ribs** — 2 lbs (Session 5 PROJECT galbi). Flanken = cut across the bones showing 3 bones per slice. Order from butcher if your market doesn't stock flanken.
+- [ ] **Beef sirloin or rib eye** (whole) — 1 lb (Session 5 PROJECT bulgogi). Slice very thin yourself from partially frozen meat.
 
----
+## 🥩 Proteins — Block 34
 
-## 🥩 Proteins — Block 32
-
-- [ ] **Chicken thighs** — 4–6 bone-in or boneless (teriyaki + yakitori)
-- [ ] **Chicken misc. parts for yakitori** — skin, thigh chunks, optionally liver 
-- [ ] **Beef ribeye, very thinly sliced** — 1 lb (shabu-shabu; ask butcher or use a semi-frozen block and slice yourself)
-- [ ] **Ramen toppings** — soft-boiled eggs × 4, char siu pork (or use chashu from Block 19), nori
+- [ ] **Chicken thighs and drumsticks** — 3 lbs (Session 7 Korean fried chicken)
+- [ ] **Scallions** — 3 large bunches (Session 8 pajeon; also banchan)
+- [ ] **Flanken or bone-in short ribs** — 3–4 lbs (Session 9 galbi-jjim braised short ribs)
 
 ---
 
-## 🥦 Produce
+## 🥬 Vegetables & Produce
 
-- [ ] Green onions — 2 bunches (many dishes)
-- [ ] Ginger — 1 large piece
-- [ ] Garlic — 2 heads
-- [ ] Cucumber — 4 (sunomono + teriyaki sides)
-- [ ] Baby bok choy — 4 (various)
-- [ ] Corn — 2 ears or 1 cup frozen (ramen topping)
-- [ ] Napa cabbage — ½ head (shabu-shabu)
-- [ ] Shiitake mushrooms — 8 oz (tempura + shabu-shabu)
-- [ ] Enoki mushrooms — 1 pack (shabu-shabu)
-- [ ] Firm tofu — 1 block (shabu-shabu + miso soup)
-- [ ] Green beans — 1 lb (tempura)
-- [ ] Lime + lemon — for ponzu (shabu)
+- [ ] Napa cabbage — 1 large head (Session 1 kimchi)
+- [ ] Daikon radish — 1 medium (kimchi and pickled daikon banchan)
+- [ ] Carrots — 2–3 (kimchi and banchan)
+- [ ] Spinach — 2 bags (blanched spinach banchan, multiple sessions)
+- [ ] Bean sprouts — 1 bag (bibimbap namul, Session 6)
+- [ ] Zucchini — 2 (bibimbap namul)
+- [ ] Shiitake mushrooms — 8 oz dried or fresh (japchae, bibimbap)
+- [ ] Garlic — 2 large heads
+- [ ] Ginger — small knob
+- [ ] Scallions / green onions — 3 bunches (throughout)
+- [ ] Asian pear or kiwi — 1 (enzyme tenderiser for galbi and bulgogi marinades)
+- [ ] Cucumber — 1–2 (banchan, pickled side)
+- [ ] Lettuce leaves — ssam (wrapping leaves for BBQ session)
+- [ ] Perilla / shiso leaves — ssam board (optional but authentic)
 
 ---
 
-## 🥫 Japanese Pantry (buy if not stocked)
+## 🧂 Pantry (Korean Staples — Buy All Before Starting)
 
-- [ ] Kombu (dried kelp) — 1 oz
-- [ ] Katsuobushi (bonito flakes) — 1 oz
-- [ ] White miso — 1 lb tub
-- [ ] Soy sauce — 1 bottle (Kikkoman or Japanese brand)
-- [ ] Mirin — 1 bottle
-- [ ] Sake — cooking sake or drinking sake
-- [ ] Rice vinegar — 1 bottle
-- [ ] Sesame oil — toasted
-- [ ] **Neutral frying oil** (canola, peanut, or grapeseed) — at least 48 oz; use for Session 0 deep fry, tempura, and tonkatsu
-- [ ] Sesame seeds — white
-- [ ] Panko breadcrumbs — 1 large bag
-- [ ] Japanese short-grain rice — 5-lb bag
-- [ ] Ramen noodles — fresh or dried, 4 servings
-- [ ] Soba noodles — 1 pack
-- [ ] Udon noodles — 1 pack (shabu-shabu finish)
-- [ ] Nori (dried seaweed sheets) — 1 pack
-- [ ] Furikake — 1 bottle (rice seasoning)
-- [ ] Japanese mayo (Kewpie) — 1 bottle
-- [ ] Tonkatsu sauce — store-bought (Bull-Dog brand) or make your own (Worcestershire + ketchup + soy)
-- [ ] Dashi powder — backup if you want to skip scratch dashi mid-week
-- [ ] Togarashi (Japanese chili blend) — 1 small bottle
+> Most of these keep for months or years. This is a one-time investment that covers many blocks.
+
+| Item | Needed for | Notes |
+|------|-----------|-------|
+| **Gochujang** (large tub) | Tteokbokki, BBQ, fried chicken sauce | Store in fridge after opening |
+| **Doenjang** (tub) | Session 3 jjigae | Not the same as Japanese miso — don't substitute |
+| **Gochugaru** (bag) | Kimchi, banchan, dipping sauces | Coarse flakes; medium heat |
+| **Sesame oil (toasted)** | Every dish | Finishing oil only; don't heat |
+| **Soy sauce** | Marinades, jjigae | Korean ganjang or Japanese dark |
+| **Fish sauce** | Kimchi, jjigae | Thai or Vietnamese fish sauce works |
+| **Rice vinegar** | Dipping sauces, pickles | |
+| **Mirin** | Marinades | |
+| **Dangmyeon** (sweet potato glass noodles) | Session 2 japchae | Soak before cooking |
+| **Cylindrical tteok** (rice cakes) | Session 4 tteokbokki | Frozen or refrigerated; Korean grocery |
+| **Firm tofu** | Session 3 jjigae | Press and cube |
+| **Dried anchovies (myeolchi)** | Anchovy stock for jjigae | Small silver ones |
+| **Kombu** | Anchovy stock | Dashi kombu works |
+| **Short-grain white rice** | Every session | Korean or Japanese variety |
+| **Potato starch** | Session 7 KFC batter | Shatteringly crispy coating |
+| **Sesame seeds** | Garnish throughout | Keep sealed; go rancid quickly once open |
+
+---
+
+## 🍷 Drinks & Dessert (Optional)
+
+- [ ] **Makgeolli** (Korean rice wine) — welcome drink for BBQ session (Korean grocery)
+- [ ] **Soju** — optional BBQ pairing
+- [ ] **Patbingsu supplies for Session 10 dessert**: sweet red bean paste (tinned), condensed milk, fresh fruit
+
+---
+
+*Navigation:*
+← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)

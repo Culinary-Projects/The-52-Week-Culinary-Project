@@ -4,15 +4,11 @@
 
 ---
 
-> ⚗️ **Experimental** — This block has not yet been cooked through by the author.
-> Content is draft; recipes and timing are untested.
-
-
 > *"The professional kitchen tests you on your vegetables. Anyone can cook a steak. The chef who can make a carrot taste like the best thing on the plate — that person has actually learned something."*
 
 ---
 
-**Quick Reference:** [→ Block 11–12 Recipe Quick Ref](quick-ref.md)
+**Quick Reference:** [→ Week 11–12 Recipe Quick Ref](quick-ref.md)
 
 ---
 
@@ -22,7 +18,7 @@ Vegetables are where most home cooks coast. The steak gets the technique; the ve
 
 The CIA spends four full weeks on vegetable fabrication and cookery before touching protein. The principle: if you can't make a carrot interesting, you don't yet understand heat.
 
-📖 **Read first:** [Serious Eats — The Science of Browning Vegetables](https://www.bonappetit.com/story/how-to-roast-vegetables) — the same Maillard logic from Block 3–4 applies here; the only difference is water content and sugar concentration.
+📖 **Read first:** [Serious Eats — The Science of Browning Vegetables](https://www.bonappetit.com/story/how-to-roast-vegetables) — the same Maillard logic from Week 3–4 applies here; the only difference is water content and sugar concentration.
 
 
 ### Session 0 — Two Purées, One Method *(optional)*
@@ -274,23 +270,33 @@ Cook a complete dinner where vegetables are the headline, not the support act. N
 
 ---
 
-### Session 9 — A Completely Vegetable-Driven Main
+### Session 9 — Potatoes: The Technique Spectrum
 
-**Skill:** Executing a dinner where a vegetable is the structural main course — not a supplement to protein, not a side.
+**Skill:** Potatoes are the most versatile vegetable in the curriculum — they can be crispy, silky, caramelized, creamy, or crunchy depending entirely on method. Tonight you cook potatoes three ways, comparing the technique differences side by side.
 
-**Tonight's choice: stuffed whole roasted peppers.**
+**The three potato techniques:**
 
-📖 **Read:** [Bon Appétit — Stuffed Peppers](https://www.bonappetit.com/recipe/stuffed-peppers)
+**Rösti** — the Swiss potato cake: grated raw potato (or parboiled), seasoned and pressed into a skillet with butter, cooked over medium heat until golden and crispy on the outside, soft within. The starch must release and set to hold the cake together.
 
-The stuffing is the lesson: aromatic base (onion, garlic) + grain (rice, farro, or barley) + acid (tomato) + fat (cheese or olive oil) + herbs. This formula produces a satisfying, cohesive dish where the vegetable wrapper is structural — not decorative.
+📖 **Read:** [The Kitchn — How to Make Rösti](https://www.thekitchn.com/how-to-make-rosti-231574)
 
-**Full Meal:** Stuffed roasted peppers (3 colors — red, yellow, orange) + [simple tomato sauce](https://cooking.nytimes.com/recipes/1015178-marcella-hazans-tomato-sauce) beneath them + salad
+**Pommes purée** — the French mashed potato: baked or boiled potatoes riced while hot, then beaten with butter and warm cream until glossy. The difference from American mash is the amount of butter (more than you think) and the texture (silky, not dense).
 
-| Component | Notes |
-|-----------|-------|
-| Peppers | Halved, par-roasted before stuffing to soften walls |
-| Stuffing | Sautéed onion + garlic + cooked farro or rice + cherry tomatoes + parmesan |
-| Sauce beneath | Simple tomato concassé or straight from your Block 5 sauce skills |
+📖 **Reference:** [Serious Eats — Ultra-Creamy Mashed Potatoes](https://www.seriouseats.com/rich-and-creamy-mashed-potatoes-recipe)
+
+**Dauphinoise** — the French gratin: thin potato slices layered in cream and garlic, baked until the top is golden and the potatoes have absorbed the cream into a single silky block. Requires mandoline-thin slices and patience.
+
+📖 **Reference:** [BBC Good Food — Dauphinoise Potatoes](https://www.bbcgoodfood.com/recipes/dauphinoise-potatoes)
+
+**Full Meal:** Make one of the three above as the main event + a simple protein (seared chicken thighs or fried eggs work beautifully) + a bitter green salad
+
+| Technique | Key skill | Time |
+|-----------|-----------|------|
+| Rösti | Starch release, patience with the crust | 25 min |
+| Pommes purée | Texture control, butter ratio | 35 min |
+| Dauphinoise | Mandoline slicing, oven patience | 90 min |
+
+> **Why potatoes deserve their own session:** A cook who can produce silky pommes purée, a crispy rösti, and a gratin dauphinoise has a side dish for every occasion — from a Tuesday dinner to a dinner party main. These three techniques cover 90% of what you'll ever need from a potato.
 
 ---
 
@@ -306,13 +312,13 @@ Cook 4–5 vegetable preparations using different techniques. Serve them as a ta
 | 4 | Mushroom bourguignon on toast | Sear + braise |
 | 5 | Quick-pickled vegetables + bread | Fermentation + pickling |
 
-This is practice for the multi-course timing you'll need for the dinner parties in Blocks 53–54.
+This is practice for the multi-course timing you'll need for the dinner parties in Weeks 53–54.
 
 ---
 
 ## Module 2 Checkpoint Continues
 
-Vegetables are now in your repertoire, not just alongside your repertoire. Before moving to Blocks 15–16 (Pasta & Grains), you should be able to answer yes to:
+Vegetables are now in your repertoire, not just alongside your repertoire. Before moving to Weeks 15–16 (Pasta & Grains), you should be able to answer yes to:
 
 - [ ] I can blanch and shock a green vegetable and it stays bright green
 - [ ] I can roast any vegetable without it steaming in its own moisture

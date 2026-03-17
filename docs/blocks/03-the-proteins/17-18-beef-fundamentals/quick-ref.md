@@ -1,55 +1,56 @@
-# ⚡ Block 17–18 Quick Reference — Beef Fundamentals
+# ⚡ Block 17–18 Quick Reference — Lamb & Game
 
 ← [Back to Full Guide](index.md) | [Shopping List →](shopping-list.md)
 
 ---
 
-## Block 15 Recipes — The Steak Education
+## Block 17 Recipes — Lamb: Chops to Shoulder
 
-| Session | Dish | Skill | Link |
-|-----|------|-------|------|
-| **Session 1** | ⏰ Reverse-Seared Ribeye + Creamy Mashed Potatoes + Salad | Dry brine; reverse sear; temp precision | [Dry Brine](https://www.seriouseats.com/how-to-dry-brine) · [Reverse Sear](https://www.seriouseats.com/reverse-seared-steak-recipe) · [Mashed Potatoes](https://www.seriouseats.com/rich-and-creamy-mashed-potatoes-recipe) |
-| **Session 2** | Pan-Seared Strip + Compound Butter + Creamed Spinach | High-heat pan sear; classical butter finish | [Steak Myths](https://www.seriouseats.com/old-wives-tales-about-cooking-steak) · [Creamed Spinach](https://www.seriouseats.com/food-lab-creamed-spinach-recipe) |
-| **Session 3** | Smash Burgers | Fat ratio; Maillard contact; ground beef handling | [Smash Burgers](https://www.seriouseats.com/classic-smashed-burgers-recipe) |
-| **Session 4** | Skirt Steak + Chimichurri + Rice | Thin cuts; always against the grain; marination | [Skirt Steak Fajitas](https://www.seriouseats.com/grilled-skirt-steak-fajitas-food-lab-recipe) · [Chimichurri](https://www.seriouseats.com/sauced-chimichurri-sauce-recipe) |
-| **Session 5** | ⏰ 🔨 **PROJECT: Standing Rib Roast** + Creamed Spinach + Roast Garlic Mashed | Expensive cut precision; reverse sear at scale | [Prime Rib](https://www.seriouseats.com/perfect-prime-rib-beef-recipe) · [High vs Low Heat](https://www.seriouseats.com/high-heat-vs-low-and-slow-prime-rib-11875575) · [Creamed Spinach](https://www.seriouseats.com/food-lab-creamed-spinach-recipe) |
-
----
-
-## Block 16 Recipes — Braising & Tougher Cuts
-
-| Session | Dish | Skill | Link |
-|-----|------|-------|------|
-| **Session 6** | ⏰ Red Wine Braised Short Ribs + Polenta or Egg Noodles | Collagen → gelatin braise; patience | [Short Ribs](https://www.seriouseats.com/red-wine-braised-beef-short-ribs-recipe) |
-| **Session 7** | Chuck Pot Roast + Braising Vegetables | Low-and-slow chuck; weeknight timing | [Pot Roast Method](https://www.seriouseats.com/mississippi-pot-roast-recipe-8774586) |
-| **Session 8** | ⏰ Braised Brisket + Pickled Onions + Coleslaw + Rye | Brisket; fat and collagen; long low cook | [Brisket Methods](https://www.seriouseats.com/brisket-cooking-methods-tested-11869530) |
-| **Session 9** | Steak au Poivre + Roast Potatoes + Grilled Asparagus | Cream-cognac pan sauce; pepper crust | [Steak au Poivre](https://www.seriouseats.com/steak-au-poivre) · [Roast Potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) |
-| **Session 10** | 🔨 **PROJECT: Beef Dinner for Four — technique of your choice** | Full synthesis: planning + execution for guests | [Beef Guides Reference](https://www.seriouseats.com/beef-guides-5118010) |
+| Session | Dish | Skill | Links |
+|---------|------|-------|-------|
+| **Session 1** | Pan-Seared Lamb Chops + Roast Potatoes + Salad | Hard sear; render the fat cap first; internal 125–130°F | [Lamb Chops](https://www.recipetineats.com/lamb-chops/) · [Roast Potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) |
+| **Session 2** | Herb-Crusted Rack of Lamb + Dauphinoise + Green Beans | Frenching; dijon-breadcrumb crust; high-heat roast to 125–130°F | [Rack of Lamb — SE](https://www.seriouseats.com/how-to-french-rack-of-lamb) · [Dauphinoise](https://www.bbcgoodfood.com/recipes/dauphinoise-potatoes) |
+| **Session 3** | Ground Lamb Kofta + Flatbread + Tzatziki | Ground lamb; cumin-coriander-cinnamon spice blend; skewer | [Kofta](https://www.recipetineats.com/lamb-kofta/) |
+| **Session 4** | ⏰ Slow-Roasted Lamb Shoulder + Root Veg | Low-and-slow 300°F / 4–5 hrs; collagen conversion; probe-tender | [Lamb Shoulder](https://www.recipetineats.com/slow-roasted-lamb-shoulder/) |
+| **Session 5** | 🔨 **PROJECT: Lamb Dinner for Four** | Full synthesis: butcher, season, cook, plate at scale | [All Lamb — SE](https://www.seriouseats.com/lamb) |
 
 ---
 
-## The Beef Fundamentals: Key Rules
+## Block 18 Recipes — Braises, Duck & Game
 
-| Principle | Why It Matters |
-|-----------|---------------|
-| **Dry brine 12–24 hrs ahead** | Salt penetrates, surface dries = better crust, more seasoning throughout |
-| **High cuts need high heat + rest** | Ribeye, strip — fast and hot, then rest 5–10 min before cutting |
-| **Tough cuts need low heat + time** | Short ribs, chuck, brisket — collagen converts to gelatin only above 3 hrs |
-| **Always cut thin cuts against the grain** | Skirt, flank, hanger — fiber direction is visible; cutting with it makes it chewy |
-| **Use a thermometer** | Not optional. 130°F = medium-rare. Every time. |
+| Session | Dish | Skill | Links |
+|---------|------|-------|-------|
+| **Session 6** | ⏰ Braised Lamb Shanks + Creamy Polenta + Gremolata | Brown hard; braise 2.5 hrs; reduce sauce; gremolata finish | [Braised Shanks](https://www.bbcgoodfood.com/recipes/braised-lamb-shanks) · [Polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe) |
+| **Session 7** | ⏰ Lamb Navarin (French Spring Braise) + Baguette | Staggered veg add times; lighter braise; acid balance | [Lamb Navarin — SE](https://www.seriouseats.com/lamb-navarin-recipe) |
+| **Session 8** | ⏰ Duck Confit + Duck-Fat Roast Potatoes + Bitter Greens | Low-temp fat rendering; no browning until the finish | [Duck Confit](https://www.recipetineats.com/duck-confit/) |
+| **Session 9** | Pan-Seared Duck Breast + Cherry Pan Sauce + Pickled Cucumbers | Cold-pan fat render; score skin; medium-rare 130°F | [Duck Breast — SE](https://www.seriouseats.com/how-to-pan-sear-and-baste-duck-breast) · [Pickled Cucumbers](https://www.seriouseats.com/quick-pickled-cucumbers-rice-vinegar-recipe) |
+| **Session 10** | 🔨 **PROJECT: Game & Lamb Dinner for Guests** | Full multi-element meal; timing; plating at scale | [Merguez — SE](https://www.seriouseats.com/homemade-merguez-sausage-recipe) |
 
 ---
 
-## Shopping Notes
+## Internal Temperature Guide — Lamb & Duck
 
-**Block 15:**
-- **Ribeye** — 1.5–2 inch thick, bone-in preferred; buy a day or two ahead for the Session 1 dry brine
-- **Strip steak** — 2 pieces, 1 inch thick
-- **Ground beef** — 80/20, NOT lean; 1.5 lbs for burgers for 2
-- **Skirt steak** — 1–1.5 lbs (inside skirt is often more tender than outside)
-- **Standing rib roast** — 2-bone minimum; order from a butcher if not commonly stocked
+| Protein | Target | Notes |
+|---------|--------|-------|
+| Lamb chops / rack | 125–130°F | Served pink (medium-rare); carryover to ~135°F |
+| Lamb shoulder / shanks | 195°F+ | Collagen fully converted; probe meets no resistance |
+| Duck breast | 130–135°F | Serve pink; score skin deeply before cooking |
+| Duck confit | 165°F+ | Food-safety minimum; cook slow until fat-tender |
 
-**Block 16:**
-- **Beef short ribs** — bone-in, flanken or English cut; 3 lbs minimum
-- **Chuck roast** — 3 lbs, well-marbled
-- **Brisket** — flat or flat + point; 3–4 lbs (ask butcher for USDA Choice minimum)
+---
+
+## Technique Reference — Key Skills This Block
+
+| Technique | When | Key Signal |
+|-----------|------|------------|
+| **Fat cap rendering** (chops) | Before searing; hold chop upright | Fat turns translucent, stops rolling |
+| **Dijon-breadcrumb crust** (rack) | After initial sear, before oven | Applied cold; golden at 10 min |
+| **Low-and-slow shoulder** | 300°F / 4–5 hours | Probe inserts with zero resistance |
+| **Braising** (shanks, navarin) | Stovetop brown → oven | Liquid at ½ height; never a full boil |
+| **Gremolata finish** | Stir in raw at table | Parsley + lemon zest + garlic; cuts richness |
+| **Duck skin scoring** | Before any heat; cold pan start | Tight crosshatch; don't cut the flesh |
+
+---
+
+*Navigation:*
+← [Back to Full Guide](index.md) | [Shopping List →](shopping-list.md)

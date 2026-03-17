@@ -5,13 +5,13 @@
 
 > **The goal of this module:** Move beyond technique into taste. Learn how salt, acid, fat, and heat interact to build layered flavor — then apply that understanding to one of the most satisfying skill sets in the kitchen: fresh pasta, handmade grains, and confident poultry cookery.
 
-By the end of Block 16, your palate should be a tool as reliable as your knife.
+By the end of Week 14, your palate should be a tool as reliable as your knife.
 
 ---
 
-## Blocks in This Module
+## Weeks in This Module
 
-| Block | Topic | Full Guide | Quick Ref | Shopping List |
+| Weeks | Topic | Full Guide | Quick Ref | Shopping List |
 |-------|-------|------------|-----------|---------------|
 | 9–10 | Seasoning & Flavor Building | [→ Guide](09-10-seasoning-and-flavor/index.md) | [→ Quick Ref](09-10-seasoning-and-flavor/quick-ref.md) | [→ Shopping](09-10-seasoning-and-flavor/shopping-list.md) |
 | 11–12 | Vegetables & Plant-Forward Cooking | [→ Guide](11-12-vegetables-plant-forward/index.md) | [→ Quick Ref](11-12-vegetables-plant-forward/quick-ref.md) | [→ Shopping](11-12-vegetables-plant-forward/shopping-list.md) |
@@ -37,13 +37,13 @@ See the [Kitchen Equipment Guide](../../equipment-guide.md). New items introduce
 
 | Item | Introduced |
 |------|-----------|
-| Mandoline slicer | Block 11 |
-| Fine-mesh sieve | Block 11 |
-| Potato ricer | Block 13 |
-| Pasta machine (or rolling pin) | Block 13 |
-| Large pasta pot (8+ qt) | Block 13 |
+| Mandoline slicer | Week 11 |
+| Fine-mesh sieve | Week 11 |
+| Potato ricer | Week 13 |
+| Pasta machine (or rolling pin) | Week 13 |
+| Large pasta pot (8+ qt) | Week 13 |
 
 ---
 
-*Previous module: [Module 1 — Foundational Skills](../01-foundational-skills/README.md) (Blocks 1–8)*
-*Next module: [Module 3 — The Proteins](../03-the-proteins/README.md) (Blocks 17–28)*
+*Previous module: [Module 1 — Foundational Skills](../01-foundational-skills/README.md) (Weeks 1–8)*
+*Next module: [Module 3 — The Proteins](../03-the-proteins/README.md) (Weeks 17–28)*

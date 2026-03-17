@@ -18,7 +18,7 @@
 
 | Session | Project | Method | Timing |
 |-----|---------|--------|--------|
-| Session 6 | ⏰ [Pancetta cure (start)](https://www.seriouseats.com/cured-pork-explainer) | Dry cure on pork belly | Cure 5–7 days (back in Block 27) |
+| Session 6 | ⏰ [Pancetta cure (start)](https://www.seriouseats.com/cured-pork-explainer) | Dry cure on pork belly | Cure 5–7 days (back in Week 27) |
 | Session 7 | ⏰ [Duck/Chicken rillettes](https://www.seriouseats.com/easy-pork-rillettes-recipe) | Confit + shred | 2 hrs total |
 | Session 8 | **Midpoint Redo** | Pick one dish; cook it again | Reflective cook |
 | Session 9 | [Brown-sugar cured salmon (candied)](https://www.seriouseats.com/gravlax-cured-salmon-recipe) | [Variant gravlax cure](https://www.seriouseats.com/gravlax-cured-salmon-recipe) | Cure 24–36 hrs; start Thu night |

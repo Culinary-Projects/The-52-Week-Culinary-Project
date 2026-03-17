@@ -4,7 +4,7 @@
 
 ---
 
-> **Plan ahead:** of Block 25, you start a 48–72 hour gravlax cure. of Block 26, you start a 5–7 day pancetta cure. There's always something in the fridge transforming.
+> **Plan ahead:** Monday of Week 25, you start a 48–72 hour gravlax cure. Monday of Week 26, you start a 5–7 day pancetta cure. There's always something in the fridge transforming.
 
 ---
 
@@ -18,26 +18,26 @@
 
 ---
 
-## 🥩 Proteins — Block 25
+## 🥩 Proteins — Week 25
 
-- [ ] **Salmon fillet, skin-on, center-cut** — 1–1.5 lbs (gravlax cure)
-- [ ] **Ground lamb or lamb shoulder** — 1 lb (merguez; grind your own if possible)
-- [ ] **Pork shoulder** — 2 lbs (rillettes — slow confit)
-- [ ] **Duck fat** — 1 lb jar (rillettes; lard works too)
+- [ ] **Salmon fillet, skin-on, center-cut** — 1–1.5 lbs (Mon gravlax cure)
+- [ ] **Ground lamb or lamb shoulder** — 1 lb (Tue merguez; grind your own if possible)
+- [ ] **Pork shoulder** — 2 lbs (Sat rillettes — slow confit)
+- [ ] **Duck fat** — 1 lb jar (Sat rillettes; lard works too)
 
-**For charcuterie board :**
+**For charcuterie board (Wed):**
 - [ ] Prosciutto, salami, coppa — varied deli assortment
 - [ ] Pâté or store-bought rillette
 
 ---
 
-## 🥩 Proteins — Block 26
+## 🥩 Proteins — Week 26
 
-- [ ] **Pork belly** — 1.5 lbs (pancetta cure — won't eat until Block 27)
-- [ ] **Chicken thighs** — 4 bone-in or duck legs × 2 (rillettes)
-- [ ] **Store-bought pancetta** — for pasta carbonara comparison
+- [ ] **Pork belly** — 1.5 lbs (Mon pancetta cure — won't eat until Week 27)
+- [ ] **Chicken thighs** — 4 bone-in or duck legs × 2 (Tue rillettes)
+- [ ] **Store-bought pancetta** — for Mon pasta carbonara comparison
 
-**For cured meat tasting :**
+**For cured meat tasting (Sat):**
 - [ ] 5 different cured meats from deli/specialty market — prosciutto, salami, coppa or speck, regional specialty, pâté
 
 ---
@@ -46,10 +46,10 @@
 
 - [ ] Diamond Crystal Kosher salt — large box (all curing uses by weight)
 - [ ] Granulated sugar (gravlax) and brown sugar (candied salmon)
-- [ ] Fresh dill — 1 large bunch (gravlax)
+- [ ] Fresh dill — 1 large bunch (Mon gravlax)
 - [ ] Whole black peppercorns (cure + merguez)
 - [ ] Cumin, coriander, smoked paprika, cayenne — for merguez
-- [ ] Harissa — small jar (merguez meal)
+- [ ] Harissa — small jar (Tue merguez meal)
 - [ ] Bay leaves — dried (pancetta cure)
 - [ ] Fresh thyme — 1 bunch (pancetta cure + rillettes)
 
@@ -57,15 +57,15 @@
 
 ## 🥦 Produce
 
-- [ ] Red onions — 4 (quick pickles)
+- [ ] Red onions — 4 (quick pickles Fri)
 - [ ] Cucumbers — 3 (pickles)
 - [ ] Jalapeños — 4 (optional pickles)
 - [ ] Garlic — 2 heads
 - [ ] Lemons — 4
 - [ ] Shallots — 4
-- [ ] Red bell peppers — 2 (Block 25 merguez plate accompaniment — roast until charred)
+- [ ] Red bell peppers — 2 (Week 25 Tue merguez plate accompaniment — roast until charred)
 
-**Board accompaniments (+):**
+**Board accompaniments (Wed + Sat):**
 - [ ] Cornichons — 1 jar
 - [ ] Whole-grain mustard
 - [ ] Honey — small jar
@@ -79,12 +79,12 @@
 - [ ] White wine vinegar (quick pickles + brine)
 - [ ] Apple cider vinegar
 - [ ] Baguette — multiple (boards; buy fresh each time)
-- [ ] Rye bread or pumpernickel (cured salmon board)
-- [ ] Cream cheese (cured salmon)
-- [ ] Capers (and boards)
-- [ ] Couscous (merguez dinner)
-- [ ] Eggs — 6 (Block 26 carbonara; various)
-- [ ] Plain whole-milk yogurt — 1 cup (Block 25 merguez dipping sauce)
-- [ ] Pecorino Romano + Parmesan (carbonara Block 26)
-- [ ] Spaghetti — 1 lb (Block 26 carbonara)
-- [ ] Sheep casings — optional; order online (sausage)
+- [ ] Rye bread or pumpernickel (Fri cured salmon board)
+- [ ] Cream cheese (Fri cured salmon)
+- [ ] Capers (Fri and boards)
+- [ ] Couscous (Tue merguez dinner)
+- [ ] Eggs — 6 (Mon Week 26 carbonara; various)
+- [ ] Plain whole-milk yogurt — 1 cup (Week 25 Tue merguez dipping sauce)
+- [ ] Pecorino Romano + Parmesan (carbonara Mon Week 26)
+- [ ] Spaghetti — 1 lb (Mon Week 26 carbonara)
+- [ ] Sheep casings — optional; order online (Tue sausage)

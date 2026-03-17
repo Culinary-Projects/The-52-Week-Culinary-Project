@@ -4,10 +4,6 @@
 
 ---
 
-> ⚗️ **Experimental** — This block has not yet been cooked through by the author.
-> Content is draft; recipes and timing are untested.
-
-
 > "Charcuterie is patience made edible. A piece of pork belly cured for five days, rinsed, dried, and sliced — that's the result of standing in a kitchen for twenty minutes spread across a week. The time is doing all the work. Your job is to not rush it."
 
 ---
@@ -28,8 +24,8 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 
 ### Session 1 — Gravlax (Cured Salmon)
 
-**Skill:** Dry cure ratios, curing time, slicing technique 
-**Read first:** [Gravlax — Cured Salmon](https://www.seriouseats.com/gravlax-cured-salmon-recipe)
+**Skill:** Dry cure ratios, curing time, slicing technique  
+**Read first:** [BBC Good Food — Gravadlax](https://www.bbcgoodfood.com/recipes/gravadlax)
 
 **What you're learning:** Gravlax is cured salmon — no heat involved. A 2:1 salt-to-sugar ratio by weight, plus dill, applied to fresh salmon for 48–72 hours. The salt draws out moisture, firms the texture, and intensifies flavor. The result eats like the best smoked salmon you've ever had, made at home for a fraction of the cost.
 
@@ -43,7 +39,7 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 
 ### Session 2 — Sausage Making Fundamentals
 
-**Skill:** Sausage stuffing, emulsification, seasoning, casing handling 
+**Skill:** Sausage stuffing, emulsification, seasoning, casing handling  
 **Read first:** [Homemade Merguez Sausage](https://www.seriouseats.com/homemade-merguez-sausage-recipe)
 
 **What you're learning:** Sausage is ground and seasoned meat, packed into casings. The fat content matters (25–30% for juicy links). Temperature control during grinding matters (keep everything cold — fat smearing is the enemy). Spice blooming matters. This is your first step into charcuterie production.
@@ -58,7 +54,7 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 
 ### Session 3 — Taste the Gravlax / Cured Charcuterie Board
 
-**Skill:** Slicing cured fish, building a charcuterie spread 
+**Skill:** Slicing cured fish, building a charcuterie spread  
 **Read first:** [Best Charcuterie Boards](https://www.seriouseats.com/best-charcuterie-boards-8424659)
 
 **What you're learning:** Today you slice your gravlax (if it went in at Session 1) and taste the result alongside store-bought cured products — prosciutto, salami, coppa. The comparison trains your palate on what curing does to flavor and texture.
@@ -72,7 +68,7 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 
 ### Session 4 — Quick Pickles & Lacto-Fermented Vegetables
 
-**Skill:** Quick-pickle acid ratios; understanding fermentation vs. pickling 
+**Skill:** Quick-pickle acid ratios; understanding fermentation vs. pickling  
 **Read first:** [Quick-Pickled Onions](https://www.seriouseats.com/quick-pickle-rapid-pickled-onion-recipe)
 
 **What you're learning:** Quick pickles aren't fermentation — they're acid baths (vinegar-based). But the result is similar: preserved, tangy, crunchy vegetables that transform simple dishes. This session make pickled red onions + one other vegetable (cucumbers, jalapeños, or carrots). These become your charcuterie board companions all weekend.
@@ -87,7 +83,7 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 
 ### ⏰ Session 5 — PROJECT: Full Charcuterie Spread + Potted Rillettes
 
-**Skill:** Making rillettes (pork potted in its own fat); assembling a composed spread 
+**Skill:** Making rillettes (pork potted in its own fat); assembling a composed spread  
 **Goal:** Cook a rillette-style spread using pork shoulder or duck (slow cook in fat, shred, pot in fat with seasoning). This is beginner charcuterie production. Plus, compose a full charcuterie spread featuring the week's cured products.
 
 **Reference:** [Pork Rillettes](https://www.seriouseats.com/easy-pork-rillettes-recipe) — season generously, cook low and slow in fat (300°F / 3–4 hours), shred while warm, mix with rendered fat, pot and chill.
@@ -107,7 +103,7 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 
 ### Session 6 — Pancetta-Style Cured Belly (Start the Project)
 
-**Skill:** Multi-day salt cure on pork belly; understanding cure penetration and timing 
+**Skill:** Multi-day salt cure on pork belly; understanding cure penetration and timing  
 **Read first:** Reference duck confit and gravlax techniques already covered
 
 **What you're learning:** Pork belly rubbed with salt, black pepper, and aromatics and left to cure in the fridge for 5–7 days becomes a homemade pancetta (unsmoked). You won't be able to eat it until next week, but this is how you start to think in longer cooking time scales.
@@ -121,18 +117,18 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 
 ---
 
-### Session 7 — Duck or Chicken Rillettes
+### Session 7 — Chicken Liver Pâté
 
-**Skill:** Confiting poultry; rillettes texture and fat ratio 
-**Read first:** Reference classic duck confit technique from Block 14
+**Skill:** Pâté as a gateway to the broader charcuterie craft — building smooth, silky spreadable pâté from chicken livers, butter, aromatics, and brandy. This is one of the simplest luxury preparations in French cooking.
+**Read first:** [BBC Good Food — Chicken Liver Pâté](https://www.bbcgoodfood.com/recipes/chicken-liver-pate)
 
-**What you're learning:** Chicken thighs confited in duck fat (or vegetable oil), then shredded and packed in their own fat, become rillettes. Lighter than pork rillettes, equally rich. This builds on the poultry confiting technique from Block 14.
+**What you're learning:** Properly cooked chicken livers (pink in the center, never gray through) blended with softened shallots, garlic, thyme, and butter into a silky pâté. The butter seal on top (clarified butter poured over the surface) preserves it in the fridge for up to a week and gives it a finished, professional appearance. Chill for at least 2 hours before serving.
 
 **Full Meal:**
-- [Chicken rillettes](https://www.seriouseats.com/easy-pork-rillettes-recipe) on toast
-- [Simple pickled vegetable salad](https://www.seriouseats.com/quick-pickle-rapid-pickled-onion-recipe)
+- Chicken liver pâté on toast with cornichons, Dijon mustard, and cured pickled vegetables from Session 4
+- Glass of Sauternes or a light Riesling pairs perfectly
 
-> 🎥 **Compare Notes:** [Chicken Jardinière](https://www.youtube.com/watch?v=shvxFx5CRGQ) *(Jacques Pépin)* — Pépin shows poultry cooked low-and-slow in fat and aromatics — the same principle your rillette is built on. Watch how he reads texture rather than temperature.
+> 🎥 **Compare Notes:** [Chicken Liver Parfait](https://www.bbcgoodfood.com/recipes/chicken-liver-parfait) — a more refined parfait version; compare the texture difference between blended pâté (rougher, more rustic) and the strained parfait (silky and smooth). Both are correct — they're targeting different textures.
 
 ---
 
@@ -147,8 +143,8 @@ Choose ONE technique that didn't go as planned in the past six months. Cook it a
 
 ### Session 9 — Bacon-Cured Salmon Breakfast Board
 
-**Skill:** Applying cure variations; building breakfast charcuterie 
-**Read first:** Reference gravlax technique from Block 25
+**Skill:** Applying cure variations; building breakfast charcuterie  
+**Read first:** Reference gravlax technique from Week 25
 
 **What you're learning:** Make a light variant of gravlax using a bit of brown sugar and cracked pepper instead of white sugar and dill. The result is a "candied salmon" cure. Serve on bagels or rye toast with cream cheese, cucumber, capers, and red onion.
 
@@ -160,7 +156,7 @@ Choose ONE technique that didn't go as planned in the past six months. Cook it a
 
 ### Session 10 — PROJECT: Complete Cured Meat Tasting + Pancetta Check-In
 
-**Skill:** Evaluating sourced cured meats; understanding regional charcuterie differences 
+**Skill:** Evaluating sourced cured meats; understanding regional charcuterie differences  
 **Goal:** Visit a deli or specialty market and buy 5 different cured meats: one prosciutto, one salami, one coppa or speck, one regional specialty, one pâté or rillette. Taste critically — fat content, salt, spice blends, texture. Your pancetta is curing in the fridge → not done yet, but check it.
 
 **Full Meal:**
@@ -206,53 +202,6 @@ Gravlax is the cleanest introduction to curing — no smoking, no casings, no sp
 - 📚 [***Charcuterie: The Craft of Salting, Smoking, and Curing* by Michael Ruhlman & Brian Polcyn**](https://www.amazon.com/dp/0393058298) — The foundational English-language charcuterie text. Covers every technique you did this week (and the next ten years of possible projects).
 
 ---
-
----
-
-## Module 3 Checkpoint
-
-> *Before you move on to Module 4 (The World's Kitchens), take stock of where you are.
-> World cuisines are ingredients + techniques you already know, reorganized by cultural logic.
-> If the proteins aren't solid, Module 4 will feel like guessing.*
-
-This is not graded. It is honest.
-
-### Protein Benchmark
-
-Take any protein from this module's range — a chicken thigh, a fish fillet, a pork chop — and cook it to the correct internal temperature without a timer or a recipe.
-
-Use a thermometer to verify after you pull it.
-
-| Target temp | Pulled at | Actual after rest |
-|-------------|-----------|-------------------|
-| ________°F | ______°F | ________°F |
-
-If you hit within 5°F: your instincts are calibrated. If you missed by more than 10°F: spend time in Block 17 before Module 4. Feel beats timer.
-
-### Cook-From-Memory Test
-
-Without opening any recipe, cook **one** of the following from scratch:
-
-- A full braise: sear protein, build fond, deglaze, aromatics, liquid, low and slow finish
-- Break down a whole protein (chicken or fish) and cook one component using two different methods
-- Cure something overnight: gravlax-style fish, quick-pickled pork fat, or a dry-rubbed chop
-
-The only rule: once anything goes on heat, no tabs open.
-
-### Skills Checklist
-
-Before Module 4, you should be able to answer yes to all of these:
-
-- [ ] I understand the temperature targets for beef (rare through well), pork, poultry, and fish — and I know why they differ
-- [ ] I can fabricate a whole chicken and a whole fish fillet without looking it up
-- [ ] I can braise any tough cut from start to finish: sear, fond, liquid ratio, time, finish
-- [ ] I understand the difference between dry-curing and wet-curing, and why salt is doing two different jobs
-- [ ] I can cook shellfish (clams, mussels, shrimp, scallops) using the right method for each
-- [ ] I can diagnose an overcooked protein by texture and explain how to avoid it next time
-
-If you're checking all of these: you're ready for Module 4.
-
-If you have two or more unchecked: revisit the relevant protein blocks. World cuisines are just these techniques in different spice contexts — the underlying execution has to be solid.
 
 *Navigation:*
 ← [Block 25–26: Pork](../25-26-pork/index.md) | [Block 29–30: French Classics →](../../04-worlds-kitchens/29-30-french/index.md)

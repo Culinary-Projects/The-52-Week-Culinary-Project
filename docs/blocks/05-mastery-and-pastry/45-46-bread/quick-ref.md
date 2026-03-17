@@ -12,7 +12,7 @@
 | Session 2 | [No-Knead (stretch-and-fold upgrade)](https://www.seriouseats.com/better-no-knead-bread-recipe) | ~80% | 3–4 folds in first 2 hrs | Compare crumb to Session 1's |
 | Session 3 | [No-Knead Focaccia](https://www.seriouseats.com/easy-no-knead-focaccia) | ~80–85% | Pan bake; oil-slicked | Mix morning; dimple + bake same day |
 | Session 4 | [Pullman Sandwich Loaf](https://www.seriouseats.com/bread-baking-pullman-loaf-recipe) | ~65% | [Enriched; Pullman pan](https://www.seriouseats.com/bread-baking-pullman-loaf-recipe) | Standard 2-hour proof |
-| Session 5 | ⏰ [**Sourdough Starter** (start)](https://www.seriouseats.com/sourdough-starter) | n/a | Mix flour + water; 5–7 day culture | Won't use until Block 42 |
+| Session 5 | ⏰ [**Sourdough Starter** (start)](https://www.seriouseats.com/sourdough-starter) | n/a | Mix flour + water; 5–7 day culture | Won't use until Week 42 |
 
 ## Block 42 — Sourdough, Brioche, Croissants
 

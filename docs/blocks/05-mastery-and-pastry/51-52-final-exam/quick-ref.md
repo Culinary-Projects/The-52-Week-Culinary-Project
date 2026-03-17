@@ -11,7 +11,7 @@ Rate each skill honestly on a 1–5 scale:
 - **3** — Can do this correctly most of the time
 - **5** — Automatic; no recipe needed; would teach this
 
-| Skill | Block 1 Rating | Block 52 Rating | Notes |
+| Skill | Week 1 Rating | Week 52 Rating | Notes |
 |---|---|---|---|
 | Knife skills — onion dice | | | |
 | Sear protein without sticking | | | |
@@ -57,8 +57,8 @@ Rate each skill honestly on a 1–5 scale:
 | Bread | 41–42 | Sourdough loaf; croissants |
 | Pastry | 43–44 | Pâte sucrée; tarte tatin |
 | Desserts | 45–46 | Panna cotta; crème brûlée; pavlova |
-| Signature / Mastery | 49–50 | Your defined dishes |
-| Self-Assessment & Final Exam | 51–52 | Cook from memory; final exam dish |
+| Signature / Mastery | 47–48 | Your defined dishes |
+| Menus / Timing | 49–50 | Dinner party for 8, on time |
 
 ---
 
@@ -108,19 +108,19 @@ Answer before cooking your final exam dish:
 
 ---
 
-## Block 51–52 at a Glance
+## Week 51–52 at a Glance
 
 | Session | Activity |
-|---------|----------|
-| **Session 1** | Skills inventory + knife time trial |
-| **Session 2** | Cook one dish from Blocks 1–10 |
-| **Session 3** | Cook complete 2-course meal from memory |
-| *(rest)* | Rest — do not cook |
-| **Session 4** | Final mise en place drill |
-| **🔨 Session 5** | **Anniversary Dinner** — your people, your menu |
-| **Session 6** | Write culinary philosophy |
-| **Session 7** | **Final Exam Dish** — no recipe |
-| **Session 8** | Retrospective tasting menu (personal) |
-| *(rest)* | Do not cook |
-| **Session 9** | Open kitchen — cook for anyone |
-| **🔨 Session 10** | **The Final Dinner** — no instructions |
+|---|---|
+| W51 Mon | Skills inventory + knife time trial |
+| W51 Tue | Cook one dish from weeks 1–10 |
+| W51 Wed | Cook complete 2-course meal from memory |
+| W51 Thu | Rest |
+| W51 Fri | Final mise en place drill |
+| W51 Sat | **Anniversary Dinner** — your people, your menu |
+| W52 Mon | Write culinary philosophy |
+| W52 Tue | **Final Exam Dish** — no recipe |
+| W52 Wed | Retrospective tasting menu (personal) |
+| W52 Thu | Do not cook |
+| W52 Fri | Open kitchen — cook for anyone |
+| W52 Sat | **The Final Dinner** — no instructions |

@@ -4,10 +4,6 @@
 
 ---
 
-> ⚗️ **Experimental** — This block has not yet been cooked through by the author.
-> Content is draft; recipes and timing are untested.
-
-
 > "French cuisine is not a style or a national preference — it's a grammar. Learn it and you understand the logic underneath every béarnaise, every braise, every reduction. Every other cuisine becomes more readable once you can parse the French sentence."
 
 ---
@@ -25,7 +21,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 
 ### Session 1 — French Onion Soup
 
-**Skill:** Low-and-slow caramelized onion technique; proper gratinée finish 
+**Skill:** Low-and-slow caramelized onion technique; proper gratinée finish  
 **Read first:** [French Onion Soup](https://www.seriouseats.com/french-onion-soup-recipe)
 
 **What you're learning:** Real caramelized onions take 45–60 minutes. Not 10, not 20. Any recipe that says "caramelize in 10 minutes" is lying. Today is a patience lesson: low-medium heat, stirring every 5 minutes, watching sugar develop — and then building the soup around that deep onion sweetness.
@@ -40,7 +36,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 
 ### Session 2 — Hollandaise and Eggs Benedict
 
-**Skill:** Emulsified egg-yolk sauce; gentle double-boiler heat control 
+**Skill:** Emulsified egg-yolk sauce; gentle double-boiler heat control  
 **Read first:** [Foolproof 2-Minute Hollandaise](https://www.seriouseats.com/foolproof-2-minute-hollandaise-recipe)
 
 **What you're learning:** Hollandaise is an emulsion of egg yolks, clarified butter, and lemon juice. It breaks when it gets too hot (scrambled eggs) or too cold (butter solidifies). SE's blender hollandaise method removes most of the anxiety. Then: poached eggs, Canadian bacon, toasted English muffin. The full build.
@@ -55,10 +51,10 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 
 ### Session 3 — Béarnaise Sauce with Steak
 
-**Skill:** Béarnaise (hollandaise with tarragon vinegar reduction); pan-seared steak application 
+**Skill:** Béarnaise (hollandaise with tarragon vinegar reduction); pan-seared steak application  
 **Read first:** [Foolproof Béarnaise](https://www.seriouseats.com/foolproof-bearnaise-sauce-recipe)
 
-**What you're learning:** Béarnaise = hollandaise with a tarragon-and-shallot reduction swapped for plain lemon. The technique is the same; the flavor completely different. Serve over a reverse-seared or pan-seared steak (you now know how to do this from Blocks 17–18). The sauce elevates a simple steak into a restaurant dish.
+**What you're learning:** Béarnaise = hollandaise with a tarragon-and-shallot reduction swapped for plain lemon. The technique is the same; the flavor completely different. Serve over a reverse-seared or pan-seared steak (you now know how to do this from Weeks 17–18). The sauce elevates a simple steak into a restaurant dish.
 
 **Full Meal:**
 - Pan seared strip or sirloin steak with Béarnaise sauce
@@ -69,7 +65,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 
 ### Session 4 — Steak Frites
 
-**Skill:** The restaurant standard: perfect fries + properly cooked steak in parallel 
+**Skill:** The restaurant standard: perfect fries + properly cooked steak in parallel  
 **Read first:** [Steak Frites](https://www.seriouseats.com/steak-frites-recipe-8729192)
 
 **What you're learning:** Steak frites is deceptively hard to execute at home at restaurant quality because it requires parallel timing: the fries can't sit, the steak needs rest time, and a pan sauce is nice but adds another layer of complexity. This is a timing and plate management exercise as much as a cooking one.
@@ -82,7 +78,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 
 ### ⏰ Session 5 — PROJECT: Cassoulet
 
-**Skill:** Bean preparation; regional French braising (multi-component slow dish) 
+**Skill:** Bean preparation; regional French braising (multi-component slow dish)  
 **Read first:** [Traditional French Cassoulet](https://www.seriouseats.com/traditional-french-cassoulet-recipe)
 
 **What you're learning:** Cassoulet is the great peasant dish of southwestern France: confit duck, pork sausage, white beans, and a crust that forms and gets pushed down repeatedly. It's a multi-component dish requiring 4–6 hours during the project session. The payoff is extraordinary. Start by noon on project day.
@@ -100,7 +96,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 
 ### Session 6 — Beurre Blanc (White Butter Sauce)
 
-**Skill:** Pure butter emulsion sauce; wine-and-shallot reduction base 
+**Skill:** Pure butter emulsion sauce; wine-and-shallot reduction base  
 **Read first:** [Beurre Blanc](https://www.seriouseats.com/beurre-blanc-recipe-7643412)
 
 **What you're learning:** Beurre blanc is butter whisked into a reduced shallot-and-white-wine base, creating a light but rich sauce that coats fish and vegetables beautifully. Unlike hollandaise, no eggs involved — the emulsion is butter protein in an acidic liquid. It will break if overheated.
@@ -113,7 +109,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 
 ### Session 7 — Duck à l'Orange
 
-**Skill:** Roasting duck; building a bittersweet gastrique 
+**Skill:** Roasting duck; building a bittersweet gastrique  
 **Read first:** [Duck à l'Orange](https://www.seriouseats.com/duck-a-lorange)
 
 **What you're learning:** Duck à l'orange is a French classic and a useful study in gastrique (sugar caramelized to amber + acid to stop it = sweet-sour syrup base). The duck must render properly — its fat layer needs time and heat — and the sauce has to balance sweet, sour, and savory without tipping too far in any direction.
@@ -126,7 +122,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 
 ### Session 8 — Soufflé (Cheese or Chocolate)
 
-**Skill:** Whipped egg white foam structure; baking to serve immediately 
+**Skill:** Whipped egg white foam structure; baking to serve immediately  
 **Read first:** [Savory Cheese Soufflé](https://www.seriouseats.com/savory-cheese-souffle)
 
 **What you're learning:** Soufflés are not as hard as their reputation. What fails them is undermixed whites, overfolding, or an underprepared dish (unbuttered, no sugar/Parmesan coating). Make a cheese soufflé tonight: it's impressive and straightforward with proper preparation.
@@ -142,7 +138,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 
 ### Session 9 — French Bistro Dinner
 
-**Skill:** Multi-component French bistro execution; proper service timing 
+**Skill:** Multi-component French bistro execution; proper service timing  
 **Goal:** Cook a complete three-course French bistro meal:
 
 1. **Starter:** Salad Lyonnaise (frisée, lardons, poached egg, Dijon vinaigrette)
@@ -159,10 +155,10 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 
 ### Session 10 — PROJECT: Le Grand Aioli (Provence-Style)
 
-**Skill:** Making aioli from scratch (emulsified garlic mayo); Provençal composed platter 
+**Skill:** Making aioli from scratch (emulsified garlic mayo); Provençal composed platter  
 **Goal:** Grand aioli is one of Provence's great communal dishes: a massive creamy garlic sauce served alongside a platter of vegetables (blanched and raw), salt cod, and hard-boiled eggs. Everything on the table, aioli in the center.
 
-**Reference:** Aioli technique = mayonnaise technique (from Blocks 9–10) with garlic and olive oil. The principle you already know — the application is new.
+**Reference:** Aioli technique = mayonnaise technique (from Weeks 9–10) with garlic and olive oil. The principle you already know — the application is new.
 
 **Full Meal:**
 - Le Grand Aioli: scratch-made garlic aioli + blanched vegetables + hard-boiled eggs + bread + whatever protein you choose

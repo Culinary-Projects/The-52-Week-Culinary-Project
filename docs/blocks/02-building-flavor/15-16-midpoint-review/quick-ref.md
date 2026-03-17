@@ -4,7 +4,7 @@
 
 ---
 
-## Block 13 Recipes — The Module 2 Capstone Cook
+## Week 13 Recipes — The Module 2 Capstone Cook
 
 | Session | Dish | Skill | Link |
 |-----|------|-------|------|
@@ -12,11 +12,11 @@
 | **Session 2** | Dry-run of your hardest project-session dish + Simple Green Salad | Technique rehearsal, no pressure | [Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) |
 | **Session 3** | Thai-Style Larb + Jasmine Rice + Quick-Pickled Cucumbers | Knife speed benchmark; acid + umami balance | [Larb](https://www.seriouseats.com/larb-muang-moo-northern-thai-style-chopped-pork-salad-recipe) · [Rice](https://www.seriouseats.com/perfect-stovetop-thai-jasmine-rice) · [Pickles](https://www.seriouseats.com/quick-pickled-cucumbers-rice-vinegar-recipe) |
 | **Session 4** | Grilled Cheese + Tomato Soup | Rest — mise en place the project dinner | [Grilled Cheese](https://www.seriouseats.com/crispy-grilled-cheese-sandwich-tip-11891994) · [Tomato Soup](https://www.seriouseats.com/thick-creamy-tomato-soup-recipe) |
-| **Session 5** | 🔨 **PROJECT: 3-Course Dinner for Guests — no recipes during service** | Full synthesis: Blocks 1–12 techniques | *Suggested:* [Shrimp Cocktail](https://www.seriouseats.com/shrimp-cocktail-recipe) · [Duck Breast](https://www.seriouseats.com/pan-seared-duck-breast) · [Polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe) · [Root Veg](https://www.seriouseats.com/roasted-root-vegetables-with-lime-dressing-8728919) |
+| **Session 5** | 🔨 **PROJECT: 3-Course Dinner for Guests — no recipes during service** | Full synthesis: Weeks 1–12 techniques | *Suggested:* [Shrimp Cocktail](https://www.seriouseats.com/shrimp-cocktail-recipe) · [Duck Breast](https://www.seriouseats.com/pan-seared-duck-breast) · [Polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe) · [Root Veg](https://www.seriouseats.com/roasted-root-vegetables-with-lime-dressing-8728919) |
 
 ---
 
-## Block 14 Recipes — Poultry in Depth
+## Week 14 Recipes — Poultry in Depth
 
 | Session | Dish | Skill | Link |
 |-----|------|-------|------|
@@ -30,7 +30,7 @@
 
 ## The Midpoint Benchmarks
 
-| Benchmark | Block 1 Target | Block 13 Target |
+| Benchmark | Week 1 Target | Week 13 Target |
 |-----------|--------------|----------------|
 | **Onion dice** | Sub 5 min | Sub 2 min, uniform cuts |
 | **Pan sauce** | Can make one | Can make one from memory with any fond |

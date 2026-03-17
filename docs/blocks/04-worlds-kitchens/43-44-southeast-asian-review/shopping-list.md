@@ -12,29 +12,29 @@
 
 - [ ] **Wok** — essential for nasi goreng and pad see ew; cast iron acceptable but wok preferred
 - [ ] **Mortar and pestle** — for som tam (clay mortar preferred for Thai salads)
-- [ ] **Pressure cooker or Instant Pot** — for pho gà (Block 40) and pho bò (Block 39)
-- [ ] **Bamboo skewers** — soaked 30 min before grilling (satay Block 39)
+- [ ] **Pressure cooker or Instant Pot** — for pho gà (Tue Week 40) and pho bò (Tue Week 39)
+- [ ] **Bamboo skewers** — soaked 30 min before grilling (satay Sat Week 39)
 - [ ] **Fine-mesh strainer** — for pho broth
 
 ---
 
-## 🥩 Proteins — Block 39
+## 🥩 Proteins — Week 39
 
-- [ ] **Shrimp** — 1 lb, peeled (Pad Thai)
-- [ ] **Beef bones with marrow** — 2–3 lbs (pho broth)
-- [ ] **Beef brisket or eye round** — 1 lb (pho — cooked brisket slice + raw thin-sliced for bowl)
-- [ ] **Chicken thighs** — 1 lb (satay)
+- [ ] **Shrimp** — 1 lb, peeled (Mon Pad Thai)
+- [ ] **Beef bones with marrow** — 2–3 lbs (Tue pho broth)
+- [ ] **Beef brisket or eye round** — 1 lb (Tue pho — cooked brisket slice + raw thin-sliced for bowl)
+- [ ] **Chicken thighs** — 1 lb (Sat satay)
 
 ---
 
-## 🥩 Proteins — Block 40
+## 🥩 Proteins — Week 40
 
-- [ ] **Beef or chicken** — 1 lb, thinly sliced (Pad See Ew)
-- [ ] **Whole chicken** — 3.5–4 lbs (Pho Gà — break it down yourself)
-- [ ] **Pork belly** — 1 lb (Banh Mi — marinate + roast or braise)
-- [ ] **Beef chuck** — 2 lbs (Rendang — cut into 3-inch chunks)
+- [ ] **Beef or chicken** — 1 lb, thinly sliced (Mon Pad See Ew)
+- [ ] **Whole chicken** — 3.5–4 lbs (Tue Pho Gà — break it down yourself)
+- [ ] **Pork belly** — 1 lb (Wed Banh Mi — marinate + roast or braise)
+- [ ] **Beef chuck** — 2 lbs (Fri Rendang — cut into 3-inch chunks)
 - [ ] **Eggs** — 1 dozen (nasi goreng, banh mi egg, various)
-- [ ] **Extra firm tofu** — 1 block (laksa Block 39; optional pad Thai Block 39)
+- [ ] **Extra firm tofu** — 1 block (laksa Fri Week 39; optional pad Thai Mon Week 39)
 
 ---
 
@@ -51,7 +51,7 @@
 - [ ] Vietnamese mint / perilla — 1 bunch (pho + banh mi)
 - [ ] Cilantro — 3 bunches
 - [ ] Green onions — 2 bunches
-- [ ] Unripe green papaya — 1 (Block 39 som tam; must be rock hard)
+- [ ] Unripe green papaya — 1 (Sat Week 39 som tam; must be rock hard)
 - [ ] Cucumber — 6 (sides + banh mi + various)
 - [ ] Bean sprouts — 2 bags
 - [ ] White onion + red onion — 4 each
@@ -61,13 +61,13 @@
 ## 🥫 Southeast Asian Pantry (Asian Market)
 
 - [ ] Fish sauce — 1 bottle (Tiparos, Red Boat, or Megachef)
-- [ ] Kecap manis (sweet soy sauce) — 1 bottle (nasi goreng Block 39)
+- [ ] Kecap manis (sweet soy sauce) — 1 bottle (nasi goreng Wed Week 39)
 - [ ] Fermented shrimp paste / terasi — 1 small block (nasi goreng; laksa rempah)
 - [ ] Coconut milk — 4 cans (satay marinade, laksa, rendang)
 - [ ] Desiccated coconut — 1 cup (rendang kerisik — toast until dark golden and grind to paste; this is what makes rendang rendang)
 - [ ] Tamarind paste (or block) — 1 jar/block
 - [ ] Palm sugar — 1 block (or substitute light brown sugar)
-- [ ] Oyster sauce — 1 bottle (Pad See Ew Block 40)
+- [ ] Oyster sauce — 1 bottle (Pad See Ew Mon Week 40)
 - [ ] Soy sauce (light) — 1 bottle
 - [ ] Hoisin sauce — small jar (pho tableside)
 - [ ] Sriracha — 1 bottle
@@ -81,16 +81,16 @@
 
 ## 🍝 Noodles and Rice
 
-- [ ] Flat rice noodles, thin (sen lek) — 1 lb (Pad Thai Block 39)
-- [ ] Wide rice noodles, fresh (sen yai) — 1 lb (Pad See Ew Block 40) — buy day of if possible
-- [ ] Pho rice noodles (medium width) — 1 pack (pho both weeks)
+- [ ] Flat rice noodles, thin (sen lek) — 1 lb (Pad Thai Mon Week 39)
+- [ ] Wide rice noodles, fresh (sen yai) — 1 lb (Pad See Ew Mon Week 40) — buy day of if possible
+- [ ] Pho rice noodles (medium width) — 1 pack (pho Tue both weeks)
 - [ ] Jasmine rice — 5-lb bag
-- [ ] Glutinous rice (sticky rice) — 2 lbs (Block 39 som tam always comes with sticky rice — eat it with your hands; also served with satay)
+- [ ] Glutinous rice (sticky rice) — 2 lbs (Sat Week 39 som tam always comes with sticky rice — eat it with your hands; also served with satay)
 - [ ] Rice already cooked and cooled for nasi goreng — cook night before
 
 ---
 
-## 🌿 Banh Mi Components (Block 40)
+## 🌿 Banh Mi Components (Wed Week 40)
 
 - [ ] Daikon radish — 1 small (pickle)
 - [ ] Carrots — 4 (pickle)

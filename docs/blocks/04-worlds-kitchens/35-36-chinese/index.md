@@ -4,15 +4,11 @@
 
 ---
 
-> ⚗️ **Experimental** — This block has not yet been cooked through by the author.
-> Content is draft; recipes and timing are untested.
-
-
 > *"Chinese cooking is a philosophy of heat and time — of wok hei, the 'breath of the wok,' and of the patience to braise until the fat has melted into something transformed. Getting either right requires understanding the logic, not just following steps."*
 
 ---
 
-**Quick Reference:** [→ Block 35–36 Recipe Quick Ref](quick-ref.md)
+**Quick Reference:** [→ Week 35–36 Recipe Quick Ref](quick-ref.md)
 
 ---
 
@@ -66,7 +62,7 @@ This sauce formula — sesame + soy + vinegar + chilli + Sichuan pepper — is t
 
 ## The Chinese Pantry
 
-Before Block 35 begins, verify you have:
+Before Week 35 begins, verify you have:
 
 | Item | What it does |
 |------|-------------|

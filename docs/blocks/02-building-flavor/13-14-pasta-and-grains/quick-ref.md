@@ -4,7 +4,7 @@
 
 ---
 
-## Block 11 Recipes — Pasta Dough: The Foundation
+## Week 11 Recipes — Pasta Dough: The Foundation
 
 | Session | Dish | Skill | Link |
 |-----|------|-------|------|
@@ -16,7 +16,7 @@
 
 ---
 
-## Block 12 Recipes — Grains: Rice, Polenta, and Beyond
+## Week 12 Recipes — Grains: Rice, Polenta, and Beyond
 
 | Session | Dish | Skill | Link |
 |-----|------|-------|------|
@@ -30,7 +30,7 @@
 
 ## Shopping Notes
 
-**Block 11 pasta essentials:** "00" flour or all-purpose flour, large eggs (farm eggs if available — the yolks make a difference), whole-milk ricotta, fresh sage.
+**Week 11 pasta essentials:** "00" flour or all-purpose flour, large eggs (farm eggs if available — the yolks make a difference), whole-milk ricotta, fresh sage.
 
 **Block 11 Session 1 tip:** Make a double batch of tomato sugo on the day before — you'll use it Session 1 and the leftover becomes Pasta 2 on the project session dinner if needed.
 

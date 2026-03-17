@@ -16,7 +16,7 @@
 - [ ] **Pie weights or dried beans** — for blind baking tart shells
 - [ ] **Stand mixer** — for choux and pastry cream whisking
 - [ ] **Pastry bag + tips** — for eclairs; a zip-top bag with corner cut works fine
-- [ ] **Madeleine pan** — optional ('s afternoon tea)
+- [ ] **Madeleine pan** — optional (Saturday's afternoon tea)
 - [ ] **Box grater** — for grating frozen butter into rough puff dough
 
 ---
@@ -28,22 +28,22 @@
 - [ ] **Heavy cream** — 1 quart (pastry cream, quiche, chantilly, éclairs)
 - [ ] **Whole milk** — 1 quart (pastry cream)
 - [ ] **Crème fraîche** — 1 cup (tarte tatin serving + quiche variation)
-- [ ] **Gruyère** — 6 oz (quiche Block 44)
-- [ ] **Bacon lardons** — 4 oz (quiche lorraine Block 44)
+- [ ] **Gruyère** — 6 oz (quiche Mon Week 44)
+- [ ] **Bacon lardons** — 4 oz (quiche lorraine Mon Week 44)
 - [ ] **Mascarpone or cream cheese** — optional (filling variations)
-- [ ] **Clotted cream** — 1 jar (scones service Block 44 afternoon tea; Devon clotted cream at specialty grocers or Whole Foods)
+- [ ] **Clotted cream** — 1 jar (scones service Sat Week 44 afternoon tea; Devon clotted cream at specialty grocers or Whole Foods)
 
 ---
 
 ## 🍎 Produce — Fruit and Savory Fillings
 
-- [ ] **Apples** — 6 Granny Smith or Golden Delicious (tarte tatin + pie Block 44)
-- [ ] **Lemons** — 10 (lemon curd Block 44; various)
-- [ ] **Fresh berries** — 2 cups assorted (pâte sucrée fruit tart)
+- [ ] **Apples** — 6 Granny Smith or Golden Delicious (tarte tatin Wed + pie Tue Week 44)
+- [ ] **Lemons** — 10 (lemon curd Wed Week 44; various)
+- [ ] **Fresh berries** — 2 cups assorted (pâte sucrée fruit tart Mon)
 - [ ] **Strawberries** — 1 pint (tart topping)
 - [ ] **Kiwi** — 3 (tart decoration)
-- [ ] **Cucumber** — 4 (finger sandwiches Block 44)
-- [ ] **Smoked salmon** — 4 oz (finger sandwiches Block 44 afternoon tea; smoked salmon + cream cheese is a classic)
+- [ ] **Cucumber** — 4 (finger sandwiches Sat Week 44)
+- [ ] **Smoked salmon** — 4 oz (finger sandwiches Sat Week 44 afternoon tea; smoked salmon + cream cheese is a classic)
 
 ---
 
@@ -62,6 +62,6 @@
 - [ ] **Bittersweet chocolate (65–70%)** — 8 oz (éclair glaze + mille-feuille décor)
 - [ ] **Dark couverture chocolate (60–72%, high cocoa butter)** — 1 lb for Session 0 tempering; look for Valrhona, Callebaut, or Guittard; must be couverture-grade (not chips)
 - [ ] **Cocoa powder** — (chocolate variations)
-- [ ] **Lard** — 4 oz (Block 44 pie crust; optional but dramatically better)
-- [ ] **Puff pastry, store-bought** — 1–2 sheets as backup for mille-feuille (Block 43)
+- [ ] **Lard** — 4 oz (Tuesday Week 44 pie crust; optional but dramatically better)
+- [ ] **Puff pastry, store-bought** — 1–2 sheets as backup for mille-feuille (Sat Week 43)
 - [ ] **Ladyfingers** — 1 pack (optional; afternoon tea additions)

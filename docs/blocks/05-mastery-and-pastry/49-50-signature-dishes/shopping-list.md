@@ -8,7 +8,7 @@
 
 - [ ] Wok (carbon steel; 14-inch recommended)
 - [ ] Wok spatula (chan dao / wok shovel)
-- [ ] Sharpened chef's knife (hone before Block 47 knives session)
+- [ ] Sharpened chef's knife (hone before Week 47 knives session)
 - [ ] Whetstone or knife sharpening service if needed
 - [ ] Stand mixer with whisk and paddle (cookies, buttercream)
 - [ ] Digital scale (cookies)
@@ -31,7 +31,7 @@
 
 ## Block 49 — Cookie Session
 
-*Note: purchase based on your planned variation from Block 46 batch*
+*Note: purchase based on your planned variation from Week 46 batch*
 
 - [ ] Unsalted butter — 1 lb
 - [ ] Bread flour — 2 lbs
@@ -50,7 +50,7 @@
 
 - [ ] Protein for main course (from your signature list)
 - [ ] Vegetables for starter
-- [ ] Dessert components (pull from existing Block 45-46 stock if any remains)
+- [ ] Dessert components (pull from existing Week 45-46 stock if any remains)
 - [ ] Wine or beverage for dinner party simulation
 
 ---
@@ -63,7 +63,7 @@
 - [ ] Amuse-bouche protein or produce — 1 small piece (enough for 1–2 bites per person)
 - [ ] Starter: pull from shellfish block (clams, mussels, oysters) or cured (gravlax, rillettes)
 - [ ] Main: your signature protein — buy the best quality version you can afford
-- [ ] Dessert: choose from Blocks 43–46 repertoire; buy any missing components
+- [ ] Dessert: choose from Weeks 43–46 repertoire; buy any missing components
 
 ---
 
@@ -86,8 +86,8 @@ Now that you are in the final weeks, check and replenish:
 
 ## Planning Notes
 
-**Block 47 is a technical week** — all sessions except are repeat/refine. Minimal shopping required beyond the cookie ingredients and the wok session.
+**Week 47 is a technical week** — all sessions except Saturday are repeat/refine. Minimal shopping required beyond the cookie ingredients and the wok session.
 
-**Block 48 is about you** — the shopping list for Block 48 is entirely based on your personal signature dishes. Look at your Block 48 menu, write your own shopping list customized to those dishes, and buy the highest-quality ingredients you have all year.
+**Week 48 is about you** — the shopping list for Week 48 is entirely based on your personal signature dishes. Look at your Week 48 menu, write your own shopping list customized to those dishes, and buy the highest-quality ingredients you have all year.
 
-**Freezer note:** Cookie dough from Block 47 should be portioned and frozen; tag with date and bake time. These are your emergency dinner party cookies for weeks 49–52.
+**Freezer note:** Cookie dough from Week 47 Wednesday should be portioned and frozen; tag with date and bake time. These are your emergency dinner party cookies for weeks 49–52.

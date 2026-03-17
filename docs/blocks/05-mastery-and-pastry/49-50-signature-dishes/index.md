@@ -1,12 +1,8 @@
 # Block 49–50: Signature Dishes
 
-← [Block 47–48: Pastry & Desserts](../47-48-pastry/index.md) | [Block 51–52: Final Exam →](../51-52-final-exam/index.md)
+← [Block 47–50: Pastry & Desserts](../47-48-pastry/index.md) | [Block 51–52: Final Exam →](../51-52-final-exam/index.md)
 
 ---
-
-> ⚗️ **Experimental** — This block has not yet been cooked through by the author.
-> Content is draft; recipes and timing are untested.
-
 
 > "A signature dish is not the hardest dish you can make. It is the dish that is most you — the dish you make better than anyone else makes it, better every time, effortlessly, and that people ask for again and again. Signature dishes are earned through repetition, not invention."
 
@@ -31,7 +27,7 @@ This block is structured differently. The first week is technical catch-up and d
 
 ### Session 0 — Mise en Place at Scale *(optional)*
 
-**Skill:** Station organization; timing a multi-dish dinner from scratch; cook-to-plate flow 
+**Skill:** Station organization; timing a multi-dish dinner from scratch; cook-to-plate flow  
 **Read first:** [Mise en Place](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro)
 
 **What you're learning:** Professional kitchens work because everything is prepped before service begins. Your mise en place practice has evolved through the year — tonight, apply it formally to a 3-course dinner. Write out every prep step before you start cooking. Time the sequence. Identify what can be done ahead vs. what is last-minute. This is the cognitive skill that separates capable home cooks from experienced ones.
@@ -44,7 +40,7 @@ This block is structured differently. The first week is technical catch-up and d
 
 ---
 
-## Block 49 — Mastery Sessions: Wok, Knife, Chocolate, Mise en Place
+## Block 47 — Mastery Sessions: Wok, Knife, Chocolate, Mise en Place
 
 ---
 
@@ -55,7 +51,7 @@ This block is structured differently. The first week is technical catch-up and d
 
 ### Session 1 — Advanced Wok Technique
 
-**Skill:** High-heat wok work; "wok hei" production; toss technique; seasoning a wok 
+**Skill:** High-heat wok work; "wok hei" production; toss technique; seasoning a wok  
 **Read first:** [How to Buy, Season, and Care for a Wok](https://www.seriouseats.com/equipment-how-to-buy-a-wok-which-wok-is-the-best)
 
 **What you're learning:** Wok hei (literally "breath of the wok") is the smoky, slightly charred, Maillard-browned quality you get only from extremely high heat applied briefly. It requires a seasoned wok, maximum burner heat, dry ingredients, and decisive action. Today: season your wok if you haven't; cook a simple stir-fry at maximum heat and study what happens. No recipe — technique only.
@@ -69,13 +65,13 @@ This block is structured differently. The first week is technical catch-up and d
 
 ### Session 2 — Knife Skills: Where Are You Now?
 
-**Skill:** Speed and accuracy assessment; brunoise; chiffonade; the "claw" grip 
-**Read first:** [How to Chop an Onion](https://www.seriouseats.com/knife-skills-how-to-slice-and-dice-an-onion), compare your Block 1 time
+**Skill:** Speed and accuracy assessment; brunoise; chiffonade; the "claw" grip  
+**Read first:** [How to Chop an Onion](https://www.seriouseats.com/knife-skills-how-to-slice-and-dice-an-onion), compare your Week 1 time
 
-**What you're learning:** Return to the first skill you practiced in Block 1. Dice an onion and track time and uniformity. Chiffonade a stack of basil leaves. Cut a carrot into fine brunoise (2mm cubes). Speed is less important than consistency — uniform cuts cook evenly; uneven cuts produce uneven results. You have cooked for 47 weeks. How much faster and cleaner is your knife technique?
+**What you're learning:** Return to the first skill you practiced in Week 1. Dice an onion and track time and uniformity. Chiffonade a stack of basil leaves. Cut a carrot into fine brunoise (2mm cubes). Speed is less important than consistency — uniform cuts cook evenly; uneven cuts produce uneven results. You have cooked for 47 weeks. How much faster and cleaner is your knife technique?
 
 **Session:**
-- Timed onion dice (compare Block 1 estimate)
+- Timed onion dice (compare Week 1 estimate)
 - Carrot brunoise (tedious; requires patience and a sharp knife)
 - Basil chiffonade (sharp knife only — a dull knife bruises and blackens basil)
 
@@ -83,7 +79,7 @@ This block is structured differently. The first week is technical catch-up and d
 
 ### Session 3 — The Best Chocolate Chip Cookie (Refinement)
 
-**Skill:** Cookie formula refinement; understanding your preferences; repeating with intention 
+**Skill:** Cookie formula refinement; understanding your preferences; repeating with intention  
 **Read first:** [The Best Chocolate Chip Cookies](https://www.seriouseats.com/the-food-lab-best-chocolate-chip-cookie-recipe)
 
 **What you're learning:** The Serious Eats "Food Lab" chocolate chip cookie is a foundational study in technique: browned butter, bread flour, overnight rest, and the decision to use chips vs. chopped chocolate. After making them last week, today you make adjustments based on your notes. Do you want crunchier edges? More brown sugar. Chewier? More bread flour, less bake time. Crisper overall? Less brown sugar.
@@ -99,8 +95,8 @@ This block is structured differently. The first week is technical catch-up and d
 
 ### Session 4 — The Caramel Sauce (Perfection)
 
-**Skill:** Repeating a technique until it is automated 
-**Focus:** Caramel sauce from Block 46. Make it again. Faster and without hesitation.
+**Skill:** Repeating a technique until it is automated  
+**Focus:** Caramel sauce from Week 46. Make it again. Faster and without hesitation.
 
 **What you're learning:** There is no new technique today. You are implementing the principle of "repetition until the hands remember." The caramel sauce is chosen because sugar work is one of the skills that only becomes reliable through repetition. The first time you made it, you were watching the color carefully. Today you should begin to know by smell and sound.
 
@@ -113,7 +109,7 @@ This block is structured differently. The first week is technical catch-up and d
 
 ### Session 5 — PROJECT: The Dish You Haven't Perfected Yet
 
-**Skill:** Choosing and attacking a weak point in your cooking 
+**Skill:** Choosing and attacking a weak point in your cooking  
 **Goal:** Make one dish from any previous unit that you felt was the weakest or least successful.
 
 Look back at your notes across 47 weeks. Which dish didn't go as planned? Which one did you never feel settled with? Identify it and execute it again, this time with full attention: a better understanding of the technique, a cleaner mise en place, and the experience of 47 weeks behind you.
@@ -128,7 +124,7 @@ Look back at your notes across 47 weeks. Which dish didn't go as planned? Which 
 
 ---
 
-## Block 50 — Building Your Signature
+## Block 48 — Building Your Signature
 
 ---
 
@@ -146,9 +142,9 @@ Write these down. These are your current signatures.
 
 ---
 
-### Session 7 and Session 8 — Refine Signature #1 and #2
+### Session 2, Session 3 — Refine Signature #1 and #2
 
-**Skill:** Intentional, focused repetition 
+**Skill:** Intentional, focused repetition  
 **Goal:** Execute Signature dishes #1 and #2 from your list, back-to-back on consecutive evenings. Make notes:
 
 - What is your personal variation from the original recipe?
@@ -160,7 +156,7 @@ Write these down. These are your current signatures.
 
 ### Session 9 — Develop a New Recipe
 
-**Skill:** Synthesis — combining techniques across the 48 weeks into something original 
+**Skill:** Synthesis — combining techniques across the 48 weeks into something original  
 **Challenge:** Invent a dish or a meaningful variation on an existing dish. Use any technique from this year, applied to an ingredient or combination you have not cooked before.
 
 This is not a test. There is no grade. Failures here are valuable. The goal is to think like a cook — to ask "what if" and act.
@@ -222,9 +218,9 @@ The jump from following a recipe to owning a dish happens through iteration: mak
 
 ### A Book Worth Having
 
-- 📚 [***The Wok: Recipes and Techniques* by J. Kenji López-Alt**](https://www.amazon.com/dp/0393541215) — The most thorough wok cookbook ever written in English. Every heat level, every protein, every regional application. The natural follow-on from your Block 49–50 work.
+- 📚 [***The Wok: Recipes and Techniques* by J. Kenji López-Alt**](https://www.amazon.com/dp/0393541215) — The most thorough wok cookbook ever written in English. Every heat level, every protein, every regional application. The natural follow-on from your Week 47–48 work.
 
 ---
 
 *Navigation:*
-← [Block 47–48: Pastry & Desserts](../47-48-pastry/index.md) | [Block 51–52: Final Exam →](../51-52-final-exam/index.md)
+← [Block 47–50: Pastry & Desserts](../47-48-pastry/index.md) | [Block 51–52: Final Exam →](../51-52-final-exam/index.md)

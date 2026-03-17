@@ -29,9 +29,9 @@ This is a good moment to evaluate which equipment you've acquired over 52 weeks 
 
 ---
 
-## Block 51 Shopping
+## Week 51 Shopping
 
-### — The Forgotten Dish (from weeks 1–10)
+### Tuesday — The Forgotten Dish (from weeks 1–10)
 
 *Items depend on which dish you choose. Common choices:*
 - Coq au vin: whole chicken, mushrooms, pearl onions, lardons, wine
@@ -39,7 +39,7 @@ This is a good moment to evaluate which equipment you've acquired over 52 weeks 
 - Braised short ribs: bone-in short ribs, mirepoix vegetables, red wine
 - French omelette × several: eggs, butter — no other ingredients needed
 
-### — Final Mise en Place Drill (4-course)
+### Friday — Final Mise en Place Drill (4-course)
 
 *Choose your menu; buy what that menu requires. Suggested:*
 - Protein (your best cut): highest quality you can afford — this is the final practice
@@ -50,9 +50,9 @@ This is a good moment to evaluate which equipment you've acquired over 52 weeks 
 
 ---
 
-## Block 52 Shopping
+## Week 52 Shopping
 
-### — The Final Exam Dish
+### Tuesday — The Final Exam Dish
 
 **This is your personal dish.** Buy the ingredients for the dish you choose as your final exam.
 
@@ -65,7 +65,7 @@ This is a good moment to evaluate which equipment you've acquired over 52 weeks 
 
 **Recommendation:** Buy the best version of every ingredient. This meal is worth it.
 
-### — The Retrospective Tasting Menu
+### Wednesday — The Retrospective Tasting Menu
 
 This meal is built from previously mastered dishes. Pull from your freezer (stocks, braises, doughs) where possible. Buy only fresh components:
 - [ ] Fresh herbs for garnish
@@ -73,7 +73,7 @@ This meal is built from previously mastered dishes. Pull from your freezer (stoc
 - [ ] Cream or mascarpone if needed for dessert layer
 - [ ] A small amount of good cheese (optional intermezzo)
 
-### — The Open Kitchen
+### Friday — The Open Kitchen
 
 *Plan for however many people you expect; this is a free-form session.*
 - [ ] Good bread × 2 loaves
@@ -82,7 +82,7 @@ This meal is built from previously mastered dishes. Pull from your freezer (stoc
 - [ ] Eggs — 2 dozen (the most versatile on-demand ingredient)
 - [ ] Pantry essentials fully restocked
 
-### — The Final Dinner
+### Saturday — The Final Dinner
 
 *No shopping list. You know what you're cooking. You know what you need.*
 

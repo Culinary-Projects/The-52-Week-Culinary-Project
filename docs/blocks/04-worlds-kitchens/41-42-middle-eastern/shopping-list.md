@@ -17,36 +17,36 @@
 
 ---
 
-## 🥩 Proteins — Block 37
+## 🥩 Proteins — Week 37
 
-- [ ] **Beef** — flank, skirt, or sirloin, 2 lbs (shawarma — marinate night)
-- [ ] **Eggs** — 1 dozen (shakshuka + frittata Block 38)
+- [ ] **Beef** — flank, skirt, or sirloin, 2 lbs (Sat shawarma — marinate Fri night)
+- [ ] **Eggs** — 1 dozen (Tue shakshuka + Wed frittata Week 38)
 
 ---
 
-## 🥩 Proteins — Block 38
+## 🥩 Proteins — Week 38
 
-- [ ] **Ground lamb** — 1.5 lbs (adana kebab)
-- [ ] **Chicken thighs, bone-in** — 4 (kabsa)
-- [ ] **Optional additional protein** — chicken thighs or lamb for mezze table
+- [ ] **Ground lamb** — 1.5 lbs (Mon adana kebab)
+- [ ] **Chicken thighs, bone-in** — 4 (Fri kabsa)
+- [ ] **Optional additional protein** — chicken thighs or lamb for Sat mezze table
 
 ---
 
 ## 🫘 Legumes
 
-- [ ] **Dried chickpeas** — 2 lbs (hummus + falafel — must be dried, not canned)
+- [ ] **Dried chickpeas** — 2 lbs (hummus Mon + falafel Fri — must be dried, not canned)
 - [ ] **Canned chickpeas** — 1 can (backup for quick applications mid-week)
 
 ---
 
-## 🥦 Produce — Block 37
+## 🥦 Produce — Week 37
 
-- [ ] Eggplant — 3 medium (baba ganoush; char all 3)
-- [ ] Red bell peppers — 4 (muhammara; roast and peel)
-- [ ] Walnuts — 1 cup (muhammara)
-- [ ] Tomatoes — 8 (shakshuka + tabbouleh + various)
-- [ ] Red bell pepper — 3 more (shakshuka sauce)
-- [ ] Italian frying peppers or cubanelle — 4 (shakshuka)
+- [ ] Eggplant — 3 medium (Wed baba ganoush; char all 3)
+- [ ] Red bell peppers — 4 (Wed muhammara; roast and peel)
+- [ ] Walnuts — 1 cup (Wed muhammara)
+- [ ] Tomatoes — 8 (Tue shakshuka + tabbouleh Sat + various)
+- [ ] Red bell pepper — 3 more (Tue shakshuka sauce)
+- [ ] Italian frying peppers or cubanelle — 4 (Tue shakshuka)
 - [ ] Jalapeños — 2 (shakshuka heat)
 - [ ] Fresh parsley — 4 bunches (tabbouleh is mostly parsley; use throughout)
 - [ ] Fresh mint — 2 bunches
@@ -59,12 +59,12 @@
 
 ---
 
-## 🥦 Produce — Block 38
+## 🥦 Produce — Week 38
 
 - [ ] Pita bread — 2 packs fresh (or buy from Middle Eastern bakery)
 - [ ] Persian cucumbers — 6
 - [ ] Cherry tomatoes — 2 pints
-- [ ] Pomegranate — 1 (seeds for garnish)
+- [ ] Pomegranate — 1 (seeds for garnish Sat)
 - [ ] Onion — 4 medium (kabsa + various)
 - [ ] Fresh herbs: parsley, mint, dill — additional bunches
 
@@ -76,7 +76,7 @@
 - [ ] Sumac — 1 small jar
 - [ ] Za'atar — 1 small jar
 - [ ] Pomegranate molasses — 1 bottle
-- [ ] Dried black lime (loomi) — 4–5 (kabsa Block 38)
+- [ ] Dried black lime (loomi) — 4–5 (kabsa Fri Week 38)
 - [ ] Rose water — small bottle (kabsa)
 - [ ] Harissa — 1 jar or tube (shakshuka optional heat + mezze board)
 - [ ] Labneh — 1 tub (or make by straining Greek yogurt in cheesecloth overnight)

@@ -18,21 +18,21 @@
 
 ---
 
-## 🥩 Proteins — Block 33
+## 🥩 Proteins — Week 33
 
-- [ ] **Flank or skirt steak** — 1.5 lbs (carne asada)
-- [ ] **Pork shoulder** — 2 lbs (pozole + al pastor)
-- [ ] **Bone-in chicken thighs** — 4 (enchiladas, or ground beef for picadillo filling)
-- [ ] **Ground beef or pork** — 1 lb (enchilada filling — or use leftover braised pork)
+- [ ] **Flank or skirt steak** — 1.5 lbs (Mon carne asada)
+- [ ] **Pork shoulder** — 2 lbs (Tue pozole + Fri al pastor)
+- [ ] **Bone-in chicken thighs** — 4 (Sat enchiladas, or ground beef for picadillo filling)
+- [ ] **Ground beef or pork** — 1 lb (Sat enchilada filling — or use leftover braised pork)
 
 ---
 
-## 🥩 Proteins — Block 34
+## 🥩 Proteins — Week 34
 
-- [ ] **Beef chuck** — 3 lbs (birria)
-- [ ] **Chicken thighs** — 4–6 (mole)
-- [ ] **Pork shoulder** — 1 lb if making pork tamale filling (; or use birria leftovers)
-- [ ] **Eggs** — 1 dozen (chiles rellenos batter)
+- [ ] **Beef chuck** — 3 lbs (Mon birria)
+- [ ] **Chicken thighs** — 4–6 (Tue mole)
+- [ ] **Pork shoulder** — 1 lb if making pork tamale filling (Wed; or use birria leftovers)
+- [ ] **Eggs** — 1 dozen (Fri chiles rellenos batter)
 
 ---
 
@@ -49,9 +49,9 @@
 
 ## 🥦 Produce
 
-- [ ] Tomatillos — 1 lb (salsa verde + chiles rellenos salsa)
-- [ ] Poblano peppers — 10 (chiles rellenos × 4–6; spare for enchiladas)
-- [ ] Avocados — 6 (guacamole + tacos throughout)
+- [ ] Tomatillos — 1 lb (Wed salsa verde + Fri chiles rellenos salsa)
+- [ ] Poblano peppers — 10 (Fri chiles rellenos × 4–6; spare for enchiladas)
+- [ ] Avocados — 6 (Wed guacamole + tacos throughout)
 - [ ] Jalapeños — 4 (various)
 - [ ] Serrano chiles — 2 (guac heat)
 - [ ] Cilantro — 2 bunches
@@ -61,7 +61,7 @@
 - [ ] Oranges — 3 (carne asada marinade + al pastor)
 - [ ] Tomatoes — 6 (pico de gallo, enchilada sauce)
 - [ ] Radishes — 1 bunch
-- [ ] Pineapple — 1 (al pastor)
+- [ ] Pineapple — 1 (al pastor Fri)
 - [ ] Mexican dried oregano (different from Italian)
 
 ---
@@ -69,15 +69,15 @@
 ## 🌽 Masa and Corn
 
 - [ ] Masa harina (Maseca) — 2-lb bag (tamales + corn tortillas)
-- [ ] Canned hominy — 2 × 29-oz cans (pozole, or cook dried hominy from scratch)
-- [ ] Corn husks — 1 bag (tamales)
+- [ ] Canned hominy — 2 × 29-oz cans (Tue pozole, or cook dried hominy from scratch)
+- [ ] Corn husks — 1 bag (Wed tamales)
 - [ ] Corn tortillas — 2 packs (various tacos; good to have even if you make some)
 
 ---
 
 ## 🧂 Pantry
 
-- [ ] Achiote paste — 1 small block or tablespoon (al pastor marinade)
+- [ ] Achiote paste — 1 small block or tablespoon (al pastor marinade Fri)
 - [ ] Cumin — ground, large jar
 - [ ] Mexican cinnamon (Ceylon) — 1 stick
 - [ ] Dark chocolate (70%+) — 2 oz (mole)

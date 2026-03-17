@@ -4,10 +4,6 @@
 
 ---
 
-> ⚗️ **Experimental** — This block has not yet been cooked through by the author.
-> Content is draft; recipes and timing are untested.
-
-
 > "Indian cooking is chemistry in practice — the Maillard reaction in a tarka, the emulsion of yogurt in a marinade, the solubility of fat-soluble spice compounds in hot ghee. Learning to cook Indian food teaches you the molecular logic underneath every other cuisine, disguised as flavor."
 
 ---
@@ -16,7 +12,7 @@
 
 ### Session 0 — Garlic Naan *(optional)*
 
-**Skill:** Leavened flatbread technique; cast-iron skillet substitute for tandoor; garlic + butter finish 
+**Skill:** Leavened flatbread technique; cast-iron skillet substitute for tandoor; garlic + butter finish  
 **Read first:** [Garlic Naan](https://www.seriouseats.com/garlic-naan-recipe-8784140)
 
 **What you're learning:** Naan requires yeast or baking powder, yogurt (for color and tang), and extremely high heat. A fully preheated cast iron skillet at maximum heat is the home substitute for a 900°F tandoor. The result should have char spots, a slight chew, and elastic pull. Once you can make fresh naan, takeout naan will feel like a step backward.
@@ -42,7 +38,7 @@ The first Indian week focuses on three foundational preparations: a tomato-cream
 
 ### Session 1 — Butter Chicken (Murgh Makhani)
 
-**Skill:** Tandoor-style marination; tomato cream sauce construction; achieving the balance no restaurant can get wrong 
+**Skill:** Tandoor-style marination; tomato cream sauce construction; achieving the balance no restaurant can get wrong  
 **Read first:** [Stovetop Butter Chicken](https://www.seriouseats.com/stovetop-butter-chicken)
 
 **What you're learning:** Butter chicken (murgh makhani) is North Indian restaurant cooking at a global scale — marinated chicken (yogurt + spices + char under a broiler), then simmered in a buttery tomato cream sauce. The SE version happens entirely on the stovetop. The lesson: blooming whole spices in butter or ghee before adding aromatics and sauce unlocks fat-soluble flavor compounds.
@@ -58,7 +54,7 @@ The first Indian week focuses on three foundational preparations: a tomato-cream
 
 ### Session 2 — Moong Dal (Yellow Split Lentils)
 
-**Skill:** Tarka (spice bloomed in fat); dal texture from liquid ratio; tempering as finishing technique 
+**Skill:** Tarka (spice bloomed in fat); dal texture from liquid ratio; tempering as finishing technique  
 **Read first:** [Moong Dal](https://www.seriouseats.com/moong-dal-recipe-8744764)
 
 **What you're learning:** A tarka is hot ghee or oil with spices (cumin seed, mustard seed, dry chiles, asafoetida) fried until they pop and bloom, then poured over the finished dal. The sizzle and fragrance is the signal — overcooked tarka becomes bitter, undercooked misses the bloom entirely. This is one of the most-used techniques in Indian cooking.
@@ -72,7 +68,7 @@ The first Indian week focuses on three foundational preparations: a tomato-cream
 
 ### Session 3 — Chicken Tikka Masala (Grilled Version)
 
-**Skill:** Tikka marinade; charring on high heat; integrating char flavor into sauce 
+**Skill:** Tikka marinade; charring on high heat; integrating char flavor into sauce  
 **Read first:** [Chicken Tikka Masala for the Grill](https://www.seriouseats.com/chicken-tikka-masala-for-the-grill-recipe)
 
 **What you're learning:** Tikka masala is arguably the most popular Indian-origin dish in the English-speaking world. The SE grill version gives the chicken the char you otherwise get from a tandoor. The masala sauce (tomato, cream, ginger, garam masala) is richer and more accessible than butter chicken's sauce but built the same way.
@@ -86,7 +82,7 @@ The first Indian week focuses on three foundational preparations: a tomato-cream
 
 ### ⏰ Session 4 — Dal Makhani (All-Day Slow Dal)
 
-**Skill:** Long-cook black lentil + kidney bean dal; cream integration; patience 
+**Skill:** Long-cook black lentil + kidney bean dal; cream integration; patience  
 **Read first:** [Dal Makhani](https://www.seriouseats.com/dal-makhani-recipe-8770680)
 
 **What you're learning:** Dal makhani is the richest, most complex dal in the Punjabi repertoire — black urad lentils and kidney beans cooked for hours until they become creamy and almost stew-like, finished with cream and butter. The SE version adapts this to a pressure cooker for efficiency. The traditional version simmers overnight on a dying fire; the slow cooker is a valid home interpretation.
@@ -102,7 +98,7 @@ The first Indian week focuses on three foundational preparations: a tomato-cream
 
 ### Session 5 — PROJECT: North Indian Feast
 
-**Skill:** Coordinating multiple Indian dishes for simultaneous service 
+**Skill:** Coordinating multiple Indian dishes for simultaneous service  
 **Goal:** Recreate a North Indian restaurant spread at home:
 
 1. **Starters:** Samosas (store-bought is fine, focus on chutney — make a [tamarind chutney](https://www.seriouseats.com/sweet-tamarind-chutney-recipe) and [mint chutney](https://www.seriouseats.com/mint-chutney-recipe))
@@ -125,7 +121,7 @@ South Indian cooking is different from North Indian in almost every way: less cr
 
 ### Session 6 — Chana Masala (Chickpea Curry)
 
-**Skill:** Dried chickpea preparation; tomato + onion + spice masala from scratch; amchur (dry mango powder) as souring agent 
+**Skill:** Dried chickpea preparation; tomato + onion + spice masala from scratch; amchur (dry mango powder) as souring agent  
 **Read first:** [Chana Masala](https://www.seriouseats.com/chana-masala-recipe-8665080)
 
 **What you're learning:** Chana masala is one of the great vegetarian dishes in the world. The chickpeas absorb spices during cooking and take on the sauce's character. Amchur (dried unripe mango powder) plus fresh lemon is what makes chana taste like chana rather than generic chickpea stew — it's the acidic finish that completes it.
@@ -141,7 +137,7 @@ South Indian cooking is different from North Indian in almost every way: less cr
 
 ### Session 7 — Aloo Gobi (Potato and Cauliflower)
 
-**Skill:** Dry vegetable curry (no sauce); blooming spices in oil before vegetables; understanding dry vs. wet curry 
+**Skill:** Dry vegetable curry (no sauce); blooming spices in oil before vegetables; understanding dry vs. wet curry  
 **Read first:** [Aloo Gobi](https://www.seriouseats.com/aloo-gobi-recipe-5220973)
 
 **What you're learning:** Aloo gobi is a dry curry — no sauce, no cream, just spiced vegetables cooked until tender and slightly crispy at the edges. The spice bloom is everything. The technique of cooking out raw spice smell in oil (bhunao) before adding vegetables is the central skill.
@@ -149,13 +145,13 @@ South Indian cooking is different from North Indian in almost every way: less cr
 **Full Meal:**
 - Aloo Gobi
 - Roti or naan
-- Toor dal alongside (quick version — see Session 4 Block 35 moong dal approach, applied to toor)
+- Toor dal alongside (quick version — see Session 4 Week 35 moong dal approach, applied to toor)
 
 ---
 
 ### Session 8 — Lamb Biryani
 
-**Skill:** Dum cooking (sealed pot, rice and meat layers); spiced rice; marinated lamb 
+**Skill:** Dum cooking (sealed pot, rice and meat layers); spiced rice; marinated lamb  
 **Read first:** [Lamb Biryani](https://www.seriouseats.com/lamb-biryani)
 
 **What you're learning:** Biryani is one of the most complex Indian preparations — marinated meat, par-cooked rice, saffron milk, fried onions, and aromatics layered and then sealed ("dum") and steamed together for the final cook. The seal preserves steam, which finishes the rice and meat simultaneously. The result: each grain of rice is separate, fragrant, and distinct.
@@ -172,7 +168,7 @@ South Indian cooking is different from North Indian in almost every way: less cr
 
 ### Session 9 — Garam Masala from Scratch + Spice Inventory
 
-**Skill:** Dry-toasting and grinding whole spices; building a custom blend; understanding garam masala's role 
+**Skill:** Dry-toasting and grinding whole spices; building a custom blend; understanding garam masala's role  
 **Read first:** [Garam Masala](https://www.seriouseats.com/garam-masala-recipe)
 
 **What you're learning:** Garam masala is not curry powder and not a substitute for it. It's a warm spice blend (cardamom, cinnamon, cloves, black pepper, cumin, coriander) used at the end of cooking to reinforce aroma, not during early stages. Make a small batch from whole toasted spices. Taste it against store-bought — the difference is remarkable.
@@ -186,7 +182,7 @@ South Indian cooking is different from North Indian in almost every way: less cr
 
 ### Session 10 — PROJECT: South Indian Weekend
 
-**Skill:** Dosai batter fermentation; sambar construction; full South Indian thali 
+**Skill:** Dosai batter fermentation; sambar construction; full South Indian thali  
 **Goal:** Try a South Indian preparation:
 
 - Masala dosa: fermented lentil and rice batter crepe filled with spiced potato (requires batter made Session 4 or the evening before the project session in advance — or use fast-sour version)

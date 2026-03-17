@@ -2,13 +2,9 @@
 
 > *"Master these five sauces and you can make virtually any sauce on earth."*
 
-**Quick Reference:** [→ Block 5–6 Recipe Quick Ref](quick-ref.md)
+**Quick Reference:** [→ Week 5–6 Recipe Quick Ref](quick-ref.md)
 
 ---
-
-> ⚗️ **Experimental** — This block has not yet been cooked through by the author.
-> Content is draft; recipes and timing are untested.
-
 
 ## Before You Start Block 5
 
@@ -112,7 +108,7 @@ The pan sauce is your simplified Espagnole: browned bits from the steak, deglaze
 | Veg | Roasted eggplant and potato layers |
 | Salad | Greek salad alongside |
 
-*Skill targets: Smooth, lump-free béchamel. Uniform eggplant slices (Block 2 callback). Full mise en place before assembly.*
+*Skill targets: Smooth, lump-free béchamel. Uniform eggplant slices (Week 2 callback). Full mise en place before assembly.*
 
 ---
 
@@ -179,7 +175,9 @@ Make the vinaigrette from scratch. Use it as the dressing *and* as a marinade fo
 
 **Skill:** A pan sauce isn't one of the five mother sauces, but it's descended from all of them. After searing a protein, deglaze the pan (scraping the fond), reduce a liquid (wine, stock), and finish with butter. **This is how restaurants make almost every sauce on their menu.**
 
-**Full Meal:** [Pork Chops with Apple-Cider Pan Sauce](https://www.seriouseats.com/perfect-pan-seared-pork-chop-recipe) + [Roasted Sweet Potatoes](https://www.seriouseats.com/the-best-roasted-sweet-potatoes-thanksgiving-sides-the-food-lab-recipe) + [Simple Green Salad](https://www.seriouseats.com/simple-vinaigrette-recipe)
+**Extension — Compound Butter:** The simplest possible pan-sauce alternative: softened butter mixed with aromatics (herbs, garlic, lemon zest, anchovies, blue cheese) rolled in plastic wrap and refrigerated. Slice off a coin and place it on a hot steak or fish as it rests. It melts into an instant sauce. Make one tonight alongside the pork chops.
+
+**Full Meal:** [Pork Chops with Apple-Cider Pan Sauce](https://www.seriouseats.com/perfect-pan-seared-pork-chop-recipe) + compound butter (herb + garlic + lemon zest) + [Roasted Sweet Potatoes](https://www.seriouseats.com/the-best-roasted-sweet-potatoes-thanksgiving-sides-the-food-lab-recipe) + [Simple Green Salad](https://www.seriouseats.com/simple-vinaigrette-recipe)
 
 | Component | Recipe |
 |-----------|--------|
@@ -193,7 +191,7 @@ Make the vinaigrette from scratch. Use it as the dressing *and* as a marinade fo
 
 ### Session 10 — PROJECT MEAL: A Classic French Bistro Dinner (3 Courses)
 
-**Skill:** Ties together everything from Blocks 5–6. Pan sauce, vinaigrette, and a three-course French bistro-style dinner at home — everything on the table at the same time.
+**Skill:** Ties together everything from Weeks 5–6. Pan sauce, vinaigrette, and a three-course French bistro-style dinner at home — everything on the table at the same time.
 
 | Course | Dish | Link |
 |--------|------|------|
@@ -217,6 +215,7 @@ The five mother sauces aren't really recipes — they're frameworks. Understandi
 
 - 📖 [Butter-Basting: The Technique Behind Restaurant Flavor](https://www.seriouseats.com/how-to-butter-baste-steaks-chops-fish) — A pan sauce technique that applies directly to everything you built this week.
 - 📖 [How to Make Brown Butter](https://www.seriouseats.com/how-to-make-brown-butter-technique) — Beurre noisette is one step past clarified butter and one of the most useful flavors in cooking.
+- 📖 [BBC Good Food — Beurre Blanc](https://www.bbcgoodfood.com/recipes/beurre-blanc) — The emulsified white butter sauce: white wine, shallots, and cold butter whisked in just off the boil. The follow-on to hollandaise in terms of technique; the go-to sauce for poached fish and vegetables in French restaurants.
 
 ---
 

@@ -4,17 +4,13 @@
 
 ---
 
-> ⚗️ **Experimental** — This block has not yet been cooked through by the author.
-> Content is draft; recipes and timing are untested.
-
-
-> *"You've been cooking with deliberate intention since Block 1. This week is your first real test: can you cook a full dinner for people you care about, with no recipes open in front of you during service? It also closes out Module 2 — Building Flavor. Before you enter the Proteins block, you should be able to season by instinct, not by instruction."*
+> *"You've been cooking with deliberate intention since Week 1. This week is your first real test: can you cook a full dinner for people you care about, with no recipes open in front of you during service? It also closes out Module 2 — Building Flavor. Before you enter the Proteins block, you should be able to season by instinct, not by instruction."*
 
 ---
 
 ## Block 13 — The Module 2 Capstone Cook
 
-**The Block 13 rule:** Recipes are allowed for preparation and mise en place. Once service begins — meaning once anything goes on the heat — close the tabs.
+**The Week 13 rule:** Recipes are allowed for preparation and mise en place. Once service begins — meaning once anything goes on the heat — close the tabs.
 
 ---
 
@@ -26,7 +22,7 @@
 
 ### Session 1 — Menu Planning
 
-**Skill:** Professional kitchens don't decide what to cook while standing in front of the stove. They plan. Tonight's task: design a 3-course dinner menu for the project session using only techniques you've learned in Blocks 1–12. Write the menu down. Plan the timing. Make your shopping list.
+**Skill:** Professional kitchens don't decide what to cook while standing in front of the stove. They plan. Tonight's task: design a 3-course dinner menu for the project session using only techniques you've learned in Weeks 1–12. Write the menu down. Plan the timing. Make your shopping list.
 
 *Questions to ask yourself while planning:*
 
@@ -46,7 +42,7 @@ Whatever you identified as the hardest part of the project menu — make it toni
 
 ### Session 3 — Knife Speed Benchmark
 
-**Skill:** Time yourself dicing one onion. This is the third benchmark in the program ( and were the others). Write the time down. You should be measurably faster than Block 2. More importantly: are your cuts more uniform? Speed is the secondary metric. Consistency is the primary one.
+**Skill:** Time yourself dicing one onion. This is the third benchmark in the program ( and  were the others). Write the time down. You should be measurably faster than Week 2. More importantly: are your cuts more uniform? Speed is the secondary metric. Consistency is the primary one.
 
 **Full Meal:** [Serious Eats — Thai-Style Larb (Ground Meat Salad)](https://www.seriouseats.com/larb-muang-moo-northern-thai-style-chopped-pork-salad-recipe) + [Serious Eats — Jasmine Rice](https://www.seriouseats.com/perfect-stovetop-thai-jasmine-rice) + [Serious Eats — Quick-Pickled Cucumbers](https://www.seriouseats.com/quick-pickled-cucumbers-rice-vinegar-recipe)
 
@@ -66,9 +62,9 @@ Mise en place everything for the project dinner. Every sauce component prepped. 
 
 ---
 
-### Session 5 — PROJECT MEAL: The Block 13 Dinner
+### Session 5 — PROJECT MEAL: The Week 13 Dinner
 
-**The cook:** Execute your planned 3-course dinner for at least two guests. No recipes open during service. All techniques drawn from Blocks 1–12.
+**The cook:** Execute your planned 3-course dinner for at least two guests. No recipes open during service. All techniques drawn from Weeks 1–12.
 
 *Suggested framework if you can't decide:*
 
@@ -83,7 +79,7 @@ Mise en place everything for the project dinner. Every sauce component prepped. 
 
 This is the most important reflection yet. Five questions, five sentences minimum each:
 
-1. What is the technique you've improved most since Block 1?
+1. What is the technique you've improved most since Week 1?
 2. What still feels unnatural or mechanical?
 3. Which recipe from the past 13 weeks do you want to master — cook repeatedly until it's genuinely yours?
 4. What ingredient have you cooked with for the first time that you now want to use regularly?
@@ -213,50 +209,4 @@ The midpoint capstone includes whole-bird cookery. If you want to go deeper on b
 
 ---
 
----
-
-## Module 2 Checkpoint
-
-> *Before you move on to Module 3 (The Proteins), take stock of where you are.
-> The protein work ahead assumes you can season confidently and build flavor from scratch.*
-
-This is not graded. It is honest.
-
-### Palate Benchmark
-
-Make a simple chicken stock (or use a good carton). Taste it plain. Now season it from memory into a finished sauce — acid, fat, salt. No recipe.
-
-Ask yourself: did you know why you added each thing, or were you guessing?
-
-| First taste | After seasoning | What you added |
-|-------------|----------------|----------------|
-| ___________ | _______________ | _______________ |
-
-If you knew *why* at every step, your palate is working. If you were guessing, Block 17 will feel harder than it should. Spend time with Block 9 before continuing.
-
-### Cook-From-Memory Test
-
-Without opening any recipe, cook **one** of the following from scratch:
-
-- Fresh pasta with a butter-and-sage or simple tomato sauce (from Blocks 13–14)
-- A properly balanced vegetable dish — texture, acid, fat, and seasoning all in play
-- A risotto or pilaf: toasted grain, aromatics, liquid by feel, final butter mount
-
-The only rule: once anything goes on heat, no tabs open.
-
-### Skills Checklist
-
-Before Module 3, you should be able to answer yes to all of these:
-
-- [ ] I can season by taste, not by recipe — I know when something needs acid vs. salt vs. fat
-- [ ] I understand the flavor role of aromatics (mirepoix, soffritto, the holy trinity) and use them intentionally
-- [ ] I can make fresh pasta from scratch and cook it properly
-- [ ] I can cook grains (rice, farro, barley) without a recipe and produce consistent texture
-- [ ] I understand Maillard vs. caramelization and can control which one I'm chasing
-- [ ] I can taste a dish mid-cook and diagnose what it needs
-
-If you're checking all of these: you're ready for Module 3.
-
-If you have two or more unchecked: revisit the relevant blocks before the proteins. Flavor fluency is the foundation of everything in Module 3.
-
-← [Blocks 13–14](../13-14-pasta-and-grains/index.md) | [Blocks 17–18 →](../../03-the-proteins/17-18-beef-fundamentals/index.md)
+← [Weeks 13–14](../13-14-pasta-and-grains/index.md) | [Weeks 17–18 →](../../03-the-proteins/17-18-beef-fundamentals/index.md)

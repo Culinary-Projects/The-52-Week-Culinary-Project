@@ -2,12 +2,9 @@
 
 > *"Learn to hold a knife properly and half the battle is won."*
 
-**Quick Reference:** [→ Block 1–2 Recipe Quick Ref](quick-ref.md)
+**Quick Reference:** [→ Week 1–2 Recipe Quick Ref](quick-ref.md)
 
 ---
-
-> ⚗️ **Experimental** — This block has not yet been cooked through by the author.
-> Content is draft; recipes and timing are untested.
 
 ## Before You Start Block 1
 
@@ -45,7 +42,7 @@ The prep is simple — garlic and parsley — which lets you focus entirely on y
 
 The onion is handled separately: halve it through the root, press it cut-side down into a dry, screaming-hot pan (no oil) until deeply charred — nearly black. That char goes straight into the broth and gives it color and depth. It's a different technique from dicing and worth doing intentionally.
 
-**⏰ Full Meal:** [The Best Chicken Noodle Soup](https://www.seriouseats.com/the-ultimate-chicken-noodle-soup)
+**Full Meal:** [The Best Chicken Noodle Soup](https://www.seriouseats.com/the-ultimate-chicken-noodle-soup)
 
 The recipe only uses charred onion for the stock — carrot and celery aren't in it. Your diced carrot and celery go straight into the soup for the last 10 minutes. The recipe doesn't call for them but they belong there, and the soup is better for it.
 
@@ -55,7 +52,7 @@ The recipe only uses charred onion for the stock — carrot and celery aren't in
 |-----------|--------|
 | Protein | Chicken breast — poach in the broth (or sous vide if you have one), then dice |
 | Veg | Onion (charred, per recipe) into the stock; your diced carrot and celery into the soup for last 10 minutes |
-| Starch | Orchetta, cooked seperately |
+| Starch | Egg noodles, cooked seperately |
 
 > 🎥 **Compare Notes:** [Knife Skills: How to Slice and Dice an Onion](https://www.youtube.com/watch?v=BuebC0CfD8E) · [How to Make Chicken Noodle Soup](https://www.youtube.com/watch?v=cR36DqjOvig) — Watch the knife video for the claw grip in real time at speed. The soup video shows a completely different approach to the same dish — both are worth thinking about.
 
@@ -159,7 +156,7 @@ While you have your knife out: grab a small handful of fresh basil leaves. Stack
 
 ### Session 8 — Breaking Down a Whole Chicken
 
-**Skill:** Buy a whole chicken. Read [How to Break Down a Chicken](https://www.seriouseats.com/knife-skills-how-to-break-down-a-chicken) first, then do it. You'll get two bone-in breasts, two thighs, two drumsticks, two wings, and a carcass. **Put the carcass in a zip-lock in the freezer — that's Block 7 stock material.** Follow the joints, not the bones. Let the knife find the natural seams.
+**Skill:** Buy a whole chicken. Read [How to Break Down a Chicken](https://www.seriouseats.com/knife-skills-how-to-break-down-a-chicken) first, then do it. You'll get two bone-in breasts, two thighs, two drumsticks, two wings, and a carcass. **Put the carcass in a zip-lock in the freezer — that's Week 7 stock material.** Follow the joints, not the bones. Let the knife find the natural seams.
 
 **Full Meal:** [Chicken Piccata](https://www.seriouseats.com/chicken-piccata-italian-fried-cutlet-recipe) (use the breasts) + [Burst Cherry Tomatoes](https://www.seriouseats.com/fast-easy-pasta-blistered-cherry-tomato-sauce-recipe)
 
@@ -177,7 +174,7 @@ The thighs and legs go in the fridge (use them later in the block) or freeze for
 
 ### Session 9 — Speed Benchmark
 
-**Skill:** Time yourself dicing one onion. Write it down. This is your baseline. At the end of Block 4, you'll time yourself again. Speed is not the goal — having a reference point is.
+**Skill:** Time yourself dicing one onion. Write it down. This is your baseline. At the end of Week 4, you'll time yourself again. Speed is not the goal — having a reference point is.
 
 **Full Meal:** [Shakshuka](https://www.seriouseats.com/shakshuka-north-african-shirred-eggs-tomato-pepper-recipe) + leftover chicken from earlier in the block thighs (warmed in a skillet)
 

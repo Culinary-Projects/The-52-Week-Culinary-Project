@@ -4,10 +4,6 @@
 
 ---
 
-> ⚗️ **Experimental** — This block has not yet been cooked through by the author.
-> Content is draft; recipes and timing are untested.
-
-
 > "Italian cooking is the most forgiving cuisine that still demands respect. No one cares if your risotto isn't perfect — but they care deeply if you added cream. Italian cooking's rules are not about technique. They're about ingredients. Get the right ones, and the technique almost takes care of itself."
 
 ---
@@ -25,7 +21,7 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 
 ### Session 1 — Mushroom Risotto
 
-**Skill:** Ladle-by-ladle stock addition; risotto consistency (mantecatura); choosing the right rice 
+**Skill:** Ladle-by-ladle stock addition; risotto consistency (mantecatura); choosing the right rice  
 **Read first:** [Pressure Cooker Mushroom Risotto](https://www.seriouseats.com/pressure-cooker-mushroom-risotto-recipe)
 
 **What you're learning:** The SE version uses a pressure cooker for efficiency, but the lesson is the same: risotto requires Arborio or Carnaroli rice (short-grain, high starch), warm stock added in stages, and the final "mantecatura" — stirring in cold butter off heat until silky and slightly loose. Serve immediately; risotto kills itself waiting.
@@ -40,7 +36,7 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 
 ### Session 2 — Minestrone (The Full Version)
 
-**Skill:** Building vegetable-forward Italian broth; proper pasta-in-soup timing 
+**Skill:** Building vegetable-forward Italian broth; proper pasta-in-soup timing  
 **Read first:** [The Best Minestrone Soup](https://www.seriouseats.com/the-best-minestrone-soup-recipe)
 
 **What you're learning:** Minestrone is not a simple ingredient dump — the vegetables go in stages based on cook time. Parmesan rind in the pot adds depth. The pasta/beans/bread component depends on region. This version respects the soup's architecture.
@@ -55,7 +51,7 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 
 ### ⏰ Session 3 — Osso Buco alla Milanese
 
-**Skill:** Cross-cut veal shank braising; gremolata (the raw herb-lemon finish) 
+**Skill:** Cross-cut veal shank braising; gremolata (the raw herb-lemon finish)  
 **Read first:** [Osso Buco — Italian Braised Veal Shanks](https://www.seriouseats.com/osso-buco-italian-braised-veal-shanks-recipe)
 
 **What you're learning:** Osso buco = "bone with a hole." The marrow inside is the reward for patience. Brown the shanks aggressively (all sides), braise 2–3 hours until the bone loosens, finish with gremolata (parsley + lemon zest + garlic) added right before serving. The raw freshness of gremolata against the deep braise is the whole point.
@@ -71,7 +67,7 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 
 ### Session 4 — Ribollita (Tuscan Bean Bread Soup)
 
-**Skill:** Tuscan "re-boiled" soup; building body with day-old bread 
+**Skill:** Tuscan "re-boiled" soup; building body with day-old bread  
 **Read first:** [Pressure Cooker Ribollita](https://www.seriouseats.com/pressure-cooker-ribollita)
 
 **What you're learning:** Ribollita ("re-boiled") is meant to be made, cooled, then reheated (the name is the instruction). Thick with cavolo nero, cannellini beans, and day-old bread that dissolves into the soup. If it isn't thick enough to hold a spoon upright, it needs more bread or more time.
@@ -84,7 +80,7 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 
 ### Session 5 — PROJECT: Pan-Roasted Whole Branzino + Tiramisu
 
-**Skill:** Herbed whole fish for the table; tiramisu assembly and setting time 
+**Skill:** Herbed whole fish for the table; tiramisu assembly and setting time  
 **Read first:** [Pan-Roasted Whole Branzino](https://www.seriouseats.com/pan-roasted-whole-branzino) | [Best Tiramisu](https://www.seriouseats.com/best-tiramisu-recipe)
 
 **Make the tiramisu in the morning** — it needs at least 4 hours refrigeration before serving.
@@ -104,7 +100,7 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 
 ### Session 6 — Gnocchi from Scratch
 
-**Skill:** Potato gnocchi dough; reading texture by feel; avoiding gummy results 
+**Skill:** Potato gnocchi dough; reading texture by feel; avoiding gummy results  
 **Read first:** [Light and Tender Potato Gnocchi](https://www.seriouseats.com/light-tender-potato-gnocchi-recipe)
 
 **What you're learning:** Great gnocchi are light (barely there) because they contain barely enough flour to hold together. Too much flour → rubbery. The test: drop one in boiling water; if it rises and floats within 30 seconds and tastes right, roll the rest.
@@ -119,8 +115,8 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 
 ### Session 7 — Pasta Fresca (Fresh Egg Pasta)
 
-**Skill:** Making egg pasta dough by hand; rolling and cutting; various shapes 
-**Read first:** Reference pasta-making from Blocks 13–14 (pasta fresca was introduced there) — this session goes deeper into filled pasta
+**Skill:** Making egg pasta dough by hand; rolling and cutting; various shapes  
+**Read first:** Reference pasta-making from Weeks 13–14 (pasta fresca was introduced there) — this session goes deeper into filled pasta
 
 **What you're learning:** Now that you know the dough, try a filled shape: either tortelloni (large), ravioli, or a simple pappardelle if fresh dough's not been practiced recently. The filling: ricotta + spinach + Parmesan + nutmeg.
 
@@ -134,13 +130,13 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 
 ### Session 8 — Spaghetti alle Vongole (Revisited from Italian Perspective)
 
-**Skill:** Building a white brothy sauce; pasta finishing technique; the two vongole versions (in bianco vs. in rosso) 
-**Read first:** [Spaghetti alle Vongole](https://www.seriouseats.com/spaghetti-pasta-alle-vongole-clams-recipe) *(used in Block 23 for shellfish technique — now revisit as Italian pasta lesson)*
+**Skill:** Building a white brothy sauce; pasta finishing technique; the two vongole versions (in bianco vs. in rosso)  
+**Read first:** [Spaghetti alle Vongole](https://www.seriouseats.com/spaghetti-pasta-alle-vongole-clams-recipe) *(used in Week 23 for shellfish technique — now revisit as Italian pasta lesson)*
 
 **What you're learning:** The same dish from week 23, but now you're thinking about it differently: pasta al dente, reserved pasta water as sauce thickener, the ratio of clam liquor to olive oil. Make the white version (in bianco) if you made red baked mussels before; make red if not.
 
 **Full Meal:**
-- Spaghetti alle Vongole (the other version from Block 23)
+- Spaghetti alle Vongole (the other version from Week 23)
 - Crusty bread
 
 ---
@@ -148,7 +144,7 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 
 ### Session 9 — Saltimbocca alla Romana
 
-**Skill:** Pan-searing thin veal or chicken cutlets; prosciutto application; sage crisp 
+**Skill:** Pan-searing thin veal or chicken cutlets; prosciutto application; sage crisp  
 **Read first:** [Veal Saltimbocca](https://www.seriouseats.com/veal-saltimbocca-roman-sauteed-cutlet-recipe) — or [Chicken Saltimbocca](https://www.seriouseats.com/chicken-saltimbocca-recipe-11764806) if substituting
 
 **What you're learning:** Saltimbocca = "jump in the mouth." Thin protein + salty prosciutto + sage + butter + white wine reduction. It's a 15-minute dish that requires absolute timing: in the pan, prosciutto-side down briefly, then flip, deglaze, done.
@@ -162,12 +158,12 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 
 ### Session 10 — PROJECT: Italian Sunday Dinner
 
-**Skill:** Multi-course Italian meal; timing, preparation, and service 
+**Skill:** Multi-course Italian meal; timing, preparation, and service  
 **Goal:** Build a complete Italian Sunday dinner for 4 or more:
 
 1. **Antipasto:** Cured meats, olives, fresh mozzarella, bruschetta
 2. **Primo:** Risotto or fresh pasta
-3. **Secondo:** Bistecca alla Fiorentina (thick T-bone, wood-fire or cast iron) — or osso buco if not done on Wed Block 29
+3. **Secondo:** Bistecca alla Fiorentina (thick T-bone, wood-fire or cast iron) — or osso buco if not done on Wed Week 29
 4. **Contorni:** Roasted vegetables or simple salad
 5. **Dolce:** Tiramisu or panna cotta (make ahead)
 

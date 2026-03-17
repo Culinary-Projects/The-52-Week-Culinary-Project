@@ -2,12 +2,9 @@
 
 > *"Understanding heat is understanding cooking. Everything else is detail."*
 
-**Quick Reference:** [→ Block 3–4 Recipe Quick Ref](quick-ref.md)
+**Quick Reference:** [→ Week 3–4 Recipe Quick Ref](quick-ref.md)
 
 ---
-
-> ⚗️ **Experimental** — This block has not yet been cooked through by the author.
-> Content is draft; recipes and timing are untested.
 
 ## Before You Start Block 3
 
@@ -95,11 +92,17 @@ Notice the difference in texture from earlier in the block roasted thighs — sa
 
 ---
 
-### Session 4 — Steaming and Poaching: Gentle, Wet Heat
+### Session 4 — Steaming, Poaching, and En Papillote: Gentle Heat
 
 **Skill:** Wet heat keeps food moist and tender but produces no browning. It's ideal for delicate proteins and vegetables where you want to preserve texture and color. The trick: control your temperature. A hard boil beats up delicate proteins; a gentle simmer protects them.
 
-**Full Meal:** [Perfect Poached Salmon](https://www.seriouseats.com/poached-salmon-dill-yogurt-sauce-recipe) + [Steamed Bok Choy with Garlic Sauce](https://www.seriouseats.com/stir-fried-greens-with-garlic-bok-choy-with-oyster-sauce-recipe) + Steamed rice
+**Tonight's two techniques:**
+
+**Poaching and steaming** — cook the salmon gently in simmering liquid; steam the bok choy in a basket.
+
+**En papillote** — place a fish fillet, a spoonful of butter, aromatics (sliced fennel, capers, lemon), and a splash of white wine on one half of a large sheet of parchment paper. Fold and crimp the paper into a sealed parcel. Bake at 400°F for 12–15 minutes. The parcel puffs and steams the fish in its own moisture. This is the most foolproof fish technique in the kitchen — it's nearly impossible to overcook. Open the parcel at the table.
+
+**Full Meal:** [Perfect Poached Salmon](https://www.seriouseats.com/poached-salmon-dill-yogurt-sauce-recipe) + fish en papillote (technique from description above; choose your fish based on what's freshest) + [Steamed Bok Choy with Garlic Sauce](https://www.seriouseats.com/stir-fried-greens-with-garlic-bok-choy-with-oyster-sauce-recipe) + Steamed rice
 
 | Component | Recipe |
 |-----------|--------|
@@ -111,7 +114,7 @@ Notice the difference in texture from earlier in the block roasted thighs — sa
 
 ### Session 5 — PROJECT MEAL: Spatchcocked Roast Chicken
 
-**Skill:** Spatchcocking (butterflying) a whole chicken removes the backbone, flattens the bird, and allows it to roast evenly in about half the time of a trussed bird. You'll use your knife skills from Blocks 1–2 and your roasting knowledge from this week. The result: the crispiest skin you've ever made at home.
+**Skill:** Spatchcocking (butterflying) a whole chicken removes the backbone, flattens the bird, and allows it to roast evenly in about half the time of a trussed bird. You'll use your knife skills from Weeks 1–2 and your roasting knowledge from this week. The result: the crispiest skin you've ever made at home.
 
 **Full Meal:** [Spatchcocked Roast Chicken](https://www.seriouseats.com/lavender-lemon-and-honey-spatchcocked-roast-chicken-recipe) + [Roasted Potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + [Simple Green Salad with Vinaigrette](https://www.seriouseats.com/simple-vinaigrette-recipe)
 
@@ -175,7 +178,7 @@ Notice the difference in texture from earlier in the block roasted thighs — sa
 
 ### Session 9 — Recap Cook: No Recipes
 
-**Skill challenge:** Tonight you cook a full meal using only methods you've learned in Blocks 3–4, but with no recipe open. Pick a protein in your fridge. Choose a heat method. Season it. Make a simple sauce from the pan drippings. Cook a vegetable. Plate it.
+**Skill challenge:** Tonight you cook a full meal using only methods you've learned in Weeks 3–4, but with no recipe open. Pick a protein in your fridge. Choose a heat method. Season it. Make a simple sauce from the pan drippings. Cook a vegetable. Plate it.
 
 If you need to glance at times and temperatures, that's fine. But close the recipe tab.
 
