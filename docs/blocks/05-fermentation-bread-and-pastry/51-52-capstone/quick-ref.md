@@ -1,6 +1,6 @@
-# Block 51–52: Module 5 Capstone — The Final Exam: Quick Reference
+# Block 51–52: Capstone — Quick Reference
 
-← [Block 51–52: Signature Dishes & Menus](../51-52-capstone/index.md)
+← [Back to Full Guide](index.md)
 
 ---
 
@@ -21,11 +21,10 @@ Rate each skill honestly on a 1–5 scale:
 | Cook egg any style to order | | | |
 | Emulsify a butter sauce | | | |
 | Make fresh pasta by hand | | | |
-| Grill protein to correct temp | | | |
 | Braise a tough cut to tenderness | | | |
 | Bake bread (any style) | | | |
 | Make pastry dough (pie/tart) | | | |
-| Make a gelatin-set dessert | | | |
+| Ferment something from scratch | | | |
 | Cook 3-course dinner without stress | | | |
 | Cook for 6+ people on schedule | | | |
 
@@ -35,30 +34,32 @@ Rate each skill honestly on a 1–5 scale:
 
 | Technique Family | Blocks | Benchmark Dish |
 |---|---|---|
-| Egg fundamentals | 1–2 | Perfect fried egg; French omelette |
-| Stocks and sauces | 3–4 | Brown chicken stock; pan sauce |
-| Knife and vegetable | 5–6 | Uniform brunoise; vegetable mise en place |
-| Braising and roasting | 7–8 | Braise to fork-tender; perfect roast |
-| Stewing and soups | 9–10 | Soup from stock; coq au vin variation |
-| Poultry all-in | 11–12 | Spatchcock roast; duck confit |
-| Beef fundamentals | 13–16 | Steak sear; short rib braise |
-| Beef advanced | 17–18 | Galbi; Bolognese from scratch |
-| Pork all cuts | 19–20 | Chashu; carnitas; porchetta |
-| Fish fundamentals | 21–22 | Crispy skin salmon; sole meunière |
-| Shellfish | 23–24 | Vongole; moules; lobster thermidor |
-| Curing and charcuterie | 25–26 | Gravlax; rillettes |
-| French cuisine | 27–28 | Cassoulet; béarnaise; duck à l'orange |
-| Italian cuisine | 29–30 | Osso buco; gnocchi; tiramisu |
-| Japanese cuisine | 31–32 | Dashi; tonkatsu; ramen tare |
-| Mexican cuisine | 33–34 | Pozole; mole; tamales |
-| Indian cuisine | 35–36 | Butter chicken; biryani; garam masala |
-| Middle Eastern | 37–38 | Hummus from dried; falafel; shawarma |
-| SE Asian | 39–40 | Pad thai; pho; rendang |
-| Bread | 41–42 | Sourdough loaf; croissants |
-| Pastry | 43–44 | Pâte sucrée; tarte tatin |
-| Desserts | 45–46 | Panna cotta; crème brûlée; pavlova |
-| Signature / Mastery | 47–48 | Your defined dishes |
-| Menus / Timing | 49–50 | Dinner party for 8, on time |
+| Knife and fundamentals | 1–2 | Uniform brunoise; proper grip |
+| Heat and cooking methods | 3–4 | Sear; sauté; braise; deep fry |
+| Mother sauces | 5–6 | Béchamel; velouté; hollandaise |
+| Stocks and eggs | 7–8 | Brown chicken stock; French omelette |
+| Seasoning and flavor | 9–10 | Season confidently; balance acid-fat-salt |
+| Vegetables and plant-forward | 11–12 | Roasted vegetables; composed salad |
+| Pasta and grains | 13–14 | Fresh pasta; risotto; pilaf |
+| Beef fundamentals | 15–16 | Steak sear; short rib braise |
+| Fish | 17–18 | Crispy skin salmon; sole meunière |
+| Shellfish | 19–20 | Vongole; moules; lobster |
+| Pork and charcuterie | 21–22 | Chashu; carnitas; rillettes |
+| Poultry | 23–24 | Spatchcock roast; duck confit |
+| French cuisine | 25–26 | Cassoulet; béarnaise |
+| Italian cuisine | 27–28 | Osso buco; gnocchi |
+| Japanese cuisine | 29–30 | Dashi; tonkatsu; ramen |
+| Korean cuisine | 31–32 | Bibimbap; kimchi jjigae |
+| Chinese cuisine | 33–34 | Mapo tofu; twice-cooked pork |
+| Mexican cuisine | 35–36 | Pozole; mole; tamales |
+| Indian cuisine | 37–38 | Butter chicken; biryani |
+| Southeast Asian | 39–40 | Pad thai; pho; rendang |
+| Fermentation & preservation | 41–42 | Sauerkraut; gravlax; hot sauce |
+| Bread — lean doughs | 43–44 | No-knead; baguette; focaccia |
+| Bread — sourdough & enriched | 45–46 | Sourdough loaf; croissants; brioche |
+| Pastry — doughs & custards | 47–48 | Pâte sucrée; choux; mille-feuille |
+| Pastry — desserts | 49–50 | Crème brûlée; panna cotta; layer cake |
+| Capstone | 51–52 | Your signature dish; the final dinner |
 
 ---
 
@@ -90,37 +91,34 @@ Answer before cooking your final exam dish:
 
 ---
 
-## What You Have Made (Full-Program Summary)
-
-| Category | Approximate Dishes |
-|---|---|
-| Egg and breakfast dishes | 12+ |
-| Soups and stocks | 20+ |
-| Vegetable preparations | 40+ |
-| Fish and shellfish | 30+ |
-| Poultry | 20+ |
-| Beef | 25+ |
-| Pork | 15+ |
-| International complete meals | 40+ |
-| Bread and pastry | 20+ |
-| Desserts and custards | 20+ |
-| **Estimated total** | **~250–280 dishes** |
-
----
-
 ## Block 51–52 at a Glance
 
 | Session | Activity |
 |---|---|
-| W51 Mon | Skills inventory + knife time trial |
-| W51 Tue | Cook one dish from Blocks 1–10 |
-| W51 Wed | Cook complete 2-course meal from memory |
-| W51 Thu | Rest |
-| W51 Fri | Final mise en place drill |
-| W51 Sat | **Anniversary Dinner** — your people, your menu |
-| W52 Mon | Write culinary philosophy |
-| W52 Tue | **Final Exam Dish** — no recipe |
-| W52 Wed | Retrospective tasting menu (personal) |
-| W52 Thu | Do not cook |
-| W52 Fri | Open kitchen — cook for anyone |
-| W52 Sat | **The Final Dinner** — no instructions |
+| 225 | Skills inventory + knife time trial |
+| 226 | Cook one forgotten dish from Blocks 1–10 |
+| 227 | Design and cook your signature dish |
+| 228 | Cook complete 2-course meal from memory |
+| Service 56 | **Anniversary Dinner** — your people, your menu |
+| 229 | Write your culinary philosophy |
+| 230 | **Final Exam Dish** — one dish, no recipe |
+| 231 | Retrospective tasting menu (personal) |
+| 232 | Open kitchen — cook for anyone |
+| 233 | **The Final Dinner** — no instructions |
+
+---
+
+## What You Have Made (Full-Program Summary)
+
+| Category | Approximate Dishes |
+|---|---|
+| Foundation techniques (sauces, stocks, eggs) | 30+ |
+| Vegetable preparations | 30+ |
+| Pasta and grains | 15+ |
+| Beef, pork, and poultry | 40+ |
+| Fish and shellfish | 25+ |
+| World cuisine complete meals | 40+ |
+| Fermented and preserved products | 10+ |
+| Bread (lean, sourdough, enriched) | 15+ |
+| Pastry and desserts | 20+ |
+| **Estimated total** | **~250–280 dishes** |

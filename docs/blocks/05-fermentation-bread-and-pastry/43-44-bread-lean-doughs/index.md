@@ -1,6 +1,6 @@
-# 🍞 Block 39–44: Bread
+# 🍞 Block 43–44: Bread — Lean Doughs
 
-← [Block 37–40: Southeast Asian](../../04-worlds-kitchens/39-40-southeast-asian/index.md) | [Block 47–48: Pastry →](../47-48-pastry-doughs-and-custards/index.md)
+← [Block 41–42: Fermentation & Preservation](../41-42-fermentation-and-preservation/index.md) | [Block 45–46: Bread — Sourdough & Enriched →](../45-46-bread-sourdough-and-enriched/index.md)
 
 ---
 
@@ -21,14 +21,13 @@ This week establishes the principles of bread-making through the two most forgiv
 > ⏰ **Planning Ahead**
 >
 > - **Session 194 (Better No-Knead Bread):** mix dough the night before the block starts (12–18 hr rise)
-> - **Service 49 (PROJECT: Sourdough Starter + First Loaf):** starter must be active; feed it the day before this session
-> - **Session 198 (Sourdough: First Real Loaf):** bulk ferment 4–5 hrs + overnight cold proof
-> - **Session 200 (Brioche):** dough needs overnight cold retard after initial mix
+> - **Session 197 (Pullman Loaf):** plan shopping for bread flour and a Pullman pan
+> - **Service 49 (PROJECT: Sourdough Starter):** begin your starter this week — it needs 5–7 days to become active for Block 45–46
 
 
 ### Session 194 — Better No-Knead Bread
 
-**Skill:** Autolyse; long cold fermentation; Dutch oven steam baking 
+**Skill:** Autolyse; long cold fermentation; Dutch oven steam baking
 **Read first:** [Better No-Knead Bread](https://www.seriouseats.com/better-no-knead-bread-recipe)
 
 **What you're learning:** No-knead bread works because a long rest (12–18 hours) allows gluten strands to organize themselves without the mechanical action of kneading. The Dutch oven creates the steam that a commercial deck oven provides — essential for the brittle, shiny crust. Dough should be shaggy and wet; this is correct.
@@ -45,10 +44,10 @@ This week establishes the principles of bread-making through the two most forgiv
 
 ### Session 195 — No-Knead Bread Variation (Folding Technique Upgrade)
 
-**Skill:** Stretch-and-fold technique during bulk fermentation; shaping surface tension 
+**Skill:** Stretch-and-fold technique during bulk fermentation; shaping surface tension
 **Read first:** Reference the better no-knead technique; try incorporating 3–4 rounds of stretch-and-fold during the first 2 hours
 
-**What you're learning:** The "better" part of Better No-Knead Bread is using the stretch-and-fold technique instead of just leaving the dough alone. This builds more structure and improves the crumb. Compare your Session 195 loaf to earlier in the block's — the crumb should be more open and even.
+**What you're learning:** The "better" part of Better No-Knead Bread is using the stretch-and-fold technique instead of just leaving the dough alone. This builds more structure and improves the crumb. Compare your Session 195 loaf to Session 194's — the crumb should be more open and even.
 
 **Full Meal:**
 - Bread loaf #2 with different toppings or served alongside a simple soup
@@ -57,7 +56,7 @@ This week establishes the principles of bread-making through the two most forgiv
 
 ### Session 196 — No-Knead Focaccia
 
-**Skill:** High-hydration bread; olive oil bath; dimpling and topping technique 
+**Skill:** High-hydration bread; olive oil bath; dimpling and topping technique
 **Read first:** [Easy No-Knead Focaccia](https://www.seriouseats.com/easy-no-knead-focaccia)
 
 **What you're learning:** Focaccia is essentially no-knead bread taken through a different shaping process (poured into an oil-slicked pan, dimpled enthusiastically, topped generously). The high olive oil content creates a crispy-bottom, fluffy-interior bread. Toppings: fleur de sel, fresh rosemary mandatory; add olives, cherry tomatoes, or caramelized onions as taste dictates.
@@ -70,10 +69,9 @@ This week establishes the principles of bread-making through the two most forgiv
 
 ---
 
-
 ### Session 197 — Pullman Loaf (Sandwich Bread)
 
-**Skill:** Enriched bread dough technique; Pullman pan use; proper slice structure 
+**Skill:** Enriched bread dough technique; Pullman pan use; proper slice structure
 **Read first:** [Pullman Loaf — Sandwich Bread](https://www.seriouseats.com/bread-baking-pullman-loaf-recipe)
 
 **What you're learning:** Pullman bread is the American sandwich loaf at its best — tight, even crumb, soft crust, slightly enriched (some butter and milk) so it toasts beautifully. A Pullman pan (with a sliding lid) creates the rectangular profile. This is a different bread philosophy from artisan loaves — engineered for utility as well as flavor.
@@ -86,92 +84,87 @@ This week establishes the principles of bread-making through the two most forgiv
 
 ---
 
-### ⏰ Service 49 — Sourdough Starter + First Sourdough
+### ⏰ Service 49 — Sourdough Starter Project
 
-**Skill:** Starting a natural yeast culture; understanding sourdough fermentation timeline 
+**Skill:** Starting a natural yeast culture; understanding sourdough fermentation timeline
 **Read first:** [Sourdough Starter](https://www.seriouseats.com/sourdough-starter)
 
-**Note:** You won't eat this bread today. Establishing a sourdough starter takes 5–7 days. Start it today; it will be ready for your first actual sourdough loaf in Block 42.
+**Note:** You won't eat sourdough today. Establishing a sourdough starter takes 5–7 days. Start it today; it will be ready for your first actual sourdough loaf in Block 45–46.
 
 **What you're learning:** Sourdough starter is a live culture of wild yeast and bacteria captured from the flour and air. It ferments flour as food. Feeding it (discarding and adding fresh flour + water on schedule) keeps the culture healthy. Consistency of temperature and timing is the key.
 
 **Full Meal:**
-- Focaccia (make a second batch if desired — your no-knead skill is solid by now)
-- the project dinner designed around the focaccia
+- Focaccia (make a second batch — your no-knead skill is solid by now)
+- The project dinner built around the focaccia
 
 > 🎥 **Compare Notes:** [A Non-Baker's Guide to Making Sourdough Bread](https://www.youtube.com/watch?v=APEavQg8rMw) *(Alex French Guy Cooking)* — His beginner lens matches yours right now. Watch when he knows the fermentation is right and how he reads the dough before shaping — that instinct is what you're building today.
 
 ---
 
-## Block 44 — Sourdough, Croissants, and Brioche
+## Block 44 — Flatbreads, Baguette, and Freeform Shaping
+
+You've built the fundamentals with no-knead and focaccia. Now you extend into lean doughs that require more hands-on technique: the hand-built flatbreads of the world, the baguette (the most demanding lean dough there is), and pizza dough from scratch.
 
 ---
 
-### Session 198 — Sourdough: First Real Loaf
+> ⏰ **Planning Ahead**
+>
+> - **Session 234 (Baguette):** mix the poolish 12–16 hours before you plan to shape and bake
+> - **Session 236 (Pizza):** cold-ferment the dough 24–72 hours ahead for best flavor
 
-**Skill:** Levain build; bulk fermentation judgment; shaping; cold retard 
-**Read first:** Reference the sourdough starter from Block 41; consult your flour brand's recommended ratios
+### Session 234 — Baguette
 
-**What you're learning:** Your starter (if started the project session Block 41) should now be active and bubbly. Build a levain (a measured feeding of your starter used as the leavener), mix into a dough, bulk ferment 4–6 hours with stretch-and-folds, shape, refrigerate overnight. Bake in a Dutch oven Session 195 morning.
+**Skill:** Pre-ferment (poolish); aggressive shaping; scoring for ear and bloom
+**Read first:** [How to Make Baguettes at Home](https://www.seriouseats.com/how-to-make-baguettes-at-home)
+
+**What you're learning:** The baguette is the hardest lean bread to make at home because it demands precise shaping, proper scoring, and real steam. A poolish (flour + water + tiny yeast, mixed 12–16 hours ahead) builds the deep flavor that a quick mix can't achieve. The shape — long, even, tapered — is entirely about hand technique. This is the session that separates baking from bread-making.
 
 **Full Meal:**
-- Continue building the starter (no bread from this session yet)
-- Make dinner from something non-bread related tonight
+- Fresh baguette with butter and good cheese
+- Pair with a simple soup — French onion if you want to commit
+
+> 🎥 **Compare Notes:** [How to Make Amazing French Baguettes at Home](https://www.youtube.com/watch?v=efqe9Umxopc) *(Alex French Guy Cooking)* — Watch his scoring technique and look for the "ear" — the raised flap of crust from a properly angled cut. Try to replicate his shaping motion.
 
 ---
 
-### Session 199 — Sourdough: Bake Day
+### Session 235 — Flatbread Survey: Pita and Naan
 
-**Skill:** Cold-retarded sourdough baking; scoring technique; reading the oven spring 
-**Read first:** Continue sourdough journey — score with a lame or sharp razor; bake covered 20 min, uncovered 20–25 min
+**Skill:** High-heat stovetop and oven baking; dough hydration for puff; working with yogurt-enriched doughs
+**Read first:** [Pita Bread](https://www.seriouseats.com/pita-bread-recipe) and [Naan](https://www.seriouseats.com/naan-recipe)
 
-**What you're learning:** The most important bake of the whole bread week. Oven spring (the final rise in a hot oven), scoring (the line you cut before baking that guides the bloom), and the crumb reveal after cooling (don't cut hot — wait 1 hour minimum) are all key moments.
+**What you're learning:** Flatbreads are the oldest bread format — unleavened or lightly leavened doughs cooked fast and hot. Pita relies on extreme oven heat to create the steam pocket (the puff); naan uses yogurt for tenderness and a screaming-hot cast iron skillet for char. Both are done in under 30 minutes of active work once the dough is ready. These are the breads most of the world eats daily.
 
 **Full Meal:**
-- First real sourdough loaf
-- Tear open warm with butter. You earned this.
+- Pita pockets stuffed with whatever protein, pickled vegetables, and tahini sauce you have
+- Fresh naan alongside leftover curry or dal from Block 37–38
 
 ---
 
-### Session 200 — Brioche
+### Session 236 — Pizza Dough from Scratch
 
-**Skill:** Enriched dough with high butter content; emulsifying butter into dough; long cold overnight rest 
-**Read first:** [Brioche Loaf](https://www.seriouseats.com/brioche-loaf-recipe-6755249)
+**Skill:** Cold fermentation for flavor development; high-heat baking; stretching without tearing
+**Read first:** [Foolproof Pan Pizza](https://www.seriouseats.com/foolproof-pan-pizza-recipe)
 
-**What you're learning:** Brioche is bread enriched with so much butter (up to 50–60% of flour weight) and eggs that it blurs the line between bread and cake. The butter must be at room temperature and added gradually while the dough is already developed. If you add cold butter, the gluten breaks — the emulsification is fragile and temperature-sensitive.
+**What you're learning:** Great pizza starts 24–72 hours before baking. A cold-fermented dough develops complex flavor that same-day dough can't match. Start with pan pizza (Kenji's foolproof method) — it's the most forgiving format and produces the crispiest bottom. The dough is essentially a focaccia cousin: high hydration, generous oil, minimal handling.
 
 **Full Meal:**
-- Brioche loaf with jam and cultured butter
-- Use the remaining slices for French toast the next morning
+- Two pan pizzas: one classic (mozzarella, tomato, basil), one creative (use whatever inspires you)
+- This is a Friday night session
+
+> 🎥 **Compare Notes:** [Pan Pizza at Home](https://www.youtube.com/watch?v=HukqEjCPkhU) *(Kenji López-Alt)* — Watch how little he handles the dough and how the pan does the work. The stretch should be gentle; let gravity help.
 
 ---
 
+### ⏰ Service 50 — Lean Dough Tasting and Evaluation
 
-### Session 201 — Croissants
+**Skill:** Evaluating bread: crust, crumb, fermentation character, and chew
+**Goal:** Line up every bread you baked this block alongside the best bread you can buy locally. Taste blind if possible. Evaluate: crust texture, crumb structure (open vs. tight), flavor complexity, chew, and fermentation character.
 
-**Skill:** Laminated dough technique (détrempe + beurrage); layering (tourage); the fold method 
-**Read first:** [Croissants](https://www.seriouseats.com/croissants-recipe-11863500)
-
-**What you're learning:** Croissants are laminated — thin sheets of butter layered into a dough through a series of folds, creating hundreds of distinct layers that steam and puff in the oven. This requires cold butter (firm), cold dough, and patience between rest periods. Block out the full day. The result: the most honest test of your patience and precision so far.
-
-**Full Meal:**
-- Croissants (plain, butter, and chocolate-stuffed if you have pastry chocolate)
-- This is also dinner tonight
-
-> 🎥 **Compare Notes:** [How to Make Amazing French Baguettes at Home](https://www.youtube.com/watch?v=efqe9Umxopc) *(Alex French Guy Cooking)* — The lamination logic in croissants and the crust logic in baguettes come from the same place — steam and structure. Watch his scoring and look for the same "ear" on your croissants.
-
----
-
-### ⏰ Service 50 — Bread Tasting and Final Bake
-
-**Skill:** Assessing all your bakes; understanding the baker's vocabulary for evaluating bread 
-**Goal:** Slice and taste all breads you baked this week alongside the best bread you can buy locally. Evaluate: crust texture, crumb structure, flavor complexity, fermentation character.
-
-Then: make one more loaf of whatever bread felt most satisfying. Practice it again while everything is fresh.
+Then: bake one more loaf of whatever felt most satisfying this block. Your hands know the dough now — trust them.
 
 **Full Meal:**
-- Bread tasting board with cultured butter, olive oil, jams
-- Build a cheese and charcuterie spread using breads as the carrier
+- Bread tasting board with cultured butter, olive oil, fleur de sel
+- Build a simple cheese spread using your breads as the carriers
 
 ---
 
@@ -190,37 +183,6 @@ Bread baking is flour + water + time. But the mechanism is gluten development �
 
 ---
 
-### Sourdough: The Next Frontier
-
-No-knead and focaccia are gateway loaves. If you finished this week intrigued rather than intimidated, sourdough is the natural next project — wild yeast, longer fermentation, more complex crust.
-
-- 📖 [Sourdough Starter](https://www.seriouseats.com/sourdough-starter) — The complete guide to building a culture from scratch: hydration, feeding schedules, flour types, and how to know when your starter is actually ready to bake with. Don't attempt your first sourdough before reading this.
-
----
-
-### Watching a Pro Do It
-
-- 📺 [**Chad Robertson shapes a loaf**](https://www.youtube.com/results?search_query=tartine+bread+shaping+chad+robertson) — The hand technique for shaping sourdough loaves is completely visual. Watch the pre-shape and the final shape before you attempt them.
-
----
-
 ### A Book Worth Having
 
-- 📚 [***Bread Science* by Emily Buehler**](https://www.amazon.com/dp/0615136079) — The scientific explanation of everything that happens when you make bread — yeast activity, gluten networks, crust formation — written for home bakers who want to understand, not just follow instructions.
-
----
-
-## Session 178: Baguette Lab
-
-- Focus: gluten development, fermentation timing, and steam baking
-- Output: baguettes with open crumb and crisp crust
-
-## Session 179: Buttermilk Biscuit Lab
-
-- Focus: lamination by folding, handling cold fat, and tenderness
-- Output: layered biscuits with even rise
-
-## Session 180: Cornbread Lab
-
-- Focus: batter balance, hydration, and pan heat management
-- Output: cornbread with controlled crumb and crust
+- 📚 [***Flour Water Salt Yeast* by Ken Forkish**](https://www.amazon.com/dp/160774273X) — The definitive home bread book. Covers the full progression from no-knead through poolish baguettes and levain breads, with the science explained in baker's language.

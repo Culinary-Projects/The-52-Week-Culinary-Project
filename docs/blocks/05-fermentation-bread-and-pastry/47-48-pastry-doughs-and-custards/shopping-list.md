@@ -1,4 +1,4 @@
-# 🛒 Shopping List — Block 47–48: Pastry
+# 🛒 Shopping List — Block 47–48: Pastry — Doughs & Custards
 
 ← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)
 
@@ -15,53 +15,49 @@
 - [ ] **Pie dish** — for apple pie (9 inch)
 - [ ] **Pie weights or dried beans** — for blind baking tart shells
 - [ ] **Stand mixer** — for choux and pastry cream whisking
-- [ ] **Pastry bag + tips** — for eclairs; a zip-top bag with corner cut works fine
-- [ ] **Madeleine pan** — optional (Saturday's afternoon tea)
+- [ ] **Pastry bag + tips** — for éclairs; a zip-top bag with corner cut works fine
 - [ ] **Box grater** — for grating frozen butter into rough puff dough
+- [ ] **Rolling pin** — for pie dough and puff pastry
 
 ---
 
 ## 🥚 Eggs and Dairy
 
-- [ ] **Eggs** — 2 dozen (pastry cream, quiche, tarte tatin caramel, choux, lemon curd, cake)
-- [ ] **Unsalted butter, European-style** — 3 lbs (used every day this week; buy in bulk)
-- [ ] **Heavy cream** — 1 quart (pastry cream, quiche, chantilly, éclairs)
+- [ ] **Eggs** — 2 dozen (pastry cream, quiche, tarte tatin, choux, lemon curd)
+- [ ] **Unsalted butter, European-style** — 3 lbs (used every session this block; buy in bulk)
+- [ ] **Heavy cream** — 1 quart (pastry cream, quiche, chantilly)
 - [ ] **Whole milk** — 1 quart (pastry cream)
-- [ ] **Crème fraîche** — 1 cup (tarte tatin serving + quiche variation)
-- [ ] **Gruyère** — 6 oz (quiche Mon Block 44)
-- [ ] **Bacon lardons** — 4 oz (quiche lorraine Mon Block 44)
-- [ ] **Mascarpone or cream cheese** — optional (filling variations)
-- [ ] **Clotted cream** — 1 jar (scones service Sat Block 40 afternoon tea; Devon clotted cream at specialty grocers or Whole Foods)
+- [ ] **Crème fraîche** — 1 cup (tarte tatin, quiche variation)
+- [ ] **Gruyère** — 6 oz (quiche Lorraine)
+- [ ] **Bacon lardons** — 4 oz (quiche Lorraine)
+- [ ] **Clotted cream** — 1 jar (afternoon tea scones; specialty grocers or Whole Foods)
+- [ ] **Cream cheese** — 4 oz (finger sandwiches)
 
 ---
 
-## 🍎 Produce — Fruit and Savory Fillings
+## 🍎 Produce
 
-- [ ] **Apples** — 6 Granny Smith or Golden Delicious (tarte tatin Wed + pie Tue Block 44)
-- [ ] **Lemons** — 10 (lemon curd Wed Block 44; various)
-- [ ] **Fresh berries** — 2 cups assorted (pâte sucrée fruit tart Mon)
+- [ ] **Apples** — 8 Granny Smith or Golden Delicious (tarte tatin + apple pie)
+- [ ] **Lemons** — 10 (lemon curd; various)
+- [ ] **Fresh berries** — 2 cups assorted (fruit tart, lemon tart garnish)
 - [ ] **Strawberries** — 1 pint (tart topping)
 - [ ] **Kiwi** — 3 (tart decoration)
-- [ ] **Cucumber** — 4 (finger sandwiches Sat Block 44)
-- [ ] **Smoked salmon** — 4 oz (finger sandwiches Sat Block 40 afternoon tea; smoked salmon + cream cheese is a classic)
+- [ ] **Cucumber** — 4 (finger sandwiches)
+- [ ] **Smoked salmon** — 4 oz (finger sandwiches)
+- [ ] **Fresh herbs** — dill, chives (quiche, sandwiches)
 
 ---
 
 ## 🧂 Pantry
 
 - [ ] **All-purpose flour** — 5 lbs (all doughs)
-- [ ] **Cake flour** — 1 lb (optional; lighter pâte sucrée)
-- [ ] **Powdered sugar (confectioner's)** — 1 lb (pâte sucrée, icing, décor)
+- [ ] **Powdered sugar** — 1 lb (pâte sucrée, icing, décor)
 - [ ] **Granulated sugar** — 2 lbs (caramel, custard, pastry cream, pie)
 - [ ] **Cornstarch** — 1 box (pastry cream thickener)
 - [ ] **Kosher salt** — Diamond Crystal
-- [ ] **Vanilla extract or vanilla bean paste** — 2 oz (pastry cream + various)
+- [ ] **Vanilla extract or vanilla bean paste** — 2 oz
 - [ ] **Pure vanilla beans** — 2–3 (pastry cream; worth it)
-- [ ] **Almond extract** — small bottle (optional tart variations)
-- [ ] **Apricot jam / preserves** — 1 jar (glaze for fruit tart + tarte tatin)
+- [ ] **Apricot jam** — 1 jar (glaze for fruit tart + tarte tatin)
 - [ ] **Bittersweet chocolate (65–70%)** — 8 oz (éclair glaze + mille-feuille décor)
-- [ ] **Dark couverture chocolate (60–72%, high cocoa butter)** — 1 lb for Session 0 tempering; look for Valrhona, Callebaut, or Guittard; must be couverture-grade (not chips)
-- [ ] **Cocoa powder** — (chocolate variations)
-- [ ] **Lard** — 4 oz (Tuesday Block 40 pie crust; optional but dramatically better)
-- [ ] **Puff pastry, store-bought** — 1–2 sheets as backup for mille-feuille (Sat Block 43)
-- [ ] **Ladyfingers** — 1 pack (optional; afternoon tea additions)
+- [ ] **Lard** — 4 oz (pie crust; optional but dramatically better)
+- [ ] **Puff pastry, store-bought** — 1–2 sheets as backup for mille-feuille
