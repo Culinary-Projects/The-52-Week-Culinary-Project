@@ -36,6 +36,7 @@
 - [ ] Lemons — 3
 - [ ] Fresh thyme and rosemary — 1 bunch each
 - [ ] Fresh dill — 1 small bunch (Session 12 poached salmon sauce)
+- [ ] Celery — 3 stalks (Service 3 celery, Parmesan & walnut salad)
 - [ ] Mixed greens — 2 bags (salads)
 
 **Block 4:**
@@ -71,7 +72,9 @@
 - [ ] White miso paste — 1 container (Session 15 glazed salmon)
 - [ ] Mirin — 1 bottle (miso glaze)
 - [ ] Sake or dry sherry — small bottle (miso glaze)
+- [ ] Coconut milk — 1 can (Session 12 coconut rice)
 - [ ] Rice (long grain or jasmine) — 1 lb (Session 9 + Fri steamed rice; also Session 15 broiled salmon)
+- [ ] Walnuts — ½ cup (Service 3 celery, Parmesan & walnut salad)
 - [ ] Neutral oil — for high-heat searing
 - [ ] Extra-virgin olive oil
 - [ ] Shallots — 1 bag (pan sauces)

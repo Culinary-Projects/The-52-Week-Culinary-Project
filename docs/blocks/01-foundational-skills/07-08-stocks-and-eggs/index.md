@@ -136,7 +136,7 @@ The project session you make three things — stock, soup, and a complete dinner
 |------|------|--------|
 | Morning | Big batch beef/veal stock (6–8 hrs, mostly passive) | [Homemade Beef Stock](https://www.seriouseats.com/pressure-cooker-beef-stock) |
 | Dinner | French Onion Soup using your fresh beef stock | [French Onion Soup](https://www.seriouseats.com/french-onion-soup-recipe) |
-| Sides | Watercress Salad with Lemon Vinaigrette + [Garlic-Rubbed Grilled Bread](https://www.seriouseats.com/grilled-bread-recipe) | [Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) |
+| Sides | Watercress Salad with Lemon Vinaigrette + [Garlic-Rubbed Grilled Bread](https://www.seriouseats.com/easy-weeknight-garlic-bread-recipe-8641247) | [Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) |
 
 **Freeze the remaining stock in 1-cup portions. You now have stock in your freezer at all times. This changes your cooking permanently.**
 
@@ -178,7 +178,7 @@ A French scramble dinner is a legitimately elegant meal when served with smoked 
 
 **Skill:** Fresh eggs, a wide shallow pan, simmering (not boiling) water with a splash of vinegar, a gentle swirl, and confidence. The white should be fully set and the yolk should run when broken. Most home cooks are afraid of poached eggs — by the end of tonight, you shouldn't be.
 
-**Full Meal:** [Poached Eggs Over Sautéed Greens with Crispy Bacon](https://www.seriouseats.com/foolproof-poached-eggs-food-lab-recipe) + [Slow-Roasted Cherry Tomatoes](https://www.seriouseats.com/how-to-oven-roast-tomatoes-canned-fresh) + [Sourdough Toast with Herb Butter](https://www.seriouseats.com/compound-butter-recipe)
+**Full Meal:** [Poached Eggs Over Sautéed Greens with Crispy Bacon](https://www.seriouseats.com/foolproof-poached-eggs-food-lab-recipe) + [Slow-Roasted Cherry Tomatoes](https://www.seriouseats.com/how-to-oven-roast-tomatoes-canned-fresh) + [Sourdough Toast with Herb Butter](https://www.seriouseats.com/garlic-parsley-butter-beurre-maitre-d-hotel-snail-butter-recipe)
 
 | Component | Recipe |
 |-----------|--------|
@@ -218,7 +218,7 @@ A properly made omelette with a glass of wine and a frisée salad is one of the 
 
 **Full Meal:**
 - [Quiche Lorraine](https://www.seriouseats.com/quiche-lorraine-recipe-8715255) (lardons + Gruyère + chive)
-- [Butter Lettuce Salad with Dijon Vinaigrette](https://www.seriouseats.com/french-style-vinaigrette-recipe)
+- [Butter Lettuce Salad with Dijon Vinaigrette](https://www.seriouseats.com/simple-vinaigrette-recipe)
 
 | Component | Notes |
 |-----------|-------|

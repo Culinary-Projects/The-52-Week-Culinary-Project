@@ -1,4 +1,4 @@
-# 🛒 Shopping List — Block 29–30: French Classics
+# 🛒 Shopping List — Block 27–28: French Classics
 
 ← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)
 
@@ -44,6 +44,7 @@
 - [ ] Onions — 5 lbs (Mon French onion soup — ~3 lbs per pot)
 - [ ] Garlic — 3 heads
 - [ ] Shallots — 6
+- [ ] Butter lettuce — 1 head (Session 122 salad with herbs and Dijon vinaigrette)
 - [ ] Fresh thyme — 2 bunches
 - [ ] Bay leaves
 - [ ] Gruyère cheese — 6 oz (Mon gratinée + Wed soufflé)
@@ -58,6 +59,9 @@
 - [ ] Oranges — 4 (Tue duck à l'orange: juice + zest)
 - [ ] Asparagus — 1 bunch (Mon beurre blanc)
 - [ ] Frisée lettuce — 2 heads (Fri salad Lyonnaise)
+- [ ] Red cabbage — ½ head (Session 127 braised red cabbage)
+- [ ] Apples — 2 (Session 127 braised red cabbage with apples)
+- [ ] Mâche — 2 heads or 1 bag (Session 128 mâche salad with shallot vinaigrette)
 - [ ] Assorted vegetables for grand aioli (Sat): carrots, green beans, radishes, cauliflower, beets, potatoes
 - [ ] Garlic — 1 additional head (aioli)
 - [ ] Cherry tomatoes — 1 pint (Sat aioli platter)
@@ -73,6 +77,8 @@
 - [ ] Dry red wine — 1 bottle (cassoulet)
 - [ ] White wine vinegar (béarnaise reduction)
 - [ ] Dijon mustard — large jar (vinaigrettes + various)
+- [ ] Walnuts — ½ cup (Service 31 frisée salad with walnut vinaigrette)
+- [ ] Raisins — ¼ cup (Session 127 braised red cabbage)
 - [ ] Unsalted butter — 2 lbs (beurre blanc eats butter; hollandaise, soufflé)
 - [ ] Heavy cream — 1 pint (soufflé béchamel + various)
 - [ ] Parmesan — 4 oz (soufflé)

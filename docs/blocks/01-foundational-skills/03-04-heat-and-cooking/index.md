@@ -47,13 +47,13 @@ The four things every cook must know:
 
 **Skill:** Sautéing means high heat, small amount of fat, food in a single layer, moving frequently. The most common home cook mistake: cold pan, crowded pan, food that steams instead of browns. Tonight, heat your pan until a drop of water evaporates immediately before adding oil. Cook in batches if needed.
 
-**Full Meal:** [Sautéed Chicken Breasts with Quick Pan Sauce](https://www.seriouseats.com/easy-pan-seared-chicken-breast-white-wine-fines-herbes-pan-sauce-food-lab-recipe) + [Sautéed Zucchini with Garlic and Herbs](https://www.seriouseats.com/nice-and-easy-sauteed-summer-squash-zucchini-tomato-herbs-chilies) + Steamed Rice
+**Full Meal:** [Sautéed Chicken Breasts with Quick Pan Sauce](https://www.seriouseats.com/easy-pan-seared-chicken-breast-white-wine-fines-herbes-pan-sauce-food-lab-recipe) + [Sautéed Zucchini with Garlic and Herbs](https://www.seriouseats.com/nice-and-easy-sauteed-summer-squash-zucchini-tomato-herbs-chilies) + [Pilaf-Style Rice](https://www.seriouseats.com/rice-pilaf-recipe-5509610)
 
 | Component | Recipe |
 |-----------|--------|
 | Protein | Sautéed boneless chicken breast, finished with a quick pan sauce of shallot, white wine, and butter |
 | Veg | Sautéed zucchini — notice how a hot pan gives you color on the outside while keeping the inside tender |
-| Starch | [Serious Eats — Pilaf-Style Rice](https://www.seriouseats.com/rice-pilaf-recipe) — toasted in butter before liquid goes in; a technique upgrade from plain steamed rice |
+| Starch | [Pilaf-Style Rice](https://www.seriouseats.com/rice-pilaf-recipe-5509610) — toasted in butter before liquid goes in; a technique upgrade from plain steamed rice |
 
 > 🎥 **Compare Notes:** [Pan-Seared Chicken Breasts with Pan Sauce and Spring Vegetables](https://www.youtube.com/watch?v=Bt8YgEr-9is) — Same cut, same pan sauce technique — notice how he builds flavor in the pan after pulling the chicken.
 
@@ -102,11 +102,11 @@ Notice the difference in texture from earlier in the block roasted thighs — sa
 
 **En papillote** — place a fish fillet, a spoonful of butter, aromatics (sliced fennel, capers, lemon), and a splash of white wine on one half of a large sheet of parchment paper. Fold and crimp the paper into a sealed parcel. Bake at 400°F for 12–15 minutes. The parcel puffs and steams the fish in its own moisture. This is the most foolproof fish technique in the kitchen — it's nearly impossible to overcook. Open the parcel at the table.
 
-**Full Meal:** [Perfect Poached Salmon](https://www.seriouseats.com/poached-salmon-dill-yogurt-sauce-recipe) + fish en papillote (technique from description above; choose your fish based on what’s freshest) + [Stir-Fried Bok Choy with Ginger](https://www.seriouseats.com/stir-fried-greens-with-garlic-bok-choy-with-oyster-sauce-recipe) + [Coconut Rice](https://www.seriouseats.com/coconut-rice-recipe)
+**Full Meal:** [Perfect Poached Salmon](https://www.seriouseats.com/poached-salmon-dill-yogurt-sauce-recipe) + fish en papillote (technique from description above; choose your fish based on what’s freshest) + [Stir-Fried Bok Choy with Ginger](https://www.seriouseats.com/stir-fried-greens-with-garlic-bok-choy-with-oyster-sauce-recipe) + Coconut Rice (simmer jasmine rice in equal parts coconut milk and water)
 
 | Component | Recipe |
 |-----------|--------|
-| Protein | Gently poached salmon — silky, delicate, nothing like a seared fillet |
+| Protein | Gently poached salmon + a second fish fillet en papillote (see technique above) — two gentle-heat methods, one meal |
 | Veg | Stir-fried bok choy with ginger — quick, aromatic, finishes in 3 minutes |
 | Starch | Coconut rice — richer than steamed; the coconut fat rounds out the delicate fish |
 
@@ -116,7 +116,7 @@ Notice the difference in texture from earlier in the block roasted thighs — sa
 
 **Skill:** Spatchcocking (butterflying) a whole chicken removes the backbone, flattens the bird, and allows it to roast evenly in about half the time of a trussed bird. You'll use your knife skills from Blocks 1–2 and your roasting knowledge from this week. The result: the crispiest skin you've ever made at home.
 
-**Full Meal:** [Spatchcocked Roast Chicken](https://www.seriouseats.com/lavender-lemon-and-honey-spatchcocked-roast-chicken-recipe) + [Roasted Potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + [Serious Eats — Celery, Parmesan & Walnut Salad](https://www.seriouseats.com/celery-fennel-salad-recipe)
+**Full Meal:** [Spatchcocked Roast Chicken](https://www.seriouseats.com/lavender-lemon-and-honey-spatchcocked-roast-chicken-recipe) + [Roasted Potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + Celery, Parmesan & Walnut Salad (shaved celery + Parmesan + walnuts + lemon)
 
 *Skill targets: Even butterflying, dry skin before roasting, proper resting time (10 minutes) before carving.*
 

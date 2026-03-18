@@ -63,6 +63,41 @@
 
 ---
 
+## Side Dish Produce & Ingredients
+
+*The side dish overhaul added specific accompaniments to every session. These ingredients are in addition to the aromatics above.*
+
+| Item | Qty | For |
+|---|---|---|
+| Russet or Yukon Gold potatoes | 5 lb | Hasselback (S74), Pommes Anna (S76), Twice-Baked (S77), Potato Wedges (S80) |
+| Fresh spinach | 1 lb | Creamed Spinach (S74) |
+| Heavy cream | 1 pint | Creamed Spinach (S74), Twice-Baked (S77) |
+| Nutmeg (whole or ground) | 1 | Creamed Spinach |
+| Corn on the cob | 4–6 ears | Elote-Style Grilled Corn (S75) |
+| Cotija cheese | 4 oz | Elote corn |
+| Mayonnaise | 1 jar | Elote corn, coleslaw |
+| Chili powder (ancho or Tajín) | 1 jar | Elote corn |
+| Fresh cilantro | 1 bunch | Chimichurri (S75), elote corn |
+| Fresh flat-leaf parsley | 1 large bunch | Chimichurri, gremolata |
+| Fresh oregano | 1 bunch | Chimichurri |
+| Red wine vinegar | 1 bottle | Chimichurri, vinaigrettes |
+| Broccolini | 1 bunch | Roasted Broccolini (S76) |
+| Mushrooms (cremini or mixed) | 1 lb | Sautéed Mushrooms (S77) |
+| Yorkshire pudding: flour, eggs, whole milk | As needed | Yorkshire Puddings (S77) |
+| Asparagus | 1 bunch | Charred Asparagus (S77) |
+| Roasted red peppers (jarred) | 1 jar | Romesco Sauce (S77) |
+| Almonds (Marcona or slivered) | ¼ cup | Romesco Sauce |
+| Egg noodles (wide) | 1 lb | Buttered Noodles (S79) |
+| Poppy seeds | 1 jar | Buttered Noodles |
+| Honey or brown sugar | 1 | Glazed Carrots (S79) |
+| Green cabbage | ½ head | Classic Coleslaw (S80) |
+| Sour cream | 8 oz | Twice-Baked Potatoes (S77) |
+| Cheddar cheese | 4 oz | Twice-Baked Potatoes |
+| Polenta (coarse-ground) | ½ bag | Creamy Polenta (Service 20) |
+| Radicchio or endive | 1 head | Bitter Greens Salad (Service 20) |
+
+---
+
 ## Equipment Checklist
 
 *Ensure these are on hand before starting Block 17–18:*

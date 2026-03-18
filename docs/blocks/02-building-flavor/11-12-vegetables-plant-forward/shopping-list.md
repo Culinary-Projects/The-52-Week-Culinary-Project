@@ -1,4 +1,4 @@
-# Block 13–14 Shopping List — Vegetables & Plant-Forward Cooking
+# Block 11–12 Shopping List — Vegetables & Plant-Forward Cooking
 
 ← [Back to Block 11–12 Guide](index.md)
 

@@ -55,7 +55,7 @@ The pot pie filling is a classic chicken velouté extended with vegetables and c
 | Protein | Chicken (cooked and pulled into the filling) |
 | Starch | The pastry crust |
 | Veg | Peas, carrots, and onion in the filling |
-| Salad | [Butter Lettuce Salad with Herbs](https://www.seriouseats.com/french-style-vinaigrette-recipe) alongside — delicate, doesn’t compete with the pot pie |
+| Salad | [Butter Lettuce Salad with Herbs](https://www.seriouseats.com/simple-vinaigrette-recipe) alongside — delicate, doesn’t compete with the pot pie |
 
 ---
 
@@ -99,7 +99,7 @@ The pan sauce is your simplified Espagnole: browned bits from the steak, deglaze
 
 **Skill:** A synthesis dish — you'll make a tomato-based lamb meat sauce *and* a béchamel *and* roast eggplant, then layer them together and bake. Uses two of the five mother sauces in a single dish.
 
-**Full Meal:** [Greek Moussaka](https://www.seriouseats.com/moussaka-6361068) + [Greek Salad](https://www.seriouseats.com/the-best-greek-salad-tomato-feta-summer-recipe) + warm pita or [Garlic-Rubbed Grilled Bread](https://www.seriouseats.com/grilled-bread-recipe)
+**Full Meal:** [Greek Moussaka](https://www.seriouseats.com/moussaka-6361068) + [Greek Salad](https://www.seriouseats.com/the-best-greek-salad-tomato-feta-summer-recipe) + warm pita or [Garlic-Rubbed Grilled Bread](https://www.seriouseats.com/easy-weeknight-garlic-bread-recipe-8641247)
 
 | Component | Recipe |
 |-----------|--------|

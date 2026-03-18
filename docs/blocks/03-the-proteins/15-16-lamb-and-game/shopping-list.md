@@ -40,20 +40,33 @@
 - [ ] Garlic — 2 heads
 - [ ] Fresh rosemary — large bunch (chops, rack crust, navarin)
 - [ ] Fresh thyme — large bunch (braises, confit)
-- [ ] Fresh flat-leaf parsley — navarin, gremolata
-- [ ] Lemons — 4 (gremolata, tzatziki)
+- [ ] Fresh flat-leaf parsley — navarin, gremolata, tabbouleh
+- [ ] Fresh mint — 1 bunch (tabbouleh, tzatziki)
+- [ ] Lemons — 6 (gremolata, tzatziki, tabbouleh, salads)
 - [ ] White onions — 4 (navarin and braise base)
+- [ ] Red onion — 1 (Shirazi salad, Service 17 meze)
 - [ ] Carrots — 6 (navarin and braise base)
 - [ ] Celery — 1 bunch (braise base)
 - [ ] Turnips or parsnips (optional, navarin)
-- [ ] Fresh peas or haricots verts — navarin finishing, salad sides
+- [ ] Fresh peas or haricots verts — navarin finishing, Session 67 side
 - [ ] Cherry tomatoes — 1 pint
+- [ ] Potatoes (Yukon Gold or similar) — 3–4 lb (roast potatoes S66, Greek-style potatoes S69, dauphinoise S67)
+- [ ] Cucumbers — 4 (tzatziki, Shirazi salad S68, pickled cucumbers S73)
+- [ ] Fresh tomatoes — 4 (Shirazi salad, tabbouleh)
+- [ ] Feta cheese — 6 oz (S66 salad)
+- [ ] Cauliflower — 1 head (Service 17 — Roasted Cauliflower with Tahini)
+- [ ] Bulgur wheat — 1 cup (Service 17 — Tabbouleh)
+- [ ] Tahini — 1 jar (Service 17 — cauliflower dressing)
+- [ ] Pomegranate seeds — 1 (Service 17 — cauliflower garnish, optional)
+- [ ] Greens for sautéing (Swiss chard, kale, or spinach) — 1 bunch (S73 side)
 
 ## 🥛 Dairy
 
 - [ ] Duck fat — 1 jar (~14 oz); or render from extra duck legs bought ahead
 - [ ] Greek yogurt — 16 oz (tzatziki for Session 68, sauce for shoulder)
 - [ ] Unsalted butter — 2 sticks (pan sauces, duck breast finish)
+- [ ] Heavy cream — 1 cup (dauphinoise potatoes, Session 67)
+- [ ] Whole milk — 1 cup (dauphinoise potatoes)
 
 ## 🍷 Wine & Cooking Liquids
 

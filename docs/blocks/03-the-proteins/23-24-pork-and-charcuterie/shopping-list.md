@@ -50,6 +50,8 @@
 - [ ] Cucumbers — 3 (pickled for chashu bowl + Vietnamese meal)
 - [ ] Fresh mint, cilantro, Thai basil — for meal and sides
 - [ ] Carrots — 4 (honey-roasted)
+- [ ] Celery — 2 stalks (Session 106 apple-celery-walnut salad)
+- [ ] Apples — 2 (Session 106 salad — Honeycrisp or Granny Smith)
 - [ ] Cauliflower — 1 head (side)
 - [ ] Green cabbage — ½ head (Block 20 ribs coleslaw)
 
@@ -164,6 +166,7 @@
 - [ ] Lemons — 4
 - [ ] Shallots — 4
 - [ ] Red bell peppers — 2 (Session 115 merguez plate accompaniment — roast until charred)
+- [ ] Butter lettuce — 1 head (Session 116 salad)
 
 **Board accompaniments (Wed + Sat):**
 - [ ] Cornichons — 1 jar
@@ -184,6 +187,10 @@
 - [ ] Capers (Fri and boards)
 - [ ] Couscous (Tue merguez dinner)
 - [ ] Eggs — 6 (Mon Block 26 carbonara; various)
+- [ ] Pine nuts — ¼ cup (Session 106 roasted cauliflower with pine nuts and capers)
+- [ ] Walnuts — ½ cup (Session 106 apple-celery-walnut salad)
+- [ ] Long-grain or jasmine rice — 1 lb (Session 108 pilaf-style rice + Session 109 steamed rice)
+- [ ] Cornmeal — 1 cup (Session 111 cornbread)
 - [ ] Plain whole-milk yogurt — 1 cup (Session 115 merguez dipping sauce)
 - [ ] Pecorino Romano + Parmesan (carbonara Mon Block 26)
 - [ ] Spaghetti — 1 lb (Mon Block 26 carbonara)

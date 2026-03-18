@@ -1,4 +1,4 @@
-# 🛒 Shopping List — Block 23–24: Shellfish
+# 🛒 Shopping List — Block 21–22: Shellfish
 
 ← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)
 
@@ -47,6 +47,12 @@
 - [ ] Fresh parsley — 2 bunches
 - [ ] Cherry tomatoes — 1 pint (Block 24)
 - [ ] Canned San Marzano tomatoes — 1 can (Block 24)
+- [ ] Frisée — 1 head (Session 100 frisée salad)
+- [ ] Radicchio — 1 head (Session 101 salad)
+- [ ] Endive — 1 head (Session 101 radicchio and endive salad)
+- [ ] Fresh chervil — 1 small bunch (Service 26 herb salad — sub extra tarragon if unavailable)
+- [ ] Fresh tarragon — 1 small bunch (Service 26 herb salad)
+- [ ] Fresh chives — 1 bunch (Service 26 herb salad)
 - [ ] Potatoes — 1 lb (chowder Block 24)
 - [ ] Russet potatoes — 2 lbs (Block 23 frites for moules-frites — double-fry method)
 - [ ] Celery — 4 stalks (chowder aromatics)
@@ -68,6 +74,13 @@
 - [ ] Crushed red pepper flakes
 - [ ] Oyster crackers or crusty baguette (Block 24 chowder)
 - [ ] Baguette — for both weeks (bread with broth is mandatory)
+- [ ] White miso paste — small tub (Service 25 corn miso butter)
+- [ ] Grits or coarse cornmeal — 1 cup (Session 103 grits or polenta)
+- [ ] Champagne vinegar — 1 small bottle (Service 26 vinaigrette; white wine vinegar works)
+- [ ] Buttermilk — 1 cup (Session 104 buttermilk biscuits)
+- [ ] All-purpose flour — 2 cups (Session 104 biscuits + Session 95 crab cakes)
+- [ ] Baking powder — (Session 104 biscuits)
+- [ ] Mantou buns — 6–8 from Asian grocery, or flour for homemade (Session 102)
 - [ ] Fish sauce or Worcestershire — small amount for bisque depth
 - [ ] Sriracha and ketchup — for chili crab sauce (Block 24)
 - [ ] Eggs — 2 (chili crab sauce is egg-thickened)

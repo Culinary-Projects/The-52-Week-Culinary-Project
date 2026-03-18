@@ -1,4 +1,4 @@
-# 🛒 Shopping List — Block 31–32: Italian
+# 🛒 Shopping List — Block 29–30: Italian
 
 ← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)
 
@@ -50,6 +50,8 @@
 - [ ] Russet potatoes — 2 lbs (Mon Block 30 gnocchi — large russets; must be floury, not waxy)
 - [ ] Fresh spinach — 5 oz bag (Tue Block 30 ravioli filling — wilt, squeeze dry, chop)
 - [ ] Fresh basil — 2 bunches (pasta, antipasto board, garnish throughout)
+- [ ] Arugula — 2 bags (Session 130 salad + Service 33 + Service 34 tricolore salad)
+- [ ] Radicchio — 1 head (Service 33 + Service 34 tricolore salad)
 - [ ] Mixed olives — 1 cup (Block 30 antipasto board)
 
 ---

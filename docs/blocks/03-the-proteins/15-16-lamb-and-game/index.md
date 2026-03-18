@@ -114,7 +114,7 @@
 | **Meze** | Hummus, olives, roasted peppers, feta | Bought is fine |
 | **Main** | Rack of lamb (from Session 67) or slow-roasted shoulder (from Session 69) | Choose the one you found more rewarding |
 | **Side 1** | [Serious Eats — Tabbouleh](https://www.seriouseats.com/the-best-basic-tabbouleh-recipe) | Make while lamb rests — a Middle Eastern grain salad that belongs next to lamb |
-| **Side 2** | [Roasted Cauliflower with Tahini and Pomegranate](https://www.seriouseats.com/roasted-cauliflower-recipe) | A showstopper vegetable that earns its place at the feast |
+| **Side 2** | [Roasted Cauliflower with Tahini and Pomegranate](https://www.seriouseats.com/roasted-cauliflower-pine-nut-raisin-caper-food-lab-recipe) | A showstopper vegetable that earns its place at the feast |
 | **Dessert** | [Serious Eats — Best Brownies](https://www.seriouseats.com/best-brownies-recipe) | Make in the morning |
 
 *Skill targets: Everything on the table at the same time. Lamb at proper internal temperature. No phone open during service.*

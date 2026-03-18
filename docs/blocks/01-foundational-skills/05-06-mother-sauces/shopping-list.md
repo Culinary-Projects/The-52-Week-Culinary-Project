@@ -47,6 +47,8 @@
 
 **Block 6:**
 - [ ] Watercress — 2 bunches (Session 21)
+- [ ] Radishes — 1 bunch (Session 21 watercress and radish salad)
+- [ ] Butter lettuce — 1 head (Session 18 salad)
 - [ ] Green cabbage — ½ head (coleslaw)
 - [ ] Carrots — 2 (coleslaw)
 - [ ] Baby potatoes or fingerlings — 1 lb (Niçoise)

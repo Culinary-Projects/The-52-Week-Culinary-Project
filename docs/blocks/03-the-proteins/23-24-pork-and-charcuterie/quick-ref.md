@@ -8,10 +8,10 @@
 
 | Session | Dish | Skill | Link |
 |-----|------|-------|------|
-| **Session 106** | ⏰ Bone-In Pork Chop + Pan Sauce + Roasted Cauliflower | 145°F target; dry brine; pan sauce | [Pork Chop Technique](https://www.seriouseats.com/perfect-pan-seared-pork-chop-recipe) · [Cauliflower](https://www.seriouseats.com/roasted-cauliflower-pine-nut-raisin-caper-food-lab-recipe) |
+| **Session 106** | ⏰ Bone-In Pork Chop + Pan Sauce + Roasted Cauliflower + Apple-Celery-Walnut Salad | 145°F target; dry brine; pan sauce | [Pork Chop Technique](https://www.seriouseats.com/perfect-pan-seared-pork-chop-recipe) · [Cauliflower](https://www.seriouseats.com/roasted-cauliflower-pine-nut-raisin-caper-food-lab-recipe) |
 | **Session 107** | ⏰ Chashu Pork Belly + Rice + Pickled Cucumbers + Soft Egg | Braise in soy-mirin; fat rendering; umami layering | [Chashu Pork](https://www.seriouseats.com/chashu-pork-marinated-braised-pork-belly-for-tonkotsu-ramen-recipe) |
-| **Session 108** | Pork Tenderloin + Herb Pan Sauce + Roasted Carrots + Rice | Lean cut precision; carry-over temp; butter-mounted sauce | [Honey-Roasted Carrots](https://www.seriouseats.com/honey-roasted-carrots-with-spring-herbs-recipe-11725322) |
-| **Session 109** | ⏰ Vietnamese Grilled Pork Chop + Jasmine Rice + Nuoc Cham + Herbs | Marinade caramelization; lemongrass; fish sauce balance | [Vietnamese Pork Chop](https://www.seriouseats.com/vietnamese-grilled-pork-chop-thit-heo-nuong-xa-recipe) |
+| **Session 108** | Pork Tenderloin + Herb Pan Sauce + Honey-Roasted Carrots + Pilaf-Style Rice | Lean cut precision; carry-over temp; butter-mounted sauce | [Honey-Roasted Carrots](https://www.seriouseats.com/honey-roasted-carrots-with-spring-herbs-recipe-11725322) · [Rice](https://www.seriouseats.com/rice-pilaf-recipe-5509610) |
+| **Session 109** | ⏰ Vietnamese Grilled Pork Chop + Jasmine Rice + Nuoc Cham + Cucumber + Herbs | Marinade caramelization; lemongrass; fish sauce balance | [Vietnamese Pork Chop](https://www.seriouseats.com/vietnamese-grilled-pork-chop-thit-heo-nuong-xa-recipe) |
 | **Service 27** | ⏰ **Ultra-Crispy Slow-Roasted Pork Shoulder** + Slaw + Pickled Jalapeños | Long low roast; blast finish; crackling | [Slow-Roasted Shoulder](https://www.seriouseats.com/ultra-crispy-slow-roasted-pork-shoulder-recipe) |
 
 ---
@@ -20,11 +20,11 @@
 
 | Session | Dish | Skill | Link |
 |-----|------|-------|------|
-| **Session 110** | Crispy Pork Belly Lardons + White Beans + Wilted Greens | Fat rendering; lardon technique; no brine needed | — |
+| **Session 110** | Crispy Pork Belly Lardons + White Beans + Swiss Chard + Garlic-Rubbed Bread | Fat rendering; lardon technique; no brine needed | [Bread](https://www.seriouseats.com/easy-weeknight-garlic-bread-recipe-8641247) |
 | **Session 111** | ⏰ Oven-and-Grill Ribs + Coleslaw + Cornbread | Collagen + caramelization hybrid method | [Pork Ribs Method](https://www.seriouseats.com/sous-vide-pork-ribs-recipe-food-lab) |
 | **Session 112** | Porchetta + Braised White Beans + Arugula Salad | Roll + tie; fennel-rosemary-garlic; crispy skin | [All-Belly Porchetta](https://www.seriouseats.com/all-belly-porchetta-recipe-italian-roast-pork) |
 | **Session 113** | Pork Meatballs + Tomato Sugo + Pasta | Ground pork; milk-bread ratio; sear not bake | — |
-| **Service 28** | **Carnitas Taco Dinner** + Salsa Verde + Guacamole + Pickled Jalapeños | Fat-braise; water-fry finish; taco assembly | [Carnitas](https://www.seriouseats.com/no-waste-tacos-de-carnitas-with-salsa-verde-recipe) · [Salsa Verde](https://www.seriouseats.com/charred-salsa-verde-tomatillo-salsa) |
+| **Service 28** | **Carnitas Taco Dinner** + Salsa Verde + Guacamole + Pickled Jalapeños + Onion-Cilantro + Tortillas | Fat-braise; water-fry finish; taco assembly | [Carnitas](https://www.seriouseats.com/no-waste-tacos-de-carnitas-with-salsa-verde-recipe) · [Salsa Verde](https://www.seriouseats.com/charred-salsa-verde-tomatillo-salsa) |
 
 ---
 

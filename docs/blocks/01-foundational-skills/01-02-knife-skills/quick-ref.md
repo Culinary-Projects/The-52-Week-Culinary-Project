@@ -23,8 +23,8 @@
 | **Session 5** | The Best Pad Thai | Julienne cut | [Recipe](https://www.seriouseats.com/pad-thai-recipe-11680356) |
 | **Session 6** | Home Fries + Crispy Pan-Seared Chicken Thighs + Green Salad | Small/medium/large dice | [Home Fries](https://www.seriouseats.com/crispy-potato-home-fries-red-onion-poblano-pepper-recipe) · [Chicken](https://www.seriouseats.com/easy-pan-roasted-chicken-breast-lemon-rosemary-pan-sauce-recipe) · [Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) |
 | **Session 7** | Chicken Piccata + Burst Cherry Tomatoes | Break down whole chicken | [Piccata](https://www.seriouseats.com/chicken-piccata-italian-fried-cutlet-recipe) · [Breakdown](https://www.seriouseats.com/knife-skills-how-to-break-down-a-chicken) · [Tomatoes](https://www.seriouseats.com/fast-easy-pasta-blistered-cherry-tomato-sauce-recipe) |
-| **Session 8** | Shakshuka + Leftover Chicken Thighs | Speed benchmark — time your onion dice | [Recipe](https://www.seriouseats.com/shakshuka-north-african-shirred-eggs-tomato-pepper-recipe) |
-| **Service 2** | **Provençal Vegetable Tian** + Bread | Uniform round slices | [Tian](https://www.seriouseats.com/summer-vegetable-tian-ratatouille-recipe) |
+| **Session 8** | Shakshuka + Leftover Chicken Thighs + Garlic-Rubbed Grilled Bread | Speed benchmark — time your onion dice | [Recipe](https://www.seriouseats.com/shakshuka-north-african-shirred-eggs-tomato-pepper-recipe) · [Bread](https://www.seriouseats.com/easy-weeknight-garlic-bread-recipe-8641247) |
+| **Service 2** | **Provençal Vegetable Tian** + Garlic Toast | Uniform round slices | [Tian](https://www.seriouseats.com/summer-vegetable-tian-ratatouille-recipe) · [Toast](https://www.seriouseats.com/easy-weeknight-garlic-bread-recipe-8641247) |
 
 ---
 

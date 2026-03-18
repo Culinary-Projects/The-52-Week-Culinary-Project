@@ -8,11 +8,11 @@
 
 | Session | Dish | Method | Link |
 |-----|------|--------|------|
-| **Session 9** | Sautéed Chicken Breasts with Pan Sauce + Sautéed Zucchini + Steamed Rice | Sauté | [Chicken](https://www.seriouseats.com/easy-pan-seared-chicken-breast-white-wine-fines-herbes-pan-sauce-food-lab-recipe) · [Zucchini](https://www.seriouseats.com/nice-and-easy-sauteed-summer-squash-zucchini-tomato-herbs-chilies) |
-| **Session 10** | Sheet Pan Chicken Thighs + Roasted Veg + Green Salad | Roast (dry) | [Chicken](https://www.seriouseats.com/honey-mustard-sheet-pan-chicken-recipe-11780416) · [Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) |
-| **Session 11** | Braised Chicken Thighs with Tomatoes and Capers + Bread/Polenta | Braise (wet) | [Recipe](https://www.seriouseats.com/chicken-cacciatore-red-peppers-recipe) |
-| **Session 12** | Perfect Poached Salmon + Steamed Bok Choy + Rice | Poach / Steam | [Salmon](https://www.seriouseats.com/poached-salmon-dill-yogurt-sauce-recipe) · [Bok Choy](https://www.seriouseats.com/stir-fried-greens-with-garlic-bok-choy-with-oyster-sauce-recipe) |
-| **Service 3** | **Spatchcocked Roast Chicken + Roasted Potatoes + Green Salad** | Roast | [Chicken](https://www.seriouseats.com/lavender-lemon-and-honey-spatchcocked-roast-chicken-recipe) · [Potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) · [Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) |
+| **Session 9** | Sautéed Chicken Breasts with Pan Sauce + Sautéed Zucchini + Pilaf-Style Rice | Sauté | [Chicken](https://www.seriouseats.com/easy-pan-seared-chicken-breast-white-wine-fines-herbes-pan-sauce-food-lab-recipe) · [Zucchini](https://www.seriouseats.com/nice-and-easy-sauteed-summer-squash-zucchini-tomato-herbs-chilies) · [Rice](https://www.seriouseats.com/rice-pilaf-recipe-5509610) |
+| **Session 10** | Sheet Pan Chicken Thighs + Roasted Veg + Arugula Salad | Roast (dry) | [Chicken](https://www.seriouseats.com/honey-mustard-sheet-pan-chicken-recipe-11780416) |
+| **Session 11** | Braised Chicken Thighs with Tomatoes and Capers + Creamy Polenta | Braise (wet) | [Recipe](https://www.seriouseats.com/chicken-cacciatore-red-peppers-recipe) · [Polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe) |
+| **Session 12** | Perfect Poached Salmon + Fish en Papillote + Stir-Fried Bok Choy + Coconut Rice | Poach / Steam / En Papillote | [Salmon](https://www.seriouseats.com/poached-salmon-dill-yogurt-sauce-recipe) · [Bok Choy](https://www.seriouseats.com/stir-fried-greens-with-garlic-bok-choy-with-oyster-sauce-recipe) |
+| **Service 3** | **Spatchcocked Roast Chicken + Roasted Potatoes + Celery, Parmesan & Walnut Salad** | Roast | [Chicken](https://www.seriouseats.com/lavender-lemon-and-honey-spatchcocked-roast-chicken-recipe) · [Potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) |
 
 ---
 

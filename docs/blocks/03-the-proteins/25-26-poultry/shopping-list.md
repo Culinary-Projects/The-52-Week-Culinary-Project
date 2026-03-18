@@ -4,84 +4,100 @@
 
 ---
 
-> **How to use this list:** Block 13 shopping depends on **your** menu choice for 's dinner. The list below covers the suggested menu (shrimp cocktail + duck + polenta) plus Block 13's fixed weeknight meals. Block 14 content is coming soon.
+> **How to use this list:** Block 25 covers whole-bird roasting, spatchcocking, braising, and pan searing. Block 26 is a duck confit project cook. Buy whole chickens early in the week; duck legs may need a butcher order. Dry-brine everything the night before cooking.
 
 ---
 
-## 🥩 Proteins — Block 13 Weeknights
+## ⚠️ Equipment Check
 
-- [ ] Ground pork or ground chicken — 1 lb (Block 13 Larb)
-- [ ] **Duck breasts — 2–4 (Block 13 suggested main)** — found at specialty butchers and some grocery stores (Moulard or Pekin duck breasts both work)
-- [ ] Large shrimp (shell-on, 16/20 count) — 1 lb (Block 13 suggested starter)
-
----
-
-## 🥩 Proteins — Block 13 Dinner (choose your menu)
-
-*If using the suggested framework:*
-- [ ] 2–4 duck breasts, skin-on (main course)
-- [ ] 1 lb large shrimp, shell-on (cocktail starter — cook shell-on, then peel)
-
-*If making your own menu (based on Blocks 1–12 techniques):* — write your list here —
+- [ ] **Instant-read thermometer** — essential for poultry doneness (165°F)
+- [ ] **Cast iron skillet** — crispy skin, duck confit finishing
+- [ ] **Large Dutch oven (5–7 qt)** — Coq au Vin braise
+- [ ] **Wire rack + half-sheet pan** — whole-bird roasting
+- [ ] **Kitchen shears** — spatchcocking backbone removal
 
 ---
 
-## 🥦 Produce — Block 13
+## 🥩 Proteins
 
-** Larb:**
-- [ ] Fresh mint — 1 large bunch
-- [ ] Fresh cilantro — 1 bunch
-- [ ] Shallots — 4 (thin-sliced)
-- [ ] Thai bird chilies or red Fresno chilies — 3–4
-- [ ] Limes — 4 (fresh lime juice)
-- [ ] Jasmine rice — 1 cup (also for toasted rice powder)
-- [ ] Cucumbers — 2 (quick pickle)
-- [ ] Rice wine vinegar — 1 cup (quick pickle)
-- [ ] Red onion — 1 (quick pickle)
-
-**:**
-- [ ] Good bread — 1 loaf (grilled cheese)
-- [ ] Tomatoes (canned) — 2 cans (tomato soup)
-- [ ] Yellow onion — 1 (soup)
-
-** dinner:**
-- [ ] Root vegetables (carrots, parsnips, turnips) — 2 lbs (suggested main side)
-- [ ] Cherries (fresh or preserved) or quality cherry preserves — ½ cup (duck pan sauce)
-- [ ] Fresh thyme — 1 bunch
-- [ ] Shallots — 4 additional (duck pan sauce)
+- [ ] **Whole chicken** — 3.5–4 lb (Session 62, high-heat roast). Dry brine overnight.
+- [ ] **Whole chicken** — 3.5–4 lb (Session 63, spatchcocked). Dry brine overnight.
+- [ ] **Chicken legs and/or thighs, bone-in** — 3–4 lbs (Session 64, Coq au Vin)
+- [ ] **Boneless, skinless chicken breasts** — 2 (Session 65, pan-seared)
+- [ ] **Duck legs** — 2–4 legs with thighs attached, skin on (Service 16, confit). Order from butcher; Asian markets are also reliable.
 
 ---
 
-## 🧀 Dairy
+## 🥦 Produce — Side Dishes
 
-- [ ] Good cheese for a cheese board (1–2 varieties) — Block 13 optional third course
-- [ ] Unsalted butter — 2 sticks (duck pan sauce, polenta finishing)
-- [ ] Parmesan — 4 oz (polenta)
-- [ ] Heavy cream — ½ cup (grilled cheese, optional; polenta finishing)
-- [ ] Nice cheddar or Gruyère — 6 oz (grilled cheese)
+| Item | Qty | For |
+|---|---|---|
+| Potatoes (Yukon Gold) | 2 lb | Crispy Roast Potatoes (S62) |
+| Watercress | 1 bunch | Watercress Salad (S62) |
+| Lemons | 4 | Vinaigrettes, pan sauces |
+| Cauliflower | 1 head | Roasted Cauliflower (S63) |
+| Pine nuts | ¼ cup | Roasted Cauliflower (S63) |
+| Raisins | 2 tbsp | Roasted Cauliflower (S63) |
+| Capers | 1 jar | Roasted Cauliflower, pan sauces |
+| Rice (basmati or long-grain) | 1 cup | Tahdig or Pilaf (S63, S65) |
+| Frisée or curly endive | 2 heads | Salad (S64), Bistro Salad (Service 16) |
+| Crusty bread or sourdough | 1 loaf | Garlic-Rubbed Grilled Bread (S64) |
+| Carrots | 1 bunch | Honey-Roasted Carrots (S65) |
+| Honey | 1 jar | Glazed Carrots (S65) |
+| Fresh herbs: tarragon, chives, parsley | 1 bunch each | Pan sauce (S65), salads |
 
 ---
 
-## 🌾 Pantry & Dry Goods
+## 🧅 Aromatics
 
-- [ ] Coarse-ground cornmeal (not instant) — ½ bag (Block 13 polenta)
-- [ ] Chicken stock — 32 oz (polenta + duck pan sauce)
-- [ ] Good red wine — 1 bottle (duck pan sauce + table)
-- [ ] Fish sauce — 1 bottle (Block 13 Larb — already in pantry from Block 10?)
-- [ ] Shrimp cocktail sauce: horseradish, ketchup, Worcestershire, Tabasco, lemon
-- [ ] Jasmine rice — 1 cup + extra for toasting (toasted rice powder for larb)
-- [ ] Honey — 1 jar (Block 13 cheese board)
-- [ ] Good crackers or baguette (cheese board)
-- [ ] Honeycomb (Block 13 cheese board — optional but impressive)
+- [ ] Garlic — 2 heads
+- [ ] Shallots — 4–6
+- [ ] Fresh thyme — 1 large bunch (roasting, braises, duck cure)
+- [ ] Fresh rosemary — small bunch (optional)
+- [ ] Bay leaves — 4–6 (Coq au Vin, duck cure)
+- [ ] Pearl onions — 8 oz (Coq au Vin, frozen ok)
+- [ ] Cremini mushrooms — 8 oz (Coq au Vin)
+
+---
+
+## 🥛 Dairy
+
+- [ ] Unsalted butter — 3 sticks (pan sauces, pilaf, basting, carrots)
+- [ ] Eggs — 6 (optional poached egg for bistro salad)
+- [ ] Parmesan — 4 oz (optional for salads)
+
+---
+
+## 🍷 Wine & Cooking Liquids
+
+- [ ] Red wine — 1 full bottle (Coq au Vin — use a wine you'd drink)
+- [ ] White wine — 1 bottle (pan sauces S65)
+- [ ] Chicken stock — 32 oz (braise, pan sauces; use homemade from Block 7 if available)
+
+---
+
+## 🧂 Pantry
+
+- [ ] Kosher salt (Diamond Crystal) — generous dry-brining
+- [ ] Black peppercorns (whole)
+- [ ] Dijon mustard — vinaigrettes, pan sauce
+- [ ] Olive oil (extra-virgin) — vinaigrettes, garlic bread
+- [ ] Neutral oil (avocado or grapeseed) — searing
+- [ ] Red wine vinegar
+- [ ] Bacon or lardons — 6 oz (Coq au Vin + warm bacon vinaigrette)
+- [ ] Lentils du Puy or cannellini beans — 1 cup dried (Service 16 — cooked in duck fat)
+- [ ] Duck fat — 1 jar (~14 oz) for confit (or render from legs)
+- [ ] Saffron — small pinch (optional, for tahdig)
 
 ---
 
 ## 📝 Notes
 
-**Larb (Block 13) — toasted rice powder:** Toast 3 tbsp raw jasmine rice in a dry skillet over medium heat until golden, stirring constantly. Cool completely, then grind in a spice grinder or mortar and pestle to a coarse powder. This is a classic Thai technique and makes a significant difference in texture and flavor.
+**Duck legs for confit (Service 16):** Cure the legs the evening before. Rub generously with salt + thyme + bay + garlic + black pepper. Refrigerate uncovered overnight. The next day, rinse and pat dry, then submerge in duck fat and cook low (285°F) for 4–6 hours. To serve: crisp in a hot cast iron skillet skin-side down.
 
-**Duck breast — the sear:** Score the fat cap in a crosshatch pattern without cutting into the meat. Start in a cold pan (no oil) over low heat. Render the fat slowly for 8–10 minutes until most of it has melted and the skin is golden. Then flip once and finish in the oven at 400°F for 5–7 minutes. Rest 5 minutes. Duck is best medium-rare (130–135°F internal).
+**Whole bird dry-brining:** Season generously with kosher salt (¾ tsp per lb) the night before. Leave uncovered in the fridge on a wire rack. The skin dries out, which means crispier skin the next day.
 
-**Block 13 rule:** Everything is prepped and mis en placed before service starts. Once the first component goes on heat, no recipe tabs. You know what you're doing. Trust it.
+---
 
-**Block 14 (Poultry in Depth)** — shopping list coming when content is finalized. You'll need: whole chickens, duck legs for confit, duck fat (or buy), and a selection of poultry for roasting experiments.
+*Navigation:*
+← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)

@@ -49,6 +49,9 @@
 - [ ] Fresh parsley — 1 bunch
 - [ ] Fresh thyme — 1 bunch
 - [ ] Yukon gold potatoes — 1.5 lbs (Saturday)
+- [ ] Leeks — 2 (Session 84 braised leeks)
+- [ ] Arugula — 2 bags (Service 21 arugula, fennel & orange salad + general)
+- [ ] Oranges — 2 (Service 21 arugula, fennel & orange salad)
 - [ ] Mixed greens — 1 bag
 
 ---
@@ -66,6 +69,7 @@
 - [ ] Fennel bulb — 2 (bouillabaisse aromatics)
 - [ ] Tomatoes — 4 (bouillabaisse)
 - [ ] Leeks — 2 (bouillabaisse)
+- [ ] Zucchini — 2 medium (Service 22 shaved zucchini salad)
 
 ---
 
@@ -83,6 +87,7 @@
 - [ ] Fennel seeds — 1 tsp (bouillabaisse)
 - [ ] Baguette — for rouille croutons (Sat bouillabaisse)
 - [ ] Corn tortillas — 2 packs (Tue fish tacos)
+- [ ] Coconut milk — 1 can (Session 82 coconut rice)
 - [ ] Rice — jasmine and/or white (multiple days)
 - [ ] Eggs — 6 (Service 22 bouillabaisse rouille egg yolks; Session 87 fish taco batter)
 
@@ -138,6 +143,8 @@
 - [ ] Cherry tomatoes — 1 pint (cioppino)
 - [ ] Canned crushed tomatoes — 28 oz (cioppino base)
 - [ ] Haricots verts or thin green beans — trout amandine side
+- [ ] Radicchio — 1 head (Session 93 grilled radicchio)
+- [ ] Celery root (celeriac) — 1 (Session 94 celery root remoulade)
 - [ ] Bok choy or spinach — miso cod side
 
 ## 🌾 Pantry & Dry

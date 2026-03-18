@@ -27,7 +27,7 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 
 **Full Meal:**
 - Spaghetti alle Vongole
-- [Shaved Fennel and Celery Salad](https://www.seriouseats.com/celery-fennel-salad-recipe) — bright, anise-scented, cuts through the briny pasta
+- Shaved Fennel and Celery Salad (fennel + celery + lemon + Parmesan) — bright, anise-scented, cuts through the briny pasta
 
 | Component | Notes |
 |-----------|-------|
@@ -100,7 +100,7 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 **Full Meal:**
 - Lobster, cooked your chosen method
 - Lobster bisque from shells (or shell butter to freeze)
-- [Serious Eats — Corn on the Cob with Miso Butter](https://www.seriouseats.com/grilled-corn-miso-butter-recipe) + drawn butter and lemon
+- [Serious Eats — Corn on the Cob with Miso Butter](https://www.seriouseats.com/grilled-corn-with-spicy-miso-butter-recipe) + drawn butter and lemon
 
 | Component | Notes |
 |-----------|-------|
@@ -198,8 +198,8 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 
 **Full Meal:**
 - Three-shellfish plateau with accompaniments
-- [Serious Eats — Mignonette Sauce](https://www.seriouseats.com/classic-mignonette-sauce-recipe) + aioli + lemon wedges
-- [Herb Salad with Champagne Vinaigrette](https://www.seriouseats.com/french-style-vinaigrette-recipe) — delicate herbs (chervil, tarragon, chives) dressed lightly
+- [Serious Eats — Mignonette Sauce](https://www.seriouseats.com/classic-mignonette) + aioli + lemon wedges
+- [Herb Salad with Champagne Vinaigrette](https://www.seriouseats.com/simple-vinaigrette-recipe) — delicate herbs (chervil, tarragon, chives) dressed lightly
 
 | Component | Notes |
 |-----------|-------|

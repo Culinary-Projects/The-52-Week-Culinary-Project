@@ -50,6 +50,9 @@
 - [ ] Fresh basil — 1 bunch (tomato sugo + bruschetta)
 - [ ] Cucumber — 2 (Session 53 salad)
 - [ ] Red onion — 1 (Session 53 salad)
+- [ ] Yellow onions — 3 (Service 13 Bolognese mirepoix + general use)
+- [ ] Celery — 1 bunch (Service 13 Bolognese mirepoix)
+- [ ] Carrots — 3 (Service 13 Bolognese mirepoix)
 - [ ] Mixed salad greens — 2 bags
 
 ---

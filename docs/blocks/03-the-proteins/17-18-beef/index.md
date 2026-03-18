@@ -49,7 +49,7 @@ Over two weeks, you will work through the full spectrum of beef cookery: quick, 
 
 **Target:** Medium-rare (130–135°F internal before rest). Crust should be deep brown, not grey.
 
-**Full Meal:** Pan-seared steak + [Hasselback Potatoes](https://www.seriouseats.com/the-best-hasselback-potatoes-recipe) + [Creamed Spinach](https://www.seriouseats.com/creamed-spinach-recipe)
+**Full Meal:** Pan-seared steak + [Hasselback Potatoes](https://www.seriouseats.com/the-best-hasselback-potatoes-recipe) + [Creamed Spinach](https://www.seriouseats.com/food-lab-creamed-spinach-recipe)
 
 | Component | Notes |
 |-----------|-------|
@@ -75,7 +75,7 @@ Over two weeks, you will work through the full spectrum of beef cookery: quick, 
 - Cook it with the same dry-brine and sear method as Session 74
 - Note: Where is this cut on the animal? What does that tell you about texture?
 
-**Full Meal:** Value-cut steak + [Serious Eats — Elote-Style Grilled Corn](https://www.seriouseats.com/mexican-street-corn-elote-recipe) + [Chimichurri](https://www.seriouseats.com/chimichurri-recipe)
+**Full Meal:** Value-cut steak + [Serious Eats — Elote-Style Grilled Corn](https://www.seriouseats.com/mexican-street-corn-elote-recipe) + [Chimichurri](https://www.seriouseats.com/sauced-chimichurri-sauce-recipe)
 
 | Component | Notes |
 |-----------|-------|
@@ -100,7 +100,7 @@ Over two weeks, you will work through the full spectrum of beef cookery: quick, 
 - Rest, then sear hard for 60–90 seconds per side
 - Compare the cross-section to Session 74's traditional sear — note the crust-to-center gradient
 
-**Full Meal:** Reverse-seared thick steak + [Pommes Anna](https://www.seriouseats.com/pommes-anna-recipe) + [Roasted Broccolini](https://www.seriouseats.com/dinner-tonight-sauteed-broccolini-recipe)
+**Full Meal:** Reverse-seared thick steak + [Pommes Anna](https://www.seriouseats.com/pommes-anna-recipe-5217317) + [Roasted Broccolini](https://www.seriouseats.com/dinner-tonight-sauteed-broccolini-recipe)
 
 | Component | Notes |
 |-----------|-------|
@@ -128,7 +128,7 @@ Over two weeks, you will work through the full spectrum of beef cookery: quick, 
 - Season, pour over steak, serve immediately
 - **Variation:** Replace wine with cognac + cream for a pepper sauce (steak au poivre)
 
-**Full Meal:** Steak + red wine pan sauce + [Yorkshire Puddings](https://www.seriouseats.com/the-best-yorkshire-puddings-popover-recipe) + [Sautéed Mushrooms with Thyme](https://www.seriouseats.com/food-lab-sauteed-mushrooms-recipe)
+**Full Meal:** Steak + red wine pan sauce + [Yorkshire Puddings](https://www.seriouseats.com/the-best-yorkshire-puddings-popover-recipe) + [Sautéed Mushrooms with Thyme](https://www.seriouseats.com/sauteed-mushrooms-recipe-7972096)
 
 | Component | Notes |
 |-----------|-------|
@@ -201,7 +201,7 @@ Over two weeks, you will work through the full spectrum of beef cookery: quick, 
 - Finish with 1 tablespoon cold butter
 - Serve alongside reheated braise meat
 
-**Full Meal:** Braised beef + reduction sauce + [Buttered Egg Noodles with Poppy Seeds](https://www.seriouseats.com/buttered-noodles-recipe) + [Glazed Carrots with Cumin and Coriander](https://www.seriouseats.com/glazed-carrots-recipe)
+**Full Meal:** Braised beef + reduction sauce + Buttered Egg Noodles with Poppy Seeds (toss with brown butter + poppy seeds) + [Glazed Carrots with Cumin and Coriander](https://www.seriouseats.com/gingery-glazed-carrots-recipe)
 
 | Component | Notes |
 |-----------|-------|
@@ -234,12 +234,12 @@ Over two weeks, you will work through the full spectrum of beef cookery: quick, 
 
 **Compare:** Which do you prefer? Why?
 
-**Full Meal:** Burgers (both styles) + [Serious Eats — Oven Fries](https://www.seriouseats.com/baked-oven-fries) + [Classic Coleslaw](https://www.seriouseats.com/creamy-cole-slaw)
+**Full Meal:** Burgers (both styles) + [Serious Eats — Crispy Potato Wedges](https://www.seriouseats.com/potato-wedges-recipe-5217319) + [Classic Coleslaw](https://www.seriouseats.com/creamy-cole-slaw)
 
 | Component | Notes |
 |-----------|-------|
 | Protein | Smash burger AND thick patty — compare side by side |
-| Starch | Oven fries — crispy exterior, fluffy interior; a useful weeknight technique |
+| Starch | [Crispy Potato Wedges](https://www.seriouseats.com/potato-wedges-recipe-5217319) — crispy exterior, fluffy interior; a useful weeknight technique |
 | Veg | Coleslaw — creamy, acidic counterpoint to the rich beef |
 
 ---
