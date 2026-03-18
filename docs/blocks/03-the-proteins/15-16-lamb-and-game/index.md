@@ -96,7 +96,7 @@
 - **Technique:** Score the fat cap in a crosshatch. Stuff the cuts with garlic slivers and rosemary. Rub with olive oil, salt, lemon zest, and dried oregano. Place on a rack over a pan of onions and a splash of white wine. Roast at 300°F until a fork twists out with no resistance (4–5 hours). Rest 20 minutes before pulling.
 - **From the book:** This is one of the most satisfying weeknight project cooks — it takes 10 minutes to prep and 4 hours of patience. The house will smell extraordinary for the last hour.
 
-**Full Meal:** Slow-roasted lamb shoulder (pulled or sliced) + [BBC Good Food — Dauphinoise Potatoes](https://www.bbcgoodfood.com/recipes/dauphinoise-potatoes) OR roasted root vegetables + plain Greek yogurt as sauce
+**Full Meal:** Slow-roasted lamb shoulder (pulled or sliced) + [Serious Eats — Greek-Style Roasted Potatoes with Lemon](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + [Roasted Root Vegetables](https://www.seriouseats.com/roasted-root-vegetables-with-lime-dressing-8728919) + plain Greek yogurt as sauce
 
 > 🎥 **Compare Notes:** [How to Roast a Lamb Shoulder — Jamie Oliver](https://www.youtube.com/watch?v=LDUhYWFBvqE) — Note the internal temperature reading and the resting time relative to the size of the cut. Big shoulders need longer rests than their oven time would suggest.
 
@@ -113,8 +113,8 @@
 | **Starter** | [Serious Eats — Tzatziki](https://www.seriouseats.com/greek-yogurt-tzatziki-recipe) with warm pita | Make in the morning |
 | **Meze** | Hummus, olives, roasted peppers, feta | Bought is fine |
 | **Main** | Rack of lamb (from Session 67) or slow-roasted shoulder (from Session 69) | Choose the one you found more rewarding |
-| **Side 1** | [BBC Good Food — Dauphinoise Potatoes](https://www.bbcgoodfood.com/recipes/dauphinoise-potatoes) | Start 1.5 hrs before service |
-| **Side 2** | Green vegetable of your choice | Season it confidently |
+| **Side 1** | [Serious Eats — Tabbouleh](https://www.seriouseats.com/the-best-basic-tabbouleh-recipe) | Make while lamb rests — a Middle Eastern grain salad that belongs next to lamb |
+| **Side 2** | [Roasted Cauliflower with Tahini and Pomegranate](https://www.seriouseats.com/roasted-cauliflower-recipe) | A showstopper vegetable that earns its place at the feast |
 | **Dessert** | [Serious Eats — Best Brownies](https://www.seriouseats.com/best-brownies-recipe) | Make in the morning |
 
 *Skill targets: Everything on the table at the same time. Lamb at proper internal temperature. No phone open during service.*
@@ -192,7 +192,7 @@
 | **Starter** | Chicken liver parfait + toast points | [BBC Good Food — Chicken Liver Parfait](https://www.bbcgoodfood.com/recipes/chicken-liver-parfait) · make the day before |
 | **Main 1** | Braised lamb shank | Start 3 hrs before service |
 | **Main 2** | Pan-seared duck breast | Start 20 mins before service |
-| **Side** | Creamy polenta or [dauphinoise potatoes](https://www.bbcgoodfood.com/recipes/dauphinoise-potatoes) | Choose one |
+| **Side** | [Serious Eats — Creamy Polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe) | Start 30 min before service — the landing pad for both braising liquid and duck fat |
 | **Salad** | Bitter greens with walnut vinaigrette | Dress right before serving |
 
 *What you learn today: multi-protein timing. The braise waits; the duck can't. Build your timeline backwards from service.*

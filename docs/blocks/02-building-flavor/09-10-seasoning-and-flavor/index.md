@@ -126,7 +126,7 @@ This is one of the most impressive things you can serve to guests and it require
 
 **Skill:** Acid — lemon juice, vinegar, wine, citrus zest — does something salt cannot: it lifts and brightens flavors, making food taste *fresher* and more vibrant. Most dishes benefit from a small hit of acid right at the end of cooking, before serving. Tonight you'll cook a dish twice in your mind: once without the final acid, once with. The difference is immediately obvious.
 
-**Full Meal:** [Serious Eats — Chicken Marsala](https://www.seriouseats.com/chicken-marsala-mushroom-pan-sauce-recipe) + [Serious Eats — Creamy Mashed Potatoes](https://www.seriouseats.com/rich-and-creamy-mashed-potatoes-recipe) + [Serious Eats — Simple Green Salad with Sharp Dijon Vinaigrette](https://www.seriouseats.com/simple-vinaigrette-recipe)
+**Full Meal:** [Serious Eats — Chicken Marsala](https://www.seriouseats.com/chicken-marsala-mushroom-pan-sauce-recipe) + [Serious Eats — Creamy Mashed Potatoes](https://www.seriouseats.com/rich-and-creamy-mashed-potatoes-recipe) + Escarole Salad with Sharp Dijon Vinaigrette
 
 Before you finish the Marsala sauce, taste it. Now add a small squeeze of lemon and taste again. Notice how the whole sauce comes into focus. *That* is acid as a lever.
 

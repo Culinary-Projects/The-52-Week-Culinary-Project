@@ -27,7 +27,7 @@
 - Dry-brine the bird the night before the block starts: kosher salt inside and out, uncovered in the fridge
 - Roast at 450°F on a rack. No tent. No basting. Let it go.
 
-**Full Meal:** Roast chicken + [Serious Eats — The Best Roast Potatoes Ever](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + simple green salad
+**Full Meal:** Roast chicken + [Serious Eats — The Best Roast Potatoes Ever](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + Watercress Salad with Lemon Vinaigrette — the peppery bite cuts through the roasted chicken fat
 
 *Skill note: Take the bird's temperature in three places — thigh near the joint, thickest part of the breast, and the cavity near the backbone. They'll never be the same reading. Understand the variance before you declare it "done."*
 
@@ -57,7 +57,7 @@
 - **Read:** [Serious Eats — Chicken Thigh Temperature & Technique](https://www.seriouseats.com/chicken-thigh-temperature-technique-11887963) — explains why thighs handle heat differently than breasts
 - [Serious Eats — Coq au Vin](https://www.seriouseats.com/coq-au-vin-chicken-red-wine-braise-recipe) — the classic
 
-**Full Meal:** Coq au Vin + crusty bread + simple green salad (the braise is the whole meal)
+**Full Meal:** Coq au Vin + Garlic-Rubbed Grilled Bread + Frisée Salad with Warm Bacon Vinaigrette (the braise is the whole meal)
 
 *Skill note: Taste the braising liquid at three stages — raw, after it reduces by half, after the chicken has spent 45 minutes in it. The flavor evolution is the lesson.*
 
@@ -72,7 +72,7 @@
 - **Read:** [Serious Eats — Pan-Seared Chicken Breast with White Wine Pan Sauce](https://www.seriouseats.com/easy-pan-seared-chicken-breast-white-wine-fines-herbes-pan-sauce-food-lab-recipe)
 - The pan sauce is the skill. Deglaze the fond. Reduce. Mount with butter. Taste. Fix.
 
-**Full Meal:** Pan-seared chicken breast + pan sauce + [Serious Eats — Honey-Roasted Carrots](https://www.seriouseats.com/honey-roasted-carrots-with-spring-herbs-recipe-11725322) + whatever grain you have
+**Full Meal:** Pan-seared chicken breast + pan sauce + [Serious Eats — Honey-Roasted Carrots](https://www.seriouseats.com/honey-roasted-carrots-with-spring-herbs-recipe-11725322) + Pilaf-Style Rice — toast in butter before adding liquid; the nutty flavour complements the pan sauce
 
 > 🎥 **Compare Notes:** [The Secret Technique for the Juiciest Chicken Cutlets](https://www.youtube.com/watch?v=l49qlJV7VoM) — Watch how he controls the sear to hit exactly 160°F without overcooking — the same logic applies to your breast tonight.
 

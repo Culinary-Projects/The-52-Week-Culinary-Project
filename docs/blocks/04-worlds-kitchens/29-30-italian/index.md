@@ -43,7 +43,7 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 
 **Full Meal:**
 - Minestrone with Parmesan rind broth
-- Crusty bread, additional Parmesan on top
+- Garlic-Rubbed Grilled Bread — char thick slices, rub raw garlic across while hot, drizzle olive oil; additional Parmesan on top
 
 > 🎥 **Compare Notes:** [How to Make Minestrone Soup](https://www.youtube.com/watch?v=vaiKwrQRam4) — Watch how he stages the vegetables by cook time — the architecture of the soup is the lesson, not the ingredient list.
 
@@ -89,7 +89,7 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 
 **Full Meal:**
 - Pan-Roasted Whole Branzino with herbs and lemon
-- Simple Italian green salad
+- Tricolore Salad — arugula, radicchio, and shaved Parmesan with lemon and olive oil
 - Tiramisu for dessert
 
 ---
@@ -137,7 +137,7 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 
 **Full Meal:**
 - Spaghetti alle Vongole (the other version from Block 23)
-- Crusty bread
+- Warm sourdough for mopping up the broth
 
 ---
 
@@ -164,7 +164,7 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 1. **Antipasto:** Cured meats, olives, fresh mozzarella, bruschetta
 2. **Primo:** Risotto or fresh pasta
 3. **Secondo:** Bistecca alla Fiorentina (thick T-bone, wood-fire or cast iron) — or osso buco if not done on Wed Block 29
-4. **Contorni:** Roasted vegetables or simple salad
+4. **Contorni:** Roasted seasonal vegetables or Tricolore Salad (arugula, radicchio, shaved Parmesan)
 5. **Dolce:** Tiramisu or panna cotta (make ahead)
 
 **Full Meal:**

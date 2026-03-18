@@ -52,7 +52,7 @@ The recipe only uses charred onion for the stock — carrot and celery aren't in
 |-----------|--------|
 | Protein | Chicken breast — poach in the broth (or sous vide if you have one), then dice |
 | Veg | Onion (charred, per recipe) into the stock; your diced carrot and celery into the soup for last 10 minutes |
-| Starch | Egg noodles, cooked seperately |
+| Starch | Egg noodles, cooked separately |
 
 > 🎥 **Compare Notes:** [Knife Skills: How to Slice and Dice an Onion](https://www.youtube.com/watch?v=BuebC0CfD8E) · [How to Make Chicken Noodle Soup](https://www.youtube.com/watch?v=cR36DqjOvig) — Watch the knife video for the claw grip in real time at speed. The soup video shows a completely different approach to the same dish — both are worth thinking about.
 
@@ -70,7 +70,7 @@ Shrimp scampi is built almost entirely on well-minced garlic and parsley. Your d
 |-----------|--------|
 | Protein | Shrimp, sautéed in garlic butter and white wine |
 | Veg/Salad | [Arugula, Fennel & Orange Salad](https://www.seriouseats.com/arugula-fennel-and-orange-salad-recipe) |
-| Starch | Crusty bread or linguine |
+| Starch | Crusty bread or linguine — if linguine, finish it in the scampi pan with a splash of pasta water |
 
 > 🎥 **Compare Notes:** [Knife Skills: How to Mince Shallots](https://www.youtube.com/watch?v=3pPU_9dkCFw) — Shallots, garlic, parsley — same motions, different ingredient. Watch how he uses the rock chop and push cut interchangeably depending on the task.
 
@@ -147,7 +147,7 @@ While you have your knife out: grab a small handful of fresh basil leaves. Stack
 | Component | Recipe |
 |-----------|--------|
 | Protein | Crispy pan-seared bone-in chicken thighs |
-| Veg/Salad | [Classic Green Salad with Vinaigrette](https://www.seriouseats.com/simple-vinaigrette-recipe) |
+| Veg/Salad | [Classic Green Salad with Vinaigrette](https://www.seriouseats.com/simple-vinaigrette-recipe) — make the vinaigrette from scratch; this is the first time you'll whisk one |
 | Starch | Home fries (your dice drill is the recipe) |
 
 > 🎥 **Compare Notes:** [The Food Lab: How to Roast the Best Potatoes of Your Life](https://www.youtube.com/watch?v=argKpeiKFfo) — He explains why cut size and uniformity determine texture and doneness — the exact lesson from your three-potato drill, applied to the oven.
@@ -184,7 +184,7 @@ Shakshuka requires dicing onion, pepper, and garlic as its entire prep — your 
 |-----------|--------|
 | Protein | Eggs poached in the shakshuka sauce + leftover chicken from earlier in the block thighs |
 | Veg | Onion, bell pepper, tomatoes (the shakshuka base) |
-| Starch | Crusty bread for dipping |
+| Starch | [Garlic-Rubbed Grilled Bread](https://www.seriouseats.com/grilled-bread-recipe) — char a thick slice, rub raw garlic across the surface while hot |
 
 > 🎥 **Compare Notes:** [How to Make Shakshuka](https://www.youtube.com/watch?v=voinXU09-Ns) — The same dish. Notice that his onion and pepper dice is the entire prep step — the very thing you're timing today.
 
@@ -200,7 +200,7 @@ Shakshuka requires dicing onion, pepper, and garlic as its entire prep — your 
 |-----------|--------|
 | Protein | Optional — serve with good burrata or a soft-boiled egg on top |
 | Veg | The tian (eggplant, zucchini, squash, tomato) |
-| Starch | Crusty baguette |
+| Starch | [Garlic Toast](https://www.seriouseats.com/garlic-bread-recipe) — broiled with olive oil and flaky salt |
 
 *Skill targets: Consistent thickness on every slice. Go slow. This is about control, not speed.*
 

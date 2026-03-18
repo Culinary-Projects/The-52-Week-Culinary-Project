@@ -45,7 +45,13 @@ This session is required — soup architecture is foundational to stock-building
 5. Blend (immersion blender in the pot, or batches in a blender with the vent cracked)
 6. Adjust consistency with stock; adjust seasoning. Finish with cream, butter, or acid.
 
-**Full Meal:** [Roasted Butternut Squash Soup](https://www.seriouseats.com/classic-butternut-squash-soup-recipe) + crusty bread + simple salad
+**Full Meal:** [Roasted Butternut Squash Soup](https://www.seriouseats.com/classic-butternut-squash-soup-recipe) + [Gruyère Croutons](https://www.seriouseats.com/french-onion-soup-recipe) + [Apple, Walnut & Endive Salad](https://www.seriouseats.com/five-minute-radicchio-watercress-arugula-salad-recipe)
+
+| Component | Notes |
+|-----------|-------|
+| Soup | Roasted butternut squash — your purée technique showcase |
+| Bread | Gruyère croutons — broiled cheese on thick bread; a step above "crusty bread" |
+| Salad | Apple, walnut & endive — bitter + sweet + crunchy; cuts through the rich soup |
 
 The roasting step is optional but worth it: it caramelizes the squash and adds depth a boiled purée can't match.
 
@@ -130,7 +136,7 @@ The project session you make three things — stock, soup, and a complete dinner
 |------|------|--------|
 | Morning | Big batch beef/veal stock (6–8 hrs, mostly passive) | [Homemade Beef Stock](https://www.seriouseats.com/pressure-cooker-beef-stock) |
 | Dinner | French Onion Soup using your fresh beef stock | [French Onion Soup](https://www.seriouseats.com/french-onion-soup-recipe) |
-| Sides | Simple Green Salad + good bread | [Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) |
+| Sides | Watercress Salad with Lemon Vinaigrette + [Garlic-Rubbed Grilled Bread](https://www.seriouseats.com/grilled-bread-recipe) | [Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) |
 
 **Freeze the remaining stock in 1-cup portions. You now have stock in your freezer at all times. This changes your cooking permanently.**
 
@@ -154,15 +160,15 @@ Block 8 dives straight into egg technique — no additional reading required. Se
 
 **Skill:** French scrambled eggs are not American scrambled eggs. They're cooked low and slow, constantly stirred with a spatula, off and on the heat, until they form soft, creamy, barely-set curds. The result tastes like what restaurants serve for brunch at $22 a plate.
 
-**Full Meal:** [French Scrambled Eggs](https://www.seriouseats.com/french-style-soft-spoonable-scrambled-eggs-recipe) + [Smoked Salmon with Crème Fraîche](https://www.seriouseats.com/hot-smoked-salmon-recipe-11718524) + Toasted Sourdough + [Simple Green Salad](https://www.seriouseats.com/simple-vinaigrette-recipe)
+**Full Meal:** [French Scrambled Eggs](https://www.seriouseats.com/french-style-soft-spoonable-scrambled-eggs-recipe) + [Smoked Salmon with Crème Fraîche](https://www.seriouseats.com/hot-smoked-salmon-recipe-11718524) + Toasted Sourdough + [Watercress Salad with Lemon Vinaigrette](https://www.seriouseats.com/five-minute-radicchio-watercress-arugula-salad-recipe)
 
-A French scramble dinner is a legitimately elegant meal when served with smoked salmon and a sharp green salad.
+A French scramble dinner is a legitimately elegant meal when served with smoked salmon and a peppery watercress salad.
 
 | Component | Recipe |
 |-----------|--------|
 | Protein | French scrambled eggs + smoked salmon |
 | Starch | Toasted sourdough |
-| Salad | Simple green salad |
+| Salad | Watercress with lemon vinaigrette — peppery, bright, cuts the richness |
 
 > 🎥 **Compare Notes:** [Really Good Scrambled Eggs](https://www.youtube.com/watch?v=CXTnq7srJRs) — Same goal, different execution — notice how often he's moving the pan and when he pulls it off the heat entirely.
 
@@ -172,13 +178,13 @@ A French scramble dinner is a legitimately elegant meal when served with smoked 
 
 **Skill:** Fresh eggs, a wide shallow pan, simmering (not boiling) water with a splash of vinegar, a gentle swirl, and confidence. The white should be fully set and the yolk should run when broken. Most home cooks are afraid of poached eggs — by the end of tonight, you shouldn't be.
 
-**Full Meal:** [Poached Eggs Over Sautéed Greens with Crispy Bacon](https://www.seriouseats.com/foolproof-poached-eggs-food-lab-recipe) + [Roasted Tomatoes](https://www.seriouseats.com/how-to-oven-roast-tomatoes-canned-fresh) + Toasted bread
+**Full Meal:** [Poached Eggs Over Sautéed Greens with Crispy Bacon](https://www.seriouseats.com/foolproof-poached-eggs-food-lab-recipe) + [Slow-Roasted Cherry Tomatoes](https://www.seriouseats.com/how-to-oven-roast-tomatoes-canned-fresh) + [Sourdough Toast with Herb Butter](https://www.seriouseats.com/compound-butter-recipe)
 
 | Component | Recipe |
 |-----------|--------|
 | Protein | Poached eggs + crispy bacon |
-| Veg | Wilted greens (kale or spinach), roasted cherry tomatoes |
-| Starch | Good toast |
+| Veg | Wilted greens (kale or spinach), slow-roasted cherry tomatoes — concentrated sweetness |
+| Starch | Sourdough spread with herb compound butter — a callback to Block 5–6 technique |
 
 > 🎥 **Compare Notes:** [Truly Foolproof Poached Eggs](https://www.youtube.com/watch?v=S60GxA9JpLk) — Watch the water temperature and the swirl — two details that determine whether you get a poached egg or a cloud of egg white.
 
@@ -188,16 +194,16 @@ A French scramble dinner is a legitimately elegant meal when served with smoked 
 
 **Skill:** The French omelette is one of the hardest things in cooking to get right — pale, barely colored outside, softly set inside, folded into a cylinder in under 2 minutes. Practice the French version until you get it right. Make two omelettes — one for practice, one to eat.
 
-**Full Meal:** [The French Omelette](https://www.seriouseats.com/classic-french-omelette-recipe) + [Classic Green Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) + Crusty bread
+**Full Meal:** [The French Omelette](https://www.seriouseats.com/classic-french-omelette-recipe) + [Frisée Salad with Warm Bacon Vinaigrette](https://www.seriouseats.com/spring-salad-with-poached-eggs-and-bread-crumbs) + warm baguette
 
-A properly made omelette with a glass of wine and a green salad is one of the most satisfying dinners in existence.
+A properly made omelette with a glass of wine and a frisée salad is one of the most satisfying dinners in existence.
 
 | Component | Recipe |
 |-----------|--------|
 | Protein | Two omelettes (one per person or two attempts) |
 | Filling | Gruyère, herbs, or mushrooms |
-| Salad | Classic green salad with vinaigrette |
-| Starch | Crusty bread |
+| Salad | Frisée with warm bacon vinaigrette — a classic French bistro pairing |
+| Starch | Warm baguette |
 
 > 🎥 **Compare Notes:** [How to Make a French Omelette](https://www.youtube.com/watch?v=onFC-DlCA9k) · [Want Perfect French Omelettes? Start With Water](https://www.youtube.com/watch?v=2fWXrpkoFes) — Watch the wrist and the pan angle. The fold happens faster than you think it should.
 
@@ -212,7 +218,7 @@ A properly made omelette with a glass of wine and a green salad is one of the mo
 
 **Full Meal:**
 - [Quiche Lorraine](https://www.seriouseats.com/quiche-lorraine-recipe-8715255) (lardons + Gruyère + chive)
-- [Simple green salad with mustard vinaigrette](https://www.seriouseats.com/french-style-vinaigrette-recipe)
+- [Butter Lettuce Salad with Dijon Vinaigrette](https://www.seriouseats.com/french-style-vinaigrette-recipe)
 
 | Component | Notes |
 |-----------|-------|

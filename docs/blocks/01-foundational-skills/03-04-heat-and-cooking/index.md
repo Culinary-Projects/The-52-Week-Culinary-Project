@@ -53,7 +53,7 @@ The four things every cook must know:
 |-----------|--------|
 | Protein | Sautéed boneless chicken breast, finished with a quick pan sauce of shallot, white wine, and butter |
 | Veg | Sautéed zucchini — notice how a hot pan gives you color on the outside while keeping the inside tender |
-| Starch | Steamed jasmine rice |
+| Starch | [Serious Eats — Pilaf-Style Rice](https://www.seriouseats.com/rice-pilaf-recipe) — toasted in butter before liquid goes in; a technique upgrade from plain steamed rice |
 
 > 🎥 **Compare Notes:** [Pan-Seared Chicken Breasts with Pan Sauce and Spring Vegetables](https://www.youtube.com/watch?v=Bt8YgEr-9is) — Same cut, same pan sauce technique — notice how he builds flavor in the pan after pulling the chicken.
 
@@ -63,7 +63,7 @@ The four things every cook must know:
 
 **Skill:** Roasting is dry oven heat that circulates around food, browning all exposed surfaces. The two secrets: (1) high heat (400°F+) and (2) a *dry* surface on the food. Pat everything dry. Never roast wet food — the moisture steams before it can brown.
 
-**Full Meal:** [Sheet Pan Chicken Thighs with Roasted Vegetables](https://www.seriouseats.com/honey-mustard-sheet-pan-chicken-recipe-11780416) + [Simple Green Salad](https://www.seriouseats.com/simple-vinaigrette-recipe)
+**Full Meal:** [Sheet Pan Chicken Thighs with Roasted Vegetables](https://www.seriouseats.com/honey-mustard-sheet-pan-chicken-recipe-11780416) + [Arugula Salad with Shaved Parmesan and Lemon](https://www.seriouseats.com/fennel-orange-and-roasted-pepper-arugula-salad-recipe)
 
 Use bone-in, skin-on thighs. Pat them completely dry. Compare the color and crispness tonight to earlier in the block's braise — you'll eat the difference.
 
@@ -71,7 +71,7 @@ Use bone-in, skin-on thighs. Pat them completely dry. Compare the color and cris
 |-----------|--------|
 | Protein | Bone-in skin-on chicken thighs, roasted until crackling |
 | Veg | Whatever is on the sheet pan — broccoli, potatoes, onions |
-| Salad | Simple green salad alongside |
+| Salad | Arugula with shaved parmesan and lemon — peppery, sharp, simple |
 
 ---
 
@@ -79,14 +79,14 @@ Use bone-in, skin-on thighs. Pat them completely dry. Compare the color and cris
 
 **Skill:** Braising is a two-step method. First, sear the meat in a very hot pan (dry heat, Maillard reaction). Then add a small amount of liquid, cover, and cook at low heat for a long time. The collagen in tough cuts breaks down into gelatin, making the meat spoon-tender and the braising liquid silky. Never rush a braise.
 
-**Full Meal:** [Braised Chicken Thighs with Tomatoes and Capers](https://www.seriouseats.com/chicken-cacciatore-red-peppers-recipe) + Crusty bread or polenta
+**Full Meal:** [Braised Chicken Thighs with Tomatoes and Capers](https://www.seriouseats.com/chicken-cacciatore-red-peppers-recipe) + [Serious Eats — Creamy Polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe)
 
 Notice the difference in texture from earlier in the block roasted thighs — same cut of meat, entirely different result because of heat and moisture.
 
 | Component | Recipe |
 |-----------|--------|
 | Protein | Braised chicken thighs in a rich tomato-caper sauce |
-| Starch | Crusty bread to mop the sauce, or polenta |
+| Starch | Creamy polenta — the first time you'll make it; the braise sauce pools into it perfectly |
 
 > 🎥 **Compare Notes:** [Crispy Braised Chicken with Tomatoes, Carrots, and Kale](https://www.youtube.com/watch?v=4BPkJQgtHRE) — Different vegetables, same braising logic — notice the deep sear he builds before any liquid goes in.
 
@@ -102,13 +102,13 @@ Notice the difference in texture from earlier in the block roasted thighs — sa
 
 **En papillote** — place a fish fillet, a spoonful of butter, aromatics (sliced fennel, capers, lemon), and a splash of white wine on one half of a large sheet of parchment paper. Fold and crimp the paper into a sealed parcel. Bake at 400°F for 12–15 minutes. The parcel puffs and steams the fish in its own moisture. This is the most foolproof fish technique in the kitchen — it's nearly impossible to overcook. Open the parcel at the table.
 
-**Full Meal:** [Perfect Poached Salmon](https://www.seriouseats.com/poached-salmon-dill-yogurt-sauce-recipe) + fish en papillote (technique from description above; choose your fish based on what's freshest) + [Steamed Bok Choy with Garlic Sauce](https://www.seriouseats.com/stir-fried-greens-with-garlic-bok-choy-with-oyster-sauce-recipe) + Steamed rice
+**Full Meal:** [Perfect Poached Salmon](https://www.seriouseats.com/poached-salmon-dill-yogurt-sauce-recipe) + fish en papillote (technique from description above; choose your fish based on what’s freshest) + [Stir-Fried Bok Choy with Ginger](https://www.seriouseats.com/stir-fried-greens-with-garlic-bok-choy-with-oyster-sauce-recipe) + [Coconut Rice](https://www.seriouseats.com/coconut-rice-recipe)
 
 | Component | Recipe |
 |-----------|--------|
 | Protein | Gently poached salmon — silky, delicate, nothing like a seared fillet |
-| Veg | Steamed bok choy, dressed simply with garlic and sesame |
-| Starch | Steamed rice |
+| Veg | Stir-fried bok choy with ginger — quick, aromatic, finishes in 3 minutes |
+| Starch | Coconut rice — richer than steamed; the coconut fat rounds out the delicate fish |
 
 ---
 
@@ -116,7 +116,7 @@ Notice the difference in texture from earlier in the block roasted thighs — sa
 
 **Skill:** Spatchcocking (butterflying) a whole chicken removes the backbone, flattens the bird, and allows it to roast evenly in about half the time of a trussed bird. You'll use your knife skills from Blocks 1–2 and your roasting knowledge from this week. The result: the crispiest skin you've ever made at home.
 
-**Full Meal:** [Spatchcocked Roast Chicken](https://www.seriouseats.com/lavender-lemon-and-honey-spatchcocked-roast-chicken-recipe) + [Roasted Potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + [Simple Green Salad with Vinaigrette](https://www.seriouseats.com/simple-vinaigrette-recipe)
+**Full Meal:** [Spatchcocked Roast Chicken](https://www.seriouseats.com/lavender-lemon-and-honey-spatchcocked-roast-chicken-recipe) + [Roasted Potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + [Serious Eats — Celery, Parmesan & Walnut Salad](https://www.seriouseats.com/celery-fennel-salad-recipe)
 
 *Skill targets: Even butterflying, dry skin before roasting, proper resting time (10 minutes) before carving.*
 
@@ -169,7 +169,7 @@ Notice the difference in texture from earlier in the block roasted thighs — sa
 | Component | Recipe |
 |-----------|--------|
 | Protein | Miso-glazed salmon under the broiler — 8 minutes, no flipping needed |
-| Veg | Sautéed or steamed bok choy |
+| Veg | Sautéed bok choy with sesame oil and chili flake |
 | Starch | Steamed rice |
 
 > 🎥 **Compare Notes:** [Kenji's Cooking Show | Miso-Glazed Salmon](https://www.youtube.com/watch?v=51GpBG4iJcA) — This is the exact dish — compare his glaze timing and broiler distance to yours.

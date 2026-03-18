@@ -30,7 +30,7 @@ Four out of five start with a roux. **Learn the roux and you learn four sauces a
 
 **Skill:** A béchamel is a white roux (equal parts butter and flour, cooked briefly until it smells nutty but hasn't browned) whisked with warm milk. The key is adding the milk gradually while whisking constantly, and cooking it long enough to lose the raw flour taste. Season with salt, white pepper, and a pinch of nutmeg.
 
-**Full Meal:** [Baked Mac and Cheese (Béchamel-Based)](https://www.seriouseats.com/classic-bechamel-baked-mac-cheese-recipe) + [Simple Green Salad](https://www.seriouseats.com/simple-vinaigrette-recipe)
+**Full Meal:** [Baked Mac and Cheese (Béchamel-Based)](https://www.seriouseats.com/classic-bechamel-baked-mac-cheese-recipe) + [Bitter Greens Salad with Mustard Vinaigrette](https://www.seriouseats.com/five-minute-radicchio-watercress-arugula-salad-recipe)
 
 You'll make the béchamel from scratch and transform it into a Mornay sauce (béchamel + cheese). Then it becomes mac and cheese. This is the **mother sauce → daughter sauce chain** in action.
 
@@ -38,7 +38,7 @@ You'll make the béchamel from scratch and transform it into a Mornay sauce (bé
 |-----------|--------|
 | Main | Baked mac and cheese (the whole dish) |
 | Starch | Pasta (built-in) |
-| Salad | Simple green salad to cut through the richness |
+| Salad | Bitter greens (radicchio, frisée, endive) with mustard vinaigrette — the bitterness cuts through the cheese |
 
 ---
 
@@ -46,7 +46,7 @@ You'll make the béchamel from scratch and transform it into a Mornay sauce (bé
 
 **Skill:** A velouté starts with the same white roux as béchamel but uses chicken (or fish, or veal) stock instead of milk. The result is lighter, more savory, and more versatile as a sauce base. It should coat a spoon lightly when done — if it's too thick, thin it with more warm stock.
 
-**Full Meal:** [Chicken Pot Pie with Velouté Base](https://www.seriouseats.com/double-crust-chicken-pot-pie-recipe) + Simple green salad
+**Full Meal:** [Chicken Pot Pie with Velouté Base](https://www.seriouseats.com/double-crust-chicken-pot-pie-recipe) + Butter Lettuce Salad with Herbs
 
 The pot pie filling is a classic chicken velouté extended with vegetables and cream. You're learning the mother sauce *and* a classic comfort food simultaneously.
 
@@ -55,7 +55,7 @@ The pot pie filling is a classic chicken velouté extended with vegetables and c
 | Protein | Chicken (cooked and pulled into the filling) |
 | Starch | The pastry crust |
 | Veg | Peas, carrots, and onion in the filling |
-| Salad | Simple green salad alongside |
+| Salad | [Butter Lettuce Salad with Herbs](https://www.seriouseats.com/french-style-vinaigrette-recipe) alongside — delicate, doesn’t compete with the pot pie |
 
 ---
 
@@ -99,7 +99,7 @@ The pan sauce is your simplified Espagnole: browned bits from the steak, deglaze
 
 **Skill:** A synthesis dish — you'll make a tomato-based lamb meat sauce *and* a béchamel *and* roast eggplant, then layer them together and bake. Uses two of the five mother sauces in a single dish.
 
-**Full Meal:** [Greek Moussaka](https://www.seriouseats.com/moussaka-6361068) + [Greek Salad](https://www.seriouseats.com/the-best-greek-salad-tomato-feta-summer-recipe) + Crusty bread
+**Full Meal:** [Greek Moussaka](https://www.seriouseats.com/moussaka-6361068) + [Greek Salad](https://www.seriouseats.com/the-best-greek-salad-tomato-feta-summer-recipe) + warm pita or [Garlic-Rubbed Grilled Bread](https://www.seriouseats.com/grilled-bread-recipe)
 
 | Component | Recipe |
 |-----------|--------|
@@ -107,6 +107,7 @@ The pan sauce is your simplified Espagnole: browned bits from the steak, deglaze
 | Sauce | Béchamel on top, baked to a golden crust |
 | Veg | Roasted eggplant and potato layers |
 | Salad | Greek salad alongside |
+| Bread | Warm pita or garlic-rubbed grilled bread |
 
 *Skill targets: Smooth, lump-free béchamel. Uniform eggplant slices (Block 2 callback). Full mise en place before assembly.*
 
@@ -129,7 +130,7 @@ The pan sauce is your simplified Espagnole: browned bits from the steak, deglaze
 | Protein | Canadian bacon, poached eggs |
 | Sauce | Hollandaise (your skill for tonight) |
 | Starch | English muffins, toasted |
-| Veg/Salad | [Simple Watercress Salad](https://www.seriouseats.com/five-minute-radicchio-watercress-arugula-salad-recipe) alongside |
+| Veg/Salad | [Watercress and Radish Salad](https://www.seriouseats.com/five-minute-radicchio-watercress-arugula-salad-recipe) alongside — peppery greens + crunch contrast the rich hollandaise |
 
 > 🎥 **Compare Notes:** [How to Make Eggs Benedict the Classic Way](https://www.youtube.com/watch?v=pkzRzrxYtMo) — Watch how he handles the hollandaise temperature — the moment it breaks and how to rescue it.
 
@@ -177,13 +178,13 @@ Make the vinaigrette from scratch. Use it as the dressing *and* as a marinade fo
 
 **Extension — Compound Butter:** The simplest possible pan-sauce alternative: softened butter mixed with aromatics (herbs, garlic, lemon zest, anchovies, blue cheese) rolled in plastic wrap and refrigerated. Slice off a coin and place it on a hot steak or fish as it rests. It melts into an instant sauce. Make one tonight alongside the pork chops.
 
-**Full Meal:** [Pork Chops with Apple-Cider Pan Sauce](https://www.seriouseats.com/perfect-pan-seared-pork-chop-recipe) + compound butter (herb + garlic + lemon zest) + [Roasted Sweet Potatoes](https://www.seriouseats.com/the-best-roasted-sweet-potatoes-thanksgiving-sides-the-food-lab-recipe) + [Simple Green Salad](https://www.seriouseats.com/simple-vinaigrette-recipe)
+**Full Meal:** [Pork Chops with Apple-Cider Pan Sauce](https://www.seriouseats.com/perfect-pan-seared-pork-chop-recipe) + compound butter (herb + garlic + lemon zest) + [Roasted Sweet Potatoes](https://www.seriouseats.com/the-best-roasted-sweet-potatoes-thanksgiving-sides-the-food-lab-recipe) + [Shaved Carrot & Herb Salad](https://www.seriouseats.com/light-herb-shaved-carrot-salad-recipe)
 
 | Component | Recipe |
 |-----------|--------|
 | Protein | Pan-seared pork chops with apple-cider pan sauce |
 | Starch | Roasted sweet potatoes |
-| Salad | Simple green salad with your from-scratch vinaigrette |
+| Salad | [Serious Eats — Shaved Carrot & Herb Salad](https://www.seriouseats.com/light-herb-shaved-carrot-salad-recipe) with your from-scratch vinaigrette |
 
 > 🎥 **Compare Notes:** [Pan-Seared Pork Chops with Apple Pan Sauce](https://www.youtube.com/watch?v=nHDNtxvrhHc) — This is the exact dish — compare when he deglazes and how he reduces the sauce to a glaze.
 

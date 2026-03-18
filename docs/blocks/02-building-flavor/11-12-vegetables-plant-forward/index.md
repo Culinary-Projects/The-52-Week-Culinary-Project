@@ -36,7 +36,7 @@ The CIA spends four full weeks on vegetable fabrication and cookery before touch
 
 Both can be passed through a fine mesh sieve for professional-smooth results. This is worth doing at least once.
 
-**Full Meal:** Celery root and parsnip purées as the base + [seared duck breast](https://www.seriouseats.com/pan-seared-duck-breast) or seared scallops on top + a simple green salad
+**Full Meal:** Celery root and parsnip purées as the base + [seared duck breast](https://www.seriouseats.com/pan-seared-duck-breast) or seared scallops on top + Frisée Salad with Warm Shallot Vinaigrette
 
 > **Why texture matters this much:** A great purée tastes better because it coats your palate more evenly — every bite carries more flavor. A grainy or waterlogged purée tastes less of itself because the structure interrupts contact with your taste receptors. Straining is not precious — it's functional.
 ---
@@ -119,7 +119,7 @@ Both can be passed through a fine mesh sieve for professional-smooth results. Th
 **Full Meal:**
 - [Crispy Brussels Sprouts with Fish Sauce and Crispy Shallots](https://www.simplyrecipes.com/recipes/roasted_brussels_sprouts/) — this dish converts Brussels sprout haters
 - [Charred Cabbage with Miso-Sesame Sauce](https://www.seriouseats.com/grilled-cabbage-wedges-ginger-miso-dressing-recipe) — a revelation; whole cabbage wedges charred in cast iron
-- Simple white rice or crusty bread
+- Steamed jasmine rice — the neutral base lets the miso and fish sauce flavours land
 
 | Component | Notes |
 |-----------|-------|
@@ -235,13 +235,13 @@ Cook a complete dinner where vegetables are the headline, not the support act. N
 
 **Chickpeas** — pan-fried until crispy in olive oil, finished with smoked paprika and lemon. A completely different texture from boiled chickpeas.
 
-**Full Meal:** Braised white beans on toast + crispy chickpeas + wilted greens + poached egg on top
+**Full Meal:** Braised white beans on toast + crispy chickpeas + wilted Swiss chard in the bean liquid + poached egg on top
 
 | Component | Recipe |
 |-----------|--------|
 | White beans | Braised in stock with garlic, rosemary, anchovy |
 | Chickpeas | Crispy-fried in cast iron, paprika + lemon |
-| Greens | Wilted spinach or kale in the bean liquid |
+| Greens | Wilted Swiss chard in the bean liquid — the stems add texture the leaves can’t |
 | Egg (optional) | Poached on top to make it a substantial dinner |
 
 ---

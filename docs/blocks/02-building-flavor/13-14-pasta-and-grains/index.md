@@ -30,14 +30,14 @@
 
 **Skill:** Fresh pasta dough is flour, eggs, and time. The gluten network forms as you knead, the dough becomes elastic, and it needs to rest so the gluten relaxes and becomes rollable. Your job tonight: understand what the dough is telling you at each stage. Too dry — it cracks when folded. Too wet — it sticks and tears. Properly rested — smooth, supple, and cooperative.
 
-**Full Meal:** [Serious Eats — Homemade Fresh Pasta](https://www.seriouseats.com/fresh-egg-pasta) (basic egg dough, cut into tagliatelle) + [Serious Eats — Slow-Cooked Tomato Sauce (Sugo di Pomodoro)](https://www.seriouseats.com/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe) + [Serious Eats — Simple Green Salad with Vinaigrette](https://www.seriouseats.com/simple-vinaigrette-recipe)
+**Full Meal:** [Serious Eats — Homemade Fresh Pasta](https://www.seriouseats.com/fresh-egg-pasta) (basic egg dough, cut into tagliatelle) + [Serious Eats — Slow-Cooked Tomato Sauce (Sugo di Pomodoro)](https://www.seriouseats.com/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe) + [Serious Eats — Arugula Salad with Shaved Parmesan and Lemon](https://www.seriouseats.com/fennel-orange-and-roasted-pepper-arugula-salad-recipe)
 
 Make a basic egg pasta dough. Rest it for 30 minutes. Roll it by hand or with a pasta machine. Cut tagliatelle. Cook for 90 seconds in aggressively salted water. Toss with a slow-cooked tomato sauce (or just brown butter and parmesan if you want to let the pasta speak).
 
 - **Protein:** Parmesan carries the protein component; the pasta is the star
 - **Starch:** Your own fresh tagliatelle
 - **Sauce:** Slow-cooked tomato sugo (can be made on the weekend and reheated, or made earlier in the week in a big batch)
-- **Salad:** Simple green salad
+- **Salad:** Arugula with shaved Parmesan and lemon — the peppery bite cuts through the rich sugo
 
 > 🎥 **Compare Notes:** [Quick and Easy Pasta With Cherry Tomato Sauce](https://www.youtube.com/watch?v=7zS5Wj7ZfIY) — A fast tomato sauce versus your slow sugo — watch what the high heat does to the tomatoes in minutes and compare the result to your 3-hour cook.
 
@@ -62,14 +62,14 @@ Make the same dough from Session 50 (make it in the morning if you want to save 
 
 **Skill:** Potato gnocchi is one of the most unforgiving things in cooking. Too much flour and they're heavy and gluey. Too little and they fall apart in the water. The secret: bake your potatoes (don't boil — water makes them wet and you'll add too much flour), rice them while hot, and handle the dough as little as humanly possible. Overworking develops gluten and makes them tough.
 
-**Full Meal:** [Serious Eats — Light and Tender Potato Gnocchi with Sage Butter](https://www.seriouseats.com/light-tender-potato-gnocchi-recipe) + [Serious Eats — Roasted Broccolini with Garlic and Chili](https://www.seriouseats.com/dinner-tonight-sauteed-broccolini-recipe) + [Serious Eats — Simple Green Salad](https://www.seriouseats.com/simple-vinaigrette-recipe)
+**Full Meal:** [Serious Eats — Light and Tender Potato Gnocchi with Sage Butter](https://www.seriouseats.com/light-tender-potato-gnocchi-recipe) + [Serious Eats — Roasted Broccolini with Garlic and Chili](https://www.seriouseats.com/dinner-tonight-sauteed-broccolini-recipe) + [Radicchio and Endive Salad with Balsamic Vinaigrette](https://www.seriouseats.com/five-minute-radicchio-watercress-arugula-salad-recipe)
 
 The gnocchi themselves are the project. The sage butter sauce takes 5 minutes. The broccolini goes in the oven while you shape the gnocchi. Everything comes together at the same time.
 
 - **Protein:** Parmesan and egg yolks in the gnocchi; the butter sauce finishes it
 - **Starch:** Potato gnocchi — your own
 - **Veg:** Roasted broccolini
-- **Salad:** Simple green salad
+- **Salad:** Radicchio and endive with balsamic — the bitterness is the counterpoint to the sage butter
 
 > 🎥 **Compare Notes:** [How to Make Ricotta Gnocchi](https://www.youtube.com/watch?v=-QXRJrf9Bys) — Different base ingredient (ricotta vs. potato), but the key instruction is the same: handle it as little as possible. Watch why overworking kills gnocchi.
 
@@ -101,7 +101,7 @@ Aglio e olio is garlic, olive oil, pasta water, pasta, chili flakes, and parsley
 1. **Antipasto:** [Serious Eats — Bruschetta with Tomato and Basil](https://www.seriouseats.com/fresh-tomato-bruschetta-recipe) — toasted bread, ripe tomatoes, garlic, good olive oil
 2. **Pasta 1:** [Serious Eats — Classic Cacio e Pepe](https://www.seriouseats.com/perfect-cacio-e-pepe-sauce-pasta-recipe-8780373) — a small portion per person as a first pasta
 3. **Pasta 2:** Your fresh tagliatelle from earlier in the block dough (make it ahead) with [Serious Eats — Slow-Cooked Bolognese](https://www.seriouseats.com/the-best-slow-cooked-bolognese-sauce-recipe) (make the sauce the morning of the project session — it needs 3 hours)
-4. **Salad:** [Serious Eats — Classic Italian Green Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) with a simple lemon and olive oil dressing
+4. **Salad:** [Serious Eats — Tricolore Salad](https://www.seriouseats.com/fennel-orange-and-roasted-pepper-arugula-salad-recipe) — arugula, radicchio, and endive with lemon and olive oil dressing
 
 *Skill targets: Bolognese seasoned in layers throughout a 3-hour cook. Fresh pasta cut to even width. Cacio e Pepe silky and sauce-y, not dry and clumpy.*
 
@@ -149,13 +149,13 @@ Tahdig — the crispy rice crust at the bottom of the Persian rice pot — is on
 
 **Skill:** Traditional polenta is not the quick-cook kind. It takes 45–60 minutes of stirring over low heat, adding stock or water gradually as the cornmeal absorbs it. The result is fundamentally different from the 5-minute version — creamier, with a deeper corn flavor and a silky consistency that coats the back of a spoon.
 
-**Full Meal:** [Serious Eats — Creamy Parmesan Polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe) + [Recipe Tin Eats — Osso Buco](https://www.recipetineats.com/osso-buco/) (a veal or beef shank braise; the marrow inside the bone is the reward for patience) + [Serious Eats — Simple Green Salad](https://www.seriouseats.com/simple-vinaigrette-recipe)
+**Full Meal:** [Serious Eats — Creamy Parmesan Polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe) + [Recipe Tin Eats — Osso Buco](https://www.recipetineats.com/osso-buco/) (a veal or beef shank braise; the marrow inside the bone is the reward for patience) + [Shaved Fennel and Celery Salad with Lemon](https://www.seriouseats.com/grilling-fennel-and-orange-salad-recipe)
 
 The polenta goes underneath. The osso buco braise goes on top. Finish with gremolata (parsley + lemon zest + garlic, stirred in raw at the very end) — its fresh bite against the deep braise is the whole point of the dish.
 
 - **Protein:** Osso buco — cross-cut veal or beef shank, braised 2–3 hrs until the bone loosens
 - **Starch:** Slow-cooked creamy polenta
-- **Salad:** Simple green salad
+- **Salad:** Shaved fennel and celery with lemon — the crisp anise cuts through the braise's richness
 
 > 🎥 **Compare Notes:** [POV Polenta Soup With Whatever You Want](https://www.youtube.com/watch?v=cVAPjUHW9xk) — A looser, brothier version of the same grain — watch how he adjusts the liquid ratio and seasoning as it cooks down. Same instincts, different texture target.
 
@@ -254,7 +254,7 @@ Risotto is not about patience. It's about starch gelatinization and gradual liqu
 
 Whatever you identified as the hardest part of the project menu — make it tonight as a dry run. No guests, no pressure. Just you and the technique.
 
-**Full Meal:** Your chosen dry-run dish + [Serious Eats — Simple Green Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) + whatever protein is simplest alongside
+**Full Meal:** Your chosen dry-run dish + a salad that complements it (use a dressing style you've already practised) + whatever protein is simplest alongside
 
 ---
 

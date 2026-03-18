@@ -55,7 +55,13 @@
 - **Read:** [Serious Eats — Crispy Pan-Seared Salmon Fillets](https://www.seriouseats.com/crispy-pan-seared-salmon-fillets-recipe) — the technique section is essential reading
 - Cold pan start is debated; we recommend room-temp pan, medium-high heat, oil just to shimmer
 
-**Full Meal:** Crispy skin salmon + herb oil or lemon butter + [Serious Eats — Stir-Fried Garlic Spinach](https://www.seriouseats.com/stir-fried-garlic-spinach-with-mustard-seeds-recipe) + steamed rice
+**Full Meal:** Crispy skin salmon + herb oil or lemon butter + [Serious Eats — Stir-Fried Garlic Spinach](https://www.seriouseats.com/stir-fried-garlic-spinach-with-mustard-seeds-recipe) + [Serious Eats — Coconut Rice](https://www.seriouseats.com/coconut-rice-recipe)
+
+| Component | Notes |
+|-----------|-------|
+| Fish | Crispy skin salmon — skin side down 80% of the cook |
+| Veg | Garlic spinach with mustard seeds — wilts in 3 min, punchy and aromatic |
+| Starch | Coconut rice — richer than plain steamed; pairs with the richness of salmon |
 
 > 🎥 **Compare Notes:** [How to Grill Salmon](https://www.youtube.com/watch?v=B1ucS4E5dB4) *(Helen Rennie)* — Different heat source, same goal as your pan sear; notice how she reads doneness and what she says about the margin for error.
 
@@ -68,7 +74,14 @@
 - **Read:** [Serious Eats — Sole Meunière](https://www.seriouseats.com/sole-meuniere-recipe-5649376)
 - The brown butter sauce: butter continues to cook in the hot pan after you remove the fish. Watch it turn amber. Smell it — it should smell nutty, like hazelnuts. Off the heat. Lemon juice. Pour immediately.
 
-**Full Meal:** Sole meunière + steamed haricots verts or asparagus + crusty bread to catch the sauce
+**Full Meal:** Sole meunière + [Steamed Haricots Verts with Shallot Butter](https://www.seriouseats.com/cooks-illustrated-sauteed-green-beans-recipe) + warm sourdough to catch the brown butter sauce
+
+| Component | Notes |
+|-----------|-------|
+| Fish | Sole, dredged in flour, cooked in butter |
+| Sauce | Beurre noisette — made in the same pan in 60 seconds |
+| Veg | Haricots verts finished with shallot butter — the French bistro standard |
+| Bread | Warm sourdough — functional here, the brown butter demands something to soak it up |
 
 > 🎥 **Compare Notes:** [Sole Meunière](https://www.youtube.com/watch?v=uQ6U9uiP5go) *(Jacques Pépin)* — Watch the brown butter timing and how little it takes to cross from noisette to burned. This is the master class version of what you're cooking tonight.
 
@@ -80,7 +93,13 @@
 
 - The key insight: a stainless steel or cast iron pan, properly preheated, with enough oil, prevents sticking better than nonstick does because it creates a proper sear
 
-**Full Meal:** Crispy white fish + whatever vegetable you feel like + rice or potatoes
+**Full Meal:** Crispy white fish + [Braised Leeks with Lemon](https://www.seriouseats.com/braised-leeks-recipe) + [Smashed Potatoes](https://www.seriouseats.com/crispy-smashed-potatoes-recipe)
+
+| Component | Notes |
+|-----------|-------|
+| Fish | Cod, halibut, sea bass, or snapper — the workhorse crispy technique |
+| Veg | Braised leeks — silky, sweet, a technique worth owning; 20 min passive |
+| Starch | Smashed potatoes — boiled, smashed, crisped in the oven |
 
 *Skill note: If the fish sticks, it's telling you something. It means the pan wasn't hot enough or there isn't enough fat. This is useful information — not failure.*
 
@@ -107,7 +126,7 @@
 - **Read:** [Serious Eats — Salt-Baked Whole Fish with Fresh Herbs](https://www.seriouseats.com/salt-baked-whole-fish-with-fresh-herbs-5212108) — a more dramatic version of the whole-fish concept; alternatively roast the fish simply with just olive oil, lemon, and herbs in a 425°F oven for 25–30 minutes per kilo
 - Any whole fish works: snapper, branzino, sea bass, striped bass, or whatever is freshest
 
-**The project meal:** Whole roasted or salt-baked fish + olive oil, lemon, and capers dressed over the top + [roasted potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) or simple rice + salad
+**The project meal:** Whole roasted or salt-baked fish + olive oil, lemon, and capers dressed over the top + [Smashed and Crisped Potatoes](https://www.seriouseats.com/crispy-smashed-potatoes-recipe) + [Arugula, Fennel & Orange Salad](https://www.seriouseats.com/arugula-fennel-and-orange-salad-recipe)
 
 > 🎥 **Compare Notes:** [How to Grill and Eat a Whole Fish (Branzino)](https://www.youtube.com/watch?v=220Q_ppV8bs) *(Helen Rennie)* — Same fish, different heat source; pay attention to how she talks about the bones changing the cook time calculus compared to fillets.
 
@@ -123,7 +142,13 @@
 
 - **Read:** [Serious Eats — Pan-Seared Fish with Shiitake Mushrooms](https://www.seriouseats.com/pan-seared-fish-shiitake-mushroom-recipe)
 
-**Full Meal:** Seared fish with mushrooms + rice + wilted greens
+**Full Meal:** Seared fish with mushrooms + steamed jasmine rice + [Sesame-Dressed Bok Choy](https://www.seriouseats.com/stir-fried-greens-with-garlic-bok-choy-with-oyster-sauce-recipe)
+
+| Component | Notes |
+|-----------|-------|
+| Fish | White fish seared on a shiitake bed |
+| Starch | Steamed jasmine rice — appropriate here; the mushroom broth soaks in |
+| Veg | Bok choy with sesame oil and rice vinegar — matches the East Asian frame |
 
 ---
 
@@ -154,7 +179,7 @@
 
 - **Read:** [Serious Eats — Whole Grilled Fish](https://www.seriouseats.com/whole-grilled-fish-recipe-11744350)
 
-**Full Meal:** Whole grilled branzino (or snapper) + [salsa verde](https://www.seriouseats.com/italian-salsa-verde-with-parsley-and-capers) or [gremolata](https://www.seriouseats.com/gremolata-sauce-recipe) + [roasted potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + salad
+**Full Meal:** Whole grilled branzino (or snapper) + [salsa verde](https://www.seriouseats.com/italian-salsa-verde-with-parsley-and-capers) or [gremolata](https://www.seriouseats.com/gremolata-sauce-recipe) + [Serious Eats — Best Roast Potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + [Tomato, Cucumber & Red Onion Salad](https://www.seriouseats.com/the-best-greek-salad-tomato-feta-summer-recipe)
 
 > 🎥 **Compare Notes:** [Go Fish](https://www.youtube.com/watch?v=H8jL9uRhIbI) *(Jacques Pépin)* — Watch how he reads the cooked fish and separates the fillet from the bone at the table; that's the finishing move that makes whole fish feel confident rather than awkward.
 
@@ -168,7 +193,7 @@
 
 1. **Starter:** Ceviche (from Session 85 technique) — fresh-made, served immediately after curing, with tostadas and sliced avocado
 2. **Main:** Crispy-skin pan-seared fish of your choice (Session 82 or 3 technique) + [salsa verde](https://www.seriouseats.com/italian-salsa-verde-with-parsley-and-capers) drizzled over the top
-3. **Sides:** [Roasted potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + a simple green salad dressed with vinaigrette
+3. **Sides:** [Crispy Smashed Potatoes](https://www.seriouseats.com/crispy-smashed-potatoes-recipe) + [Shaved Zucchini Salad with Lemon and Parmesan](https://www.seriouseats.com/raw-zucchini-salad-recipe)
 
 *Skill targets: Ceviche fish properly opaque but not rubbery. Crispy fish skin that doesn't stick to the plate. Everything on the table at the same time — this is the timing challenge.*
 
@@ -233,7 +258,7 @@ Bouillabaisse is a lesson in building shellfish stock, saffron, and rouille — 
 
 Trout Amandine teaches you to read a whole fish for doneness (the flesh should pull away from the bone at the dorsal fin; the eye turns white and opaque). The sauce — beurre noisette with toasted almonds and lemon juice — is made in the same pan in 90 seconds after the fish comes out.
 
-**Full Meal:** Trout Amandine + steamed haricots verts + crusty bread to catch the sauce
+**Full Meal:** Trout Amandine + [Haricots Verts with Dijon Vinaigrette](https://www.seriouseats.com/cooks-illustrated-sauteed-green-beans-recipe) + warm bread to catch the beurre noisette
 
 | Component | Notes |
 |-----------|-------|
@@ -253,7 +278,7 @@ Trout Amandine teaches you to read a whole fish for doneness (the flesh should p
 
 Score the fish 3–4 times on each side (diagonal cuts to the bone — these allow heat to reach the thickest parts). Rub with oil, stuff the cavity with lemon slices, garlic, and herbs. Grill 4–5 minutes per side for a 500g fish over direct high heat.
 
-**Full Meal:** Whole grilled branzino + [Italian salsa verde](https://www.seriouseats.com/italian-salsa-verde-with-parsley-and-capers) + [roasted potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + green salad
+**Full Meal:** Whole grilled branzino + [Italian salsa verde](https://www.seriouseats.com/italian-salsa-verde-with-parsley-and-capers) + [roasted potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + [Grilled Radicchio with Balsamic](https://www.seriouseats.com/grilled-radicchio-recipe)
 
 | Component | Notes |
 |-----------|-------|
@@ -273,7 +298,7 @@ Score the fish 3–4 times on each side (diagonal cuts to the bone — these all
 
 1. **Starter:** Smoked salmon board with blinis, crème fraîche, capers, and pickled onion *(if you've done Block 23–24, use your own gravlax here)*
 2. **Main:** [Salt-Baked Whole Fish](https://www.seriouseats.com/salt-baked-whole-fish-with-fresh-herbs-5212108) — the enclosed salt crust steams the fish in its own moisture; crack at the table. Dress the revealed fish with olive oil and capers.
-3. **Side:** Roasted potatoes + [gremolata](https://www.seriouseats.com/gremolata-sauce-recipe) or salsa verde alongside
+3. **Side:** [Warm Potato Salad with Herbs](https://www.seriouseats.com/french-style-potato-salad-recipe) + [gremolata](https://www.seriouseats.com/gremolata-sauce-recipe) or salsa verde alongside
 
 *Skill targets: A properly sealed salt crust (no cracks before roasting). Fish pulled at 130–135°F at the thickest point. Confident tableside crack-and-reveal. Graceful plating directly from the fish to the plate.*
 
@@ -293,13 +318,14 @@ Score the fish 3–4 times on each side (diagonal cuts to the bone — these all
 
 **Cleaning mussels:** Pull off any beards right before cooking. Discard mussels that don't close when tapped sharply. Discard any that don't open after cooking.
 
-**Full Meal:** Mussels marinière + crusty bread (the entire purpose of which is to soak up the cooking liquid — make extra) + simple green salad
+**Full Meal:** Mussels marinière + grilled sourdough (the entire purpose is to soak up the cooking liquid) + [Celery Root Remoulade](https://www.seriouseats.com/celery-root-remoulade-recipe)
 
 | Component | Notes |
 |-----------|-------|
 | Mussels | 2 lbs per person; scrubbed, debearded right before cooking |
 | Broth | 1 cup dry white wine + 2 shallots + 3 garlic cloves + parsley stems |
-| Bread | Sourdough or baguette — non-optional |
+| Bread | Grilled sourdough — functional here; the broth demands bread |
+| Salad | Celery root remoulade — a classic French bistro side; mustardy, crunchy |
 
 ---
 
@@ -309,13 +335,13 @@ Score the fish 3–4 times on each side (diagonal cuts to the bone — these all
 
 📖 **Read:** [Simply Recipes — Crab Cakes](https://www.simplyrecipes.com/recipes/crab_cakes/)
 
-**Full Meal:** Crab cakes + aioli or remoulade + coleslaw or [quick-pickled red onion](https://www.seriouseats.com/quick-pickle-rapid-pickled-onion-recipe) + simple green salad
+**Full Meal:** Crab cakes + aioli or remoulade + [Classic Coleslaw](https://www.seriouseats.com/creamy-cole-slaw) + [quick-pickled red onion](https://www.seriouseats.com/quick-pickle-rapid-pickled-onion-recipe)
 
 | Component | Notes |
 |-----------|-------|
 | Crab cakes | 85–90% crab; minimal binder (egg, mayo, small amount of panko) |
 | Sauce | Aioli (Block 5–6 technique) or a simple remoulade |
-| Side | Coleslaw or herb salad — cool, acidic, a crisp counterpoint |
+| Side | Coleslaw — creamy, acidic counterpoint; the classic crab cake companion |
 
 > **Buying crabmeat:** Fresh or pasteurized lump crabmeat is the practical choice. Pick through carefully for shell fragments before mixing.
 
@@ -331,14 +357,15 @@ Cioppino was invented by Italian immigrant fishermen in San Francisco — a toma
 
 **Plan ahead:** Ask your fishmonger 2 days ahead to save fish frames/bones — they're usually free. Simmer them in water with aromatics for 20 minutes = a quick fumet that transforms the broth.
 
-**Full Meal:** Cioppino with fish, clams, mussels, and shrimp + crusty sourdough bread + simple salad
+**Full Meal:** Cioppino with fish, clams, mussels, and shrimp + [Garlic-Rubbed Grilled Bread](https://www.seriouseats.com/grilled-bread-recipe) + [Fennel and Orange Salad](https://www.seriouseats.com/fennel-orange-and-roasted-pepper-arugula-salad-recipe)
 
 | Component | Notes |
 |-----------|-------|
 | Broth | Tomato + white wine + fish stock/fumet + saffron (optional) |
 | Fish (first in) | Firm white fish — cod, halibut (10–12 min) |
 | Shellfish (last) | Clams, mussels (6–8 min), shrimp (2–3 min) |
-| Bread | Thick slices of sourdough, toasted |
+| Bread | Thick slices of sourdough, garlic-rubbed and grilled |
+| Salad | Fennel and orange — bright, anise-scented; San Francisco cioppino's natural companion |
 
 > 🎥 **Compare Notes:** [Bouillabaisse and How to Make Fish Stock *(Helen Rennie)*](https://www.youtube.com/watch?v=Ul_ymBC-cxk) — The technique for building shellfish stock is identical; watch how she extracts maximum flavor from bones and shells before anything else goes into the pot.
 
@@ -354,7 +381,14 @@ Black cod (sablefish) is the traditional fish for this preparation — its high 
 
 **Timing:** Apply glaze → refrigerate 24–48 hrs → broil 4–5 minutes on one side only → done.
 
-**Full Meal:** Miso-glazed cod or salmon + steamed rice + wilted bok choy or spinach + [quick-pickled cucumbers](https://www.seriouseats.com/quick-pickled-cucumbers-rice-vinegar-recipe)
+**Full Meal:** Miso-glazed cod or salmon + [Serious Eats — Japanese Rice](https://www.seriouseats.com/japanese-style-rice-recipe) + [Sesame Cucumber Salad (Sunomono)](https://www.seriouseats.com/quick-pickled-cucumbers-rice-vinegar-recipe) + wilted spinach with ponzu
+
+| Component | Notes |
+|-----------|-------|
+| Fish | Black cod or salmon, miso-glazed and broiled |
+| Starch | Japanese-style short-grain rice — stickier, sweeter; the right rice for this dish |
+| Veg | Sunomono cucumber salad — rice vinegar, sesame, clean and cold |
+| Greens | Spinach wilted with ponzu — 30 seconds, done |
 
 ---
 
@@ -364,9 +398,9 @@ Black cod (sablefish) is the traditional fish for this preparation — its high 
 
 **Full Meal:**
 
-1. **Starter:** Mussels marinière (Session 94 technique) — a small portion to start, with bread
+1. **Starter:** Mussels marinière (Session 94 technique) — a small portion to start, with garlic-rubbed bread
 2. **Main:** Cioppino (Session 96 — a larger pot made the same evening, or made a day ahead and reheated, which makes it richer)
-3. **Side:** [Roasted potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) or polenta alongside the cioppino
+3. **Side:** [Serious Eats — Creamy Polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe) alongside the cioppino
 4. **Dessert:** Whatever you feel like — this meal doesn't need more complexity
 
 *Skill targets: Clean mussel broth (not watery or muddy). Cioppino with distinct, properly-cooked fish and shellfish — nothing rubbery, nothing falling apart. The whole table smells like the sea.*

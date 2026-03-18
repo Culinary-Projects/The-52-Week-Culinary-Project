@@ -49,6 +49,14 @@ Over two weeks, you will work through the full spectrum of beef cookery: quick, 
 
 **Target:** Medium-rare (130–135°F internal before rest). Crust should be deep brown, not grey.
 
+**Full Meal:** Pan-seared steak + [Hasselback Potatoes](https://www.seriouseats.com/the-best-hasselback-potatoes-recipe) + [Creamed Spinach](https://www.seriouseats.com/creamed-spinach-recipe)
+
+| Component | Notes |
+|-----------|-------|
+| Protein | Dry-brined ribeye or NY strip, seared in cast iron |
+| Starch | Hasselback potatoes — knife-skill callback; uniform slicing determines the result |
+| Veg | Creamed spinach — a classic steakhouse side you should know how to make |
+
 ---
 
 ### Session 75 — Cuts, Grades & the Butcher Relationship
@@ -67,6 +75,14 @@ Over two weeks, you will work through the full spectrum of beef cookery: quick, 
 - Cook it with the same dry-brine and sear method as Session 74
 - Note: Where is this cut on the animal? What does that tell you about texture?
 
+**Full Meal:** Value-cut steak + [Serious Eats — Elote-Style Grilled Corn](https://www.seriouseats.com/mexican-street-corn-elote-recipe) + [Chimichurri](https://www.seriouseats.com/chimichurri-recipe)
+
+| Component | Notes |
+|-----------|-------|
+| Protein | Hanger, skirt, or flat iron — seared with the Session 74 method |
+| Veg | Elote-style corn — charred, creamy, tangy; steak's best companion |
+| Sauce | Chimichurri — fresh herb sauce that brightens rich beef |
+
 ---
 
 ### Session 76 — Reverse Sear & Thick Cuts
@@ -83,6 +99,14 @@ Over two weeks, you will work through the full spectrum of beef cookery: quick, 
 - Reverse sear to 120°F internal in a 250°F oven
 - Rest, then sear hard for 60–90 seconds per side
 - Compare the cross-section to Session 74's traditional sear — note the crust-to-center gradient
+
+**Full Meal:** Reverse-seared thick steak + [Pommes Anna](https://www.seriouseats.com/pommes-anna-recipe) + [Roasted Broccolini](https://www.seriouseats.com/dinner-tonight-sauteed-broccolini-recipe)
+
+| Component | Notes |
+|-----------|-------|
+| Protein | Thick-cut ribeye, T-bone, or porterhouse — reverse seared |
+| Starch | Pommes Anna — a French potato cake worth learning; knife skills + butter technique |
+| Veg | Broccolini — high-heat roast, charred tips, lemon finish |
 
 ---
 
@@ -104,6 +128,14 @@ Over two weeks, you will work through the full spectrum of beef cookery: quick, 
 - Season, pour over steak, serve immediately
 - **Variation:** Replace wine with cognac + cream for a pepper sauce (steak au poivre)
 
+**Full Meal:** Steak + red wine pan sauce + [Yorkshire Puddings](https://www.seriouseats.com/the-best-yorkshire-puddings-popover-recipe) + [Sautéed Mushrooms with Thyme](https://www.seriouseats.com/food-lab-sauteed-mushrooms-recipe)
+
+| Component | Notes |
+|-----------|-------|
+| Protein | Seared steak with your pan sauce |
+| Starch | Yorkshire puddings — beef dripping makes them puff; a steakhouse flex |
+| Veg | Sautéed mushrooms — high heat, no crowding, thyme and sherry finish |
+
 ---
 
 ### ⏰ Service 19 — The Steak Dinner
@@ -112,11 +144,14 @@ Over two weeks, you will work through the full spectrum of beef cookery: quick, 
 
 **The assignment:** Plan and execute a composed steak dinner using techniques from Sessions 1–4. Your meal should include at minimum:
 
-1. A simple starter (charcuterie, salad, or a soup you've made before)
-2. A steak — your choice of cut and method (traditional sear or reverse sear)
-3. A pan sauce
-4. At least two sides (a starch and a vegetable)
-5. Dessert is optional but encouraged
+| Course | Dish | Notes |
+|--------|------|-------|
+| **Starter** | Wedge salad with blue cheese dressing + crispy bacon | Classic steakhouse opener |
+| **Main** | Steak — your choice of cut and method | Traditional sear or reverse sear |
+| **Sauce** | Pan sauce from the steak fond | Red wine, cognac-pepper, or Béarnaise |
+| **Starch** | [Twice-Baked Potatoes](https://www.seriouseats.com/twice-baked-potatoes-recipe) | Prep the shells during the day |
+| **Veg** | [Charred Asparagus with Romesco](https://www.seriouseats.com/how-to-cook-asparagus-7487955) | High-heat grill or broil |
+| **Dessert** | Optional but encouraged | |
 
 **Constraints:**
 - The steak must be served at the correct temperature (use a thermometer)
@@ -164,7 +199,15 @@ Over two weeks, you will work through the full spectrum of beef cookery: quick, 
 - Return liquid to saucepan; reduce by half to two-thirds over medium heat
 - Taste and adjust: salt, a small splash of vinegar for brightness, or a teaspoon of Dijon
 - Finish with 1 tablespoon cold butter
-- Serve alongside reheated braise meat over egg noodles, creamy polenta, or mashed potatoes
+- Serve alongside reheated braise meat
+
+**Full Meal:** Braised beef + reduction sauce + [Buttered Egg Noodles with Poppy Seeds](https://www.seriouseats.com/buttered-noodles-recipe) + [Glazed Carrots with Cumin and Coriander](https://www.seriouseats.com/glazed-carrots-recipe)
+
+| Component | Notes |
+|-----------|-------|
+| Protein | Reheated short ribs or chuck with the refined braising sauce |
+| Starch | Egg noodles — butter, poppy seeds, parsley; a natural braise companion |
+| Veg | Glazed carrots — the glaze technique mirrors your sauce reduction |
 
 ---
 
@@ -191,6 +234,14 @@ Over two weeks, you will work through the full spectrum of beef cookery: quick, 
 
 **Compare:** Which do you prefer? Why?
 
+**Full Meal:** Burgers (both styles) + [Serious Eats — Oven Fries](https://www.seriouseats.com/baked-oven-fries) + [Classic Coleslaw](https://www.seriouseats.com/creamy-cole-slaw)
+
+| Component | Notes |
+|-----------|-------|
+| Protein | Smash burger AND thick patty — compare side by side |
+| Starch | Oven fries — crispy exterior, fluffy interior; a useful weeknight technique |
+| Veg | Coleslaw — creamy, acidic counterpoint to the rich beef |
+
 ---
 
 ### Session 81 — Beef Stock & Its Derivatives
@@ -211,6 +262,8 @@ Over two weeks, you will work through the full spectrum of beef cookery: quick, 
 - Strain through fine-mesh; cool rapidly; defat
 - **Store:** Reduces to a semi-gelatinous consistency when chilled — that's the collagen working
 
+*No full meal tonight — stock-making is its own session. Use your stock later in the week or freeze in 1-cup portions.*
+
 ---
 
 ### ⏰ Service 20 — The Braise Dinner
@@ -225,10 +278,12 @@ Over two weeks, you will work through the full spectrum of beef cookery: quick, 
 - Ossobuco-style cross-cut shanks
 
 **The meal structure:**
-1. **Starter:** Something simple — a green salad, a slab of bread with good butter, a light soup
-2. **Main:** The braise with its reduction sauce
-3. **Accompaniment:** Creamy polenta, egg noodles, mashed potatoes, or crusty bread to absorb the sauce
-4. **Optional:** Gremolata (lemon zest, garlic, parsley) sprinkled at service — wakes up a slow braise immediately
+| Course | Dish | Notes |
+|--------|------|-------|
+| **Starter** | [Bitter Greens Salad with Warm Bacon Vinaigrette](https://www.seriouseats.com/five-minute-radicchio-watercress-arugula-salad-recipe) | The warm dressing wakes up sturdy greens |
+| **Main** | The braise with its reduction sauce | Fork-tender, sauce coats a spoon |
+| **Starch** | [Serious Eats — Creamy Polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe) | The classic landing pad for braising liquid |
+| **Garnish** | Gremolata (lemon zest, garlic, parsley) | Raw, scattered at service — wakes up a slow braise immediately |
 
 **Metrics for success:**
 - The meat is fork-tender without being dry

@@ -28,7 +28,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 
 **Full Meal:**
 - French Onion Soup, properly gratinéed with Gruyère and a crouton
-- Simple green salad
+- Butter Lettuce Salad with Fresh Herbs and Dijon Vinaigrette
 
 > 🎥 **Compare Notes:** [This Video Will Change How You Think About Onions](https://www.youtube.com/watch?v=b0IvaSQUWIw) *(Ethan Chlebowski)* — The 45-minute caramelization time is the whole argument. Watch him document the color and smell at each interval — that's the evidence your patience is justified.
 
@@ -85,8 +85,8 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 
 **Full Meal:**
 - Cassoulet (serves 4–6; freeze the rest)
-- Good country bread
-- Green salad dressed with walnut vinaigrette
+- Warm sourdough — sliced thick, toasted
+- Frisée Salad with Walnut Vinaigrette and Shaved Gruyère
 
 ---
 
@@ -129,7 +129,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 
 **Full Meal:**
 - Cheese soufflé (Gruyère + Parmesan) as main
-- Simple green salad
+- Mâche Salad with Shallot Vinaigrette — the delicate leaves won’t compete with the soufflé
 
 > 🎥 **Compare Notes:** [Fast Cheese Soufflé](https://www.youtube.com/watch?v=xutqSiQri1g) *(Jacques Pépin)* — His efficiency is the point: he makes this look like a weeknight dish. Understand which steps he collapses vs. which ones he refuses to rush.
 

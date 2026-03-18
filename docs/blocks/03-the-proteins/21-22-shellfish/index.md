@@ -27,7 +27,12 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 
 **Full Meal:**
 - Spaghetti alle Vongole
-- Crusty bread for the broth at the bottom of the bowl
+- [Shaved Fennel and Celery Salad](https://www.seriouseats.com/celery-fennel-salad-recipe) — bright, anise-scented, cuts through the briny pasta
+
+| Component | Notes |
+|-----------|-------|
+| Pasta | Spaghetti finished in the clam pan — the starchy water builds the sauce |
+| Salad | Shaved fennel + celery + lemon + olive oil — a 5-minute raw side that pairs perfectly with shellfish |
 > 🎥 **Compare Notes:** [How to Make Pasta alle Vongole](https://www.youtube.com/watch?v=8q8M60LXMtY) — Watch when he adds the pasta to the clam pan — the starchy pasta water is the sauce, not an afterthought.
 ---
 
@@ -53,7 +58,12 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 
 **Full Meal:**
 - Roasted Oysters (appetizer quantity — 6–12)
-- Caesar salad or simple green salad for a full dinner
+- [Frisée Salad with Warm Shallot Vinaigrette](https://www.seriouseats.com/spring-salad-with-poached-eggs-and-bread-crumbs) — the bitter greens stand up to the rich, salty oysters
+
+| Component | Notes |
+|-----------|-------|
+| Shellfish | 6–12 oysters, roasted with bacon and parmesan |
+| Salad | Frisée with warm shallot vinaigrette — a bistro-caliber side |
 
 > 🎥 **Compare Notes:** [How to Grill Oysters](https://www.youtube.com/watch?v=Kbm2yeA1_C4) — The heat-opening approach is the same whether grilling or roasting — compare when he calls them done and why the timing matters for bivalves.
 
@@ -69,7 +79,12 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 
 **Full Meal:**
 - Shrimp Scampi over linguine
-- Simple green salad
+- [Radicchio and Endive Salad with Anchovy Dressing](https://www.seriouseats.com/five-minute-radicchio-watercress-arugula-salad-recipe) — bitter, funky, and a perfect counterweight to buttery scampi
+
+| Component | Notes |
+|-----------|-------|
+| Pasta | Linguine with shrimp scampi |
+| Salad | Radicchio + endive + anchovy vinaigrette — an Italian steakhouse side |
 
 > 🎥 **Compare Notes:** [Gambas al Ajillo (Spanish Garlic Shrimp)](https://www.youtube.com/watch?v=BiUh6AdxVoI) *(Helen Rennie)* — Spanish garlic shrimp vs. Italian scampi: same speed, same garlic-and-fat logic, completely different flavor. Watch the oil temperature and how briefly the shrimp touch the heat.
 
@@ -85,7 +100,13 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 **Full Meal:**
 - Lobster, cooked your chosen method
 - Lobster bisque from shells (or shell butter to freeze)
-- Sides of your choice (drawn butter, lemon, herbs)
+- [Serious Eats — Corn on the Cob with Miso Butter](https://www.seriouseats.com/grilled-corn-miso-butter-recipe) + drawn butter and lemon
+
+| Component | Notes |
+|-----------|-------|
+| Shellfish | 2 lobsters — 1 for eating, shells for bisque |
+| Side | Corn with miso butter — sweet, salty, smoky; lobster's natural partner |
+| Sauce | Drawn butter + lemon wedges |
 
 > 🎥 **Compare Notes:** [How to Prepare and Cook a Lobster](https://www.youtube.com/watch?v=xVN130VEYhg) *(Jacques Pépin)* — Watch how he dispatches and breaks it down with total confidence. The technique is as much about handling a live animal as it is about cooking — there's no video that teaches that instinct better.
 
@@ -106,8 +127,14 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 
 **Full Meal:**
 - Singaporean Chili Crab
-- Steamed white rice
-- [Fried mantou buns](https://redhousespice.com/mantou/) or crusty bread for sauce dipping
+- Steamed jasmine rice
+- [Fried mantou buns](https://redhousespice.com/mantou/) for sauce dipping — the traditional Singaporean accompaniment
+
+| Component | Notes |
+|-----------|-------|
+| Shellfish | Blue crab or Dungeness in chili sauce |
+| Starch 1 | Steamed jasmine rice — absorbs the sauce |
+| Starch 2 | Fried mantou buns — pillowy, slightly sweet, ideal for dipping |
 
 ---
 
@@ -133,7 +160,12 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 
 **Full Meal:**
 - New England–style clam chowder or clam-corn linguine
-- Oyster crackers or crusty bread
+- [Buttermilk Biscuits](https://www.seriouseats.com/the-food-lab-buttermilk-biscuits-recipe) — warm from the oven, split and buttered; the proper chowder companion
+
+| Component | Notes |
+|-----------|-------|
+| Main | Clam chowder or clam-corn pasta |
+| Bread | Buttermilk biscuits — a baking technique worth having; 20 min start to finish |
 
 > 🎥 **Compare Notes:** [Thicc Clam Chowder](https://www.youtube.com/watch?v=P90jTVaA6YU) — Watch how he builds the potato-and-cream base before the clams go in — timing the clams last prevents the rubbery texture that ruins most chowder.
 
@@ -166,7 +198,16 @@ You've cooked through poultry, beef, pork, and finfish. Now comes shellfish week
 
 **Full Meal:**
 - Three-shellfish plateau with accompaniments
-- Crusty baguette, green salad, white wine
+- [Serious Eats — Mignonette Sauce](https://www.seriouseats.com/classic-mignonette-sauce-recipe) + aioli + lemon wedges
+- [Herb Salad with Champagne Vinaigrette](https://www.seriouseats.com/french-style-vinaigrette-recipe) — delicate herbs (chervil, tarragon, chives) dressed lightly
+
+| Component | Notes |
+|-----------|-------|
+| Cold | Raw oysters or ceviche-style clams |
+| Hot | Roasted oysters or mussels |
+| Seared | Scallops or shrimp, quick-seared at the end |
+| Salad | Herb salad with champagne vinaigrette — elegant, light, doesn't compete |
+| Bread | Sourdough slices, grilled |
 
 ---
 

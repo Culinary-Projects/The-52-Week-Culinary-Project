@@ -30,7 +30,7 @@
 - **Read:** [Serious Eats — Perfect Pan-Seared Pork Chop](https://www.seriouseats.com/perfect-pan-seared-pork-chop-recipe) — the technique and temperature explanation is the lesson
 - Dry brine the night before. 145°F. Rest 5 minutes. Cut and taste.
 
-**Full Meal:** Bone-in pork chop + pan sauce (apple cider or white wine, shallot, thyme) + [Serious Eats — Roasted Cauliflower with Pine Nuts and Capers](https://www.seriouseats.com/roasted-cauliflower-pine-nut-raisin-caper-food-lab-recipe) + simple salad
+**Full Meal:** Bone-in pork chop + pan sauce (apple cider or white wine, shallot, thyme) + [Serious Eats — Roasted Cauliflower with Pine Nuts and Capers](https://www.seriouseats.com/roasted-cauliflower-pine-nut-raisin-caper-food-lab-recipe) + Apple, Celery & Walnut Salad — thinly sliced apple, celery, toasted walnuts, Dijon vinaigrette; the sweetness and crunch pair naturally with pork
 
 > 🎥 **Compare Notes:** [Pork Chops with Madeira Mustard Pan Sauce](https://www.youtube.com/watch?v=uLaaNEr1Lq4) *(Helen Rennie)* — Watch her pan sauce construction after the sear — the deglazing sequence and butter mount are the same technique you're using, just with different liquid.
 
@@ -44,7 +44,7 @@
 - This is a 3–4 hour project cook on a Session 107 — start by 3 PM
 - The leftover chashu will be great later in the block and works for ramen all week
 
-**Full Meal:** Chashu pork belly + steamed rice + quick pickled cucumbers + soft-boiled egg
+**Full Meal:** Chashu pork belly + Japanese short-grain rice + quick pickled cucumbers + soft-boiled egg
 
 > 🎥 **Compare Notes:** [Why Lu Rou Fan is One of Taiwan's Favorite Comfort Foods](https://www.youtube.com/watch?v=Xqh7WpITRb0) *(Ethan Chlebowski)* — Different Asian tradition for braised pork belly. Compare how the five-spice and soy base contrasts with your chashu's mirin-sake approach — same ingredient, entirely different result.
 
@@ -56,7 +56,7 @@
 
 - Dry brine 2 hours minimum. Sear in cast iron 2 minutes per side. Into 400°F oven. Thermometer in. Pull at 140°F (it'll carry over to 145°F while resting).
 
-**Full Meal:** Seared pork tenderloin + herb pan sauce (deglaze with white wine, add thyme, mount with butter) + [Serious Eats — Honey-Roasted Carrots](https://www.seriouseats.com/honey-roasted-carrots-with-spring-herbs-recipe-11725322) + rice
+**Full Meal:** Seared pork tenderloin + herb pan sauce (deglaze with white wine, add thyme, mount with butter) + [Serious Eats — Honey-Roasted Carrots](https://www.seriouseats.com/honey-roasted-carrots-with-spring-herbs-recipe-11725322) + Pilaf-Style Rice — toast the rice in butter before adding liquid
 
 ---
 
@@ -94,7 +94,7 @@
 
 - Cut into lardons (1cm x 4cm batons). Render slowly in a dry pan (no oil). Let the fat render out. Finish high heat for the crust.
 
-**Full Meal:** Crispy pork belly lardons over [white beans and wilted greens](https://www.seriouseats.com/30-minute-tuscan-white-bean-soup-recipe) + crusty bread
+**Full Meal:** Crispy pork belly lardons over [white beans and wilted Swiss chard](https://www.seriouseats.com/30-minute-tuscan-white-bean-soup-recipe) + Garlic-Rubbed Grilled Bread — char a thick slice, rub raw garlic across the surface while hot
 
 ---
 
@@ -232,7 +232,7 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 
 **Full Meal:**
 - Charcuterie board: your gravlax + store-bought cured meats, mustard, cornichons, bread
-- Small green salad
+- Butter Lettuce Salad with Dijon Vinaigrette
 
 ---
 

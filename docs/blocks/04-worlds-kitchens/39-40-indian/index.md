@@ -158,8 +158,8 @@ South Indian cooking is different from North Indian in almost every way: less cr
 
 **Full Meal:**
 - Lamb Biryani
-- Plain yogurt (raita) to cool against the spice
-- Simple green salad
+- Raita (cucumber–yogurt) to cool against the spice
+- Kachumber Salad — diced tomato, cucumber, red onion, cilantro, lime juice; the traditional Indian side for biryani
 
 > 🎥 **Compare Notes:** [Chicken Dum Biryani](https://www.youtube.com/watch?v=EiVoWp5b93s) *(Ranveer Brar)* — He uses chicken; you used lamb. Watch the dum sealing technique and par-cook timing — those are what transfer directly regardless of protein.
 
