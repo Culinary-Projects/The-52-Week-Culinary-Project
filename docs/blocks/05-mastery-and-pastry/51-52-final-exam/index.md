@@ -11,7 +11,7 @@
 
 ## The Year in Review
 
-Sixty weeks of cooking. Approximately 300 to 350 dishes executed. Knife skills you didn't have. Stocks you now make on weekends without being asked. Techniques stored in your hands that require no recipes to activate.
+Fifty-two weeks of cooking. Approximately 250 to 300 dishes executed. Knife skills you didn't have. Stocks you now make on weekends without being asked. Techniques stored in your hands that require no recipes to activate.
 
 The final two weeks of this program are structured as a culmination and a retrospective — not a performance or an audition, but a homecoming. You will cook three meals that mean something: the most ambitious dinner you have ever planned, a quiet version of the first meal you ever cooked, and a dinner that answers the question "who are you as a cook?"
 
@@ -135,7 +135,7 @@ Photograph it. Eat it. Write two sentences about it.
 - A bite or starter from Blocks 1–10 (foundations)
 - A smaller course from Blocks 11–30 (proteins)
 - A main from Blocks 31–50 (global techniques)
-- A dessert from Blocks 51–62 (pastry, desserts, mastery)
+- A dessert from Blocks 45–52 (pastry, desserts, mastery)
 
 This is a one-person retrospective tasting — a private tasting menu of the year. Eat slowly. Think about each one.
 
@@ -151,11 +151,11 @@ This is not a class — you are not teaching. You are sharing.
 
 ---
 
-### Session 233 — Block 62: The Final Dinner
+### Session 233 — Block 52: The Final Dinner
 
 **No instructions. No structure. No format.**
 
-You are a cook who has spent 62 weeks building this. Tonight, cook whatever you want, for whoever you love, in whatever way feels most like you.
+You are a cook who has spent 52 weeks building this. Tonight, cook whatever you want, for whoever you love, in whatever way feels most like you.
 
 The year is complete.
 
@@ -163,7 +163,7 @@ The year is complete.
 
 ## What Comes Next
 
-The 62 weeks were a foundation — thorough, rigorous, intentional. But the cooking life doesn't end at Block 62; it accelerates. Every additional meal is practice. Every new cuisine is a new unit. Every dish you repeat is a refinement.
+The 52 weeks were a foundation — thorough, rigorous, intentional. But the cooking life doesn't end at Block 52; it accelerates. Every additional meal is practice. Every new cuisine is a new unit. Every dish you repeat is a refinement.
 
 **Resources to continue:**
 

@@ -80,11 +80,12 @@ Each 2-week block has **three files**:
 
 | Element | What it is |
 |---------|------------|
-| **The Skill** | One technique practiced with intention |
+| **The Skill** | One technique practiced with intention — explained before you start cooking |
 | **The Meal** | A complete dinner built around that skill — protein + veg + starch (or salad) |
-| **The Read** | A short article that explains the *why* behind what you cooked |
-| **Service** | A bigger cook at the end of each block that makes the skills visible |
-| **Lab** | A focused technique drill with no pressure |
+| **The Read** | A short article that explains the *why* behind what you cooked. Not optional. |
+| **Compare Notes** | A curated video per session — watch a professional execute the same technique or dish, then compare to what you did |
+| **Service** | A bigger cook at the end of each block — a full dinner that makes the block's skills visible under mild pressure |
+| **Lab** | A focused technique drill with no recipe pressure — practicing the skill in isolation |
 
 ---
 
