@@ -155,7 +155,7 @@ Write down what you think went wrong. Even a single sentence before you move on 
 
 The program is deliberately sequenced. Block 1's knife skills feed into Block 3's mise en place, which feeds into Block 7's stock timing, which feeds into Block 15's butchery. You will notice callbacks and repetitions throughout — they're intentional.
 
-If you skip blocks or jump ahead, you'll cook the recipes but miss the compounding. The whole point is that by Block 40, you're not following a recipe for Thai curry — you understand what's happening in the pan and can adapt on the fly. That only happens if the foundations were built underneath it.
+If you skip blocks or jump ahead, you'll cook the recipes but miss the compounding. The whole point is that by Block 38, you're not following a recipe for Thai curry — you understand what's happening in the pan and can adapt on the fly. That only happens if the foundations were built underneath it.
 
 Do the blocks in order. Skip a session if life happens — that's fine — but don't skip a block.
 

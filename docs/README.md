@@ -45,34 +45,34 @@ Each 2-week block has **three files**:
 | Blocks | Topic | Full Guide | Quick Ref | Shopping List |
 |--------|-------|------------|-----------|---------------|
 | 15–16 | Lamb & Game | [→ Guide](blocks/03-the-proteins/15-16-lamb-and-game/index.md) | [→ Quick Ref](blocks/03-the-proteins/15-16-lamb-and-game/quick-ref.md) | [→ Shopping](blocks/03-the-proteins/15-16-lamb-and-game/shopping-list.md) |
-| 17–18 | Beef — Fundamentals & Advanced | [→ Guide](blocks/03-the-proteins/17-18-beef/index.md) | [→ Quick Ref](blocks/03-the-proteins/17-18-beef/quick-ref.md) | [→ Shopping](blocks/03-the-proteins/17-18-beef/shopping-list.md) |
-| 19–20 | Fish | [→ Guide](blocks/03-the-proteins/19-20-fish/index.md) | [→ Quick Ref](blocks/03-the-proteins/19-20-fish/quick-ref.md) | [→ Shopping](blocks/03-the-proteins/19-20-fish/shopping-list.md) |
-| 21–22 | Shellfish | [→ Guide](blocks/03-the-proteins/21-22-shellfish/index.md) | [→ Quick Ref](blocks/03-the-proteins/21-22-shellfish/quick-ref.md) | [→ Shopping](blocks/03-the-proteins/21-22-shellfish/shopping-list.md) |
-| 23–24 | Pork & Charcuterie | [→ Guide](blocks/03-the-proteins/23-24-pork-and-charcuterie/index.md) | [→ Quick Ref](blocks/03-the-proteins/23-24-pork-and-charcuterie/quick-ref.md) | [→ Shopping](blocks/03-the-proteins/23-24-pork-and-charcuterie/shopping-list.md) |
-| 25–26 | Unit 3 Capstone: Poultry | [→ Guide](blocks/03-the-proteins/25-26-poultry/index.md) | [→ Quick Ref](blocks/03-the-proteins/25-26-poultry/quick-ref.md) | [→ Shopping](blocks/03-the-proteins/25-26-poultry/shopping-list.md) |
+| 17–18 | Beef — Fundamentals & Advanced | [→ Guide](blocks/03-the-proteins/15-16-beef/index.md) | [→ Quick Ref](blocks/03-the-proteins/15-16-beef/quick-ref.md) | [→ Shopping](blocks/03-the-proteins/15-16-beef/shopping-list.md) |
+| 19–20 | Fish | [→ Guide](blocks/03-the-proteins/17-18-fish/index.md) | [→ Quick Ref](blocks/03-the-proteins/17-18-fish/quick-ref.md) | [→ Shopping](blocks/03-the-proteins/17-18-fish/shopping-list.md) |
+| 21–22 | Shellfish | [→ Guide](blocks/03-the-proteins/19-20-shellfish/index.md) | [→ Quick Ref](blocks/03-the-proteins/19-20-shellfish/quick-ref.md) | [→ Shopping](blocks/03-the-proteins/19-20-shellfish/shopping-list.md) |
+| 23–24 | Pork & Charcuterie | [→ Guide](blocks/03-the-proteins/21-22-pork-and-charcuterie/index.md) | [→ Quick Ref](blocks/03-the-proteins/21-22-pork-and-charcuterie/quick-ref.md) | [→ Shopping](blocks/03-the-proteins/21-22-pork-and-charcuterie/shopping-list.md) |
+| 25–26 | Unit 3 Capstone: Poultry | [→ Guide](blocks/03-the-proteins/23-24-poultry/index.md) | [→ Quick Ref](blocks/03-the-proteins/23-24-poultry/quick-ref.md) | [→ Shopping](blocks/03-the-proteins/23-24-poultry/shopping-list.md) |
 
 ### 🌍 [Unit 4 — World's Kitchens](blocks/04-worlds-kitchens/README.md) (Blocks 27–44)
 
 | Blocks | Topic | Full Guide | Quick Ref | Shopping List |
 |--------|-------|------------|-----------|---------------|
-| 27–28 | French | [→ Guide](blocks/04-worlds-kitchens/27-28-french/index.md) | [→ Quick Ref](blocks/04-worlds-kitchens/27-28-french/quick-ref.md) | [→ Shopping](blocks/04-worlds-kitchens/27-28-french/shopping-list.md) |
-| 29–30 | Italian | [→ Guide](blocks/04-worlds-kitchens/29-30-italian/index.md) | [→ Quick Ref](blocks/04-worlds-kitchens/29-30-italian/quick-ref.md) | [→ Shopping](blocks/04-worlds-kitchens/29-30-italian/shopping-list.md) |
-| 31–32 | Japanese | [→ Guide](blocks/04-worlds-kitchens/31-32-japanese/index.md) | [→ Quick Ref](blocks/04-worlds-kitchens/31-32-japanese/quick-ref.md) | [→ Shopping](blocks/04-worlds-kitchens/31-32-japanese/shopping-list.md) |
-| 33–34 | Korean | [→ Guide](blocks/04-worlds-kitchens/33-34-korean/index.md) | [→ Quick Ref](blocks/04-worlds-kitchens/33-34-korean/quick-ref.md) | [→ Shopping](blocks/04-worlds-kitchens/33-34-korean/shopping-list.md) |
-| 35–36 | Chinese | [→ Guide](blocks/04-worlds-kitchens/35-36-chinese/index.md) | [→ Quick Ref](blocks/04-worlds-kitchens/35-36-chinese/quick-ref.md) | [→ Shopping](blocks/04-worlds-kitchens/35-36-chinese/shopping-list.md) |
-| 37–38 | Mexican | [→ Guide](blocks/04-worlds-kitchens/37-38-mexican/index.md) | [→ Quick Ref](blocks/04-worlds-kitchens/37-38-mexican/quick-ref.md) | [→ Shopping](blocks/04-worlds-kitchens/37-38-mexican/shopping-list.md) |
-| 39–40 | Indian | [→ Guide](blocks/04-worlds-kitchens/39-40-indian/index.md) | [→ Quick Ref](blocks/04-worlds-kitchens/39-40-indian/quick-ref.md) | [→ Shopping](blocks/04-worlds-kitchens/39-40-indian/shopping-list.md) |
+| 27–28 | French | [→ Guide](blocks/04-worlds-kitchens/25-26-french/index.md) | [→ Quick Ref](blocks/04-worlds-kitchens/25-26-french/quick-ref.md) | [→ Shopping](blocks/04-worlds-kitchens/25-26-french/shopping-list.md) |
+| 29–30 | Italian | [→ Guide](blocks/04-worlds-kitchens/27-28-italian/index.md) | [→ Quick Ref](blocks/04-worlds-kitchens/27-28-italian/quick-ref.md) | [→ Shopping](blocks/04-worlds-kitchens/27-28-italian/shopping-list.md) |
+| 31–32 | Japanese | [→ Guide](blocks/04-worlds-kitchens/29-30-japanese/index.md) | [→ Quick Ref](blocks/04-worlds-kitchens/29-30-japanese/quick-ref.md) | [→ Shopping](blocks/04-worlds-kitchens/29-30-japanese/shopping-list.md) |
+| 33–34 | Korean | [→ Guide](blocks/04-worlds-kitchens/31-32-korean/index.md) | [→ Quick Ref](blocks/04-worlds-kitchens/31-32-korean/quick-ref.md) | [→ Shopping](blocks/04-worlds-kitchens/31-32-korean/shopping-list.md) |
+| 35–36 | Chinese | [→ Guide](blocks/04-worlds-kitchens/33-34-chinese/index.md) | [→ Quick Ref](blocks/04-worlds-kitchens/33-34-chinese/quick-ref.md) | [→ Shopping](blocks/04-worlds-kitchens/33-34-chinese/shopping-list.md) |
+| 37–38 | Mexican | [→ Guide](blocks/04-worlds-kitchens/35-36-mexican/index.md) | [→ Quick Ref](blocks/04-worlds-kitchens/35-36-mexican/quick-ref.md) | [→ Shopping](blocks/04-worlds-kitchens/35-36-mexican/shopping-list.md) |
+| 39–40 | Indian | [→ Guide](blocks/04-worlds-kitchens/37-38-indian/index.md) | [→ Quick Ref](blocks/04-worlds-kitchens/37-38-indian/quick-ref.md) | [→ Shopping](blocks/04-worlds-kitchens/37-38-indian/shopping-list.md) |
 | 41–42 | Middle Eastern | [→ Guide](blocks/04-worlds-kitchens/41-42-middle-eastern/index.md) | [→ Quick Ref](blocks/04-worlds-kitchens/41-42-middle-eastern/quick-ref.md) | [→ Shopping](blocks/04-worlds-kitchens/41-42-middle-eastern/shopping-list.md) |
-| 43–44 | Unit 4 Capstone: Southeast Asian | [→ Guide](blocks/04-worlds-kitchens/43-44-southeast-asian/index.md) | [→ Quick Ref](blocks/04-worlds-kitchens/43-44-southeast-asian/quick-ref.md) | [→ Shopping](blocks/04-worlds-kitchens/43-44-southeast-asian/shopping-list.md) |
+| 43–44 | Unit 4 Capstone: Southeast Asian | [→ Guide](blocks/04-worlds-kitchens/39-40-southeast-asian/index.md) | [→ Quick Ref](blocks/04-worlds-kitchens/39-40-southeast-asian/quick-ref.md) | [→ Shopping](blocks/04-worlds-kitchens/39-40-southeast-asian/shopping-list.md) |
 
-### 🍞 [Unit 5 — Mastery & Pastry](blocks/05-mastery-and-pastry/README.md) (Blocks 45–52)
+### 🍞 [Unit 5 — Mastery & Pastry](blocks/05-fermentation-bread-and-pastry/README.md) (Blocks 45–52)
 
 | Blocks | Topic | Full Guide | Quick Ref | Shopping List |
 |--------|-------|------------|-----------|---------------|
-| 45–46 | Bread — Every Style | [→ Guide](blocks/05-mastery-and-pastry/45-46-bread/index.md) | [→ Quick Ref](blocks/05-mastery-and-pastry/45-46-bread/quick-ref.md) | [→ Shopping](blocks/05-mastery-and-pastry/45-46-bread/shopping-list.md) |
-| 47–48 | Pastry & Desserts | [→ Guide](blocks/05-mastery-and-pastry/47-48-pastry/index.md) | [→ Quick Ref](blocks/05-mastery-and-pastry/47-48-pastry/quick-ref.md) | [→ Shopping](blocks/05-mastery-and-pastry/47-48-pastry/shopping-list.md) |
-| 49–50 | Your Signature Dishes & Menus | [→ Guide](blocks/05-mastery-and-pastry/49-50-signature-dishes-and-menus/index.md) | [→ Quick Ref](blocks/05-mastery-and-pastry/49-50-signature-dishes-and-menus/quick-ref.md) | [→ Shopping](blocks/05-mastery-and-pastry/49-50-signature-dishes-and-menus/shopping-list.md) |
-| 51–52 | Unit 5 Capstone: The Final Exam | [→ Guide](blocks/05-mastery-and-pastry/51-52-final-exam/index.md) | [→ Quick Ref](blocks/05-mastery-and-pastry/51-52-final-exam/quick-ref.md) | [→ Shopping](blocks/05-mastery-and-pastry/51-52-final-exam/shopping-list.md) |
+| 45–46 | Bread — Every Style | [→ Guide](blocks/05-fermentation-bread-and-pastry/43-44-bread-lean-doughs/index.md) | [→ Quick Ref](blocks/05-fermentation-bread-and-pastry/43-44-bread-lean-doughs/quick-ref.md) | [→ Shopping](blocks/05-fermentation-bread-and-pastry/43-44-bread-lean-doughs/shopping-list.md) |
+| 47–48 | Pastry & Desserts | [→ Guide](blocks/05-fermentation-bread-and-pastry/47-48-pastry-doughs-and-custards/index.md) | [→ Quick Ref](blocks/05-fermentation-bread-and-pastry/47-48-pastry-doughs-and-custards/quick-ref.md) | [→ Shopping](blocks/05-fermentation-bread-and-pastry/47-48-pastry-doughs-and-custards/shopping-list.md) |
+| 49–50 | Your Signature Dishes & Menus | [→ Guide](blocks/05-fermentation-bread-and-pastry/51-52-capstone/index.md) | [→ Quick Ref](blocks/05-fermentation-bread-and-pastry/51-52-capstone/quick-ref.md) | [→ Shopping](blocks/05-fermentation-bread-and-pastry/51-52-capstone/shopping-list.md) |
+| 51–52 | Unit 5 Capstone: The Final Exam | [→ Guide](blocks/05-fermentation-bread-and-pastry/51-52-capstone/index.md) | [→ Quick Ref](blocks/05-fermentation-bread-and-pastry/51-52-capstone/quick-ref.md) | [→ Shopping](blocks/05-fermentation-bread-and-pastry/51-52-capstone/shopping-list.md) |
 
 ---
 
