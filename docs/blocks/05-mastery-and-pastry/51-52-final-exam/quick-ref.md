@@ -1,6 +1,6 @@
-# Block 51–52: Unit 5 Capstone — The Final Exam: Quick Reference
+# Block 51–52: Module 5 Capstone — The Final Exam: Quick Reference
 
-← [Block 49–50: Signature Dishes](../49-50-signature-dishes-and-menus/index.md)
+← [Block 49–50: Signature Dishes & Menus](../49-50-signature-dishes-and-menus/index.md)
 
 ---
 
