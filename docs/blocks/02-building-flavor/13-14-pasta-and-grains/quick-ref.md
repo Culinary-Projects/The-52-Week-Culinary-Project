@@ -4,7 +4,7 @@
 
 ---
 
-## Week 11 Recipes — Pasta Dough: The Foundation
+## Block 13 — Sessions 50–53: Pasta Dough: The Foundation
 
 | Session | Dish | Skill | Link |
 |-----|------|-------|------|
@@ -16,7 +16,7 @@
 
 ---
 
-## Week 12 Recipes — Grains: Rice, Polenta, and Beyond
+## Block 14 — Sessions 54–57: Grains: Rice, Polenta, and Beyond
 
 | Session | Dish | Skill | Link |
 |-----|------|-------|------|
@@ -30,10 +30,10 @@
 
 ## Shopping Notes
 
-**Week 11 pasta essentials:** "00" flour or all-purpose flour, large eggs (farm eggs if available — the yolks make a difference), whole-milk ricotta, fresh sage.
+**Block 13 pasta essentials:** "00" flour or all-purpose flour, large eggs (farm eggs if available — the yolks make a difference), whole-milk ricotta, fresh sage.
 
-**Block 11 Session 50 tip:** Make a double batch of tomato sugo on the day before — you'll use it Session 50 and the leftover becomes Pasta 2 on the project session dinner if needed.
+**Block 13 Session 50 tip:** Make a double batch of tomato sugo on the day before — you'll use it Session 50 and the leftover becomes Pasta 2 on the project session dinner if needed.
 
 **Block 14 Session 55:** Lamb shoulder needs 4 hours in the oven. Start it mid-afternoon or set it early and hold warm. Leftover lamb becomes the ragu for Session 56’s polenta.
 
-**Block 12 project session:** Scallops must be completely dry before searing. Pat thoroughly on paper towels and let them sit uncovered on the rack in the fridge for 30 min before cooking. Wet scallops steam; dry scallops sear.
+**Block 14 project session:** Scallops must be completely dry before searing. Pat thoroughly on paper towels and let them sit uncovered on the rack in the fridge for 30 min before cooking. Wet scallops steam; dry scallops sear.

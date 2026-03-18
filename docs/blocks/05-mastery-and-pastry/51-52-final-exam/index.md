@@ -23,13 +23,13 @@ The final two weeks of this program are structured as a culmination and a retros
 
 ### Session 225 — Skills Inventory
 
-**Exercise:** Pull out any notes, journals, or memories from Week 1. Answer the following questions honestly:
+**Exercise:** Pull out any notes, journals, or memories from Block 1. Answer the following questions honestly:
 
-1. What was the first dish you cooked in Week 1?
+1. What was the first dish you cooked in Block 1?
 2. Which week was the hardest? Why?
 3. What is a dish you thought you'd never make — and then made?
 4. What technique do you still find genuinely difficult?
-5. What do you now do without thinking that required real concentration in Week 1?
+5. What do you now do without thinking that required real concentration in Block 1?
 
 **Read first:** [The Serious Eats Knife Tutorial](https://www.seriouseats.com/knife-skills-how-to-slice-and-dice-an-onion) — your original knife skill reference. Time yourself on an onion dice. Compare.
 
@@ -41,7 +41,7 @@ The final two weeks of this program are structured as a culmination and a retros
 
 **Exercise:** Cook one dish from the first 10 weeks that you have not returned to since. Not because it was bad — because life moved on and you never circled back.
 
-Dig into weeks 1–10. Find the dish you meant to repeat but didn't. Cook it today with all subsequent knowledge applied.
+Dig into Blocks 1–10. Find the dish you meant to repeat but didn't. Cook it today with all subsequent knowledge applied.
 
 **Session:**
 - Choose and cook the dish
@@ -132,10 +132,10 @@ Photograph it. Eat it. Write two sentences about it.
 
 **Exercise:** Cook a meal that traces the arc of the year:
 
-- A bite or starter from weeks 1–10 (foundations)
-- A smaller course from weeks 11–30 (proteins)
-- A main from weeks 31–50 (global techniques)
-- A dessert from weeks 51–62 (pastry, desserts, mastery)
+- A bite or starter from Blocks 1–10 (foundations)
+- A smaller course from Blocks 11–30 (proteins)
+- A main from Blocks 31–50 (global techniques)
+- A dessert from Blocks 51–62 (pastry, desserts, mastery)
 
 This is a one-person retrospective tasting — a private tasting menu of the year. Eat slowly. Think about each one.
 
@@ -151,7 +151,7 @@ This is not a class — you are not teaching. You are sharing.
 
 ---
 
-### Session 233 — Week 62: The Final Dinner
+### Session 233 — Block 62: The Final Dinner
 
 **No instructions. No structure. No format.**
 
@@ -163,7 +163,7 @@ The year is complete.
 
 ## What Comes Next
 
-The 62 weeks were a foundation — thorough, rigorous, intentional. But the cooking life doesn't end at week 62; it accelerates. Every additional meal is practice. Every new cuisine is a new unit. Every dish you repeat is a refinement.
+The 62 weeks were a foundation — thorough, rigorous, intentional. But the cooking life doesn't end at Block 62; it accelerates. Every additional meal is practice. Every new cuisine is a new unit. Every dish you repeat is a refinement.
 
 **Resources to continue:**
 
@@ -173,7 +173,7 @@ The 62 weeks were a foundation — thorough, rigorous, intentional. But the cook
 
 **The cook you are now:**
 
-| Skill | Week 1 | Week 52 |
+| Skill | Block 1 | Block 52 |
 |---|---|---|
 | Sharp knife, proper grip | Learning | Automatic |
 | Stock from scraps | Unknown | Weekend habit |

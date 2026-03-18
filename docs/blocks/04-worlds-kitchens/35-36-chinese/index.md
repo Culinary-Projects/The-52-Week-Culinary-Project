@@ -8,7 +8,7 @@
 
 ---
 
-**Quick Reference:** [→ Week 35–36 Recipe Quick Ref](quick-ref.md)
+**Quick Reference:** [→ Block 35–36 Recipe Quick Ref](quick-ref.md)
 
 ---
 
@@ -62,7 +62,7 @@ This sauce formula — sesame + soy + vinegar + chilli + Sichuan pepper — is t
 
 ## The Chinese Pantry
 
-Before Week 35 begins, verify you have:
+Before Block 35 begins, verify you have:
 
 | Item | What it does |
 |------|-------------|

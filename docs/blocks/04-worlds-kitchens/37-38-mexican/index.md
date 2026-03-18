@@ -10,7 +10,7 @@
 
 ## Block 37 — Pozole, Tacos al Pastor, and Carne Asada
 
-Mexican cuisine covers centuries of indigenous technique layered with colonial influence and regional variation. This week focuses on the key dry-heat and braising techniques from Mexico's northern and central traditions. You've already done carnitas (Week 20) and al pastor-adjacent work — this week goes deeper.
+Mexican cuisine covers centuries of indigenous technique layered with colonial influence and regional variation. This week focuses on the key dry-heat and braising techniques from Mexico's northern and central traditions. You've already done carnitas (Block 20) and al pastor-adjacent work — this week goes deeper.
 
 ---
 
@@ -53,7 +53,7 @@ Mexican cuisine covers centuries of indigenous technique layered with colonial i
 **Skill:** Avocado selection and browning prevention; charring tomatillos; raw vs. cooked salsa  
 **Read first:** [How to Prevent Guacamole from Browning](https://www.seriouseats.com/how-to-prevent-guacamole-from-browning-11890941)
 
-**What you're learning:** Guacamole is technique (not just mashing avocados). Acid + salt applied at the right moment prevent browning. The onion is rinsed to remove harsh sulfur compounds before adding. This session: make a perfect guacamole AND a charred salsa verde *(the tomatillo charring technique was covered in Week 20 — revisit and refine it)*.
+**What you're learning:** Guacamole is technique (not just mashing avocados). Acid + salt applied at the right moment prevent browning. The onion is rinsed to remove harsh sulfur compounds before adding. This session: make a perfect guacamole AND a charred salsa verde *(the tomatillo charring technique was covered in Block 20 — revisit and refine it)*.
 
 **Full Meal:**
 - Guacamole + charred salsa verde served as dinner accompaniments

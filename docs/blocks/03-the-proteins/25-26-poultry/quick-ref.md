@@ -4,7 +4,7 @@
 
 ---
 
-## Week 13 Recipes — The Unit 2 Capstone Cook
+## Block 25 — Sessions 58–61: Capstone Cook
 
 | Session | Dish | Skill | Link |
 |-----|------|-------|------|
@@ -12,11 +12,11 @@
 | **Session 59** | Dry-run of your hardest project-session dish + Simple Green Salad | Technique rehearsal, no pressure | [Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) |
 | **Session 60** | Thai-Style Larb + Jasmine Rice + Quick-Pickled Cucumbers | Knife speed benchmark; acid + umami balance | [Larb](https://www.seriouseats.com/larb-muang-moo-northern-thai-style-chopped-pork-salad-recipe) · [Rice](https://www.seriouseats.com/perfect-stovetop-thai-jasmine-rice) · [Pickles](https://www.seriouseats.com/quick-pickled-cucumbers-rice-vinegar-recipe) |
 | **Session 61** | Grilled Cheese + Tomato Soup | Rest — mise en place the project dinner | [Grilled Cheese](https://www.seriouseats.com/crispy-grilled-cheese-sandwich-tip-11891994) · [Tomato Soup](https://www.seriouseats.com/thick-creamy-tomato-soup-recipe) |
-| **Service 15** | **3-Course Dinner for Guests — no recipes during service** | Full synthesis: Weeks 1–12 techniques | *Suggested:* [Shrimp Cocktail](https://www.seriouseats.com/shrimp-cocktail-recipe) · [Duck Breast](https://www.seriouseats.com/pan-seared-duck-breast) · [Polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe) · [Root Veg](https://www.seriouseats.com/roasted-root-vegetables-with-lime-dressing-8728919) |
+| **Service 15** | **3-Course Dinner for Guests — no recipes during service** | Full synthesis: Blocks 1–24 techniques | *Suggested:* [Shrimp Cocktail](https://www.seriouseats.com/shrimp-cocktail-recipe) · [Duck Breast](https://www.seriouseats.com/pan-seared-duck-breast) · [Polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe) · [Root Veg](https://www.seriouseats.com/roasted-root-vegetables-with-lime-dressing-8728919) |
 
 ---
 
-## Week 14 Recipes — Poultry in Depth
+## Block 26 — Sessions 62–65: Poultry in Depth
 
 | Session | Dish | Skill | Link |
 |-----|------|-------|------|
@@ -30,7 +30,7 @@
 
 ## The Midpoint Benchmarks
 
-| Benchmark | Week 1 Target | Week 13 Target |
+| Benchmark | Block 1 Target | Block 25 Target |
 |-----------|--------------|----------------|
 | **Onion dice** | Sub 5 min | Sub 2 min, uniform cuts |
 | **Pan sauce** | Can make one | Can make one from memory with any fond |
@@ -42,7 +42,7 @@
 
 ## Shopping Notes
 
-**Block 13 project dinner** — shopping depends on *your* chosen menu. Plan it Session 58, shop mid-week.
+**Block 25 capstone dinner** — shopping depends on *your* chosen menu. Plan it Session 58, shop mid-week.
 
 *If using the suggested Shrimp Cocktail + Duck Breast menu:*
 - **Shrimp:** 1 lb large shrimp (16/20 count), cocktail sauce ingredients
@@ -50,4 +50,4 @@
 - **Polenta:** coarse-ground cornmeal, good parmesan, butter, chicken stock
 - **Root vegetables:** carrots, parsnips, turnips, beets — your choice of combination
 
-**Block 13 Session 60 (Larb):** Ground pork or chicken, fresh mint, cilantro, shallots, fish sauce, lime juice, toasted rice powder (make your own: toast rice in a dry pan, grind in spice grinder).
+**Block 25 Session 60 (Larb):** Ground pork or chicken, fresh mint, cilantro, shallots, fish sauce, lime juice, toasted rice powder (make your own: toast rice in a dry pan, grind in spice grinder).

@@ -8,7 +8,7 @@
 
 ---
 
-**Quick Reference:** [→ Week 11–12 Recipe Quick Ref](quick-ref.md)
+**Quick Reference:** [→ Block 11–12 Recipe Quick Ref](quick-ref.md)
 
 ---
 
@@ -18,7 +18,7 @@ Vegetables are where most home cooks coast. The steak gets the technique; the ve
 
 The CIA spends four full weeks on vegetable fabrication and cookery before touching protein. The principle: if you can't make a carrot interesting, you don't yet understand heat.
 
-📖 **Read first:** [Serious Eats — The Science of Browning Vegetables](https://www.bonappetit.com/story/how-to-roast-vegetables) — the same Maillard logic from Week 3–4 applies here; the only difference is water content and sugar concentration.
+📖 **Read first:** [Serious Eats — The Science of Browning Vegetables](https://www.bonappetit.com/story/how-to-roast-vegetables) — the same Maillard logic from Block 3–4 applies here; the only difference is water content and sugar concentration.
 
 
 ### Lab 1 — Two Purées, One Method *(optional)*
@@ -312,13 +312,13 @@ Cook 4–5 vegetable preparations using different techniques. Serve them as a ta
 | 4 | Mushroom bourguignon on toast | Sear + braise |
 | 5 | Quick-pickled vegetables + bread | Fermentation + pickling |
 
-This is practice for the multi-course timing you'll need for the dinner parties in Weeks 53–54.
+This is practice for the multi-course timing you'll need for the dinner parties in Blocks 53–54.
 
 ---
 
 ## Unit 2 Checkpoint Continues
 
-Vegetables are now in your repertoire, not just alongside your repertoire. Before moving to Weeks 15–16 (Pasta & Grains), you should be able to answer yes to:
+Vegetables are now in your repertoire, not just alongside your repertoire. Before moving to Blocks 15–16 (Pasta & Grains), you should be able to answer yes to:
 
 - [ ] I can blanch and shock a green vegetable and it stays bright green
 - [ ] I can roast any vegetable without it steaming in its own moisture

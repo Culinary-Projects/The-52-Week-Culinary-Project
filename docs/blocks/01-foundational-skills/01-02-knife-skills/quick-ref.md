@@ -4,7 +4,7 @@
 
 ---
 
-## Week 1 Recipes
+## Block 1 — Sessions 1–4
 
 | Session | Dish | Skill | Link |
 |-----|------|-------|------|
@@ -16,7 +16,7 @@
 
 ---
 
-## Week 2 Recipes
+## Block 2 — Sessions 5–8
 
 | Session | Dish | Skill | Link |
 |-----|------|-------|------|
@@ -34,7 +34,7 @@
 
 **Buy for Block 2:** One whole chicken — you'll break it down yourself. Breasts go in Piccata; thighs/legs go in the fridge for Session 4's Shakshuka.
 
-**Freeze:** The chicken carcass from Block 2 → **this is your Week 7 stock.**
+**Freeze:** The chicken carcass from Block 2 → **this is your Block 7 stock.**
 
 ---
 

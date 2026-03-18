@@ -29,9 +29,9 @@ This is a good moment to evaluate which equipment you've acquired over 52 weeks 
 
 ---
 
-## Week 51 Shopping
+## Block 51 Shopping
 
-### Tuesday — The Forgotten Dish (from weeks 1–10)
+### Tuesday — The Forgotten Dish (from Blocks 1–10)
 
 *Items depend on which dish you choose. Common choices:*
 - Coq au vin: whole chicken, mushrooms, pearl onions, lardons, wine
@@ -50,7 +50,7 @@ This is a good moment to evaluate which equipment you've acquired over 52 weeks 
 
 ---
 
-## Week 52 Shopping
+## Block 52 Shopping
 
 ### Tuesday — The Final Exam Dish
 

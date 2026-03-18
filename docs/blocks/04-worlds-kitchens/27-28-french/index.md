@@ -54,7 +54,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 **Skill:** Béarnaise (hollandaise with tarragon vinegar reduction); pan-seared steak application  
 **Read first:** [Foolproof Béarnaise](https://www.seriouseats.com/foolproof-bearnaise-sauce-recipe)
 
-**What you're learning:** Béarnaise = hollandaise with a tarragon-and-shallot reduction swapped for plain lemon. The technique is the same; the flavor completely different. Serve over a reverse-seared or pan-seared steak (you now know how to do this from Weeks 17–18). The sauce elevates a simple steak into a restaurant dish.
+**What you're learning:** Béarnaise = hollandaise with a tarragon-and-shallot reduction swapped for plain lemon. The technique is the same; the flavor completely different. Serve over a reverse-seared or pan-seared steak (you now know how to do this from Blocks 17–18). The sauce elevates a simple steak into a restaurant dish.
 
 **Full Meal:**
 - Pan seared strip or sirloin steak with Béarnaise sauce
@@ -158,7 +158,7 @@ French cooking week means sauce week. No other cuisine has built such a systemat
 **Skill:** Making aioli from scratch (emulsified garlic mayo); Provençal composed platter  
 **Goal:** Grand aioli is one of Provence's great communal dishes: a massive creamy garlic sauce served alongside a platter of vegetables (blanched and raw), salt cod, and hard-boiled eggs. Everything on the table, aioli in the center.
 
-**Reference:** Aioli technique = mayonnaise technique (from Weeks 9–10) with garlic and olive oil. The principle you already know — the application is new.
+**Reference:** Aioli technique = mayonnaise technique (from Blocks 9–10) with garlic and olive oil. The principle you already know — the application is new.
 
 **Full Meal:**
 - Le Grand Aioli: scratch-made garlic aioli + blanched vegetables + hard-boiled eggs + bread + whatever protein you choose

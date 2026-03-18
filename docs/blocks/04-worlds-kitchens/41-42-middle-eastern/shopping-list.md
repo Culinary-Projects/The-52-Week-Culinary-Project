@@ -17,14 +17,14 @@
 
 ---
 
-## 🥩 Proteins — Week 37
+## 🥩 Proteins — Block 37
 
 - [ ] **Beef** — flank, skirt, or sirloin, 2 lbs (Sat shawarma — marinate Fri night)
-- [ ] **Eggs** — 1 dozen (Tue shakshuka + Wed frittata Week 38)
+- [ ] **Eggs** — 1 dozen (Tue shakshuka + Wed frittata Block 38)
 
 ---
 
-## 🥩 Proteins — Week 38
+## 🥩 Proteins — Block 38
 
 - [ ] **Ground lamb** — 1.5 lbs (Mon adana kebab)
 - [ ] **Chicken thighs, bone-in** — 4 (Fri kabsa)
@@ -39,7 +39,7 @@
 
 ---
 
-## 🥦 Produce — Week 37
+## 🥦 Produce — Block 37
 
 - [ ] Eggplant — 3 medium (Wed baba ganoush; char all 3)
 - [ ] Red bell peppers — 4 (Wed muhammara; roast and peel)
@@ -59,7 +59,7 @@
 
 ---
 
-## 🥦 Produce — Week 38
+## 🥦 Produce — Block 38
 
 - [ ] Pita bread — 2 packs fresh (or buy from Middle Eastern bakery)
 - [ ] Persian cucumbers — 6
@@ -76,7 +76,7 @@
 - [ ] Sumac — 1 small jar
 - [ ] Za'atar — 1 small jar
 - [ ] Pomegranate molasses — 1 bottle
-- [ ] Dried black lime (loomi) — 4–5 (kabsa Fri Week 38)
+- [ ] Dried black lime (loomi) — 4–5 (kabsa Fri Block 38)
 - [ ] Rose water — small bottle (kabsa)
 - [ ] Harissa — 1 jar or tube (shakshuka optional heat + mezze board)
 - [ ] Labneh — 1 tub (or make by straining Greek yogurt in cheesecloth overnight)

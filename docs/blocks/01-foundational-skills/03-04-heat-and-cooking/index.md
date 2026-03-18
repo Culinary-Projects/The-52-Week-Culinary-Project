@@ -2,7 +2,7 @@
 
 > *"Understanding heat is understanding cooking. Everything else is detail."*
 
-**Quick Reference:** [→ Week 3–4 Recipe Quick Ref](quick-ref.md)
+**Quick Reference:** [→ Block 3–4 Recipe Quick Ref](quick-ref.md)
 
 ---
 
@@ -114,7 +114,7 @@ Notice the difference in texture from earlier in the block roasted thighs — sa
 
 ### ⏰ Service 3 — Spatchcocked Roast Chicken
 
-**Skill:** Spatchcocking (butterflying) a whole chicken removes the backbone, flattens the bird, and allows it to roast evenly in about half the time of a trussed bird. You'll use your knife skills from Weeks 1–2 and your roasting knowledge from this week. The result: the crispiest skin you've ever made at home.
+**Skill:** Spatchcocking (butterflying) a whole chicken removes the backbone, flattens the bird, and allows it to roast evenly in about half the time of a trussed bird. You'll use your knife skills from Blocks 1–2 and your roasting knowledge from this week. The result: the crispiest skin you've ever made at home.
 
 **Full Meal:** [Spatchcocked Roast Chicken](https://www.seriouseats.com/lavender-lemon-and-honey-spatchcocked-roast-chicken-recipe) + [Roasted Potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + [Simple Green Salad with Vinaigrette](https://www.seriouseats.com/simple-vinaigrette-recipe)
 
@@ -178,7 +178,7 @@ Notice the difference in texture from earlier in the block roasted thighs — sa
 
 ### Session 16 — Recap Cook: No Recipes
 
-**Skill challenge:** Tonight you cook a full meal using only methods you've learned in Weeks 3–4, but with no recipe open. Pick a protein in your fridge. Choose a heat method. Season it. Make a simple sauce from the pan drippings. Cook a vegetable. Plate it.
+**Skill challenge:** Tonight you cook a full meal using only methods you've learned in Blocks 3–4, but with no recipe open. Pick a protein in your fridge. Choose a heat method. Season it. Make a simple sauce from the pan drippings. Cook a vegetable. Plate it.
 
 If you need to glance at times and temperatures, that's fine. But close the recipe tab.
 

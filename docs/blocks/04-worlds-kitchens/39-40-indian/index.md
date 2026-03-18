@@ -145,7 +145,7 @@ South Indian cooking is different from North Indian in almost every way: less cr
 **Full Meal:**
 - Aloo Gobi
 - Roti or naan
-- Toor dal alongside (quick version — see Session 173 Week 35 moong dal approach, applied to toor)
+- Toor dal alongside (quick version — see Session 173 Block 35 moong dal approach, applied to toor)
 
 ---
 

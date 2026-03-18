@@ -118,7 +118,7 @@
 
 ---
 
-## 🥩 Proteins — Week 25
+## 🥩 Proteins — Block 25
 
 - [ ] **Salmon fillet, skin-on, center-cut** — 1–1.5 lbs (Mon gravlax cure)
 - [ ] **Ground lamb or lamb shoulder** — 1 lb (Tue merguez; grind your own if possible)
@@ -131,9 +131,9 @@
 
 ---
 
-## 🥩 Proteins — Week 26
+## 🥩 Proteins — Block 26
 
-- [ ] **Pork belly** — 1.5 lbs (Mon pancetta cure — won't eat until Week 27)
+- [ ] **Pork belly** — 1.5 lbs (Mon pancetta cure — won't eat until Block 27)
 - [ ] **Chicken thighs** — 4 bone-in or duck legs × 2 (Tue rillettes)
 - [ ] **Store-bought pancetta** — for Mon pasta carbonara comparison
 
@@ -163,7 +163,7 @@
 - [ ] Garlic — 2 heads
 - [ ] Lemons — 4
 - [ ] Shallots — 4
-- [ ] Red bell peppers — 2 (Week 25 Tue merguez plate accompaniment — roast until charred)
+- [ ] Red bell peppers — 2 (Block 25 Tue merguez plate accompaniment — roast until charred)
 
 **Board accompaniments (Wed + Sat):**
 - [ ] Cornichons — 1 jar
@@ -183,8 +183,8 @@
 - [ ] Cream cheese (Fri cured salmon)
 - [ ] Capers (Fri and boards)
 - [ ] Couscous (Tue merguez dinner)
-- [ ] Eggs — 6 (Mon Week 26 carbonara; various)
-- [ ] Plain whole-milk yogurt — 1 cup (Week 25 Tue merguez dipping sauce)
-- [ ] Pecorino Romano + Parmesan (carbonara Mon Week 26)
-- [ ] Spaghetti — 1 lb (Mon Week 26 carbonara)
+- [ ] Eggs — 6 (Mon Block 26 carbonara; various)
+- [ ] Plain whole-milk yogurt — 1 cup (Block 25 Tue merguez dipping sauce)
+- [ ] Pecorino Romano + Parmesan (carbonara Mon Block 26)
+- [ ] Spaghetti — 1 lb (Mon Block 26 carbonara)
 - [ ] Sheep casings — optional; order online (Tue sausage)

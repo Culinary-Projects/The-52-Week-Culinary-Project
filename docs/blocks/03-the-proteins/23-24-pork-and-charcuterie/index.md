@@ -173,7 +173,7 @@ This week is a natural gateway to charcuterie. Bacon, pancetta, and guanciale ar
 
 ### A Book Worth Having
 
-- 📚 [***Charcuterie: The Craft of Salting, Smoking, and Curing* by Michael Ruhlman & Brian Polcyn**](https://www.amazon.com/dp/0393058298) — The gateway book into everything you'll explore in Weeks 23–24. Covers the principles and science of every cured and preserved pork product.
+- 📚 [***Charcuterie: The Craft of Salting, Smoking, and Curing* by Michael Ruhlman & Brian Polcyn**](https://www.amazon.com/dp/0393058298) — The gateway book into everything you'll explore in Blocks 23–24. Covers the principles and science of every cured and preserved pork product.
 
 ---
 
@@ -305,7 +305,7 @@ Salt curing is the oldest form of preservation in human civilization, and it's a
 
 ### Session 120 — Unit 3 Capstone: Six-Month Inventory
 
-**Note: This is a reflective cook day — pick one dish from weeks 1–25 that you want to redo.**
+**Note: This is a reflective cook day — pick one dish from Blocks 1–25 that you want to redo.**
 
 Choose ONE technique that didn't go as planned in the past six months. Cook it again. Measure how different the result is now versus the first time. This is the most important practical exercise in the program.
 

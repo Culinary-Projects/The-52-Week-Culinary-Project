@@ -16,26 +16,26 @@
 
 ---
 
-## 🥩 Proteins — Week 35
+## 🥩 Proteins — Block 35
 
 - [ ] **Chicken thighs, boneless** — 3 lbs (Mon butter chicken + Wed tikka masala)
-- [ ] **Lamb shoulder or cubes** — 1.5 lbs (Wed biryani Week 36; buy early)
+- [ ] **Lamb shoulder or cubes** — 1.5 lbs (Wed biryani Block 36; buy early)
 
 ---
 
-## 🥩 Proteins — Week 36
+## 🥩 Proteins — Block 36
 
 - [ ] **Eggs** — 1 dozen (various; dosa batter)
-- [ ] *(Weeks 36 is largely vegetarian — no additional meat purchase required)*
+- [ ] *(Blocks 36 is largely vegetarian — no additional meat purchase required)*
 
 ---
 
 ## 🫘 Lentils and Beans
 
 - [ ] Moong dal (yellow split mung) — 1 lb
-- [ ] Whole urad dal (black lentils) — 1 lb (dal makhani Fri Week 35)
-- [ ] Toor dal (pigeon peas) — 1 lb (sambar Week 36 Sat + weekday dal)
-- [ ] Dried chickpeas — 1 lb (Mon Week 36 chana masala; or 2 × 15-oz cans)
+- [ ] Whole urad dal (black lentils) — 1 lb (dal makhani Fri Block 35)
+- [ ] Toor dal (pigeon peas) — 1 lb (sambar Block 36 Sat + weekday dal)
+- [ ] Dried chickpeas — 1 lb (Mon Block 36 chana masala; or 2 × 15-oz cans)
 - [ ] Rajma (kidney beans) — ½ lb (dal makhani)
 
 ---
@@ -46,7 +46,7 @@
 - [ ] Ginger — 1 large piece (use throughout)
 - [ ] White onions — 4 large
 - [ ] Tomatoes — 10 (pureed for sauces + fresh sides)
-- [ ] Cauliflower — 1 head (Tue Week 36 aloo gobi)
+- [ ] Cauliflower — 1 head (Tue Block 36 aloo gobi)
 - [ ] Yukon gold potatoes — 2 lbs (Tue + biryani + various)
 - [ ] Lemon — 6
 - [ ] Serrano or green chiles — 10 (used daily in small amounts)
@@ -86,7 +86,7 @@
 - [ ] Coriander (ground) — large jar
 - [ ] Kashmiri red chili powder — 1 jar (mild heat + color)
 - [ ] Regular red chili powder or cayenne — 1 jar (heat)
-- [ ] Garam masala — store-bought (for comparison; also make fresh Fri Week 36)
+- [ ] Garam masala — store-bought (for comparison; also make fresh Fri Block 36)
 - [ ] Amchur (dry mango powder) — 1 bag (chana masala)
 - [ ] Asafoetida (hing) — small jar (dal tarka; tiny amount goes very far)
 - [ ] Coconut milk — 2 cans (South Indian thali + sambar)
@@ -99,7 +99,7 @@
 - [ ] All-purpose flour + bread flour (naan dough)
 - [ ] Instant yeast — 1 packet (naan)
 - [ ] Saffron — small pinch (biryani)
-- [ ] Tamarind paste — 1 jar (sambar Week 36 Sat)
+- [ ] Tamarind paste — 1 jar (sambar Block 36 Sat)
 - [ ] Mango pickle (achar) — 1 jar
 - [ ] Papad (poppadum) — 1 pack
 - [ ] Samosas — store-bought fine for Saturday feast accompaniment

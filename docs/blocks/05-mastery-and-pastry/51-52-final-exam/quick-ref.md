@@ -11,7 +11,7 @@ Rate each skill honestly on a 1–5 scale:
 - **3** — Can do this correctly most of the time
 - **5** — Automatic; no recipe needed; would teach this
 
-| Skill | Week 1 Rating | Week 52 Rating | Notes |
+| Skill | Block 1–2 Rating | Block 51–52 Rating | Notes |
 |---|---|---|---|
 | Knife skills — onion dice | | | |
 | Sear protein without sticking | | | |
@@ -31,9 +31,9 @@ Rate each skill honestly on a 1–5 scale:
 
 ---
 
-## 52-Week Cumulative Technique Reference
+## Full-Program Cumulative Technique Reference
 
-| Technique Family | Weeks | Benchmark Dish |
+| Technique Family | Blocks | Benchmark Dish |
 |---|---|---|
 | Egg fundamentals | 1–2 | Perfect fried egg; French omelette |
 | Stocks and sauces | 3–4 | Brown chicken stock; pan sauce |
@@ -90,7 +90,7 @@ Answer before cooking your final exam dish:
 
 ---
 
-## What You Have Made (52-Week Summary)
+## What You Have Made (Full-Program Summary)
 
 | Category | Approximate Dishes |
 |---|---|
@@ -108,12 +108,12 @@ Answer before cooking your final exam dish:
 
 ---
 
-## Week 51–52 at a Glance
+## Block 51–52 at a Glance
 
 | Session | Activity |
 |---|---|
 | W51 Mon | Skills inventory + knife time trial |
-| W51 Tue | Cook one dish from weeks 1–10 |
+| W51 Tue | Cook one dish from Blocks 1–10 |
 | W51 Wed | Cook complete 2-course meal from memory |
 | W51 Thu | Rest |
 | W51 Fri | Final mise en place drill |

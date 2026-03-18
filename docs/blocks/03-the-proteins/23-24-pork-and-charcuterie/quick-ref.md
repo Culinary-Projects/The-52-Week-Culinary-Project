@@ -4,7 +4,7 @@
 
 ---
 
-## Week 19 Recipes — Pork Fundamentals
+## Block 23 — Sessions 106–109: Pork Fundamentals
 
 | Session | Dish | Skill | Link |
 |-----|------|-------|------|
@@ -16,7 +16,7 @@
 
 ---
 
-## Week 20 Recipes — Belly, Ribs & Curing
+## Block 24 — Sessions 110–113: Belly, Ribs & Curing
 
 | Session | Dish | Skill | Link |
 |-----|------|-------|------|
@@ -42,19 +42,19 @@
 
 ## Shopping Notes
 
-**Week 19:**
+**Block 23:**
 - **Bone-in pork chops** — 1 inch thick; rib chop preferred; 1 per person. Dry brine Sun night.
 - **Pork belly** — 2 lbs, skin-on; ask butcher if not at standard grocer (Chashu, Session 107)
 - **Pork tenderloin** — 1 lb; usually comes in a vacuum pack of 2
 - **Thin pork chops for grilling** — ½ inch bone-in (Vietnamese, Session 109) — marinate overnight
 - **Bone-in pork shoulder** — 4–5 lbs, fat cap on (the project session; buy by Fri for dry brine overnight)
 
-**Week 20:**
+**Block 24:**
 - **Pork belly slabs** — 1.5 lbs (Session 106 lardon cook), skin off; ask butcher to skin
 - **Spare ribs or baby back** — 1 rack (Session 107)
 - **Pork belly, skin-on** — 2 lbs for porchetta (Session 108); buy early to dry in fridge
 - **Ground pork** — 1 lb, 80/20 (Session 109 meatballs)
-- **Pork shoulder** — 4 lbs (the project session carnitas); can use the same cut as Week 19 the project session
+- **Pork shoulder** — 4 lbs (the project session carnitas); can use the same cut as Block 23 the project session
 
 ---
 

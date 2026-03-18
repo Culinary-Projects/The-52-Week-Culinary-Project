@@ -11,9 +11,9 @@
 
 > *"Salt makes food taste more like itself. Acid makes it taste more alive. Fat makes it taste more satisfying. Understanding all three changes everything."*
 
-**The core idea for these two weeks:** Most home cooks season once, at the end, with a generic shake of salt and pepper. Professional cooks season in layers — each component seasoned individually, each layer building on the last. By the end of Week 10, you should never walk away from a dish thinking "something's missing" without knowing exactly what that something is.
+**The core idea for these two weeks:** Most home cooks season once, at the end, with a generic shake of salt and pepper. Professional cooks season in layers — each component seasoned individually, each layer building on the last. By the end of Block 10, you should never walk away from a dish thinking "something's missing" without knowing exactly what that something is.
 
-**Before you start Week 9**, read these two pieces back to back:
+**Before you start Block 9**, read these two pieces back to back:
 
 - 📖 [Serious Eats — The Food Lab: The Science of Salt](https://www.seriouseats.com/what-is-salt-science-taste-flavorant) — Why salt is more than a flavoring; how it restructures proteins, manages moisture, and builds flavor from the inside out
 - 📖 [Serious Eats — Why Every Recipe Should Have Acid](https://www.seriouseats.com/make-the-most-out-of-garlic-chopping-acid-heat) — The most underused tool in the home cook's arsenal
@@ -24,7 +24,7 @@
 
 > The lesson: salt behaves differently at different stages of cooking, and learning to recognize *what* your food is missing — flat? dull? one-dimensional? — is more valuable than any single technique.
 
-**The Week 9 experiment (do this before the block starts):**
+**The Block 9 experiment (do this before the block starts):**
 Take a carrot. Cut it in two. Salt one half with a pinch of kosher salt and wait two minutes. Taste both back to back. The salted carrot will taste more carrot-y — brighter, sweeter, more itself. That's the point. Salt doesn't make food taste salty. It makes food taste like *food*.
 
 ---
@@ -188,7 +188,7 @@ This pasta uses anchovies (umami), mushrooms (umami), and tomato (umami) in comb
 
 ### ⏰ Service 10 — A Composed Tasting Plate
 
-**The challenge:** The project session isn't about following a single recipe. It's about applying everything from Weeks 9–10 in one deliberate meal. You'll cook a three-component plate and consciously think about salt timing, acid balance, fat choice, and umami depth for each component.
+**The challenge:** The project session isn't about following a single recipe. It's about applying everything from Blocks 9–10 in one deliberate meal. You'll cook a three-component plate and consciously think about salt timing, acid balance, fat choice, and umami depth for each component.
 
 **Suggested composed plate:**
 

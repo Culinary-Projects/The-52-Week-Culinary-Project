@@ -18,7 +18,7 @@
 
 ---
 
-## 🥩 Proteins — Week 33
+## 🥩 Proteins — Block 33
 
 - [ ] **Flank or skirt steak** — 1.5 lbs (Mon carne asada)
 - [ ] **Pork shoulder** — 2 lbs (Tue pozole + Fri al pastor)
@@ -27,7 +27,7 @@
 
 ---
 
-## 🥩 Proteins — Week 34
+## 🥩 Proteins — Block 34
 
 - [ ] **Beef chuck** — 3 lbs (Mon birria)
 - [ ] **Chicken thighs** — 4–6 (Tue mole)

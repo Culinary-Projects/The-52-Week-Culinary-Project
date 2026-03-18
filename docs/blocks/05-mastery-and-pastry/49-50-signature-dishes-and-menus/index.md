@@ -66,12 +66,12 @@ This block is structured differently. The first week is technical catch-up and d
 ### Session 211 — Knife Skills: Where Are You Now?
 
 **Skill:** Speed and accuracy assessment; brunoise; chiffonade; the "claw" grip  
-**Read first:** [How to Chop an Onion](https://www.seriouseats.com/knife-skills-how-to-slice-and-dice-an-onion), compare your Week 1 time
+**Read first:** [How to Chop an Onion](https://www.seriouseats.com/knife-skills-how-to-slice-and-dice-an-onion), compare your Block 1 time
 
-**What you're learning:** Return to the first skill you practiced in Week 1. Dice an onion and track time and uniformity. Chiffonade a stack of basil leaves. Cut a carrot into fine brunoise (2mm cubes). Speed is less important than consistency — uniform cuts cook evenly; uneven cuts produce uneven results. You have cooked for 47 weeks. How much faster and cleaner is your knife technique?
+**What you're learning:** Return to the first skill you practiced in Block 1. Dice an onion and track time and uniformity. Chiffonade a stack of basil leaves. Cut a carrot into fine brunoise (2mm cubes). Speed is less important than consistency — uniform cuts cook evenly; uneven cuts produce uneven results. You have cooked for 47 weeks. How much faster and cleaner is your knife technique?
 
 **Session:**
-- Timed onion dice (compare Week 1 estimate)
+- Timed onion dice (compare Block 1 estimate)
 - Carrot brunoise (tedious; requires patience and a sharp knife)
 - Basil chiffonade (sharp knife only — a dull knife bruises and blackens basil)
 
@@ -96,7 +96,7 @@ This block is structured differently. The first week is technical catch-up and d
 ### Session 213 — The Caramel Sauce (Perfection)
 
 **Skill:** Repeating a technique until it is automated  
-**Focus:** Caramel sauce from Week 46. Make it again. Faster and without hesitation.
+**Focus:** Caramel sauce from Block 46. Make it again. Faster and without hesitation.
 
 **What you're learning:** There is no new technique today. You are implementing the principle of "repetition until the hands remember." The caramel sauce is chosen because sugar work is one of the skills that only becomes reliable through repetition. The first time you made it, you were watching the color carefully. Today you should begin to know by smell and sound.
 
@@ -177,7 +177,7 @@ This is not a test. There is no grade. Failures here are valuable. The goal is t
 1. **Amuse-bouche:** One bite — a compressed melon, a spoonful of something surprising, one perfect piece
 2. **Starter:** A dish from your cured/vegetable/shellfish repertoire
 3. **Main:** Your most comfortable, reliable, personal protein preparation
-4. **Dessert:** The dessert you are most proud of from weeks 43–46
+4. **Dessert:** The dessert you are most proud of from Blocks 43–46
 
 **House rules:**
 - No recipe open during cooking
@@ -311,7 +311,7 @@ No cooking today. Write or record:
 **Skill:** Station organization with multiple active pots and pans; delegating one component to a helper  
 **Read first:** [How to Set Up a Prep Station Like a Pro Cook](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro)
 
-**What you're learning:** Cooking for 8–10 people requires either a helper or a radically different structure — most of the meal cannot be à la minute. Today: plan a dinner party with one additional element from Week 59's dinner, scaled to 8 people, and map out how you would execute it if you had one helper vs. none.
+**What you're learning:** Cooking for 8–10 people requires either a helper or a radically different structure — most of the meal cannot be à la minute. Today: plan a dinner party with one additional element from Block 59's dinner, scaled to 8 people, and map out how you would execute it if you had one helper vs. none.
 
 ---
 
@@ -367,7 +367,7 @@ These aren't required reading — but if something from this block sparked a que
 A great dinner party menu isn't a collection of dishes — it's a narrative. Something light and sharp at the start, something rich and satisfying in the middle, something refreshing or sweet at the end. Understanding the rhythm of courses means every meal you host has an internal logic, even if guests can't articulate it. Getting multiple dishes to the table simultaneously — all at the right temperature, nothing held too long — isn't talent. It's planning, a written timeline, and repetition.
 
 - 📖 [Guide to Cooking With Wine](https://www.seriouseats.com/guide-to-cooking-with-wine-11921603) — If you're building a menu, you're building wine pairings. This is the reference that covers the logic of pairing by texture, weight, and acidity.
-- 📖 [How to Set Up a Station Like a Pro](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro) — Mise en place from Week 1, revisited at the dinner party scale. The principle of prep-before-service is the same whether you're cooking for 2 or 8.
+- 📖 [How to Set Up a Station Like a Pro](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro) — Mise en place from Block 1, revisited at the dinner party scale. The principle of prep-before-service is the same whether you're cooking for 2 or 8.
 
 ---
 

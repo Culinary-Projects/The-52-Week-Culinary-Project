@@ -4,41 +4,41 @@
 
 ---
 
-> **Plan ahead:** Cassoulet (Saturday Week 27) requires dried whites beans soaked overnight. Duck confit (Tue Week 28) is better if started a day ahead. Plan accordingly.
+> **Plan ahead:** Cassoulet (Saturday Block 27) requires dried whites beans soaked overnight. Duck confit (Tue Block 28) is better if started a day ahead. Plan accordingly.
 
 ---
 
 ## ⚠️ Equipment Check
 
 - [ ] **Large Dutch oven / cocotte** — essential for cassoulet
-- [ ] **Blender** — for foolproof hollandaise (Tue Week 27)
-- [ ] **Soufflé dish (6-cup)** — for cheese soufflé (Wed Week 28)
+- [ ] **Blender** — for foolproof hollandaise (Tue Block 27)
+- [ ] **Soufflé dish (6-cup)** — for cheese soufflé (Wed Block 28)
 - [ ] **Fine-mesh strainer** — for sauces
 - [ ] **Heat-proof bowl** — beurre blanc and béarnaise work
 
 ---
 
-## 🥩 Proteins — Week 27
+## 🥩 Proteins — Block 27
 
-- [ ] **Duck confit** — store-bought legs × 4 (Sat cassoulet; or make your own from Week 14 technique)
+- [ ] **Duck confit** — store-bought legs × 4 (Sat cassoulet; or make your own from Block 14 technique)
 - [ ] **Toulouse sausage or garlic sausage** — 1 lb (Sat cassoulet)
 - [ ] **Salt pork or pork belly** — 8 oz (Sat cassoulet)
 - [ ] **Steak** — strip or sirloin × 2 (Wed béarnaise + Fri frites)
 - [ ] **Canadian bacon** — 4 slices (Tue eggs benedict)
-- [ ] **Bacon lardons** — 4 oz (Fri bistro salad Week 28)
+- [ ] **Bacon lardons** — 4 oz (Fri bistro salad Block 28)
 
 ---
 
-## 🥩 Proteins — Week 28
+## 🥩 Proteins — Block 28
 
 - [ ] **Halibut or salmon** — 2 fillets (Mon beurre blanc)
 - [ ] **Whole duck, 4–5 lb** OR **2 duck breasts** (Tue à l'orange)
-- [ ] **Salt cod, if available** — 8 oz for grand aioli (Sat Week 28; optional — other protein works)
+- [ ] **Salt cod, if available** — 8 oz for grand aioli (Sat Block 28; optional — other protein works)
 - [ ] **Eggs** — 2 dozen (hollandaise, poached eggs, soufflé, aioli, salad Lyonnaise)
 
 ---
 
-## 🥦 Produce — Week 27
+## 🥦 Produce — Block 27
 
 - [ ] Russet or Yukon gold potatoes — 2 lbs (Fri steak frites — separate from aioli platter potatoes)
 - [ ] Onions — 5 lbs (Mon French onion soup — ~3 lbs per pot)
@@ -53,7 +53,7 @@
 
 ---
 
-## 🥦 Produce — Week 28
+## 🥦 Produce — Block 28
 
 - [ ] Oranges — 4 (Tue duck à l'orange: juice + zest)
 - [ ] Asparagus — 1 bunch (Mon beurre blanc)
@@ -77,7 +77,7 @@
 - [ ] Heavy cream — 1 pint (soufflé béchamel + various)
 - [ ] Parmesan — 4 oz (soufflé)
 - [ ] Baguette — multiple (soufflé croutons, onion soup croutons, aioli platter)
-- [ ] English muffins — 1 pack (Tue Week 27 eggs benedict)
+- [ ] English muffins — 1 pack (Tue Block 27 eggs benedict)
 - [ ] Dark chocolate (70%+) — 4 oz (chocolate mousse — classic French bistro dessert)
 - [ ] Olive oil — extra-virgin (aioli + dressings)
 - [ ] Duck fat — small jar if making duck confit vs. buying

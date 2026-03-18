@@ -2,7 +2,7 @@
 
 > *"Master these five sauces and you can make virtually any sauce on earth."*
 
-**Quick Reference:** [→ Week 5–6 Recipe Quick Ref](quick-ref.md)
+**Quick Reference:** [→ Block 5–6 Recipe Quick Ref](quick-ref.md)
 
 ---
 
@@ -108,7 +108,7 @@ The pan sauce is your simplified Espagnole: browned bits from the steak, deglaze
 | Veg | Roasted eggplant and potato layers |
 | Salad | Greek salad alongside |
 
-*Skill targets: Smooth, lump-free béchamel. Uniform eggplant slices (Week 2 callback). Full mise en place before assembly.*
+*Skill targets: Smooth, lump-free béchamel. Uniform eggplant slices (Block 2 callback). Full mise en place before assembly.*
 
 ---
 
@@ -191,7 +191,7 @@ Make the vinaigrette from scratch. Use it as the dressing *and* as a marinade fo
 
 ### ⏰ Service 6 — A Classic French Bistro Dinner (3 Courses)
 
-**Skill:** Ties together everything from Weeks 5–6. Pan sauce, vinaigrette, and a three-course French bistro-style dinner at home — everything on the table at the same time.
+**Skill:** Ties together everything from Blocks 5–6. Pan sauce, vinaigrette, and a three-course French bistro-style dinner at home — everything on the table at the same time.
 
 | Course | Dish | Link |
 |--------|------|------|

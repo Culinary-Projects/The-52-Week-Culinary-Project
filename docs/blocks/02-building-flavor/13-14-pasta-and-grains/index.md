@@ -240,7 +240,7 @@ Risotto is not about patience. It's about starch gelatinization and gradual liqu
 
 ### Session 58 — Menu Planning
 
-**Skill:** Professional kitchens don't decide what to cook while standing in front of the stove. They plan. Tonight's task: design a 3-course dinner menu for the Service using only techniques you've learned in Weeks 1–12. Write the menu down. Plan the timing. Make your shopping list.
+**Skill:** Professional kitchens don't decide what to cook while standing in front of the stove. They plan. Tonight's task: design a 3-course dinner menu for the Service using only techniques you've learned in Blocks 1–12. Write the menu down. Plan the timing. Make your shopping list.
 
 *Questions to ask yourself while planning:*
 
@@ -260,7 +260,7 @@ Whatever you identified as the hardest part of the project menu — make it toni
 
 ### Session 60 — Knife Speed Benchmark
 
-**Skill:** Time yourself dicing one onion. This is the third benchmark in the program ( and  were the others). Write the time down. You should be measurably faster than Week 2. More importantly: are your cuts more uniform? Speed is the secondary metric. Consistency is the primary one.
+**Skill:** Time yourself dicing one onion. This is the third benchmark in the program ( and  were the others). Write the time down. You should be measurably faster than Block 2. More importantly: are your cuts more uniform? Speed is the secondary metric. Consistency is the primary one.
 
 **Full Meal:** [Serious Eats — Thai-Style Larb (Ground Meat Salad)](https://www.seriouseats.com/larb-muang-moo-northern-thai-style-chopped-pork-salad-recipe) + [Serious Eats — Jasmine Rice](https://www.seriouseats.com/perfect-stovetop-thai-jasmine-rice) + [Serious Eats — Quick-Pickled Cucumbers](https://www.seriouseats.com/quick-pickled-cucumbers-rice-vinegar-recipe)
 
@@ -282,7 +282,7 @@ Mise en place everything for the project dinner. Every sauce component prepped. 
 
 ### ⏰ Service 15 — The Block 7 Service Dinner
 
-**The cook:** Execute your planned 3-course dinner for at least two guests. No recipes open during service. All techniques drawn from Weeks 1–12.
+**The cook:** Execute your planned 3-course dinner for at least two guests. No recipes open during service. All techniques drawn from Blocks 1–12.
 
 *Suggested framework if you can't decide:*
 
@@ -297,7 +297,7 @@ Mise en place everything for the project dinner. Every sauce component prepped. 
 
 This is the most important reflection yet. Five questions, five sentences minimum each:
 
-1. What is the technique you've improved most since Week 1?
+1. What is the technique you've improved most since Block 1?
 2. What still feels unnatural or mechanical?
 3. Which recipe from the past 13 weeks do you want to master — cook repeatedly until it's genuinely yours?
 4. What ingredient have you cooked with for the first time that you now want to use regularly?

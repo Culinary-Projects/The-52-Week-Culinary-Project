@@ -116,7 +116,7 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 ### Session 135 — Pasta Fresca (Fresh Egg Pasta)
 
 **Skill:** Making egg pasta dough by hand; rolling and cutting; various shapes  
-**Read first:** Reference pasta-making from Weeks 13–14 (pasta fresca was introduced there) — this session goes deeper into filled pasta
+**Read first:** Reference pasta-making from Blocks 13–14 (pasta fresca was introduced there) — this session goes deeper into filled pasta
 
 **What you're learning:** Now that you know the dough, try a filled shape: either tortelloni (large), ravioli, or a simple pappardelle if fresh dough's not been practiced recently. The filling: ricotta + spinach + Parmesan + nutmeg.
 
@@ -131,12 +131,12 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 ### Session 136 — Spaghetti alle Vongole (Revisited from Italian Perspective)
 
 **Skill:** Building a white brothy sauce; pasta finishing technique; the two vongole versions (in bianco vs. in rosso)  
-**Read first:** [Spaghetti alle Vongole](https://www.seriouseats.com/spaghetti-pasta-alle-vongole-clams-recipe) *(used in Week 23 for shellfish technique — now revisit as Italian pasta lesson)*
+**Read first:** [Spaghetti alle Vongole](https://www.seriouseats.com/spaghetti-pasta-alle-vongole-clams-recipe) *(used in Block 23 for shellfish technique — now revisit as Italian pasta lesson)*
 
-**What you're learning:** The same dish from week 23, but now you're thinking about it differently: pasta al dente, reserved pasta water as sauce thickener, the ratio of clam liquor to olive oil. Make the white version (in bianco) if you made red baked mussels before; make red if not.
+**What you're learning:** The same dish from Block 23, but now you're thinking about it differently: pasta al dente, reserved pasta water as sauce thickener, the ratio of clam liquor to olive oil. Make the white version (in bianco) if you made red baked mussels before; make red if not.
 
 **Full Meal:**
-- Spaghetti alle Vongole (the other version from Week 23)
+- Spaghetti alle Vongole (the other version from Block 23)
 - Crusty bread
 
 ---
@@ -163,7 +163,7 @@ Italian classics this week: risotto (patience + stirring + understanding when it
 
 1. **Antipasto:** Cured meats, olives, fresh mozzarella, bruschetta
 2. **Primo:** Risotto or fresh pasta
-3. **Secondo:** Bistecca alla Fiorentina (thick T-bone, wood-fire or cast iron) — or osso buco if not done on Wed Week 29
+3. **Secondo:** Bistecca alla Fiorentina (thick T-bone, wood-fire or cast iron) — or osso buco if not done on Wed Block 29
 4. **Contorni:** Roasted vegetables or simple salad
 5. **Dolce:** Tiramisu or panna cotta (make ahead)
 

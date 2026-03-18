@@ -2,7 +2,7 @@
 
 > *"Learn to hold a knife properly and half the battle is won."*
 
-**Quick Reference:** [→ Week 1–2 Recipe Quick Ref](quick-ref.md)
+**Quick Reference:** [→ Block 1–2 Recipe Quick Ref](quick-ref.md)
 
 ---
 
@@ -156,7 +156,7 @@ While you have your knife out: grab a small handful of fresh basil leaves. Stack
 
 ### Session 7 — Breaking Down a Whole Chicken
 
-**Skill:** Buy a whole chicken. Read [How to Break Down a Chicken](https://www.seriouseats.com/knife-skills-how-to-break-down-a-chicken) first, then do it. You'll get two bone-in breasts, two thighs, two drumsticks, two wings, and a carcass. **Put the carcass in a zip-lock in the freezer — that's Week 7 stock material.** Follow the joints, not the bones. Let the knife find the natural seams.
+**Skill:** Buy a whole chicken. Read [How to Break Down a Chicken](https://www.seriouseats.com/knife-skills-how-to-break-down-a-chicken) first, then do it. You'll get two bone-in breasts, two thighs, two drumsticks, two wings, and a carcass. **Put the carcass in a zip-lock in the freezer — that's Block 7 stock material.** Follow the joints, not the bones. Let the knife find the natural seams.
 
 **Full Meal:** [Chicken Piccata](https://www.seriouseats.com/chicken-piccata-italian-fried-cutlet-recipe) (use the breasts) + [Burst Cherry Tomatoes](https://www.seriouseats.com/fast-easy-pasta-blistered-cherry-tomato-sauce-recipe)
 
@@ -174,7 +174,7 @@ The thighs and legs go in the fridge (use them later in the block) or freeze for
 
 ### Session 8 — Speed Benchmark
 
-**Skill:** Time yourself dicing one onion. Write it down. This is your baseline. At the end of Week 4, you'll time yourself again. Speed is not the goal — having a reference point is.
+**Skill:** Time yourself dicing one onion. Write it down. This is your baseline. At the end of Block 4, you'll time yourself again. Speed is not the goal — having a reference point is.
 
 **Full Meal:** [Shakshuka](https://www.seriouseats.com/shakshuka-north-african-shirred-eggs-tomato-pepper-recipe) + leftover chicken from earlier in the block thighs (warmed in a skillet)
 

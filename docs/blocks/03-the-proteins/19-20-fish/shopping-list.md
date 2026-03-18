@@ -13,12 +13,12 @@
 - [ ] **Dutch oven** — for Tuesday's fish tacos (frying)
 - [ ] **Thermometer** — essential; also useful for checking oil temp for frying (350°F target)
 - [ ] **Fish spatula** — wide, thin, flexible; the tool that makes flipping fish easy
-- [ ] **Wire rack + sheet pan** — for draining fried fish tacos (Week 22 Tue)
+- [ ] **Wire rack + sheet pan** — for draining fried fish tacos (Block 22 Tue)
 - [ ] **Coarse sea salt** — 3–4 lbs if doing the salt-bake version of Saturday's whole fish
 
 ---
 
-## 🐟 Proteins — Week 21 (buy as close to cook day as possible)
+## 🐟 Proteins — Block 21 (buy as close to cook day as possible)
 
 - [ ] **Salmon fillets, skin-on** — 2 thick pieces (Mon); 2 more pieces (Fri miso glaze)
 - [ ] **Dover sole or flounder fillets** — 2–4 (Tue meunière)
@@ -27,7 +27,7 @@
 
 ---
 
-## 🐟 Proteins — Week 22 (buy as close to cook day as possible)
+## 🐟 Proteins — Block 22 (buy as close to cook day as possible)
 
 - [ ] **Firm white fish** — cod or halibut, 2 pieces (Mon mushroom cook)
 - [ ] **White fish for frying** — cod, mahi-mahi, or tilapia; 1 lb (Tue tacos)
@@ -37,12 +37,12 @@
 
 ---
 
-## 🥦 Produce — Week 21
+## 🥦 Produce — Block 21
 
 - [ ] Baby spinach — 2 bags (Mon + other sides)
 - [ ] Haricots verts or green beans — 1 lb (Tue)
 - [ ] Bok choy — 2 heads (Fri)
-- [ ] Cucumbers — 3 (quick pickled; Fri and Week 22)
+- [ ] Cucumbers — 3 (quick pickled; Fri and Block 22)
 - [ ] Lemons — 6
 - [ ] Garlic — 2 heads
 - [ ] Fresh dill — 1 bunch (whole fish garnish)
@@ -53,7 +53,7 @@
 
 ---
 
-## 🥦 Produce — Week 22
+## 🥦 Produce — Block 22
 
 - [ ] Shiitake mushrooms — 8 oz (Mon fish + mushroom)
 - [ ] Avocados — 3 (Tue tacos + Wed bowl)
@@ -71,20 +71,20 @@
 
 ## 🧂 Pantry
 
-- [ ] White miso paste — small tub (Week 21 Fri glaze)
-- [ ] Mirin and sake — small bottles (Week 21 Fri glaze + Week 22 Wed teriyaki)
+- [ ] White miso paste — small tub (Block 21 Fri glaze)
+- [ ] Mirin and sake — small bottles (Block 21 Fri glaze + Block 22 Wed teriyaki)
 - [ ] Soy sauce
-- [ ] Rice flour — for fish taco batter (Week 22 Tue; all-purpose also works)
-- [ ] Neutral oil — 1 quart (frying Week 22 Tue)
+- [ ] Rice flour — for fish taco batter (Block 22 Tue; all-purpose also works)
+- [ ] Neutral oil — 1 quart (frying Block 22 Tue)
 - [ ] Unsalted butter — 1 lb (meunière + pan sauces)
-- [ ] Sesame oil (Week 22 Wed bowl)
+- [ ] Sesame oil (Block 22 Wed bowl)
 - [ ] Sesame seeds
 - [ ] Saffron — small pinch (bouillabaisse rouille; expensive but worth it)
 - [ ] Fennel seeds — 1 tsp (bouillabaisse)
 - [ ] Baguette — for rouille croutons (Sat bouillabaisse)
 - [ ] Corn tortillas — 2 packs (Tue fish tacos)
 - [ ] Rice — jasmine and/or white (multiple days)
-- [ ] Eggs — 6 (Week 22 Sat bouillabaisse rouille egg yolks; Week 22 Tue fish taco batter)
+- [ ] Eggs — 6 (Block 22 Sat bouillabaisse rouille egg yolks; Block 22 Tue fish taco batter)
 
 ---
 
