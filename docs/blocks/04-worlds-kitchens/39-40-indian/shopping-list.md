@@ -34,7 +34,7 @@
 
 - [ ] Moong dal (yellow split mung) — 1 lb
 - [ ] Whole urad dal (black lentils) — 1 lb (dal makhani Fri Block 35)
-- [ ] Toor dal (pigeon peas) — 1 lb (sambar Block 36 Sat + weekday dal)
+- [ ] Toor dal (pigeon peas) — 1 lb (sambar Service 43 + weekday dal)
 - [ ] Dried chickpeas — 1 lb (Mon Block 36 chana masala; or 2 × 15-oz cans)
 - [ ] Rajma (kidney beans) — ½ lb (dal makhani)
 
@@ -99,7 +99,7 @@
 - [ ] All-purpose flour + bread flour (naan dough)
 - [ ] Instant yeast — 1 packet (naan)
 - [ ] Saffron — small pinch (biryani)
-- [ ] Tamarind paste — 1 jar (sambar Block 36 Sat)
+- [ ] Tamarind paste — 1 jar (sambar Service 43)
 - [ ] Mango pickle (achar) — 1 jar
 - [ ] Papad (poppadum) — 1 pack
 - [ ] Samosas — store-bought fine for Saturday feast accompaniment

@@ -163,7 +163,7 @@
 - [ ] Garlic — 2 heads
 - [ ] Lemons — 4
 - [ ] Shallots — 4
-- [ ] Red bell peppers — 2 (Block 25 Tue merguez plate accompaniment — roast until charred)
+- [ ] Red bell peppers — 2 (Session 115 merguez plate accompaniment — roast until charred)
 
 **Board accompaniments (Wed + Sat):**
 - [ ] Cornichons — 1 jar
@@ -184,7 +184,7 @@
 - [ ] Capers (Fri and boards)
 - [ ] Couscous (Tue merguez dinner)
 - [ ] Eggs — 6 (Mon Block 26 carbonara; various)
-- [ ] Plain whole-milk yogurt — 1 cup (Block 25 Tue merguez dipping sauce)
+- [ ] Plain whole-milk yogurt — 1 cup (Session 115 merguez dipping sauce)
 - [ ] Pecorino Romano + Parmesan (carbonara Mon Block 26)
 - [ ] Spaghetti — 1 lb (Mon Block 26 carbonara)
 - [ ] Sheep casings — optional; order online (Tue sausage)

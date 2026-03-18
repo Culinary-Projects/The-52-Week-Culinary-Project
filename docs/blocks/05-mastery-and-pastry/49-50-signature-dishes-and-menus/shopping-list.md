@@ -90,7 +90,7 @@ Now that you are in the final weeks, check and replenish:
 
 **Block 48 is about you** — the shopping list for Block 48 is entirely based on your personal signature dishes. Look at your Block 48 menu, write your own shopping list customized to those dishes, and buy the highest-quality ingredients you have all year.
 
-**Freezer note:** Cookie dough from Block 47 Wednesday should be portioned and frozen; tag with date and bake time. These are your emergency dinner party cookies for Blocks 49–52.
+**Freezer note:** Cookie dough from Session 212 should be portioned and frozen; tag with date and bake time. These are your emergency dinner party cookies for Blocks 49–52.
 
 ---
 

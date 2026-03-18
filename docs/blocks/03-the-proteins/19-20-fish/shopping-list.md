@@ -13,7 +13,7 @@
 - [ ] **Dutch oven** — for Tuesday's fish tacos (frying)
 - [ ] **Thermometer** — essential; also useful for checking oil temp for frying (350°F target)
 - [ ] **Fish spatula** — wide, thin, flexible; the tool that makes flipping fish easy
-- [ ] **Wire rack + sheet pan** — for draining fried fish tacos (Block 22 Tue)
+- [ ] **Wire rack + sheet pan** — for draining fried fish tacos (Session 87)
 - [ ] **Coarse sea salt** — 3–4 lbs if doing the salt-bake version of Saturday's whole fish
 
 ---
@@ -71,20 +71,20 @@
 
 ## 🧂 Pantry
 
-- [ ] White miso paste — small tub (Block 21 Fri glaze)
-- [ ] Mirin and sake — small bottles (Block 21 Fri glaze + Block 22 Wed teriyaki)
+- [ ] White miso paste — small tub (Session 85 glaze)
+- [ ] Mirin and sake — small bottles (Session 85 glaze + Session 88 teriyaki)
 - [ ] Soy sauce
-- [ ] Rice flour — for fish taco batter (Block 22 Tue; all-purpose also works)
-- [ ] Neutral oil — 1 quart (frying Block 22 Tue)
+- [ ] Rice flour — for fish taco batter (Session 87; all-purpose also works)
+- [ ] Neutral oil — 1 quart (frying Session 87)
 - [ ] Unsalted butter — 1 lb (meunière + pan sauces)
-- [ ] Sesame oil (Block 22 Wed bowl)
+- [ ] Sesame oil (Session 88 bowl)
 - [ ] Sesame seeds
 - [ ] Saffron — small pinch (bouillabaisse rouille; expensive but worth it)
 - [ ] Fennel seeds — 1 tsp (bouillabaisse)
 - [ ] Baguette — for rouille croutons (Sat bouillabaisse)
 - [ ] Corn tortillas — 2 packs (Tue fish tacos)
 - [ ] Rice — jasmine and/or white (multiple days)
-- [ ] Eggs — 6 (Block 22 Sat bouillabaisse rouille egg yolks; Block 22 Tue fish taco batter)
+- [ ] Eggs — 6 (Service 22 bouillabaisse rouille egg yolks; Session 87 fish taco batter)
 
 ---
 
