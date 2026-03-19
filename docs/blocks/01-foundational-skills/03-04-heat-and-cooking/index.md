@@ -1,5 +1,7 @@
 # 🔥 Block 3–4: Heat & Cooking Methods
 
+← [Block 1–2: Knife Skills](../01-02-knife-skills/index.md) | [Block 5–6: Mother Sauces →](../05-06-mother-sauces/index.md)
+
 > *"Understanding heat is understanding cooking. Everything else is detail."*
 
 **Quick Reference:** [→ Block 3–4 Recipe Quick Ref](quick-ref.md)

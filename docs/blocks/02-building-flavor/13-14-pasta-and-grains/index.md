@@ -1,6 +1,6 @@
 # 🍝 Block 13–14: Pasta & Grains from Scratch
 
-← [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
+← [Block 11–12: Vegetables](../11-12-vegetables-plant-forward/index.md) | [Block 15–16: Beef →](../../03-the-proteins/15-16-beef/index.md)
 
 ---
 
@@ -305,4 +305,4 @@ This is the most important reflection yet. Five questions, five sentences minimu
 
 ---
 
-← [Block 11–12: Vegetables](../11-12-vegetables-plant-forward/index.md) | [Block 15–16: Lamb & Game →](../../03-the-proteins/15-16-lamb-and-game/index.md)
+← [Block 11–12: Vegetables](../11-12-vegetables-plant-forward/index.md) | [Block 15–16: Beef →](../../03-the-proteins/15-16-beef/index.md)

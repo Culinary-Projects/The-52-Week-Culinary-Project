@@ -57,36 +57,36 @@ This is when each piece of equipment first becomes necessary. You can buy ahead,
 |------|--------------------|
 | Boning knife | Block 15 |
 | Grill pan or outdoor grill | Block 15 |
-| Sous vide circulator | Block 17 — *optional but useful* |
-| Fish spatula | Block 19 |
-| Meat grinder or food processor | Block 23 — for sausage-making |
-| Sausage stuffer or piping bag | Block 23 |
-| Probe thermometer (leave-in style) | Block 25 |
+| Sous vide circulator | Block 15 — *optional but useful* |
+| Fish spatula | Block 17 |
+| Meat grinder or food processor | Block 21 — for sausage-making |
+| Sausage stuffer or piping bag | Block 21 |
+| Probe thermometer (leave-in style) | Block 23 |
 
 ### Unit 4 — World's Kitchens (Blocks 27–44)
 
 | Item | Block First Needed |
 |------|--------------------|
-| Wok (carbon steel, 14 inch) | Block 35 — Chinese unit |
-| Mortar and pestle | Block 39 — Indian, continuing through SE Asian |
-| Spider strainer | Block 35 — useful for wok cooking and blanching |
-| Rice cooker | Block 39 — *optional; a good saucepan works* |
-| Steamer basket or bamboo steamer | Block 35 |
+| Wok (carbon steel, 14 inch) | Block 33 — Chinese unit |
+| Mortar and pestle | Block 37 — Indian, continuing through SE Asian |
+| Spider strainer | Block 33 — useful for wok cooking and blanching |
+| Rice cooker | Block 37 — *optional; a good saucepan works* |
+| Steamer basket or bamboo steamer | Block 33 |
 
 ### Unit 5 — Mastery & Pastry (Blocks 45–52)
 
 | Item | Block First Needed |
 |------|--------------------|
-| Digital kitchen scale | Block 45 — baking requires weight, not volume |
-| Dutch oven (for bread baking) | Block 45 — you likely own this already |
-| Banneton / proofing basket | Block 45 |
-| Stand mixer | Block 45 — *optional but useful for both bread and pastry* |
+| Digital kitchen scale | Block 43 — baking requires weight, not volume |
+| Dutch oven (for bread baking) | Block 43 — you likely own this already |
+| Banneton / proofing basket | Block 43 |
+| Stand mixer | Block 43 — *optional but useful for both bread and pastry* |
 | Pastry brush | Block 47 |
 | Tart pan with removable bottom | Block 47 |
 | Kitchen torch | Block 47 — for crème brûlée, finishing |
 | Piping bag and tips | Block 47 |
 | Rolling pin | Block 47 — if not already owned from pasta |
-| Bench scraper | Block 45 — for bread shaping and pastry work |
+| Bench scraper | Block 43 — for bread shaping and pastry work |
 
 ---
 
@@ -111,8 +111,8 @@ The program uses two knives regularly. Everything else is optional or block-spec
 | **Chef's knife** | Block 1 | Your primary knife for 90% of all cutting |
 | **Paring knife** | Blocks 1–2 | For detail work, peeling, small prep |
 | **Boning knife** | Block 15 | Breaking down lamb and other cuts |
-| **Fish spatula** | Block 19 | For fillets — not technically a knife, but a precision tool |
-| **Bread knife (serrated)** | Block 45 | Cutting finished loaves |
+| **Fish spatula** | Block 17 | For fillets — not technically a knife, but a precision tool |
+| **Bread knife (serrated)** | Block 43 | Cutting finished loaves |
 
 A sharpening stone and the skill to use it are introduced in Block 1. Honing (every session) and sharpening (every 2–3 months depending on use) are covered in the first block's reading.
 

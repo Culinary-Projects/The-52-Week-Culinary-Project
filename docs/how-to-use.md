@@ -10,7 +10,7 @@ Every session has a **Read** — a linked article that explains the *why* behind
 
 When you cook a dish without understanding why it works, you learn one recipe. When you read the article alongside it, you learn a transferable principle that applies to a hundred dishes you haven't made yet.
 
-Kenji's article on [wok hei](https://www.seriouseats.com/wok-skills-101-how-to-season-a-wok) isn't just about woks. It explains high-heat chemistry in a way that changes how you think about every sear, every sauté, every time you're tempted to crowd the pan. That's the difference between following a recipe and understanding cooking.
+Kenji's article on [wok hei](https://thewoksoflife.com/how-to-season-a-wok/) isn't just about woks. It explains high-heat chemistry in a way that changes how you think about every sear, every sauté, every time you're tempted to crowd the pan. That's the difference between following a recipe and understanding cooking.
 
 **The rule:** Before you clean up, open the article. Read it while the meal is still in your memory.
 
@@ -155,7 +155,7 @@ Write down what you think went wrong. Even a single sentence before you move on 
 
 The program is deliberately sequenced. Block 1's knife skills feed into Block 3's mise en place, which feeds into Block 7's stock timing, which feeds into Block 15's butchery. You will notice callbacks and repetitions throughout — they're intentional.
 
-If you skip blocks or jump ahead, you'll cook the recipes but miss the compounding. The whole point is that by Block 40, you're not following a recipe for Thai curry — you understand what's happening in the pan and can adapt on the fly. That only happens if the foundations were built underneath it.
+If you skip blocks or jump ahead, you'll cook the recipes but miss the compounding. The whole point is that by Block 38, you're not following a recipe for Thai curry — you understand what's happening in the pan and can adapt on the fly. That only happens if the foundations were built underneath it.
 
 Do the blocks in order. Skip a session if life happens — that's fine — but don't skip a block.
 

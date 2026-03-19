@@ -1,0 +1,48 @@
+# Quick Reference — Block 19–22: Shellfish
+
+← [Back to Full Guide](index.md) | [Shopping List](shopping-list.md)
+
+---
+
+## Block 21 — Bivalves & Crustaceans
+
+| Session | Dish | Technique | Key Temp / Timing |
+|-----|------|-----------|-------------------|
+| Session 98 | [Spaghetti alle Vongole](https://www.seriouseats.com/spaghetti-pasta-alle-vongole-clams-recipe) | Steam-open in wine | Open = done; ~5 min |
+| Session 99 | [Moules Marinière](https://www.seriouseats.com/the-best-moules-mariniere-sailor-style-mussels-recipe) | Steam open in aromatics | Open = done; 4–6 min |
+| Session 100 | [Roasted Oysters w/ Bacon](https://www.seriouseats.com/roasted-oysters-with-bacon-and-parmesan-recipe-11874377) | Dry heat oven roast | 450°F until open; 8–10 min |
+| Session 101 | [Shrimp Scampi](https://www.seriouseats.com/shrimp-scampi-pasta) | [Fast sauté + butter pan sauce](https://www.seriouseats.com/shrimp-scampi-butter-garlic-recipe) | Shrimp: 1–2 min/side; pull early |
+| Service 25 | [**PROJECT:** Lobster Night](https://www.seriouseats.com/stop-overcooking-lobster-11899689) | [Broil / steam + shell bisque](https://www.seriouseats.com/lobster-bisque-recipe) | Internal 140°F; rest before serving |
+
+## Block 22 — Complex Shellfish
+
+| Session | Dish | Technique | Notes |
+|-----|------|-----------|-------|
+| Session 102 | [Singaporean Chili Crab](https://www.seriouseats.com/singaporean-singapore-chili-crab-recipe) | Stir-fry crab in sauce | [Pre-crack shell before cooking](https://www.seriouseats.com/stop-overcooking-lobster-11899689) |
+| Session 103 | [Shrimp in Compound Butter](https://www.seriouseats.com/shrimp-scampi-pasta) | Quick sauté, shell stock | [Make compound butter for freezer](https://www.seriouseats.com/shrimp-scampi-butter-garlic-recipe) |
+| Session 104 | [Clam Chowder or Clam-Corn Pasta](https://www.seriouseats.com/new-england-clam-chowder-recipe) | Simmer / pasta | [Canned clams fine for chowder](https://www.seriouseats.com/new-england-clam-chowder-recipe) |
+| Session 105 | [Mussels in Tomato-Saffron](https://www.seriouseats.com/the-best-moules-mariniere-sailor-style-mussels-recipe) | Steam open in broth | Same technique as Block 21 |
+| Service 26 | **PROJECT:** Shellfish Plateau | [Multi-prep, raw + roasted + seared](https://www.seriouseats.com/roasted-oysters-with-bacon-and-parmesan-recipe-11874377) | Time: cold first, hot served last |
+
+---
+
+## Key Shellfish Doneness Notes
+
+| Shellfish | When It's Done | Danger Sign |
+|-----------|---------------|-------------|
+| Clams | Shell opens | Still closed after 8 min → discard |
+| [Mussels](https://www.seriouseats.com/the-best-moules-mariniere-sailor-style-mussels-recipe) | Shell opens | Still closed after 6 min → discard |
+| [Oysters (roasted)](https://www.seriouseats.com/roasted-oysters-with-bacon-and-parmesan-recipe-11874377) | Shell opens, meat barely firms | Curled/shrunken = overcooked |
+| [Shrimp](https://www.seriouseats.com/shrimp-scampi-pasta) | Pink and curled into loose C shape | Tight O shape = overcooked |
+| Scallops | 120–125°F internal | Rubbery = overcooked |
+| [Lobster](https://www.seriouseats.com/stop-overcooking-lobster-11899689) | 140°F tail meat | Dry/stringy = overcooked |
+
+---
+
+## Key Shellfish Sourcing Notes
+
+- **Bivalves:** Buy live, shells tightly closed; tap any open ones — they should close
+- **Shrimp:** "Fresh" shrimp at grocery stores is usually frozen-thawed; frozen wild-caught is fine
+- **Lobster:** Buy day of cook from a store with a live tank; avoid if tank smells off
+- **Crab:** Ask fishmonger for live or freshly cooked; frozen legs are a valid option for chili crab
+- **Scallops:** Dry-packed only (see Blocks 13–14 for full technique)

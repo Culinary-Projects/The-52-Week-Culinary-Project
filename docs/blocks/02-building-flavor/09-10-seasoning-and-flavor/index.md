@@ -1,6 +1,6 @@
 # 🧂 Block 9–10: Seasoning & Flavor Building
 
-← [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
+← [Block 7–8: Stocks & Eggs](../../01-foundational-skills/07-08-stocks-and-eggs/index.md) | [Block 11–12: Vegetables →](../11-12-vegetables-plant-forward/index.md)
 
 ---
 
