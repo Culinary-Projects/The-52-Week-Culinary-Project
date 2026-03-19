@@ -48,6 +48,8 @@ This week covers five core dessert structures — each uses a different mechanis
 - Taste all three sauces with vanilla ice cream — the comparison is the lesson
 - Butterscotch variation for further comparison
 
+**🍽️ Tonight's Dinner:** This entire block is dessert. Plan a simple savory dinner before each session — something from your existing repertoire that takes 20 minutes. Tonight: a quick stir-fry or pasta, then the sauce tasting is your dessert course.
+
 > 🎥 **Compare Notes:** [Perfect Stovetop Chocolate Caramels](https://www.youtube.com/watch?v=KXH2SFX_8Ts) *(Claire Saffitz)* — She's working at hard-crack stage rather than sauce stage; watch how she reads color as the primary signal and treats the thermometer as secondary.
 
 ---
@@ -61,6 +63,8 @@ This week covers five core dessert structures — each uses a different mechanis
 
 **Full Meal:**
 - Crème Brûlée × 4 (make ahead; refrigerate; brûlée right before serving)
+
+**🍽️ Tonight's Dinner:** The crème brûlée is dessert. Cook a real dinner first — a piece of pan-seared fish, a salad, whatever's quick — then torch the brûlée at the table for maximum drama.
 
 > 🎥 **Compare Notes:** [Crème Brûlée & Crème Caramel](https://www.youtube.com/watch?v=dsjoULgoCf4) *(Claire Saffitz)* — She makes both in one session; the crème caramel comparison shows how the same custard base behaves completely differently without the brûlée crust.
 
@@ -76,6 +80,8 @@ This week covers five core dessert structures — each uses a different mechanis
 **Full Meal:**
 - Panna cotta with [raspberry coulis](https://www.bbcgoodfood.com/recipes/raspberry-coulis) or simply excellent olive oil and sea salt (the Sicilian approach)
 
+**🍽️ Tonight's Dinner:** Make something savory that matches the panna cotta's elegance — a simple roast chicken or grilled fish with lemon. Then the panna cotta is a proper dessert course.
+
 ---
 
 ### Session 209 — Chocolate Mousse
@@ -88,6 +94,8 @@ This week covers five core dessert structures — each uses a different mechanis
 **Full Meal:**
 - Chocolate mousse, chilled 2 hours minimum
 - Whipped cream + bitter chocolate shavings
+
+**🍽️ Tonight's Dinner:** Mousse needs 2 hours to chill anyway — use that time to cook dinner. A steak, a roast, or even a good sandwich. The mousse is the finale.
 
 ---
 
@@ -121,6 +129,8 @@ The final pastry week: ice cream, sorbet, and chocolate work. These are the prep
 - No-churn ice cream with caramel sauce from Session 206
 - Serve in bowls or alongside a slice of pie from Block 47–48
 
+**🍽️ Tonight's Dinner:** The ice cream churns in the freezer for hours — cook dinner while it sets. Anything goes; the ice cream is dessert.
+
 ---
 
 ### Session 244 — Sorbet and Granita
@@ -134,6 +144,8 @@ The final pastry week: ice cream, sorbet, and chocolate work. These are the prep
 - Raspberry sorbet and lemon granita side by side
 - Serve the granita in chilled glasses — it's a palate cleanser and a dessert
 
+**🍽️ Tonight's Dinner:** Granita needs periodic scraping over a few hours. Cook dinner between scrapes — a grain bowl, a quick curry, whatever you're craving. Sorbet and granita close the meal.
+
 ---
 
 ### Session 245 — Chocolate Tempering and Ganache
@@ -146,6 +158,8 @@ The final pastry week: ice cream, sorbet, and chocolate work. These are the prep
 **Full Meal:**
 - Chocolate truffles rolled in cocoa powder
 - Ganache-glazed éclairs (use leftover choux from Block 47)
+
+**🍽️ Tonight's Dinner:** Tempering chocolate is a focused project — eat before you start. A simple dinner from your repertoire, then truffles and éclairs are the evening's reward.
 
 ---
 

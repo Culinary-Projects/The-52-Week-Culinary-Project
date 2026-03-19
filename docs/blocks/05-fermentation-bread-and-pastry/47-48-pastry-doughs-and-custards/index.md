@@ -36,6 +36,8 @@ French pastry week is the most technically demanding section of this program. Th
 - Fill the baked tart shell with pastry cream and fresh fruit (strawberry, raspberry, kiwi)
 - Apricot glaze finish (brush with warm apricot jam)
 
+**🍽️ Tonight's Dinner:** The tart is dessert, not dinner. Make a quick savory meal first — a salad with grilled chicken, a simple pasta, or eggs and toast — then serve the fruit tart as a proper dessert course.
+
 ---
 
 ### Session 203 — Pastry Cream (Crème Pâtissière)
@@ -48,6 +50,8 @@ French pastry week is the most technically demanding section of this program. Th
 **Full Meal:**
 - Éclairs or cream puffs using pastry cream (choux pastry preview — see Session 205 for the full technique)
 - Chocolate glaze dipped
+
+**🍽️ Tonight's Dinner:** Eat dinner first, then serve éclairs as the dessert course. A bowl of soup, a roast chicken sandwich, anything savory — the pastry is the finish, not the foundation.
 
 > 🎥 **Compare Notes:** [How To Make A Fruit Tart](https://www.youtube.com/watch?v=DVh_EXHZsSQ) *(Claire Saffitz)* — Pastry cream is the central skill in this video; watch her tempering step and the moment she declares it done — that's the texture you're aiming for.
 
@@ -64,6 +68,8 @@ French pastry week is the most technically demanding section of this program. Th
 - Tarte Tatin with crème fraîche or vanilla ice cream
 - No other accompaniment needed — it's sufficient on its own
 
+**🍽️ Tonight's Dinner:** Tarte Tatin is magnificent but it's still dessert. Pan-sear a pork chop or make a simple omelet beforehand — the tart is your reward for eating your vegetables.
+
 > 🎥 **Compare Notes:** [Foolproof Tarte Tatin & Rough Puff Pastry](https://www.youtube.com/watch?v=eiQR-F5wqvk) *(Claire Saffitz)* — Note how far she lets the caramel darken before adding the apples, and her confidence at the inversion step — that's the point most people flinch.
 
 ---
@@ -78,6 +84,8 @@ French pastry week is the most technically demanding section of this program. Th
 **Full Meal:**
 - Chocolate-glazed éclairs with pastry cream filling (pastry cream from Session 203)
 - Or profiteroles with vanilla ice cream + chocolate sauce
+
+**🍽️ Tonight's Dinner:** Same principle as Session 203 — eat a real dinner, then profiteroles are dessert. A piece of fish and steamed vegetables take 15 minutes and give your éclairs the stage they deserve.
 
 > 🎥 **Compare Notes:** [Chocolate Éclairs / Pâte à Choux](https://www.youtube.com/watch?v=lB9X_nr2P7M) *(Claire Saffitz)* — Watch her dough consistency test — the ribbon drop off the spoon — that's the single diagnostic that tells you whether the choux will rise properly or collapse.
 
@@ -133,6 +141,8 @@ The pastry doughs from Block 47 aren't just for French desserts — they're the 
 - Apple pie with vanilla ice cream (or the no-churn ice cream from Block 49–50 if you've made it)
 - Cheddar cheese on the side is the New England way, and it's correct
 
+**🍽️ Tonight's Dinner:** Pie is the dessert course, not the meal. Throw together a simple roast — chicken thighs and root vegetables on a sheet pan — and the apple pie becomes the grand finale.
+
 ---
 
 ### Session 242 — Lemon Tart
@@ -145,6 +155,8 @@ The pastry doughs from Block 47 aren't just for French desserts — they're the 
 **Full Meal:**
 - Lemon tart with fresh berries and powdered sugar
 - Crème fraîche on the side
+
+**🍽️ Tonight's Dinner:** A green salad with grilled salmon or a quick pasta gives you a real meal — then serve the lemon tart as dessert. This is the rhythm of the pastry blocks: cook dinner simply, bake ambitiously.
 
 ---
 

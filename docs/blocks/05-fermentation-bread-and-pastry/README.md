@@ -8,6 +8,16 @@ By Block 52, you are no longer following a program. You are the program.
 
 ---
 
+### 🍽️ A Note on Meals in This Unit
+
+Units 1–4 produce a full dinner every session — protein, starch, vegetable, sauce. Unit 5 is different. This is the technique laboratory of the program: fermentation, bread, and pastry are disciplines where the primary output is a component, not a composed plate. Your sauerkraut, your sourdough, your lemon tart — these are things you *serve with* dinner or *after* dinner, not dinner itself.
+
+We haven't abandoned the expectation that you cook a real meal. But we're honest that a croissant day or a chocolate mousse session doesn't end with a plated entrée. Where a session's output isn't a meal on its own, you'll see a **🍽️ Tonight's Dinner** note with a quick suggestion — a protein to sear, a soup to warm up, something from your freezer or your earlier blocks. The bake is the lesson; dinner is still your responsibility.
+
+Block 41–42 (Fermentation) and Block 51–52 (Capstone) are the exceptions — they produce real meals throughout. The four blocks in between (43–50) are where you'll need to plan ahead.
+
+---
+
 ## Blocks in This Unit
 
 | Blocks | Topic | Full Guide | Quick Ref | Shopping List |

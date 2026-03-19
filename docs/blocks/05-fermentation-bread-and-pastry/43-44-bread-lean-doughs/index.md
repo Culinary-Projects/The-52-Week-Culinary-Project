@@ -38,6 +38,8 @@ This week establishes the principles of bread-making through the two most forgiv
 - No-Knead Bread, first loaf
 - Tear and eat warm with cultured butter and good olive oil. That's the meal.
 
+**🍽️ Tonight's Dinner:** Pan-sear a chicken thigh or warm up a pot of soup — the fresh bread elevates anything. You're building bread skills this unit, not full plates; see the [note on meals](../README.md#a-note-on-meals-in-this-unit) in the Unit 5 overview.
+
 > 🎥 **Compare Notes:** [No-Knead Bread, Revisited](https://www.youtube.com/watch?v=6RUDa0FKplk) — He updates the original technique with a few small tweaks; compare his rationale for the changes to what you experience with your own first loaf.
 
 ---
@@ -52,6 +54,8 @@ This week establishes the principles of bread-making through the two most forgiv
 **Full Meal:**
 - Bread loaf #2 with different toppings or served alongside a simple soup
 
+**🍽️ Tonight's Dinner:** A pot of soup is the ideal partner — minestrone, lentil, or whatever's in the fridge. Warm bread + hot soup is a legitimate meal.
+
 ---
 
 ### Session 196 — No-Knead Focaccia
@@ -64,6 +68,8 @@ This week establishes the principles of bread-making through the two most forgiv
 **Full Meal:**
 - Focaccia with simple accompaniments
 - Serve with whatever soup or leftover protein you have — it elevates everything
+
+**🍽️ Tonight's Dinner:** Focaccia is a platform. Top half of it like a flatbread (ricotta, cherry tomatoes, arugula) or serve alongside a quick pan-seared fish. Don't let the bread be the only thing on the table.
 
 > 🎥 **Compare Notes:** [Extra-Flavorful Focaccia](https://www.youtube.com/watch?v=fE2sunDZhzg) *(Adam Ragusea)* — Watch his oil quantity and the dimpling logic — he explains why the fat pools create the crust they do. Compare to your bake: where did the oil go, and how did the surface behave?
 
@@ -122,6 +128,8 @@ You've built the fundamentals with no-knead and focaccia. Now you extend into le
 **Full Meal:**
 - Fresh baguette with butter and good cheese
 - Pair with a simple soup — French onion if you want to commit
+
+**🍽️ Tonight's Dinner:** French onion soup is the real answer here — it uses your baguette and gives you a complete meal. Short on time? A rotisserie chicken, your bread, and a green salad.
 
 > 🎥 **Compare Notes:** [How to Make Amazing French Baguettes at Home](https://www.youtube.com/watch?v=efqe9Umxopc) *(Alex French Guy Cooking)* — Watch his scoring technique and look for the "ear" — the raised flap of crust from a properly angled cut. Try to replicate his shaping motion.
 

@@ -49,6 +49,8 @@ Your sourdough starter (begun in Block 43, Service 49) should now be active, bub
 - First real sourdough loaf
 - Tear open warm with butter. You earned this.
 
+**🍽️ Tonight's Dinner:** You earned the bread — now feed yourself. A simple salad with roast chicken or a bowl of soup gives the sourdough a proper stage.
+
 ---
 
 ### Session 237 — Sourdough Variations: Whole Wheat and Add-Ins
@@ -61,6 +63,8 @@ Your sourdough starter (begun in Block 43, Service 49) should now be active, bub
 **Full Meal:**
 - Whole wheat sourdough or olive-walnut variation
 - Serve with a composed salad and good cheese
+
+**🍽️ Tonight's Dinner:** The composed salad suggestion is real — do it properly. A big salad with a poached egg, some shaved Parmesan, and your fresh bread is a complete meal.
 
 ---
 
@@ -105,6 +109,8 @@ Enriched doughs add fat, eggs, and sugar to the bread equation. The result: tend
 - Brioche loaf with jam and cultured butter
 - Use the remaining slices for French toast the next morning
 
+**🍽️ Tonight's Dinner:** Brioche is not dinner. Make a quick frittata or pan-sear a piece of fish — the brioche becomes the side.
+
 ---
 
 ### Session 201 — Croissants
@@ -117,6 +123,8 @@ Enriched doughs add fat, eggs, and sugar to the bread equation. The result: tend
 **Full Meal:**
 - Croissants (plain, butter, and chocolate-stuffed if you have pastry chocolate)
 - This is also dinner tonight
+
+**🍽️ Tonight's Dinner:** Let's be honest — croissants are not dinner. If you've been laminating all day and can't face another pan, a simple cheese plate, charcuterie, and a salad alongside your croissants makes a respectable French supper.
 
 > 🎥 **Compare Notes:** [The Croissant That Changed My Life](https://www.youtube.com/watch?v=vpwY3nmLLaA) *(Alex French Guy Cooking)* — The lamination logic requires seeing it done. Watch his fold technique and butter temperature management. The movement should be confident and decisive; hesitation warms the dough.
 
