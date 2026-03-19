@@ -115,7 +115,7 @@ You've built the fundamentals with no-knead and focaccia. Now you extend into le
 ### Session 234 — Baguette
 
 **Skill:** Pre-ferment (poolish); aggressive shaping; scoring for ear and bloom
-**Read first:** [How to Make Baguettes at Home](https://www.seriouseats.com/how-to-make-baguettes-at-home)
+**Read first:** [How to Make Baguettes at Home](https://www.kingarthurbaking.com/recipes/classic-baguettes-recipe)
 
 **What you're learning:** The baguette is the hardest lean bread to make at home because it demands precise shaping, proper scoring, and real steam. A poolish (flour + water + tiny yeast, mixed 12–16 hours ahead) builds the deep flavor that a quick mix can't achieve. The shape — long, even, tapered — is entirely about hand technique. This is the session that separates baking from bread-making.
 
@@ -130,7 +130,7 @@ You've built the fundamentals with no-knead and focaccia. Now you extend into le
 ### Session 235 — Flatbread Survey: Pita and Naan
 
 **Skill:** High-heat stovetop and oven baking; dough hydration for puff; working with yogurt-enriched doughs
-**Read first:** [Pita Bread](https://www.seriouseats.com/pita-bread-recipe) and [Naan](https://www.seriouseats.com/naan-recipe)
+**Read first:** Pita Bread and [Naan](https://www.kingarthurbaking.com/recipes/naan-recipe)
 
 **What you're learning:** Flatbreads are the oldest bread format — unleavened or lightly leavened doughs cooked fast and hot. Pita relies on extreme oven heat to create the steam pocket (the puff); naan uses yogurt for tenderness and a screaming-hot cast iron skillet for char. Both are done in under 30 minutes of active work once the dough is ready. These are the breads most of the world eats daily.
 
@@ -186,3 +186,7 @@ Bread baking is flour + water + time. But the mechanism is gluten development �
 ### A Book Worth Having
 
 - 📚 [***Flour Water Salt Yeast* by Ken Forkish**](https://www.amazon.com/dp/160774273X) — The definitive home bread book. Covers the full progression from no-knead through poolish baguettes and levain breads, with the science explained in baker's language.
+
+---
+
+← [Block 41–42: Fermentation & Preservation](../41-42-fermentation-and-preservation/index.md) | [Block 45–46: Bread — Sourdough & Enriched →](../45-46-bread-sourdough-and-enriched/index.md)

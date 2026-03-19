@@ -18,9 +18,9 @@
 
 | Session | Preparation | Key Technique | Critical Point |
 |---------|-------------|---------------|----------------|
-| Session 243 | [No-Churn Ice Cream](https://www.seriouseats.com/no-churn-ice-cream-recipe) | Condensed milk + whipped cream | Freeze 6+ hrs; denser than churned |
-| Session 244 | [Sorbet](https://www.seriouseats.com/raspberry-sorbet-recipe) + Granita | Sugar/acid ratio; crystal control | Too little sugar = rock-hard |
-| Session 245 | [Tempered Chocolate](https://www.seriouseats.com/how-to-temper-chocolate) + [Ganache](https://www.seriouseats.com/chocolate-ganache-recipe) | Crystal structure; emulsion | 115°F → 82°F → 88°F (dark) |
+| Session 243 | No-Churn Ice Cream | Condensed milk + whipped cream | Freeze 6+ hrs; denser than churned |
+| Session 244 | Sorbet + Granita | Sugar/acid ratio; crystal control | Too little sugar = rock-hard |
+| Session 245 | [Tempered Chocolate](https://www.seriouseats.com/the-food-lab-best-way-to-temper-chocolate) + [Ganache](https://www.kingarthurbaking.com/recipes/chocolate-ganache-recipe) | Crystal structure; emulsion | 115°F → 82°F → 88°F (dark) |
 | Service 57 | **Grand Dessert Tasting** | Multi-dessert plating | 4+ preparations; plate with intention |
 
 ---
@@ -32,8 +32,8 @@
 | [Crème brûlée](https://www.seriouseats.com/creme-brulee-recipe-7107199) | Egg protein coagulation | 5–6 yolks / 500ml cream | Dense, silky, firm |
 | [Panna cotta](https://www.seriouseats.com/classic-panna-cotta-vanilla-bean-recipe) | Gelatin | ~2 tsp / 500ml liquid | Quivering, delicate |
 | [Chocolate mousse](https://www.seriouseats.com/chocolate-mousse-recipe-7109970) | Egg white foam + chocolate set | 3 whites / 200g chocolate | Airy, rich |
-| [No-churn ice cream](https://www.seriouseats.com/no-churn-ice-cream-recipe) | Freeze + sugar depression | 1 can condensed milk / 2 cups cream | Dense, scoopable |
-| [Sorbet](https://www.seriouseats.com/raspberry-sorbet-recipe) | Freeze + sugar | ~25% sugar by weight | Smooth, bright |
+| No-churn ice cream | Freeze + sugar depression | 1 can condensed milk / 2 cups cream | Dense, scoopable |
+| Sorbet | Freeze + sugar | ~25% sugar by weight | Smooth, bright |
 | Granita | Freeze + scrape | ~20% sugar | Icy, crystalline |
 
 ## Chocolate Working Temperatures

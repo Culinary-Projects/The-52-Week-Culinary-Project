@@ -19,8 +19,8 @@
 | Session | Preparation | Key Technique | Critical Point |
 |---------|-------------|---------------|----------------|
 | Session 240 | [Quiche Lorraine](https://www.seriouseats.com/quiche-lorraine-recipe-8715255) | Savory custard in blind-baked shell | Pull at 160°F; jiggly center is correct |
-| Session 241 | [Apple Pie](https://www.seriouseats.com/best-apple-pie-recipe) | Flaky dough; cold butter; lattice top | Ice cold fat; water 1 tbsp at a time |
-| Session 242 | [Lemon Tart](https://www.seriouseats.com/lemon-tart-recipe) | Lemon curd to 170°F; pour warm | Should taste clearly sour |
+| Session 241 | [Apple Pie](https://www.kingarthurbaking.com/recipes/apple-pie-recipe) | Flaky dough; cold butter; lattice top | Ice cold fat; water 1 tbsp at a time |
+| Session 242 | [Lemon Tart](https://www.bonappetit.com/recipe/lemon-tart) | Lemon curd to 170°F; pour warm | Should taste clearly sour |
 | Service 55 | **PROJECT:** Afternoon Tea | Multi-pastry spread; composed service | Most items make-ahead |
 
 ---

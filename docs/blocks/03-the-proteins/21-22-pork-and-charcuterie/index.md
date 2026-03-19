@@ -1,6 +1,6 @@
-# 🐷 Block 19–22: Pork & Charcuterie
+# 🐷 Block 21–22: Pork & Charcuterie
 
-← [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
+← [Block 19–20: Shellfish](../19-20-shellfish/index.md) | [Block 23–24: Poultry →](../23-24-poultry/index.md)
 
 ---
 
@@ -375,4 +375,4 @@ Gravlax is the cleanest introduction to curing — no smoking, no casings, no sp
 ---
 
 
-← [Block 17–20: Shellfish](../19-20-shellfish/index.md) | [Block 21–24: Poultry →](../23-24-poultry/index.md)
+← [Block 19–20: Shellfish](../19-20-shellfish/index.md) | [Block 23–24: Poultry →](../23-24-poultry/index.md)

@@ -1,6 +1,6 @@
-# 🦞 Block 17–20: Shellfish
+# 🦞 Block 19–20: Shellfish
 
-← [Block 15–18: Fish](../17-18-fish/index.md) | [Block 19–22: Pork & Charcuterie →](../21-22-pork-and-charcuterie/index.md)
+← [Block 17–18: Fish](../17-18-fish/index.md) | [Block 21–22: Pork & Charcuterie →](../21-22-pork-and-charcuterie/index.md)
 
 ---
 
@@ -247,3 +247,6 @@ A properly seared scallop has a deep, dry crust on each flat side and remains tr
 
 ---
 
+---
+
+← [Block 17–18: Fish](../17-18-fish/index.md) | [Block 21–22: Pork & Charcuterie →](../21-22-pork-and-charcuterie/index.md)

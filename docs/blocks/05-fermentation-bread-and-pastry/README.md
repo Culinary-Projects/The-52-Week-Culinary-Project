@@ -1,8 +1,8 @@
-# Unit 5: Mastery & Pastry (Blocks 45–52)
+# Unit 5: Fermentation, Bread & Pastry (Blocks 41–52)
 
 ---
 
-> **The goal of this unit:** Close the loop. Bread and pastry complete the savory-to-sweet arc. Signature dish development builds your personal repertoire. The final blocks are about synthesis — cooking everything you've learned without recipes, for real guests, on a real schedule.
+> **The goal of this unit:** Close the loop. Fermentation and preservation build your pantry. Bread and pastry complete the savory-to-sweet arc. The capstone is about synthesis — cooking everything you've learned without recipes, for real guests, on a real schedule.
 
 By Block 52, you are no longer following a program. You are the program.
 
@@ -12,19 +12,23 @@ By Block 52, you are no longer following a program. You are the program.
 
 | Blocks | Topic | Full Guide | Quick Ref | Shopping List |
 |--------|-------|------------|-----------|---------------|
-| 45–46 | Bread — Every Style | [→ Guide](43-44-bread-lean-doughs/index.md) | [→ Quick Ref](43-44-bread-lean-doughs/quick-ref.md) | [→ Shopping](43-44-bread-lean-doughs/shopping-list.md) |
-| 47–48 | Pastry & Desserts | [→ Guide](47-48-pastry-doughs-and-custards/index.md) | [→ Quick Ref](47-48-pastry-doughs-and-custards/quick-ref.md) | [→ Shopping](47-48-pastry-doughs-and-custards/shopping-list.md) |
-| 49–50 | Your Signature Dishes & Menus | [→ Guide](51-52-capstone/index.md) | [→ Quick Ref](51-52-capstone/quick-ref.md) | [→ Shopping](51-52-capstone/shopping-list.md) |
-| 51–52 | Unit 5 Capstone: The Final Exam | [→ Guide](51-52-capstone/index.md) | [→ Quick Ref](51-52-capstone/quick-ref.md) | [→ Shopping](51-52-capstone/shopping-list.md) |
+| 41–42 | Fermentation & Preservation | [→ Guide](41-42-fermentation-and-preservation/index.md) | [→ Quick Ref](41-42-fermentation-and-preservation/quick-ref.md) | [→ Shopping](41-42-fermentation-and-preservation/shopping-list.md) |
+| 43–44 | Bread — Lean Doughs | [→ Guide](43-44-bread-lean-doughs/index.md) | [→ Quick Ref](43-44-bread-lean-doughs/quick-ref.md) | [→ Shopping](43-44-bread-lean-doughs/shopping-list.md) |
+| 45–46 | Bread — Sourdough & Enriched | [→ Guide](45-46-bread-sourdough-and-enriched/index.md) | [→ Quick Ref](45-46-bread-sourdough-and-enriched/quick-ref.md) | [→ Shopping](45-46-bread-sourdough-and-enriched/shopping-list.md) |
+| 47–48 | Pastry — Doughs & Custards | [→ Guide](47-48-pastry-doughs-and-custards/index.md) | [→ Quick Ref](47-48-pastry-doughs-and-custards/quick-ref.md) | [→ Shopping](47-48-pastry-doughs-and-custards/shopping-list.md) |
+| 49–50 | Pastry — Desserts | [→ Guide](49-50-pastry-desserts/index.md) | [→ Quick Ref](49-50-pastry-desserts/quick-ref.md) | [→ Shopping](49-50-pastry-desserts/shopping-list.md) |
+| 51–52 | Capstone: Signature Dishes & Final Exam | [→ Guide](51-52-capstone/index.md) | [→ Quick Ref](51-52-capstone/quick-ref.md) | [→ Shopping](51-52-capstone/shopping-list.md) |
 
 ---
 
 ## Core Skills Covered
 
-- **Bread** — sourdough from scratch; enriched doughs (brioche, cinnamon rolls); flatbreads (pita, naan, focaccia); laminated doughs (croissants)
-- **Pastry** — pâte sucrée and brisée; tarte tatin; panna cotta; crème brûlée; tempering chocolate; choux pastry (éclairs, profiteroles)
-- **Signature dishes** — identifying your two or three defining dishes; repeating them until they're automatic; menu designing around them
-- **Final exam** — design and execute a 3-course dinner for guests from memory; year-end skills audit; culinary philosophy statement
+- **Fermentation** — lacto-fermentation (sauerkraut, hot sauce); quick pickling; gravlax; cured egg yolks; preserves; compound butters; shrubs
+- **Lean breads** — no-knead, focaccia, pullman, baguette, flatbreads, pizza; sourdough starter cultivation
+- **Sourdough & enriched** — country sourdough, whole wheat, discard baking; brioche, croissants, cinnamon rolls
+- **Pastry doughs** — pâte sucrée; pastry cream; tarte tatin; choux (éclairs, profiteroles); rough puff (mille-feuille); quiche; pie; afternoon tea
+- **Desserts** — caramel; crème anglaise; crème brûlée; panna cotta; mousse; layer cake; ice cream; sorbet; tempering chocolate
+- **Capstone** — signature dish development; 3-course dinner for guests from memory; year-end skills audit
 
 ---
 
@@ -32,6 +36,8 @@ By Block 52, you are no longer following a program. You are the program.
 
 | Item | First Used |
 |------|-----------|
+| Fermentation weights / crocks | Block 41 |
+| Canning jars (various sizes) | Block 41 |
 | Dutch oven (for bread) | Block 43 |
 | Banneton / proofing basket | Block 43 |
 | Stand mixer (optional but useful) | Block 43 |
@@ -40,10 +46,11 @@ By Block 52, you are no longer following a program. You are the program.
 | Tart pan with removable bottom | Block 47 |
 | Kitchen torch | Block 47 |
 | Piping bag and tips | Block 47 |
+| Ice cream maker (optional) | Block 49 |
 
 ---
 
-*Previous: [Unit 4 — World's Kitchens](../04-worlds-kitchens/README.md) (Blocks 27–44)*
+*Previous: [Unit 4 — World's Kitchens](../04-worlds-kitchens/README.md) (Blocks 25–40)*
 
 ---
 

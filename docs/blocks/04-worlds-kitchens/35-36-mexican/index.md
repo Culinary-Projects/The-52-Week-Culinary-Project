@@ -1,6 +1,6 @@
-# 🇲🇽 Block 33–36: Mexican
+# 🇲🇽 Block 35–36: Mexican
 
-← [Block 31–34: Chinese Cuisine](../33-34-chinese/index.md) | [Block 35–38: Indian →](../37-38-indian/index.md)
+← [Block 33–34: Chinese](../33-34-chinese/index.md) | [Block 37–38: Indian →](../37-38-indian/index.md)
 
 ---
 
@@ -204,3 +204,6 @@ Mole negro is typically a multi-day project in its native context. Understanding
 
 ---
 
+---
+
+← [Block 33–34: Chinese](../33-34-chinese/index.md) | [Block 37–38: Indian →](../37-38-indian/index.md)

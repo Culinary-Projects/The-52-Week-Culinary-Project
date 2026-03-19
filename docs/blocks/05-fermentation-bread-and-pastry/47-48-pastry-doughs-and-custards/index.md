@@ -125,7 +125,7 @@ The pastry doughs from Block 47 aren't just for French desserts — they're the 
 ### Session 241 — Apple Pie (Double Crust)
 
 **Skill:** Flaky pie dough; cold butter technique; lattice or full top crust; fruit filling balance
-**Read first:** [The Best Apple Pie](https://www.seriouseats.com/best-apple-pie-recipe)
+**Read first:** [The Best Apple Pie](https://www.kingarthurbaking.com/recipes/apple-pie-recipe)
 
 **What you're learning:** American pie dough is the other great pastry tradition — different from French pâte sucrée. Here you want visible butter flakes (cold, cut into flour), minimal water (added a tablespoon at a time), and zero overworking. The fruit filling is about controlling moisture: toss the apples with sugar, let them macerate, reduce the juices separately, then reassemble. This prevents the gap between crust and fruit that ruins lesser pies.
 
@@ -138,7 +138,7 @@ The pastry doughs from Block 47 aren't just for French desserts — they're the 
 ### Session 242 — Lemon Tart
 
 **Skill:** Lemon curd technique; acid-sugar balance; curd in a baked shell
-**Read first:** [Lemon Tart](https://www.seriouseats.com/lemon-tart-recipe)
+**Read first:** [Lemon Tart](https://www.bonappetit.com/recipe/lemon-tart)
 
 **What you're learning:** Lemon curd is egg yolks + sugar + lemon juice + butter, cooked to 170°F until thick. The acid-to-sugar ratio is the creative decision — a good lemon tart should taste clearly, assertively sour with sweetness as a counterpoint, not the other way around. Pour the warm curd into a fully baked tart shell, chill until set, and serve at room temperature. This is one of the most elegant simple desserts in the pastry canon.
 
@@ -182,3 +182,7 @@ Sweet tart dough is the pastry equivalent of a mother sauce — once you can mak
 ### A Book Worth Having
 
 - 📚 [***BraveTart* by Stella Parks**](https://www.amazon.com/dp/0393239861) — The most scientifically rigorous American baking book ever written. Parks applies Food Lab-style testing to pastry. If you want to understand *why* your tart shell shrinks (and how to stop it), start here.
+
+---
+
+← [Block 45–46: Bread — Sourdough & Enriched](../45-46-bread-sourdough-and-enriched/index.md) | [Block 49–50: Pastry — Desserts →](../49-50-pastry-desserts/index.md)

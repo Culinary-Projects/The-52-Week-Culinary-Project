@@ -1,6 +1,6 @@
-# 🌿 Block 37–40: Unit 4 Capstone — Southeast Asian Cuisines
+# 🌿 Block 39–40: Unit 4 Capstone — Southeast Asian Cuisines
 
-← [Block 41–42: Middle Eastern](../41-42-middle-eastern/index.md) | [Block 39–44: Bread →](../../05-fermentation-bread-and-pastry/43-44-bread-lean-doughs/index.md)
+← [Block 37–38: Indian](../37-38-indian/index.md) | [Block 41–42: Fermentation & Preservation →](../../05-fermentation-bread-and-pastry/41-42-fermentation-and-preservation/index.md)
 
 ---
 
@@ -250,3 +250,6 @@ If you're checking all of these: you're ready for Unit 5.
 
 If you have two or more unchecked: you don't need to go back and redo every block. But identify the specific gap and cook one dish from that cuisine before Block 39. Muscle memory is the goal.
 
+---
+
+← [Block 37–38: Indian](../37-38-indian/index.md) | [Block 41–42: Fermentation & Preservation →](../../05-fermentation-bread-and-pastry/41-42-fermentation-and-preservation/index.md)

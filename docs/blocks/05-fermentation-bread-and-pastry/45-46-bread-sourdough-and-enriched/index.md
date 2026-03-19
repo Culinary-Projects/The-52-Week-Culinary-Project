@@ -67,7 +67,7 @@ Your sourdough starter (begun in Block 43, Service 49) should now be active, bub
 ### Session 238 — Sourdough Discard Cooking
 
 **Skill:** Using unfed starter as a flavor ingredient; pancake and cracker technique
-**Read first:** [Sourdough Discard Pancakes](https://www.kingarthurbaking.com/recipes/sourdough-pancakes-recipe) and [Sourdough Crackers](https://www.kingarthurbaking.com/recipes/sourdough-crackers-recipe)
+**Read first:** Sourdough Discard Pancakes and [Sourdough Crackers](https://www.kingarthurbaking.com/recipes/sourdough-crackers-recipe)
 
 **What you're learning:** Every sourdough baker accumulates discard — unfed starter removed during feeding. It's not waste; it's a tangy, complex-flavored ingredient. Discard pancakes are the gateway: the fermentation gives them a buttermilk-like tang and extraordinary fluffiness. Sourdough crackers are a revelation — paper-thin, shatteringly crisp, better than anything you can buy.
 
@@ -77,7 +77,7 @@ Your sourdough starter (begun in Block 43, Service 49) should now be active, bub
 
 ---
 
-### ⏰ Service 53 — Sourdough Evaluation
+### ⏰ Service 58 — Sourdough Evaluation
 
 **Skill:** Comparing wild yeast vs. commercial yeast breads; identifying fermentation flavor
 **Goal:** Line up your sourdough loaves next to the commercial-yeast breads from Block 43–44. Taste them side by side. The sourdough should have: more complex flavor (lactic acid tang), chewier crumb, crackly crust, and longer shelf life. If the flavor is flat, your starter needs more time or warmer conditions.
@@ -125,7 +125,7 @@ Enriched doughs add fat, eggs, and sugar to the bread equation. The result: tend
 ### Session 239 — Cinnamon Rolls
 
 **Skill:** Enriched dough shaping; filling distribution; cream cheese glaze technique
-**Read first:** [The Best Cinnamon Rolls](https://www.seriouseats.com/cinnamon-rolls-recipe)
+**Read first:** [The Best Cinnamon Rolls](https://www.kingarthurbaking.com/recipes/cinnamon-rolls-recipe)
 
 **What you're learning:** Cinnamon rolls use the same enriched dough principles as brioche but with a different shaping technique — roll, fill, cut, proof, bake. The filling (butter + cinnamon + brown sugar) needs to be spread evenly to the edges or you'll get bare spots. The glaze goes on while the rolls are hot so it melts into the layers. This is enriched dough as crowd-pleasing spectacle.
 
@@ -135,7 +135,7 @@ Enriched doughs add fat, eggs, and sugar to the bread equation. The result: tend
 
 ---
 
-### ⏰ Service 54 — Enriched Dough Tasting and Bread Capstone
+### ⏰ Service 59 — Enriched Dough Tasting and Bread Capstone
 
 **Skill:** Evaluating enriched doughs; understanding the spectrum from lean to laminated
 **Goal:** Taste your brioche, croissants, and cinnamon rolls alongside a store-bought croissant and brioche bun. Evaluate: butter flavor, layer definition (croissants), crumb tenderness (brioche), and overall richness. Then choose one bread from the entire bread curriculum (Blocks 43–46) and bake it one more time from memory.
@@ -172,3 +172,7 @@ Croissant dough and puff pastry both use lamination — alternating layers of do
 ### A Book Worth Having
 
 - 📚 [***Bread Science* by Emily Buehler**](https://www.amazon.com/dp/0615136079) — The scientific explanation of everything that happens when you make bread — yeast activity, gluten networks, crust formation — written for home bakers who want to understand, not just follow instructions.
+
+---
+
+← [Block 43–44: Bread — Lean Doughs](../43-44-bread-lean-doughs/index.md) | [Block 47–48: Pastry — Doughs & Custards →](../47-48-pastry-doughs-and-custards/index.md)

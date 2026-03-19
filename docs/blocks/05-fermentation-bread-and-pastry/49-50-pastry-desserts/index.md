@@ -113,7 +113,7 @@ The final pastry week: ice cream, sorbet, and chocolate work. These are the prep
 ### Session 243 — No-Churn Ice Cream
 
 **Skill:** Base composition; aeration without a machine; freeze behavior
-**Read first:** [No-Churn Ice Cream](https://www.seriouseats.com/no-churn-ice-cream-recipe)
+**Read first:** No-Churn Ice Cream
 
 **What you're learning:** No-churn ice cream uses sweetened condensed milk and whipped cream to create a scoopable texture without an ice cream machine. The condensed milk provides sugar concentration that lowers the freezing point, and the whipped cream provides air. The result is richer and denser than churned ice cream — closer to a semifreddo. Make a vanilla base, then a variation (coffee, strawberry, or chocolate chip).
 
@@ -126,7 +126,7 @@ The final pastry week: ice cream, sorbet, and chocolate work. These are the prep
 ### Session 244 — Sorbet and Granita
 
 **Skill:** Sugar-to-acid ratio; crystal size control; texture differences between churned and still-frozen
-**Read first:** [Raspberry Sorbet](https://www.seriouseats.com/raspberry-sorbet-recipe) and granita technique (freeze in a pan, scrape with a fork every 30 minutes)
+**Read first:** Raspberry Sorbet and granita technique (freeze in a pan, scrape with a fork every 30 minutes)
 
 **What you're learning:** Sorbet is fruit + sugar + water, churned smooth. Granita is the same base, frozen still and scraped into crystals. The sugar concentration controls freezing point and texture — too little sugar and the sorbet freezes rock-hard; too much and it won't set. A splash of alcohol (vodka, limoncello) keeps sorbet softer at serving temperature. The granita requires no equipment at all — just a pan, a freezer, and a fork.
 
@@ -139,7 +139,7 @@ The final pastry week: ice cream, sorbet, and chocolate work. These are the prep
 ### Session 245 — Chocolate Tempering and Ganache
 
 **Skill:** Chocolate crystal structure; working temperature curves; emulsion stability
-**Read first:** [How to Temper Chocolate](https://www.seriouseats.com/how-to-temper-chocolate) and [Chocolate Ganache](https://www.seriouseats.com/chocolate-ganache-recipe)
+**Read first:** [How to Temper Chocolate](https://www.seriouseats.com/the-food-lab-best-way-to-temper-chocolate) and [Chocolate Ganache](https://www.kingarthurbaking.com/recipes/chocolate-ganache-recipe)
 
 **What you're learning:** Tempering chocolate means controlling which crystal form (Form V) dominates as it sets — this creates the snap, gloss, and clean break of professional chocolate work. The technique: melt to 115°F, cool to 82°F (seed with chopped chocolate), then warm to 88–90°F. Ganache is simpler: hot cream poured over chopped chocolate, emulsified by stirring. The ratio (2:1 chocolate:cream for truffles, 1:1 for glazes) determines the texture.
 
@@ -195,7 +195,7 @@ Sticky toffee pudding is a date-rich British cake soaked in toffee sauce — not
 
 Chocolate mousse is your introduction to working with chocolate structurally. The deeper rabbit hole — tempering, ganache ratios, bonbons, bark — is long and genuinely satisfying.
 
-- 📖 [How to Temper Chocolate](https://www.seriouseats.com/how-to-temper-chocolate) — The crystal science and the practical technique.
+- 📖 [How to Temper Chocolate](https://www.seriouseats.com/the-food-lab-best-way-to-temper-chocolate) — The crystal science and the practical technique.
 - 📖 [Chocolate Mousse](https://www.seriouseats.com/chocolate-mousse-recipe-7109970) — The full recipe with the egg white folding method.
 
 ---
@@ -203,3 +203,7 @@ Chocolate mousse is your introduction to working with chocolate structurally. Th
 ### A Book Worth Having
 
 - 📚 [***BraveTart* by Stella Parks**](https://www.amazon.com/dp/0393239861) — The most scientifically rigorous American baking book ever written. Parks applies Food Lab-style testing to pastry.
+
+---
+
+← [Block 47–48: Pastry — Doughs & Custards](../47-48-pastry-doughs-and-custards/index.md) | [Block 51–52: Capstone →](../51-52-capstone/index.md)

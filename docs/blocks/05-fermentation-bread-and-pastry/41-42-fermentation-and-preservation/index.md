@@ -29,7 +29,7 @@ This week introduces the two primary preservation techniques every serious home 
 ### Session 210 — Sauerkraut and the Logic of Lacto-Fermentation
 
 **Skill:** Salt-by-weight calculation; creating anaerobic conditions; monitoring fermentation stages
-**Read first:** [Homemade Sauerkraut](https://www.seriouseats.com/homemade-sauerkraut-recipe)
+**Read first:** [Homemade Sauerkraut](https://www.seriouseats.com/homemade-fermented-sauerkraut-recipe)
 
 **What you're learning:** Lacto-fermentation is the simplest and oldest preservation method: salt suppresses harmful bacteria while encouraging *Lactobacillus* (the same bacteria in yogurt and sourdough) to convert sugars into lactic acid. The acid preserves the food and creates complex, tangy flavor. The ratio: 2–3% salt by weight of the vegetable. Submerge completely — exposure to air causes mold. Ferment at room temperature 1–4 weeks, tasting daily after Day 5.
 
@@ -44,7 +44,7 @@ This week introduces the two primary preservation techniques every serious home 
 ### Session 211 — Quick Pickles and Vinegar Preservation
 
 **Skill:** Hot brine preparation; acid-to-sugar balance; refrigerator pickle technique
-**Read first:** [Quick-Pickled Vegetables](https://www.seriouseats.com/quick-pickled-vegetables-recipe)
+**Read first:** [Quick-Pickled Vegetables](https://www.seriouseats.com/quick-pickle-recipes)
 
 **What you're learning:** Quick pickles use heated vinegar brine (vinegar + water + salt + sugar) poured over vegetables and refrigerated. They're ready in 30 minutes and last weeks in the fridge. This is not fermentation — there's no bacterial transformation — but it's the fastest way to add acidity and crunch to any plate. Pickle red onions, jalapeños, carrots, and radishes — these four will elevate everything you cook for the rest of the program.
 
@@ -57,7 +57,7 @@ This week introduces the two primary preservation techniques every serious home 
 ### Session 212 — Fermented Hot Sauce
 
 **Skill:** Chili fermentation; blending and straining; balancing heat, acid, and garlic
-**Read first:** [Fermented Hot Sauce](https://www.seriouseats.com/fermented-hot-sauce-recipe)
+**Read first:** [Fermented Hot Sauce](https://www.seriouseats.com/fermented-hot-sauce-how-to)
 
 **What you're learning:** Fermented hot sauce (like Tabasco and sriracha) gets its depth from a 5–7 day lacto-fermentation of chili peppers in salt before blending. The fermentation rounds out the raw heat and develops a complex sourness that vinegar-only sauces can't match. Use whatever fresh chilies are available — Fresno, serrano, habanero, or a mix. The ratio: peppers + garlic + 2–3% salt by weight. After fermentation, blend with vinegar to desired consistency.
 
@@ -70,7 +70,7 @@ This week introduces the two primary preservation techniques every serious home 
 ### Session 213 — Gravlax (Salt-Cured Salmon)
 
 **Skill:** Dry cure technique; salt-sugar-dill ratio; slicing against the grain
-**Read first:** [Gravlax](https://www.seriouseats.com/gravlax-recipe)
+**Read first:** [Gravlax](https://www.seriouseats.com/gravlax-cured-salmon-recipe)
 
 **What you're learning:** Gravlax is salmon cured in a salt-sugar-dill mixture for 24–48 hours. The salt draws moisture from the fish through osmosis, firming the texture and concentrating the flavor. The sugar balances the salt; the dill is traditional Scandinavian. This is not cooking with heat — the preservation is purely chemical. The result is silky, translucent, and far superior to store-bought smoked salmon (which is a different process).
 
@@ -108,7 +108,7 @@ This week broadens your preservation techniques beyond lacto-fermentation into s
 ### Session 214 — Fruit Preserves and Jam
 
 **Skill:** Pectin activation; gel point testing; jar sterilization; headspace management
-**Read first:** [Strawberry Jam](https://www.seriouseats.com/strawberry-jam-recipe)
+**Read first:** [Strawberry Jam](https://www.seriouseats.com/strawberry-preserves-water-activity-science-tests-8690773)
 
 **What you're learning:** Jam is fruit + sugar + acid + heat, relying on naturally occurring pectin (or added pectin) to gel. The gel point is 220°F at sea level — use a thermometer or the plate test (drop a spoonful on a cold plate; if it wrinkles when pushed, it's done). Sugar is not just sweetness — it's a preservative and a textural agent. Too little sugar and you get compote; too much and you get candy.
 
@@ -121,7 +121,7 @@ This week broadens your preservation techniques beyond lacto-fermentation into s
 ### Session 215 — Cured Egg Yolks
 
 **Skill:** Salt-sugar cure; dehydration; umami concentration
-**Read first:** [Salt-Cured Egg Yolks](https://www.seriouseats.com/cured-egg-yolks-recipe)
+**Read first:** [Salt-Cured Egg Yolks](https://www.bonappetit.com/recipe/cured-egg-yolks)
 
 **What you're learning:** Burying egg yolks in a mixture of salt and sugar for 4–7 days draws out nearly all moisture, transforming them into hard, grate-able umami bombs — often compared to bottarga or aged Parmesan. They add depth to pasta, salads, rice, and vegetables. This technique demonstrates that "curing" is fundamentally about moisture removal, whether applied to fish (gravlax), meat (charcuterie from Block 21–22), or eggs.
 
@@ -134,7 +134,7 @@ This week broadens your preservation techniques beyond lacto-fermentation into s
 ### Session 216 — Confit Garlic and Confit Anything
 
 **Skill:** Low-temperature oil preservation; confit technique; storing safely
-**Read first:** [Confit Garlic](https://www.seriouseats.com/confit-garlic-recipe)
+**Read first:** [Confit Garlic](https://www.bonappetit.com/recipe/garlic-confit)
 
 **What you're learning:** Confit means "preserved" — cooking slowly in fat at low temperature until incredibly tender, then storing submerged in that fat. Garlic confit is the gateway: whole peeled cloves cooked in olive oil at 200°F for 2+ hours until spreadable and golden. The garlic-infused oil is itself a pantry ingredient. The same technique works for cherry tomatoes, shallots, and duck legs (which you encountered in Block 25–26: French).
 
@@ -149,7 +149,7 @@ This week broadens your preservation techniques beyond lacto-fermentation into s
 ### Session 217 — Compound Butters and Flavor Bases
 
 **Skill:** Flavored butter technique; herb preservation; freezer pantry building
-**Read first:** [Compound Butter](https://www.seriouseats.com/compound-butter-recipe) (maître d'hôtel butter)
+**Read first:** Compound Butter (maître d'hôtel butter)
 
 **What you're learning:** Compound butter is softened butter mixed with herbs, spices, or aromatics, then rolled into a log and chilled or frozen. A slice melts over a steak (callback to Block 15–16), a fish fillet (Block 17–18), or a bowl of pasta. It's the simplest flavor multiplier in the kitchen. Make three versions today: herb (parsley, chives, lemon zest), garlic-miso (callbacks to Blocks 29–30 and 09–10), and a sweet version (honey-cinnamon for morning toast and pancakes).
 
@@ -163,7 +163,7 @@ This week broadens your preservation techniques beyond lacto-fermentation into s
 ### Session 218 — Shrubs and Drinking Vinegars
 
 **Skill:** Fruit-vinegar syrup; balancing sweetness and acidity; non-alcoholic cocktail base
-**Read first:** [How to Make Shrubs](https://www.seriouseats.com/how-to-make-shrubs-drinking-vinegars)
+**Read first:** How to Make Shrubs
 
 **What you're learning:** A shrub is fruit macerated in sugar, then combined with vinegar — essentially a drinking vinegar that becomes the base for cocktails and non-alcoholic drinks. The technique is simple (fruit + sugar overnight → strain → add vinegar → bottle), but the result is a pantry staple that adds complex sweet-sour depth to sparkling water, cocktails, or even vinaigrettes. This closes the circle on fermentation: your understanding of acid now spans lacto-fermentation, vinegar pickling, and shrub-making.
 
@@ -199,7 +199,7 @@ These aren't required reading — but if something from this block sparked a que
 Lacto-fermentation, sourdough, vinegar, yogurt, kimchi, miso, soy sauce — all fermentation. The underlying mechanism is always the same: microorganisms metabolizing sugars into acids, alcohols, or CO₂. Understanding which organisms are at work (and what conditions they need) is the key to controlled fermentation.
 
 - 📖 [The Art of Fermentation by Sandor Ellix Katz](https://www.amazon.com/dp/160342543X) — The definitive reference for home fermenters. Katz covers every fermentation tradition in the world with scientific context and practical instruction.
-- 📖 [Homemade Sauerkraut](https://www.seriouseats.com/homemade-sauerkraut-recipe) — The SE guide is the best starting reference for understanding salt-to-weight ratios and anaerobic conditions.
+- 📖 [Homemade Sauerkraut](https://www.seriouseats.com/homemade-fermented-sauerkraut-recipe) — The SE guide is the best starting reference for understanding salt-to-weight ratios and anaerobic conditions.
 
 ---
 
@@ -212,3 +212,7 @@ Every great cuisine is built on preservation: Korean kimchi, Japanese miso and t
 ### A Book Worth Having
 
 - 📚 [***The Noma Guide to Fermentation* by René Redzepi and David Zilber**](https://www.amazon.com/dp/1579657184) — Restaurant-grade fermentation techniques made accessible for home kitchens. Covers lacto-fermentation, kombucha, vinegar, miso, black garlic, and more. If this block ignited a serious interest, this is the next step.
+
+---
+
+← [Block 39–40: Southeast Asian](../../04-worlds-kitchens/39-40-southeast-asian/index.md) | [Block 43–44: Bread — Lean Doughs →](../43-44-bread-lean-doughs/index.md)

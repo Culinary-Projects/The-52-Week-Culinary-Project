@@ -1,4 +1,4 @@
-← [Block 15–16: Lamb & Game](../15-16-lamb-and-game/index.md) | [Block 15–18: Fish →](../17-18-fish/index.md)
+← [Block 13–14: Pasta & Grains](../../02-building-flavor/13-14-pasta-and-grains/index.md) | [Block 17–18: Fish →](../17-18-fish/index.md)
 
 ---
 
@@ -34,8 +34,8 @@ Over two weeks, you will work through the full spectrum of beef cookery: quick, 
 **Skill:** Dry-brine salting; cast iron vs. stainless searing; internal temperature reading; resting
 
 **Read first:**
-- [The Food Lab's Complete Guide to Pan-Seared Steaks](https://www.seriouseats.com/the-food-lab-perfect-pan-seared-steaks) — the foundational reference; read the full thing
-- [Why You Should Rest Your Meat](https://www.seriouseats.com/the-importance-of-resting-meat)
+- [The Food Lab's Complete Guide to Pan-Seared Steaks](https://www.seriouseats.com/butter-basted-pan-seared-steaks-recipe) — the foundational reference; read the full thing
+- [Why You Should Rest Your Meat](https://www.seriouseats.com/how-to-have-juicy-meats-steaks-the-food-lab-the-importance-of-resting-grilling)
 
 **What you're learning:** A steak is not cooked by heat alone — it is cooked by time at temperature. The Maillard reaction (the browning that creates crust flavor) requires a dry surface and high heat. Moisture prevents browning. This is why patting dry matters, why high-smoke-point oil matters, and why crowding the pan kills the sear.
 
@@ -49,7 +49,7 @@ Over two weeks, you will work through the full spectrum of beef cookery: quick, 
 
 **Target:** Medium-rare (130–135°F internal before rest). Crust should be deep brown, not grey.
 
-**Full Meal:** Pan-seared steak + [Hasselback Potatoes](https://www.seriouseats.com/the-best-hasselback-potatoes-recipe) + [Creamed Spinach](https://www.seriouseats.com/food-lab-creamed-spinach-recipe)
+**Full Meal:** Pan-seared steak + [Hasselback Potatoes](https://www.bonappetit.com/recipe/hasselback-potatoes) + [Creamed Spinach](https://www.seriouseats.com/food-lab-creamed-spinach-recipe)
 
 | Component | Notes |
 |-----------|-------|
@@ -64,8 +64,8 @@ Over two weeks, you will work through the full spectrum of beef cookery: quick, 
 **Skill:** Identifying beef primal cuts; understanding USDA grade; shopping for value cuts
 
 **Read first:**
-- [A Complete Guide to Beef Cuts](https://www.seriouseats.com/complete-guide-to-buying-beef-7481854) — understand where every cut comes from and why it cooks differently
-- [The Best Cheap Steaks](https://www.seriouseats.com/the-best-cheap-steaks-flat-iron-hanger-denver-6-cheap-cuts-worth-buying) — skirt, hanger, flat iron, bavette
+- [A Complete Guide to Beef Cuts](https://www.seriouseats.com/how-to-read-usda-beef-steak-labels) — understand where every cut comes from and why it cooks differently
+- [The Best Cheap Steaks](https://www.seriouseats.com/steak-for-grill-best-cuts-to-know-grilling) — skirt, hanger, flat iron, bavette
 
 **What you're learning:** Beef price correlates with tenderness, not flavor. The most flavorful cuts — hanger, skirt, chuck — are often the cheapest because they require more skill or shorter windows for optimal cooking. Once you understand the primal map (chuck, rib, loin, round, brisket, shank) and what connective tissue content means for each cut's ideal cooking method, you can shop intelligently for the rest of your life.
 
@@ -75,7 +75,7 @@ Over two weeks, you will work through the full spectrum of beef cookery: quick, 
 - Cook it with the same dry-brine and sear method as Session 74
 - Note: Where is this cut on the animal? What does that tell you about texture?
 
-**Full Meal:** Value-cut steak + [Serious Eats — Elote-Style Grilled Corn](https://www.seriouseats.com/mexican-street-corn-elote-recipe) + [Chimichurri](https://www.seriouseats.com/sauced-chimichurri-sauce-recipe)
+**Full Meal:** Value-cut steak + [Serious Eats — Elote-Style Grilled Corn](https://www.seriouseats.com/mexican-street-corn-elotes-recipe) + [Chimichurri](https://www.seriouseats.com/sauced-chimichurri-sauce-recipe)
 
 | Component | Notes |
 |-----------|-------|
@@ -115,7 +115,7 @@ Over two weeks, you will work through the full spectrum of beef cookery: quick, 
 **Skill:** Building a pan sauce from beef drippings; deglazing; reduction; butter mounting
 
 **Read first:**
-- [How to Make a Pan Sauce](https://www.seriouseats.com/the-food-lab-how-to-make-a-pan-sauce) — the complete technique
+- [How to Make a Pan Sauce](https://www.seriouseats.com/pan-seared-steaks-with-red-wine-pan-sauce-recipe) — the complete technique
 
 **What you're learning:** The brown bits stuck to your pan after searing a steak are one of the most flavorful things in your kitchen. They are caramelized proteins — fond — and the foundation of nearly every classic French sauce. Deglazing with wine or stock lifts them into solution, reduction concentrates the flavor, and a cold butter mount at the end creates emulsion and gloss.
 
@@ -128,7 +128,7 @@ Over two weeks, you will work through the full spectrum of beef cookery: quick, 
 - Season, pour over steak, serve immediately
 - **Variation:** Replace wine with cognac + cream for a pepper sauce (steak au poivre)
 
-**Full Meal:** Steak + red wine pan sauce + [Yorkshire Puddings](https://www.seriouseats.com/the-best-yorkshire-puddings-popover-recipe) + [Sautéed Mushrooms with Thyme](https://www.seriouseats.com/sauteed-mushrooms-recipe-7972096)
+**Full Meal:** Steak + red wine pan sauce + [Yorkshire Puddings](https://www.seriouseats.com/the-best-yorkshire-pudding-popover-recipe) + [Sautéed Mushrooms with Thyme](https://www.seriouseats.com/sauteed-mushrooms-recipe-7972096)
 
 | Component | Notes |
 |-----------|-------|
@@ -149,7 +149,7 @@ Over two weeks, you will work through the full spectrum of beef cookery: quick, 
 | **Starter** | Wedge salad with blue cheese dressing + crispy bacon | Classic steakhouse opener |
 | **Main** | Steak — your choice of cut and method | Traditional sear or reverse sear |
 | **Sauce** | Pan sauce from the steak fond | Red wine, cognac-pepper, or Béarnaise |
-| **Starch** | [Twice-Baked Potatoes](https://www.seriouseats.com/twice-baked-potatoes-recipe) | Prep the shells during the day |
+| **Starch** | [Twice-Baked Potatoes](https://www.bonappetit.com/recipe/best-twice-baked-potatoes) | Prep the shells during the day |
 | **Veg** | [Charred Asparagus with Romesco](https://www.seriouseats.com/how-to-cook-asparagus-7487955) | High-heat grill or broil |
 | **Dessert** | Optional but encouraged | |
 
@@ -169,8 +169,8 @@ Over two weeks, you will work through the full spectrum of beef cookery: quick, 
 **Skill:** Proper braising technique; searing before braising; collagen-to-gelatin conversion; braising liquid composition
 
 **Read first:**
-- [The Food Lab's Guide to Braised Short Ribs](https://www.seriouseats.com/the-food-lab-the-best-braised-short-ribs) — the science of why braising works, and how to do it right
-- [Everything You Need to Know About Braising](https://www.seriouseats.com/how-to-braise-everything-you-need-to-know)
+- [The Food Lab's Guide to Braised Short Ribs](https://www.seriouseats.com/red-wine-braised-beef-short-ribs-recipe) — the science of why braising works, and how to do it right
+- [Everything You Need to Know About Braising](https://www.seriouseats.com/ask-the-food-lab-how-much-liquid-braising)
 
 **What you're learning:** Braising converts collagen (which makes tough cuts chewy) into gelatin (which makes them silky). This only happens above 160°F over time — which is why braising in a covered pot at 275–325°F for 3–4 hours works, and why you can't rush it. The braising liquid becomes the sauce. The sear beforehand creates Maillard flavors that the liquid absorbs.
 
@@ -216,8 +216,8 @@ Over two weeks, you will work through the full spectrum of beef cookery: quick, 
 **Skill:** Understanding ground beef fat content; burger blending; the smash burger technique vs. thick patty
 
 **Read first:**
-- [The Food Lab's Best Burger](https://www.seriouseats.com/the-food-lab-top-6-mistakes-to-avoid-when-making-burgers) — why most home burgers go wrong and how to fix them
-- [The Smash Burger Technique Explained](https://www.seriouseats.com/smash-burger-recipe) — why the smash works
+- [The Food Lab's Best Burger](https://www.seriouseats.com/the-food-lab-flip-your-steaks-and-burgers-multiple-times-for-better-results) — why most home burgers go wrong and how to fix them
+- [The Smash Burger Technique Explained](https://www.seriouseats.com/ultra-smashed-cheeseburger-recipe-food-lab) — why the smash works
 
 **What you're learning:** Ground beef fat content determines juiciness. 80/20 (chuck) is the standard for burgers; leaner grinds produce drier patties. The smash burger works because immediate surface contact with a screaming-hot pan maximizes Maillard browning across the whole patty surface — more crust per bite than any thick patty can achieve. The thick patty works for a different reason: interior moisture and texture that smashing destroys.
 
@@ -249,7 +249,7 @@ Over two weeks, you will work through the full spectrum of beef cookery: quick, 
 **Skill:** Making brown beef stock from roasted bones; understanding veal vs. beef stock; demi-glace concept
 
 **Read first:**
-- [How to Make Rich Beef Stock](https://www.seriouseats.com/homemade-beef-stock-soup-recipe) — the complete process
+- How to Make Rich Beef Stock — the complete process
 
 **What you're learning:** Beef stock is the foundation of every classic French sauce and many other traditions. The difference between white and brown stock is whether the bones are roasted first (they are, for brown stock). Roasting creates Maillard compounds that the hot water extracts during the long, gentle simmer. This is why beef stock is darker, richer, and more complex than chicken stock — and why it takes 4–6 hours. A demi-glace is simply a reduction of brown stock and brown sauce combined, concentrated to near-syrup — the most powerful flavoring agent in European cooking.
 
@@ -302,9 +302,9 @@ These aren't required reading — but if something from this block sparked a que
 
 Beef is unique among proteins in the way muscle fiber type, fat distribution, and collagen content vary so dramatically by cut. Understanding this isn't academic; it directly determines how you should cook every piece of beef you buy.
 
-- 📖 [The Food Lab's Guide to Steaks](https://www.seriouseats.com/the-food-lab-the-best-way-to-cook-a-steak) — If you read only one thing about beef, let it be this. Everything about heat, temperature, searing, resting, and why each decision matters.
-- 📖 [Complete Beef Buying Guide](https://www.seriouseats.com/complete-guide-to-buying-beef-7481854) — Every cut, every primal, every cooking method. Bookmark this and use it as a reference whenever you're at the butcher.
-- 📖 [How to Make Demi-Glace at Home](https://www.seriouseats.com/how-to-make-demi-glace-at-home) — This is a weekend project. But if you've made brown beef stock and want to understand where professional sauces come from, this is the next step.
+- 📖 [The Food Lab's Guide to Steaks](https://www.seriouseats.com/butter-basted-pan-seared-steaks-recipe) — If you read only one thing about beef, let it be this. Everything about heat, temperature, searing, resting, and why each decision matters.
+- 📖 [Complete Beef Buying Guide](https://www.seriouseats.com/how-to-read-usda-beef-steak-labels) — Every cut, every primal, every cooking method. Bookmark this and use it as a reference whenever you're at the butcher.
+- 📖 How to Make Demi-Glace at Home — This is a weekend project. But if you've made brown beef stock and want to understand where professional sauces come from, this is the next step.
 
 ---
 
@@ -320,3 +320,6 @@ Beef is unique among proteins in the way muscle fiber type, fat distribution, an
 
 ---
 
+---
+
+← [Block 13–14: Pasta & Grains](../../02-building-flavor/13-14-pasta-and-grains/index.md) | [Block 17–18: Fish →](../17-18-fish/index.md)

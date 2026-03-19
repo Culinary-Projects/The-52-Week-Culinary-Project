@@ -1,6 +1,6 @@
-# 🍗 Block 21–24: Poultry
+# 🍗 Block 23–24: Poultry
 
-← [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
+← [Block 21–22: Pork & Charcuterie](../21-22-pork-and-charcuterie/index.md) | [Block 25–26: French Classics →](../../04-worlds-kitchens/25-26-french/index.md)
 
 ---
 
@@ -103,4 +103,4 @@ You've now cooked poultry four different ways in one week: high-heat whole roast
 
 ---
 
-← [Block 19–22: Pork & Charcuterie](../21-22-pork-and-charcuterie/index.md) | [Block 23–26: French Classics →](../../04-worlds-kitchens/25-26-french/index.md)
+← [Block 21–22: Pork & Charcuterie](../21-22-pork-and-charcuterie/index.md) | [Block 25–26: French Classics →](../../04-worlds-kitchens/25-26-french/index.md)

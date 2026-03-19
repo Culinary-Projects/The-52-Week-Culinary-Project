@@ -1,5 +1,7 @@
 # 🥣 Block 5–6: The 5 Mother Sauces
 
+← [Block 3–4: Heat & Cooking](../03-04-heat-and-cooking/index.md) | [Block 7–8: Stocks & Eggs →](../07-08-stocks-and-eggs/index.md)
+
 > *"Master these five sauces and you can make virtually any sauce on earth."*
 
 **Quick Reference:** [→ Block 5–6 Recipe Quick Ref](quick-ref.md)
@@ -178,13 +180,13 @@ Make the vinaigrette from scratch. Use it as the dressing *and* as a marinade fo
 
 **Extension — Compound Butter:** The simplest possible pan-sauce alternative: softened butter mixed with aromatics (herbs, garlic, lemon zest, anchovies, blue cheese) rolled in plastic wrap and refrigerated. Slice off a coin and place it on a hot steak or fish as it rests. It melts into an instant sauce. Make one tonight alongside the pork chops.
 
-**Full Meal:** [Pork Chops with Apple-Cider Pan Sauce](https://www.seriouseats.com/perfect-pan-seared-pork-chop-recipe) + compound butter (herb + garlic + lemon zest) + [Roasted Sweet Potatoes](https://www.seriouseats.com/the-best-roasted-sweet-potatoes-thanksgiving-sides-the-food-lab-recipe) + [Shaved Carrot & Herb Salad](https://www.seriouseats.com/light-herb-shaved-carrot-salad-recipe)
+**Full Meal:** [Pork Chops with Apple-Cider Pan Sauce](https://www.seriouseats.com/perfect-pan-seared-pork-chop-recipe) + compound butter (herb + garlic + lemon zest) + [Roasted Sweet Potatoes](https://www.seriouseats.com/the-best-roasted-sweet-potatoes-thanksgiving-sides-the-food-lab-recipe) + [Shaved Carrot & Herb Salad](https://www.seriouseats.com/how-to-make-carrot-salad-barberry-ghee)
 
 | Component | Recipe |
 |-----------|--------|
 | Protein | Pan-seared pork chops with apple-cider pan sauce |
 | Starch | Roasted sweet potatoes |
-| Salad | [Serious Eats — Shaved Carrot & Herb Salad](https://www.seriouseats.com/light-herb-shaved-carrot-salad-recipe) with your from-scratch vinaigrette |
+| Salad | [Serious Eats — Shaved Carrot & Herb Salad](https://www.seriouseats.com/how-to-make-carrot-salad-barberry-ghee) with your from-scratch vinaigrette |
 
 > 🎥 **Compare Notes:** [Pan-Seared Pork Chops with Apple Pan Sauce](https://www.youtube.com/watch?v=nHDNtxvrhHc) — This is the exact dish — compare when he deglazes and how he reduces the sauce to a glaze.
 

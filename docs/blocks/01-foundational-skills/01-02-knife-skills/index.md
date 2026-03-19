@@ -1,5 +1,7 @@
 # 🔪 Block 1–2: Knife Skills & Kitchen Setup
 
+[Block 3–4: Heat & Cooking →](../03-04-heat-and-cooking/index.md)
+
 > *"Learn to hold a knife properly and half the battle is won."*
 
 **Quick Reference:** [→ Block 1–2 Recipe Quick Ref](quick-ref.md)
@@ -250,3 +252,6 @@ Session 4 introduces mise en place but only as setup. The idea runs a lot deeper
 
 - 📚 [***The Food Lab* by J. Kenji López-Alt**](https://www.amazon.com/dp/0393081087) — The first chapter covers knife skills and mise en place with the same scientific rigour as everything else in the book. If you're going to own one reference book for this program, this is it.
 
+---
+
+[Block 3–4: Heat & Cooking →](../03-04-heat-and-cooking/index.md)

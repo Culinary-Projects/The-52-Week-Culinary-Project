@@ -1,6 +1,6 @@
-# 🇰🇷 Block 29–32: Korean Cuisine
+# 🇰🇷 Block 31–32: Korean Cuisine
 
-← [Block 27–30: Japanese Cuisine](../29-30-japanese/index.md) | [Block 31–34: Chinese →](../33-34-chinese/index.md)
+← [Block 29–30: Japanese](../29-30-japanese/index.md) | [Block 33–34: Chinese →](../33-34-chinese/index.md)
 
 ---
 
@@ -12,7 +12,7 @@
 
 **Read these first:**
 
-- 📖 [Serious Eats — Everything You Need to Know About Korean Ingredients](https://www.seriouseats.com/korean-food-ingredients-guide) — gochujang, doenjang, ganjang (soy), gochugaru, toasted sesame oil, perilla — the pantry that makes Korean food Korean
+- 📖 [Serious Eats — Everything You Need to Know About Korean Ingredients](https://www.maangchi.com/ingredients) — gochujang, doenjang, ganjang (soy), gochugaru, toasted sesame oil, perilla — the pantry that makes Korean food Korean
 - 📖 [Maangchi — About Korean Cooking](https://www.maangchi.com/about) — Maangchi is the most trusted Korean cooking resource in English. You'll use her recipes throughout this block.
 
 **Stock your pantry before starting this block:**
@@ -204,8 +204,8 @@ These aren't required reading — but if something from this block sparked a que
 
 Korean cooking's depth comes from fermented ingredients. Gochujang, doenjang, and kimchi aren't just condiments — they're the flavor infrastructure.
 
-- 📖 [Serious Eats — Gochujang, Explained](https://www.seriouseats.com/what-is-gochujang-korean-chili-paste-7559022) — what it is, how it's different from other chili pastes, and how to use it beyond the obvious
-- 📖 [Serious Eats — What is Doenjang?](https://www.seriouseats.com/what-is-doenjang-korean-fermented-soybean-paste) — the sister fermented paste to gochujang, and why it's more versatile than it looks
+- 📖 [Serious Eats — Gochujang, Explained](https://www.bonappetit.com/story/what-is-gochujang) — what it is, how it's different from other chili pastes, and how to use it beyond the obvious
+- 📖 [Serious Eats — What is Doenjang?](https://www.maangchi.com/ingredient/doenjang) — the sister fermented paste to gochujang, and why it's more versatile than it looks
 
 ---
 
@@ -231,3 +231,6 @@ The Korean BBQ table at home is one of the most social, interactive meals you ca
 
 ---
 
+---
+
+← [Block 29–30: Japanese](../29-30-japanese/index.md) | [Block 33–34: Chinese →](../33-34-chinese/index.md)

@@ -23,7 +23,7 @@
 | **Session 21** | Eggs Benedict with Hollandaise + Watercress Salad | Hollandaise | [Eggs Benedict](https://www.seriouseats.com/food-lab-foolproof-eggs-benedict-recipe) · [Salad](https://www.seriouseats.com/five-minute-radicchio-watercress-arugula-salad-recipe) |
 | **Session 22** | Seafood Roll + Classic Coleslaw | Homemade Mayo | [Seafood Roll](https://www.seriouseats.com/perfect-new-england-lobster-rolls-recipe) · [Coleslaw](https://www.seriouseats.com/creamy-cole-slaw) |
 | **Session 23** | Pan-Seared Salmon Niçoise Salad | Vinaigrette | [Niçoise](https://www.seriouseats.com/nicoise-salad-recipe) |
-| **Session 24** | Pork Chops with Apple-Cider Pan Sauce + Roasted Sweet Potatoes + Shaved Carrot & Herb Salad | Pan sauce | [Pork Chops](https://www.seriouseats.com/perfect-pan-seared-pork-chop-recipe) · [Sweet Potato](https://www.seriouseats.com/the-best-roasted-sweet-potatoes-thanksgiving-sides-the-food-lab-recipe) · [Salad](https://www.seriouseats.com/light-herb-shaved-carrot-salad-recipe) |
+| **Session 24** | Pork Chops with Apple-Cider Pan Sauce + Roasted Sweet Potatoes + Shaved Carrot & Herb Salad | Pan sauce | [Pork Chops](https://www.seriouseats.com/perfect-pan-seared-pork-chop-recipe) · [Sweet Potato](https://www.seriouseats.com/the-best-roasted-sweet-potatoes-thanksgiving-sides-the-food-lab-recipe) · [Salad](https://www.seriouseats.com/how-to-make-carrot-salad-barberry-ghee) |
 | **Service 6** | **3-Course French Bistro Dinner** | Pan sauce + Vinaigrette | [French Onion Dip](https://www.seriouseats.com/real-french-onion-dip-recipe) · [Steak Frites](https://www.seriouseats.com/steak-frites-recipe-8729192) · [Lyonnaise Salad](https://www.seriouseats.com/spring-salad-with-poached-eggs-and-bread-crumbs) |
 
 ---

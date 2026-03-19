@@ -333,3 +333,7 @@ Vegetables are now in your repertoire, not just alongside your repertoire. Befor
 - 📖 [Serious Eats — The Food Lab: How to Get Maximum Browning on Your Vegetables](https://www.recipetineats.com/roasted-vegetables/) — the science behind the single pan, high heat approach
 - 📖 [Samin Nosrat on Salt, Fat, Acid, Heat applied to vegetables](https://www.saltfatacidheat.com/) — how acid changes everything
 - 📚 [***The Zuni Cafe Cookbook* by Judy Rodgers**](https://www.amazon.com/dp/0393020436) — not primarily vegetarian, but contains the most thoughtful writing on vegetable cookery of any English-language cookbook
+
+---
+
+← [Block 9–10: Seasoning & Flavor](../09-10-seasoning-and-flavor/index.md) | [Block 13–14: Pasta & Grains →](../13-14-pasta-and-grains/index.md)

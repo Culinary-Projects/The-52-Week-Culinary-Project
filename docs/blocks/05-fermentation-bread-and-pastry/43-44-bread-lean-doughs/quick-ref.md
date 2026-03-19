@@ -18,8 +18,8 @@
 
 | Session | Bread | Hydration | Method | Timing |
 |---------|-------|-----------|--------|--------|
-| Session 234 | ⏰ [Baguette](https://www.seriouseats.com/how-to-make-baguettes-at-home) | ~65–68% | Poolish pre-ferment; aggressive shaping | Poolish 12–16 hrs ahead |
-| Session 235 | [Pita](https://www.seriouseats.com/pita-bread-recipe) + [Naan](https://www.seriouseats.com/naan-recipe) | ~60–65% | High-heat oven (pita) and skillet (naan) | 30 min active once dough ready |
+| Session 234 | ⏰ [Baguette](https://www.kingarthurbaking.com/recipes/classic-baguettes-recipe) | ~65–68% | Poolish pre-ferment; aggressive shaping | Poolish 12–16 hrs ahead |
+| Session 235 | Pita + [Naan](https://www.kingarthurbaking.com/recipes/naan-recipe) | ~60–65% | High-heat oven (pita) and skillet (naan) | 30 min active once dough ready |
 | Session 236 | ⏰ [Pan Pizza](https://www.seriouseats.com/foolproof-pan-pizza-recipe) | ~70–75% | Cold ferment 24–72 hrs; pan bake | Mix 1–3 days ahead |
 | Service 50 | **Lean Dough Tasting + Rebake** | — | Taste all lean breads; rebake favorite | Compare to best store-bought |
 
@@ -29,10 +29,10 @@
 
 | Bread | Hydration | Texture | Shape |
 |-------|-----------|---------|-------|
-| [Baguette](https://www.seriouseats.com/how-to-make-baguettes-at-home) | 65–68% | Open crumb, crisp crust | Freeform, scored |
+| [Baguette](https://www.kingarthurbaking.com/recipes/classic-baguettes-recipe) | 65–68% | Open crumb, crisp crust | Freeform, scored |
 | [Pullman / sandwich](https://www.seriouseats.com/bread-baking-pullman-loaf-recipe) | 60–65% | Soft, tight crumb | Loaf pan |
-| [Pita](https://www.seriouseats.com/pita-bread-recipe) | 60–65% | Soft, pocket-forming | Flat rounds, oven |
-| [Naan](https://www.seriouseats.com/naan-recipe) | 60–65% | Soft, charred spots | Flat, skillet |
+| Pita | 60–65% | Soft, pocket-forming | Flat rounds, oven |
+| [Naan](https://www.kingarthurbaking.com/recipes/naan-recipe) | 60–65% | Soft, charred spots | Flat, skillet |
 | [No-knead boule](https://www.seriouseats.com/better-no-knead-bread-recipe) | 75–80% | Open, irregular crumb | Freeform or Dutch oven |
 | [Focaccia](https://www.seriouseats.com/easy-no-knead-focaccia) | 80–85% | Soft, airy, oily | Sheet pan |
 | [Pizza dough](https://www.seriouseats.com/foolproof-pan-pizza-recipe) | 70–75% | Crispy bottom, chewy | Pan or stretched |

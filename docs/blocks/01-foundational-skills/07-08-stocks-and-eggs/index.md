@@ -1,5 +1,7 @@
 # 🥚 Block 7–8: Stocks & Eggs
 
+← [Block 5–6: Mother Sauces](../05-06-mother-sauces/index.md) | [Block 9–10: Seasoning & Flavor →](../../02-building-flavor/09-10-seasoning-and-flavor/index.md)
+
 > *"Stocks are the foundation of professional cooking. Eggs are the chef's ultimate test."*
 
 **Quick Reference:** [→ Block 7–8 Recipe Quick Ref](quick-ref.md)

@@ -1,6 +1,6 @@
-# 🇮🇳 Block 35–38: Indian
+# 🇮🇳 Block 37–38: Indian
 
-← [Block 33–36: Mexican](../35-36-mexican/index.md) | [Block 41–42: Middle Eastern →](../41-42-middle-eastern/index.md)
+← [Block 35–36: Mexican](../35-36-mexican/index.md) | [Block 39–40: Southeast Asian →](../39-40-southeast-asian/index.md)
 
 ---
 
@@ -230,3 +230,6 @@ Indian cooking draws on a pantry of 20–30 spices, but most dishes use the same
 
 ---
 
+---
+
+← [Block 35–36: Mexican](../35-36-mexican/index.md) | [Block 39–40: Southeast Asian →](../39-40-southeast-asian/index.md)

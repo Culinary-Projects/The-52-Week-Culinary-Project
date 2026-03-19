@@ -59,4 +59,4 @@
 - [ ] **Pain au chocolat chocolate sticks or bittersweet chocolate** — for chocolate croissants
 - [ ] **Powdered sugar** — for glazes
 - [ ] **Walnuts or olives** — for sourdough add-in variation (Session 237)
-- [ ] **Good cheese** — 2–3 varieties for sourdough tasting (Service 53)
+- [ ] **Good cheese** — 2–3 varieties for sourdough tasting (Service 58)

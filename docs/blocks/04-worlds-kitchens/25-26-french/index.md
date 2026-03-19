@@ -1,6 +1,6 @@
-# 🇫🇷 Block 23–26: French Classics
+# 🇫🇷 Block 25–26: French Classics
 
-← [Block 21–24: Poultry](../../03-the-proteins/23-24-poultry/index.md) | [Block 25–28: Italian →](../27-28-italian/index.md)
+← [Block 23–24: Poultry](../../03-the-proteins/23-24-poultry/index.md) | [Block 27–28: Italian →](../27-28-italian/index.md)
 
 ---
 
@@ -203,3 +203,6 @@ Aioli made with patience and good olive oil is nothing like the commercial versi
 
 ---
 
+---
+
+← [Block 23–24: Poultry](../../03-the-proteins/23-24-poultry/index.md) | [Block 27–28: Italian →](../27-28-italian/index.md)

@@ -1,6 +1,6 @@
-# 🐟 Block 15–18: Seafood — Fish
+# 🐟 Block 17–18: Seafood — Fish
 
-← [Quick Reference →](quick-ref.md) | [Shopping List →](shopping-list.md)
+← [Block 15–16: Beef](../15-16-beef/index.md) | [Block 19–20: Shellfish →](../19-20-shellfish/index.md)
 
 ---
 
@@ -382,7 +382,7 @@ Black cod (sablefish) is the traditional fish for this preparation — its high 
 
 **Timing:** Apply glaze → refrigerate 24–48 hrs → broil 4–5 minutes on one side only → done.
 
-**Full Meal:** Miso-glazed cod or salmon + [Serious Eats — Japanese Rice](https://www.seriouseats.com/how-to-cook-japanese-rice-without-a-rice-cooker-recipe) + [Sesame Cucumber Salad (Sunomono)](https://www.seriouseats.com/quick-pickled-cucumbers-rice-vinegar-recipe) + wilted spinach with ponzu
+**Full Meal:** Miso-glazed cod or salmon + [Serious Eats — Japanese Rice](https://www.justonecookbook.com/how-to-make-rice/) + [Sesame Cucumber Salad (Sunomono)](https://www.seriouseats.com/quick-pickled-cucumbers-rice-vinegar-recipe) + wilted spinach with ponzu
 
 | Component | Notes |
 |-----------|-------|
@@ -444,4 +444,4 @@ Cioppino and bouillabaisse use almost identical technique but diverge in flavor 
 
 ---
 
-← [Block 15–16: Beef](../15-16-beef/index.md) | [Block 17–20: Shellfish →](../19-20-shellfish/index.md)
+← [Block 15–16: Beef](../15-16-beef/index.md) | [Block 19–20: Shellfish →](../19-20-shellfish/index.md)

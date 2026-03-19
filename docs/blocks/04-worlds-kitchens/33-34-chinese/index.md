@@ -1,6 +1,6 @@
-# 🥢 Block 31–34: Chinese Cuisine
+# 🥢 Block 33–34: Chinese Cuisine
 
-← [Block 29–32: Korean Cuisine](../31-32-korean/index.md) | [Block 33–36: Mexican →](../35-36-mexican/index.md)
+← [Block 31–32: Korean](../31-32-korean/index.md) | [Block 35–36: Mexican →](../35-36-mexican/index.md)
 
 ---
 
@@ -368,3 +368,7 @@ Total cook time if hong shao rou made ahead: approximately 90 minutes active.
 - 🎥 [Chinese Cooking Demystified (YouTube)](https://www.youtube.com/@ChineseCookingDemystified) — the best English-language YouTube channel for authentic Chinese technique, bar none
 - 📚 [***The Wok* by J. Kenji López-Alt**](https://www.amazon.com/dp/0393541215) — the definitive English-language treatment of wok cooking; reads like an engineering manual and a recipe book simultaneously
 - 📚 [***Land of Fish and Rice* by Fuchsia Dunlop**](https://www.amazon.com/dp/1324006161) — Dunlop is the best Western writer on Chinese food; this volume covers Jiangnan (Shanghai region) cuisine with deep historical context
+
+---
+
+← [Block 31–32: Korean](../31-32-korean/index.md) | [Block 35–36: Mexican →](../35-36-mexican/index.md)

@@ -1,6 +1,6 @@
-# 🇮🇹 Block 25–28: Italian
+# 🇮🇹 Block 27–28: Italian
 
-← [Block 23–26: French Classics](../25-26-french/index.md) | [Block 27–30: Japanese →](../29-30-japanese/index.md)
+← [Block 25–26: French Classics](../25-26-french/index.md) | [Block 29–30: Japanese →](../29-30-japanese/index.md)
 
 ---
 
@@ -207,3 +207,6 @@ Osso buco is a braise but it's also a study in gremolata — the lemon zest, gar
 
 ---
 
+---
+
+← [Block 25–26: French Classics](../25-26-french/index.md) | [Block 29–30: Japanese →](../29-30-japanese/index.md)

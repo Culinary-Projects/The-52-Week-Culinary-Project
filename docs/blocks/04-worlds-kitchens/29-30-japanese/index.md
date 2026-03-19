@@ -1,8 +1,8 @@
-← [Block 25–28: Italian](../27-28-italian/index.md) | [Block 29–32: Korean →](../31-32-korean/index.md)
+← [Block 27–28: Italian](../27-28-italian/index.md) | [Block 31–32: Korean →](../31-32-korean/index.md)
 
 ---
 
-# 🇯🇵 Block 27–30: Japanese Cuisine
+# 🇯🇵 Block 29–30: Japanese Cuisine
 
 ---
 
@@ -34,8 +34,8 @@ Over two weeks, you will learn the dashi-based foundation; explore ramen, rice, 
 **Skill:** Making kombu dashi and awase dashi; understanding umami at its source
 
 **Read first:**
-- [How to Make Dashi](https://www.seriouseats.com/how-to-make-dashi) — the foundational technique
-- [What Is Umami?](https://www.seriouseats.com/what-is-umami) — understanding why dashi tastes the way it does
+- [How to Make Dashi](https://www.seriouseats.com/basic-japanese-dashi-recipe) — the foundational technique
+- [What Is Umami?](https://en.wikipedia.org/wiki/Umami) — understanding why dashi tastes the way it does
 
 **What you're learning:** Dashi is the foundation of most Japanese cooking — the broth that gives miso soup, ramen, nimono, and countless other dishes their characteristic depth. Kombu (dried kelp) contributes glutamates; katsuobushi (dried bonito flakes) contributes inosinates. Together, these two umami compounds multiply each other's effect — a phenomenon called synergistic umami enhancement. The result is a broth of extraordinary savoriness made from just two ingredients in 20 minutes.
 
@@ -54,7 +54,7 @@ Over two weeks, you will learn the dashi-based foundation; explore ramen, rice, 
 **Skill:** Understanding the Japanese pantry; applications of miso, soy, sake, mirin, and rice vinegar
 
 **Read first:**
-- [Japanese Pantry Essentials](https://www.seriouseats.com/japanese-pantry-essentials) — the core ingredients and why each matters
+- [Japanese Pantry Essentials](https://www.justonecookbook.com/categories/pantry/) — the core ingredients and why each matters
 
 **What you're learning:** Japanese flavor comes from five foundational condiments: soy sauce (umami and salt), mirin (sweetness and gloss), sake (cooking alcohol evaporated for depth), rice vinegar (brightness and acidity), and miso (fermented umami). Understanding how these work in combination — the tare, the agedashi sauce, the teriyaki glaze — gives you access to the entire flavor system.
 
@@ -71,8 +71,8 @@ Over two weeks, you will learn the dashi-based foundation; explore ramen, rice, 
 **Skill:** Building a ramen bowl from components; understanding the tare system; noodle selection
 
 **Read first:**
-- [The Food Lab's Guide to Tonkotsu Ramen](https://www.seriouseats.com/the-food-lab-tonkotsu-ramen) — the deepest dive into ramen science
-- [The Components of Ramen Explained](https://www.seriouseats.com/the-key-components-of-ramen) — the anatomy of a bowl
+- [The Food Lab's Guide to Tonkotsu Ramen](https://www.seriouseats.com/rich-and-creamy-tonkotsu-ramen-broth-from-scratch-recipe) — the deepest dive into ramen science
+- [The Components of Ramen Explained](https://www.seriouseats.com/serious-entertaining-a-ramen-blowout-feast-menu) — the anatomy of a bowl
 
 **What you're learning:** A ramen bowl has three separate components that combine at serving: the broth (base flavor and body), the tare (concentrated seasoning sauce added to each bowl individually), and the toppings. This modular system is what allows one pot of broth to become shoyu ramen, shio ramen, or miso ramen by changing only the tare. Understanding this lets you build ramen at home without a 12-hour pork bone boil.
 
@@ -93,7 +93,7 @@ Over two weeks, you will learn the dashi-based foundation; explore ramen, rice, 
 **Skill:** Japanese simmering technique; dashi-based braising; working with tofu and root vegetables
 
 **Read first:**
-- [How to Make Nikujaga](https://www.seriouseats.com/nikujaga-japanese-meat-and-potatoes) — the classic simmered dish
+- [How to Make Nikujaga](https://www.justonecookbook.com/nikujaga/) — the classic simmered dish
 
 **What you're learning:** Nimono are simmered dishes — vegetables and proteins cooked slowly in seasoned dashi until they absorb its flavor. The technique is gentle: a bare simmer, not a boil, covered with a drop lid (otoshibuta) or parchment to keep everything submerged. The result is radically different from Western braising — clean, dashi-forward, precise rather than rich and heavy.
 
@@ -128,8 +128,8 @@ Over two weeks, you will learn the dashi-based foundation; explore ramen, rice, 
 **Skill:** Washing and cooking Japanese short-grain rice; understanding the rice-to-water ratio; ochazuke (tea-on-rice)
 
 **Read first:**
-- [How to Cook Japanese Rice Without a Rice Cooker](https://www.seriouseats.com/how-to-cook-japanese-rice-without-a-rice-cooker-recipe) — stove-top method
-- [Ochazuke: Japanese Tea on Rice](https://www.seriouseats.com/ochazuke-recipe) — the simplest Japanese meal
+- [How to Cook Japanese Rice Without a Rice Cooker](https://www.justonecookbook.com/how-to-make-rice/) — stove-top method
+- [Ochazuke: Japanese Tea on Rice](https://www.justonecookbook.com/ochazuke/) — the simplest Japanese meal
 
 **What you're learning:** Japanese short-grain rice is cooked differently from long-grain or basmati. It is washed until the water runs clear (washing removes excess starch). The absorption method is precise: fixed ratio, high heat to start, then low simmer, then rest with no peeking. The result is sticky, cohesive grains — not fluffy. This stickiness is a feature, not a bug; it is what makes rice the platform for Japanese food.
 
@@ -146,7 +146,7 @@ Over two weeks, you will learn the dashi-based foundation; explore ramen, rice, 
 **Skill:** Tempura batter technique; deep-frying at correct temperature; draining and serving immediately
 
 **Read first:**
-- [The Secret to Perfect Tempura Batter](https://www.seriouseats.com/perfect-tempura-batter-recipe) — why cold water and clumpy batter actually work
+- [The Secret to Perfect Tempura Batter](https://www.seriouseats.com/the-food-lab-tempura-vegetables-shrimp-recipe) — why cold water and clumpy batter actually work
 
 **What you're learning:** Tempura batter seems counterintuitive — it should be lumpy, ice-cold, and thin. The lumps are undissolved flour pockets that create irregular, shatteringly crisp texture. The cold temperature keeps gluten from forming (gluten = tough, not crisp). The thinness means the batter drapes rather than coats. Fry at 340–360°F in neutral oil; serve within 2 minutes or the crust loses its crunch.
 
@@ -164,7 +164,7 @@ Over two weeks, you will learn the dashi-based foundation; explore ramen, rice, 
 **Skill:** Making sushi rice (seasoned with vinegar, sugar, salt); rolling maki
 
 **Read first:**
-- [How to Make Sushi Rice at Home](https://www.seriouseats.com/how-to-make-sushi-rice) — the technique for correctly seasoned, properly textured sushi rice
+- [How to Make Sushi Rice at Home](https://www.justonecookbook.com/how-to-make-sushi-rice/) — the technique for correctly seasoned, properly textured sushi rice
 
 **What you're learning:** Sushi does not require raw fish to learn. The skill is the rice. Sushi rice is cooled and seasoned immediately after cooking with a vinegar mixture (sushi-zu: rice vinegar, sugar, salt). It must be folded — not stirred — to preserve the rice structure while evenly distributing the seasoning. Maki (rolled sushi) is the most approachable format for home cooks; it requires nori, rice, and a filling.
 
@@ -236,8 +236,8 @@ These aren't required reading — but if something from this block sparked a que
 
 Japanese cooking has codified its principles into aesthetics — wabi (understated, imperfect beauty), kaiseki (the multi-course formal meal as an art form), and shun (cooking with seasonal ingredients at their peak). These are not decoration. They are why Japanese food looks and tastes the way it does.
 
-- 📖 [The Science of Japanese Fermentation](https://www.seriouseats.com/japanese-fermented-foods-miso-soy-sake) — miso, soy sauce, and sake as fermented products; understanding how fermentation builds flavor over time
-- 📖 [A Complete Guide to Japanese Noodles](https://www.seriouseats.com/guide-to-japanese-noodles) — soba, udon, somen, ramen: each has its own dough, texture, and ideal context
+- 📖 The Science of Japanese Fermentation — miso, soy sauce, and sake as fermented products; understanding how fermentation builds flavor over time
+- 📖 [A Complete Guide to Japanese Noodles](https://en.wikipedia.org/wiki/Japanese_noodles) — soba, udon, somen, ramen: each has its own dough, texture, and ideal context
 
 ---
 
@@ -248,3 +248,6 @@ Japanese cooking has codified its principles into aesthetics — wabi (understat
 
 ---
 
+---
+
+← [Block 27–28: Italian](../27-28-italian/index.md) | [Block 31–32: Korean →](../31-32-korean/index.md)

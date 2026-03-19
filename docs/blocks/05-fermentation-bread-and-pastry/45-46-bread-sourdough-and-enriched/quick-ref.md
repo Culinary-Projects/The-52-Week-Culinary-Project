@@ -11,8 +11,8 @@
 | Session 198 | ⏰ [Sourdough — levain + mix](https://www.seriouseats.com/sourdough-starter) | Levain 4–6 hrs; bulk ferment; refrigerate overnight | Starter must pass float test |
 | Session 199 | [Sourdough — Bake Day](https://www.seriouseats.com/sourdough-starter) | Dutch oven; 250°C covered, then uncovered | Score before loading; wait 1 hr to cut |
 | Session 237 | [Whole Wheat Sourdough](https://www.kingarthurbaking.com/recipes/whole-wheat-sourdough-bread-recipe) | 50/50 blend; adjust hydration up | Tighter crumb expected — not a failure |
-| Session 238 | [Discard Pancakes](https://www.kingarthurbaking.com/recipes/sourdough-pancakes-recipe) + [Crackers](https://www.kingarthurbaking.com/recipes/sourdough-crackers-recipe) | Unfed starter as ingredient | Use accumulated discard |
-| Service 53 | **Sourdough vs. Commercial Yeast Tasting** | Compare side by side | Look for tang, complexity, chew |
+| Session 238 | Discard Pancakes + [Crackers](https://www.kingarthurbaking.com/recipes/sourdough-crackers-recipe) | Unfed starter as ingredient | Use accumulated discard |
+| Service 58 | **Sourdough vs. Commercial Yeast Tasting** | Compare side by side | Look for tang, complexity, chew |
 
 ## Block 46 — Enriched Doughs
 
@@ -20,8 +20,8 @@
 |---------|-------|--------|---------------|
 | Session 200 | ⏰ [Brioche](https://www.seriouseats.com/brioche-loaf-recipe-6755249) | Enriched; butter added gradually; refrigerate overnight | Butter must be room temp |
 | Session 201 | [Croissants](https://www.seriouseats.com/croissants-recipe-11863500) | Laminated; 3+ book folds; refrigerate between | Keep everything cold; block out full day |
-| Session 239 | [Cinnamon Rolls](https://www.seriouseats.com/cinnamon-rolls-recipe) | Enriched dough; fill, roll, cut, proof | Filling to edges; glaze while hot |
-| Service 54 | **Enriched Dough Tasting + Bread Capstone** | Taste all enriched; rebake one bread from memory | Choose any bread from Blocks 43–46 |
+| Session 239 | [Cinnamon Rolls](https://www.kingarthurbaking.com/recipes/cinnamon-rolls-recipe) | Enriched dough; fill, roll, cut, proof | Filling to edges; glaze while hot |
+| Service 59 | **Enriched Dough Tasting + Bread Capstone** | Taste all enriched; rebake one bread from memory | Choose any bread from Blocks 43–46 |
 
 ---
 
