@@ -46,10 +46,8 @@ Your sourdough starter (begun in Block 43, Service 49) should now be active, bub
 **What you're learning:** The most important bake of the whole bread curriculum. Oven spring (the final rise in a hot oven), scoring (the line you cut before baking that guides the bloom), and the crumb reveal after cooling (don't cut hot — wait 1 hour minimum) are all key moments.
 
 **Full Meal:**
-- First real sourdough loaf
-- Tear open warm with butter. You earned this.
-
-**🍽️ Tonight's Dinner:** You earned the bread — now feed yourself. A simple salad with roast chicken or a bowl of soup gives the sourdough a proper stage.
+- First real sourdough loaf torn warm with butter + a simple salad with roast chicken or a bowl of soup
+- You earned the bread — give it a proper stage
 
 ---
 
@@ -61,10 +59,8 @@ Your sourdough starter (begun in Block 43, Service 49) should now be active, bub
 **What you're learning:** Whole wheat flour absorbs more water than white bread flour, so your hydration ratio changes. The bran also cuts gluten strands, meaning the crumb will be tighter — this is normal, not a failure. Try a 50/50 blend (half bread flour, half whole wheat) for your first variation. For the add-in version: fold in olives, walnuts, or roasted garlic during the final stretch-and-fold. The principle: add-ins go in late so they don't interfere with gluten development.
 
 **Full Meal:**
-- Whole wheat sourdough or olive-walnut variation
-- Serve with a composed salad and good cheese
-
-**🍽️ Tonight's Dinner:** The composed salad suggestion is real — do it properly. A big salad with a poached egg, some shaved Parmesan, and your fresh bread is a complete meal.
+- Whole wheat sourdough or olive-walnut variation + a composed salad with poached egg and shaved Parmesan
+- The bread and salad together are a complete meal
 
 ---
 
@@ -106,10 +102,8 @@ Enriched doughs add fat, eggs, and sugar to the bread equation. The result: tend
 **What you're learning:** Brioche is bread enriched with so much butter (up to 50–60% of flour weight) and eggs that it blurs the line between bread and cake. The butter must be at room temperature and added gradually while the dough is already developed. If you add cold butter, the gluten breaks — the emulsification is fragile and temperature-sensitive.
 
 **Full Meal:**
-- Brioche loaf with jam and cultured butter
-- Use the remaining slices for French toast the next morning
-
-**🍽️ Tonight's Dinner:** Brioche is not dinner. Make a quick frittata or pan-sear a piece of fish — the brioche becomes the side.
+- Quick frittata or pan-seared fish with the brioche as your bread course
+- Save the remaining slices for French toast the next morning
 
 ---
 
@@ -121,10 +115,8 @@ Enriched doughs add fat, eggs, and sugar to the bread equation. The result: tend
 **What you're learning:** Croissants are laminated — thin sheets of butter layered into a dough through a series of folds, creating hundreds of distinct layers that steam and puff in the oven. This requires cold butter (firm), cold dough, and patience between rest periods. Block out the full day. The result: the most honest test of your patience and precision so far.
 
 **Full Meal:**
-- Croissants (plain, butter, and chocolate-stuffed if you have pastry chocolate)
-- This is also dinner tonight
-
-**🍽️ Tonight's Dinner:** Let's be honest — croissants are not dinner. If you've been laminating all day and can't face another pan, a simple cheese plate, charcuterie, and a salad alongside your croissants makes a respectable French supper.
+- Croissants (plain, butter, and chocolate-stuffed) alongside a cheese plate, charcuterie, and a simple green salad
+- If you've been laminating all day, this French supper is earned and legitimate
 
 > 🎥 **Compare Notes:** [The Croissant That Changed My Life](https://www.youtube.com/watch?v=vpwY3nmLLaA) *(Alex French Guy Cooking)* — The lamination logic requires seeing it done. Watch his fold technique and butter temperature management. The movement should be confident and decisive; hesitation warms the dough.
 

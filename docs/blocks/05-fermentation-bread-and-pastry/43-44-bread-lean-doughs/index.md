@@ -35,10 +35,8 @@ This week establishes the principles of bread-making through the two most forgiv
 **Note:** Mix the dough the night before the block starts for Session 194 baking.
 
 **Full Meal:**
-- No-Knead Bread, first loaf
-- Tear and eat warm with cultured butter and good olive oil. That's the meal.
-
-**🍽️ Tonight's Dinner:** Pan-sear a chicken thigh or warm up a pot of soup — the fresh bread elevates anything. You're building bread skills this unit, not full plates; see the [note on meals](../README.md#a-note-on-meals-in-this-unit) in the Unit 5 overview.
+- Pan-seared chicken thighs or a bowl of hot soup + fresh no-knead bread with cultured butter and good olive oil
+- The bread is the star, but it needs a supporting cast. This is the [rhythm of Unit 5](../README.md#a-note-on-meals-in-this-unit) — bake ambitiously, cook dinner simply.
 
 > 🎥 **Compare Notes:** [No-Knead Bread, Revisited](https://www.youtube.com/watch?v=6RUDa0FKplk) — He updates the original technique with a few small tweaks; compare his rationale for the changes to what you experience with your own first loaf.
 
@@ -52,9 +50,8 @@ This week establishes the principles of bread-making through the two most forgiv
 **What you're learning:** The "better" part of Better No-Knead Bread is using the stretch-and-fold technique instead of just leaving the dough alone. This builds more structure and improves the crumb. Compare your Session 195 loaf to Session 194's — the crumb should be more open and even.
 
 **Full Meal:**
-- Bread loaf #2 with different toppings or served alongside a simple soup
-
-**🍽️ Tonight's Dinner:** A pot of soup is the ideal partner — minestrone, lentil, or whatever's in the fridge. Warm bread + hot soup is a legitimate meal.
+- Hot soup (minestrone, lentil, or whatever's in the fridge) + bread loaf #2 for tearing and dipping
+- Warm bread + hot soup is a legitimate meal
 
 ---
 
@@ -66,10 +63,8 @@ This week establishes the principles of bread-making through the two most forgiv
 **What you're learning:** Focaccia is essentially no-knead bread taken through a different shaping process (poured into an oil-slicked pan, dimpled enthusiastically, topped generously). The high olive oil content creates a crispy-bottom, fluffy-interior bread. Toppings: fleur de sel, fresh rosemary mandatory; add olives, cherry tomatoes, or caramelized onions as taste dictates.
 
 **Full Meal:**
-- Focaccia with simple accompaniments
-- Serve with whatever soup or leftover protein you have — it elevates everything
-
-**🍽️ Tonight's Dinner:** Focaccia is a platform. Top half of it like a flatbread (ricotta, cherry tomatoes, arugula) or serve alongside a quick pan-seared fish. Don't let the bread be the only thing on the table.
+- Focaccia topped like a flatbread (ricotta, cherry tomatoes, arugula) or served alongside pan-seared fish
+- The focaccia is a platform — don't let it be the only thing on the table
 
 > 🎥 **Compare Notes:** [Extra-Flavorful Focaccia](https://www.youtube.com/watch?v=fE2sunDZhzg) *(Adam Ragusea)* — Watch his oil quantity and the dimpling logic — he explains why the fat pools create the crust they do. Compare to your bake: where did the oil go, and how did the surface behave?
 
@@ -126,10 +121,8 @@ You've built the fundamentals with no-knead and focaccia. Now you extend into le
 **What you're learning:** The baguette is the hardest lean bread to make at home because it demands precise shaping, proper scoring, and real steam. A poolish (flour + water + tiny yeast, mixed 12–16 hours ahead) builds the deep flavor that a quick mix can't achieve. The shape — long, even, tapered — is entirely about hand technique. This is the session that separates baking from bread-making.
 
 **Full Meal:**
-- Fresh baguette with butter and good cheese
-- Pair with a simple soup — French onion if you want to commit
-
-**🍽️ Tonight's Dinner:** French onion soup is the real answer here — it uses your baguette and gives you a complete meal. Short on time? A rotisserie chicken, your bread, and a green salad.
+- French onion soup with fresh baguette croutons — the baguette was made for this
+- Short on time? Rotisserie chicken, your bread, a green salad, and good butter
 
 > 🎥 **Compare Notes:** [How to Make Amazing French Baguettes at Home](https://www.youtube.com/watch?v=efqe9Umxopc) *(Alex French Guy Cooking)* — Watch his scoring technique and look for the "ear" — the raised flap of crust from a properly angled cut. Try to replicate his shaping motion.
 
