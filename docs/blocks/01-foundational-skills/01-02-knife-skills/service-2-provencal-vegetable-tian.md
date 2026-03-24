@@ -4,7 +4,9 @@
 
 ---
 
-**Skill:** Slice eggplant, zucchini, yellow squash, and tomatoes into rounds of *identical* thickness — ideally ⅛ to ¼ inch. The beauty of the finished dish is a direct function of your slicing precision. Uniform slices = a dish that looks like a restaurant made it.
+**Skill:** Slice eggplant, zucchini, and yellow squash into rounds of *identical* thickness — ideally ⅛ to ¼ inch. The beauty of the finished dish is a direct function of your slicing precision. Uniform slices = a dish that looks like a restaurant made it.
+
+The recipe makes a quick tomato sauce from a 28 oz can of whole peeled tomatoes as the base — the layers are the three sliced vegetables, not fresh tomatoes. If you want to extend the knife skill exercise (slicing ripe tomatoes evenly without crushing them is genuinely harder than squash), add 2 medium tomatoes to your buy list and layer a few rounds in with the others.
 
 **Full Meal:** [Provençal Summer Vegetable Tian](https://www.seriouseats.com/summer-vegetable-tian-ratatouille-recipe)
 

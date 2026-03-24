@@ -48,25 +48,26 @@
 - [ ] Lime — 1 (Session 5 Pad Thai)
 - [ ] Fresh rosemary — 1 small bunch (Session 6 pan-seared chicken)
 - [ ] Russet or Yukon Gold potatoes — 2 lbs (Session 6 home fries + dice drill)
-- [ ] Red bell peppers — 2 (Session 6 home fries)
+- [ ] Red bell peppers — 3 (2 for Session 6 home fries + 1 for Session 8 shakshuka)
 - [ ] Poblano pepper — 1 (Session 6 home fries — the SE recipe uses it)
+- [ ] Hot chile (jalapeño, serrano, or Fresno) — 1 (Session 8 shakshuka)
 - [ ] Zucchini — 3 medium (1 for Session 5 julienne drill + 2 for Service 2 tian)
 - [ ] Eggplant — 1 medium (Service 2 tian)
-- [ ] Tomatoes — 6 medium (Service 2 tian + Session 8 shakshuka)
+- [ ] Tomatoes — 2 medium, optional (Service 2 tian: add fresh slices to the vegetable layers for an extra knife skill challenge; the base recipe only uses canned for the sauce)
 - [ ] Yellow squash — 2 medium (Service 2 tian)
 - [ ] Mixed greens / butter lettuce — 1 bag (Session 6 salad)
 - [ ] Bean sprouts — 1 bag (Session 5 Pad Thai)
 - [ ] Scallions — 1 bunch (garnishes throughout)
 - [ ] Chinese flat garlic chives — 1 small bunch (Session 5 Pad Thai — the recipe calls for these specifically; Asian grocery; scallions work as a fallback but taste different)
 - [ ] Asian shallot — 1 small (Session 5 Pad Thai)
-- [ ] Fresh basil — 1 bunch (Session 5 Pad Thai chiffonade drill)
+- [ ] Fresh basil — a few sprigs (Session 5 chiffonade technique demo; garlic chives are the actual Pad Thai garnish)
 
 ---
 
 ## 🧀 Dairy
 
 - [ ] Parmesan (Parmigiano-Reggiano block) — 8 oz (Session 1 pasta + salad + piccata)
-- [ ] Gruyère — 10 oz total (4–6 oz for Service 1 French onion soup croutons + 4 oz for Service 2 tian)
+- [ ] Gruyère — 6 oz (Service 1 French onion soup croutons — the tian recipe is vegan; no cheese)
 - [ ] Unsalted butter — 2 sticks
 - [ ] Eggs — 1 dozen (Session 5 Pad Thai + Session 8 shakshuka)
 - [ ] Heavy cream — 1 small carton (optional for pasta)
@@ -82,7 +83,7 @@
 - [ ] Jasmine rice — 1 lb (Session 4 stir-fry)
 - [ ] Chicken stock or broth — 32 oz carton (soup)
 - [ ] Beef stock or broth — 32 oz + 1 extra carton (Service 1 French onion soup)
-- [ ] Canned whole peeled tomatoes — 2 cans (Session 8 shakshuka)
+- [ ] Canned whole peeled tomatoes — 2 cans (1 for Service 2 tian sauce + 1 for Session 8 shakshuka)
 - [ ] Dry white wine — 1 bottle (Session 3 scampi + Session 7 piccata)
 - [ ] Dry sherry — small bottle (Service 1 French onion soup; also works as a Shaoxing wine sub in stir-fry)
 - [ ] Oyster sauce — 1 bottle (Session 4 stir-fry)

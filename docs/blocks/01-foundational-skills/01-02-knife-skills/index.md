@@ -51,7 +51,12 @@ These aren't required reading — but if something from this block sparked a que
 
 ### Food Safety Fundamentals
 
-[Block 3–4: Heat & Cooking →](../03-04-heat-and-cooking/index.md)
+This block handles raw shrimp (Session 3), raw pork (Session 5), and a whole raw chicken (Session 7). Before you get there, it's worth having these down:
+
+- **Cross-contamination:** Use a separate cutting board for raw proteins, or wash and dry thoroughly between uses. Raw chicken juice on a board you then use for vegetables is a genuine hazard.
+- **Safe temperatures:** Chicken must reach 165°F internal. Pork shoulder: 145°F minimum. Shrimp: cook until just pink and opaque throughout — no thermometer needed, but don't guess on poultry or pork.
+- **Refrigerator shelf life:** Raw shrimp: 1–2 days. Chicken: 1–2 days. Pork shoulder: 3–5 days. Buy the whole chicken for Session 7 the day before you plan to break it down.
+- 📖 [USDA Safe Minimum Internal Temperature Chart](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart) — print it and stick it on the fridge.
 
 ---
 

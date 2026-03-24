@@ -6,6 +6,8 @@
 
 **Skill:** Take two carrots and one zucchini. Square off each vegetable first (cut a flat face on one side so it doesn't roll). Slice into planks. Stack the planks and cut into matchsticks — roughly 2–3 inches long, ⅛ inch thick. This is also the foundation of the brunoise (tiny dice). Go slow. Precision before speed.
 
+> **Note on the drill veg:** The julienned carrot and zucchini strips don't go into the Pad Thai — the recipe doesn't call for them. Toss them with a splash of lime juice, a few drops of fish sauce, and a pinch of sugar for a fast slaw to eat alongside, or just snack on them raw. Either way, nothing gets wasted.
+
 While you have your knife out: grab a small handful of fresh basil leaves. Stack them neatly, roll the stack into a tight cylinder, and slice straight across it into thin ribbons. That's **chiffonade** — the same logic as julienne, applied to soft leaves instead of hard vegetables. It takes 30 seconds. (The actual finish for this Pad Thai recipe is Chinese flat garlic chives, not basil — apply the same technique to the chives before the final off-heat toss.)
 
 *Why it matters:* Julienned vegetables cook faster and more evenly than rough cuts. Chiffonade keeps delicate herbs from bruising — a rough chop turns basil black at the edges almost immediately. Both cuts signal control.

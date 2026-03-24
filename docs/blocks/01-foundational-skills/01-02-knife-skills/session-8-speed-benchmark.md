@@ -12,8 +12,8 @@ Shakshuka requires dicing onion, pepper, and garlic as its entire prep — your 
 
 | Component | Recipe |
 |-----------|--------|
-| Protein | Eggs poached in the shakshuka sauce + leftover chicken from earlier in the block thighs |
-| Veg | Onion, bell pepper, tomatoes (the shakshuka base) |
+| Protein | Eggs poached in the shakshuka sauce + leftover chicken thighs from earlier in the block |
+| Veg | Onion, red bell pepper, hot chile — charred on high heat, then simmered with 1 can whole peeled tomatoes (the shakshuka base) |
 | Starch | Crusty bread — a thick slice, toasted or lightly grilled. Plain is right here; the shakshuka is already assertive. |
 
 > 🎥 **Compare Notes:** [How to Make Shakshuka](https://www.youtube.com/watch?v=voinXU09-Ns) — The same dish. Notice that his onion and pepper dice is the entire prep step — the very thing you're timing today.
