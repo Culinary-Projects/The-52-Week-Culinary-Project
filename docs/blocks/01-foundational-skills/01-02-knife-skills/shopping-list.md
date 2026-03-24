@@ -17,10 +17,11 @@
 - [ ] Boneless, skinless chicken breasts — 1 lb (Session 2, for soup)
 - [ ] Large shrimp (16/20 count), peeled and deveined — 1 lb (Session 3 scampi)
 - [ ] Flank steak or beef sirloin — 1 lb, thinly sliced (Session 4, stir-fry)
-- [ ] Bone-in, skin-on chicken thighs — 6 pieces (Session 6 + Friday leftovers)
+- [ ] Bone-in, skin-on chicken thighs — 6 pieces (Session 6 braised chicken + Session 8 shakshuka leftovers)
 - [ ] **Whole chicken — 1 (Session 7): You will break this down yourself. This is the lesson.** The breasts go into piccata; the thighs and legs are your Session 8 leftovers. Save the carcass in the freezer — it becomes your Block 7 stock.
 - [ ] Pork shoulder — 4 oz, sliced ⅛ inch thin (Session 5 Pad Thai — the recipe's default protein; can swap for 4 oz shrimp 16/20)
 - [ ] Pressed tofu — 4 oz (Session 5 Pad Thai aromatic base — used regardless of protein choice; look for "pressed" or extra-dry extra-firm; Asian markets have the best variety)
+- [ ] Slab bacon — 8 oz (Session 6 braised chicken; cut into lardons; salt pork works too)
 
 ---
 
@@ -39,15 +40,15 @@
 - [ ] Garlic — 3 heads (multiple uses throughout both weeks)
 - [ ] Lemon — 4 (Session 3 scampi + salad + piccata + dressings)
 - [ ] Fresh ginger — 2-inch knob (Session 4 stir-fry)
-- [ ] Fresh thyme — 1 bunch (French onion soup)
+- [ ] Fresh thyme — 1 bunch (Service 1 French onion soup + Session 6 braised chicken — same bunch, buy for Block 1 and keep refrigerated)
 - [ ] Fresh flat-leaf parsley — 1 bunch (Session 3 scampi, garnishes throughout)
 
 **Block 2:**
 
 - [ ] Cherry tomatoes — 1 pint (Session 7 piccata side / pasta sauce)
 - [ ] Lime — 1 (Session 5 Pad Thai)
-- [ ] Fresh rosemary — 1 small bunch (Session 6 pan-seared chicken)
-- [ ] Russet or Yukon Gold potatoes — 2 lbs (Session 6 home fries + dice drill)
+- [ ] Cabbage — 1 medium head (Session 6 braised chicken)
+- [ ] Russet or Yukon Gold potatoes — 2 lbs (Session 6 home fries)
 - [ ] Red bell peppers — 3 (2 for Session 6 home fries + 1 for Session 8 shakshuka)
 - [ ] Poblano pepper — 1 (Session 6 home fries — the SE recipe uses it)
 - [ ] Hot chile (jalapeño, serrano, or Fresno) — 1 (Session 8 shakshuka)
@@ -96,8 +97,10 @@
 - [ ] Sweet preserved radish, pre-minced (chai poh) — 1 package (Session 5 Pad Thai aromatic; Asian grocery — **sweet version, not salty**)
 - [ ] Cornstarch — 1 box (stir-fry velveting)
 - [ ] All-purpose flour — 1 bag (Session 7 piccata dredge)
-- [ ] Dijon mustard — 1 jar (Session 6 vinaigrette + general use)
-- [ ] Red wine vinegar — 1 bottle (Session 6 vinaigrette)
+- [ ] Whole-grain mustard — 1 jar (Session 6 braised chicken sauce)
+- [ ] Dijon mustard — 1 jar (Session 6 optional vinaigrette + general use)
+- [ ] Apple cider vinegar — 1 bottle (Session 6 braised chicken)
+- [ ] Red wine vinegar — 1 bottle (Session 6 optional vinaigrette)
 - [ ] Roasted peanuts — 1 bag (Pad Thai garnish)
 - [ ] Capers — 1 jar (Session 7 piccata)
 - [ ] Cumin, smoked paprika, dried chili flakes, ground coriander (Session 8 shakshuka)
