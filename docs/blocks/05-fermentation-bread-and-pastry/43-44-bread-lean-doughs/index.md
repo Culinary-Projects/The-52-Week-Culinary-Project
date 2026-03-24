@@ -34,9 +34,7 @@ This week establishes the principles of bread-making through the two most forgiv
 
 **Note:** Mix the dough the night before the block starts for Session 194 baking.
 
-**Full Meal:**
-- Pan-seared chicken thighs or a bowl of hot soup + fresh no-knead bread with cultured butter and good olive oil
-- The bread is the star, but it needs a supporting cast. This is the [rhythm of Unit 5](../README.md#a-note-on-meals-in-this-unit) — bake ambitiously, cook dinner simply.
+**Full Meal:** [Better No-Knead Bread](https://www.seriouseats.com/better-no-knead-bread-recipe) with cultured butter and olive oil alongside pan-seared chicken or soup — bake ambitiously, cook dinner simply
 
 > 🎥 **Compare Notes:** [No-Knead Bread, Revisited](https://www.youtube.com/watch?v=6RUDa0FKplk) — He updates the original technique with a few small tweaks; compare his rationale for the changes to what you experience with your own first loaf.
 
@@ -49,9 +47,7 @@ This week establishes the principles of bread-making through the two most forgiv
 
 **What you're learning:** The "better" part of Better No-Knead Bread is using the stretch-and-fold technique instead of just leaving the dough alone. This builds more structure and improves the crumb. Compare your Session 195 loaf to Session 194's — the crumb should be more open and even.
 
-**Full Meal:**
-- Hot soup (minestrone, lentil, or whatever's in the fridge) + bread loaf #2 for tearing and dipping
-- Warm bread + hot soup is a legitimate meal
+**Full Meal:** Bread loaf #2 with hot soup (minestrone, lentil, or whatever's in the fridge) — warm bread and hot soup is a legitimate meal
 
 ---
 
@@ -62,9 +58,7 @@ This week establishes the principles of bread-making through the two most forgiv
 
 **What you're learning:** Focaccia is essentially no-knead bread taken through a different shaping process (poured into an oil-slicked pan, dimpled enthusiastically, topped generously). The high olive oil content creates a crispy-bottom, fluffy-interior bread. Toppings: fleur de sel, fresh rosemary mandatory; add olives, cherry tomatoes, or caramelized onions as taste dictates.
 
-**Full Meal:**
-- Focaccia topped like a flatbread (ricotta, cherry tomatoes, arugula) or served alongside pan-seared fish
-- The focaccia is a platform — don't let it be the only thing on the table
+**Full Meal:** [No-Knead Focaccia](https://www.seriouseats.com/easy-no-knead-focaccia) topped with ricotta, cherry tomatoes, and arugula, or served alongside pan-seared fish
 
 > 🎥 **Compare Notes:** [Extra-Flavorful Focaccia](https://www.youtube.com/watch?v=fE2sunDZhzg) *(Adam Ragusea)* — Watch his oil quantity and the dimpling logic — he explains why the fat pools create the crust they do. Compare to your bake: where did the oil go, and how did the surface behave?
 
@@ -77,9 +71,7 @@ This week establishes the principles of bread-making through the two most forgiv
 
 **What you're learning:** Pullman bread is the American sandwich loaf at its best — tight, even crumb, soft crust, slightly enriched (some butter and milk) so it toasts beautifully. A Pullman pan (with a sliding lid) creates the rectangular profile. This is a different bread philosophy from artisan loaves — engineered for utility as well as flavor.
 
-**Full Meal:**
-- Sliced Pullman bread, the ideal vehicle for anything
-- Make sandwiches from the week's proteins/leftovers — use your best bread for your best filling
+**Full Meal:** [Pullman Loaf](https://www.seriouseats.com/bread-baking-pullman-loaf-recipe) — the ideal sandwich bread; slice and fill with this week's best protein and toppings
 
 > 🎥 **Compare Notes:** [A Beginner's Guide to Making the Best Sandwich Bread](https://www.youtube.com/watch?v=Z18KxyTnIV8) *(Ethan Chlebowski)* — He documents the texture difference between enriched loaves at different hydrations. Slice yours next to a store loaf and notice what "structure" actually means.
 
@@ -94,9 +86,7 @@ This week establishes the principles of bread-making through the two most forgiv
 
 **What you're learning:** Sourdough starter is a live culture of wild yeast and bacteria captured from the flour and air. It ferments flour as food. Feeding it (discarding and adding fresh flour + water on schedule) keeps the culture healthy. Consistency of temperature and timing is the key.
 
-**Full Meal:**
-- Focaccia (make a second batch — your no-knead skill is solid by now)
-- The project dinner built around the focaccia
+**Full Meal:** [Sourdough Starter](https://www.seriouseats.com/sourdough-starter) is today's project — dinner is focaccia (make a second batch, your no-knead skill is solid now)
 
 > 🎥 **Compare Notes:** [A Non-Baker's Guide to Making Sourdough Bread](https://www.youtube.com/watch?v=APEavQg8rMw) *(Alex French Guy Cooking)* — His beginner lens matches yours right now. Watch when he knows the fermentation is right and how he reads the dough before shaping — that instinct is what you're building today.
 
@@ -120,9 +110,7 @@ You've built the fundamentals with no-knead and focaccia. Now you extend into le
 
 **What you're learning:** The baguette is the hardest lean bread to make at home because it demands precise shaping, proper scoring, and real steam. A poolish (flour + water + tiny yeast, mixed 12–16 hours ahead) builds the deep flavor that a quick mix can't achieve. The shape — long, even, tapered — is entirely about hand technique. This is the session that separates baking from bread-making.
 
-**Full Meal:**
-- French onion soup with fresh baguette croutons — the baguette was made for this
-- Short on time? Rotisserie chicken, your bread, a green salad, and good butter
+**Full Meal:** [Baguette](https://www.kingarthurbaking.com/recipes/classic-baguettes-recipe) with French onion soup and croutons — or rotisserie chicken, green salad, and good butter
 
 > 🎥 **Compare Notes:** [How to Make Amazing French Baguettes at Home](https://www.youtube.com/watch?v=efqe9Umxopc) *(Alex French Guy Cooking)* — Watch his scoring technique and look for the "ear" — the raised flap of crust from a properly angled cut. Try to replicate his shaping motion.
 
@@ -135,9 +123,7 @@ You've built the fundamentals with no-knead and focaccia. Now you extend into le
 
 **What you're learning:** Flatbreads are the oldest bread format — unleavened or lightly leavened doughs cooked fast and hot. Pita relies on extreme oven heat to create the steam pocket (the puff); naan uses yogurt for tenderness and a screaming-hot cast iron skillet for char. Both are done in under 30 minutes of active work once the dough is ready. These are the breads most of the world eats daily.
 
-**Full Meal:**
-- Pita pockets stuffed with whatever protein, pickled vegetables, and tahini sauce you have
-- Fresh naan alongside leftover curry or dal from Block 37–38
+**Full Meal:** [Naan](https://www.kingarthurbaking.com/recipes/naan-recipe) and pita from scratch — fill pita pockets with protein, pickled vegetables, and tahini; serve naan alongside curry or dal
 
 ---
 
@@ -148,9 +134,7 @@ You've built the fundamentals with no-knead and focaccia. Now you extend into le
 
 **What you're learning:** Great pizza starts 24–72 hours before baking. A cold-fermented dough develops complex flavor that same-day dough can't match. Start with pan pizza (Kenji's foolproof method) — it's the most forgiving format and produces the crispiest bottom. The dough is essentially a focaccia cousin: high hydration, generous oil, minimal handling.
 
-**Full Meal:**
-- Two pan pizzas: one classic (mozzarella, tomato, basil), one creative (use whatever inspires you)
-- This is a Friday night session
+**Full Meal:** [Pan Pizza](https://www.seriouseats.com/foolproof-pan-pizza-recipe) — two pies from your cold-fermented dough: one classic margherita, one creative; this is a Friday night session
 
 > 🎥 **Compare Notes:** [Pan Pizza at Home](https://www.youtube.com/watch?v=HukqEjCPkhU) *(Kenji López-Alt)* — Watch how little he handles the dough and how the pan does the work. The stretch should be gentle; let gravity help.
 

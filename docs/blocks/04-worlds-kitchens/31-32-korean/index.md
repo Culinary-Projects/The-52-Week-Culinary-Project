@@ -48,7 +48,7 @@
 - **Technique key:** The cabbage must be properly salted and rinsed before the paste goes on. Under-salted cabbage will be mushy. Over-rinsed paste will be bland. The goal: leaves that are limp but still have some backbone, and a paste that coats evenly.
 - **The fermentation:** Pack the kimchi tightly into a jar, leaving 2 inches of headspace (it will expand). Leave at room temperature for 24–48 hours; taste after 24 and refrigerate when it has a pleasantly sour, tangy quality.
 
-**Full Meal:** Tonight is a light kimchi-making session — pair with store-bought japchae or bibimbap, or simple rice and whatever you have. The kimchi is the project, not the meal.
+**Full Meal:** [Kimchi](https://www.maangchi.com/recipe/kimchi) is the project tonight — pair it with store-bought japchae or bibimbap, or simple rice and whatever you have. The kimchi is the project, not the meal.
 
 > 🎥 **Compare Notes:** [How to make kimchi — Maangchi](https://www.youtube.com/watch?v=0p44rCFBiEo) — Maangchi's video is simply the best tutorial available in English. Watch it in full before starting.
 
@@ -62,7 +62,7 @@
 - **Also see:** [Maangchi — Japchae](https://www.maangchi.com/recipe/japchae) for the more traditional approach
 - **Technique key:** The noodles must be tossed in sesame oil immediately after cooking to prevent sticking. The vegetables must each be cooked separately (spinach takes 30 seconds; mushrooms Take 3 minutes; beef takes 4 minutes) and then assembled. Combining them prematurely ruins every component.
 
-**Full Meal:** Japchae as the main dish + short grain rice + your fresh kimchi from Session 146 (taste it — see what 24 hours has done)
+**Full Meal:** [Japchae](https://www.seriouseats.com/japchae-recipe) as the main dish + short grain rice + your fresh kimchi from Session 146 (taste it — see what 24 hours has done)
 
 > 🎥 **Compare Notes:** [Maangchi — Japchae](https://www.youtube.com/watch?v=vPtTGLrZDTE) — Watch how she manages the heat for each component separately and assemble only at the very end. Component cooking is the lesson.
 
@@ -75,7 +75,7 @@
 - **Read first:** [Maangchi — Doenjang Jjigae](https://www.maangchi.com/recipe/doenjang-jjigae) — this is the definitive home version
 - **Technique key:** Sauté the doenjang briefly in a tiny bit of oil before adding the anchovy stock. This blooms the fermented paste, softening its raw funkiness. The tofu goes in last — it only needs 5 minutes. Over-cooking tofu in soups makes it rubbery.
 
-**Full Meal:** Doenjang jjigae + steamed short grain rice + any remaining kimchi + banchan (any small vegetable side — spinach blanched with sesame oil and garlic, or cucumber in gochugaru)
+**Full Meal:** [Doenjang Jjigae](https://www.maangchi.com/recipe/doenjang-jjigae) + steamed short grain rice + any remaining kimchi + banchan (any small vegetable side — spinach blanched with sesame oil and garlic, or cucumber in gochugaru)
 
 > 🎥 **Compare Notes:** [Doenjang Jjigae — Korean Fermented Soybean Paste Stew](https://www.youtube.com/watch?v=MWuclHpqHks) — Watch when the paste goes in and how the stock is built from anchovies and kombu. The base stock technique is foundational Korean cooking.
 
@@ -89,7 +89,7 @@
 - **Ingredient note:** Frozen or refrigerated tteok (cylindrical rice cakes) can be found at any Korean grocery. If you can't find them, substitute any thick, chewy Asian rice cake.
 - **Technique key:** Start with cold tteok in cold sauce and bring everything up together. If you add them to hot sauce they'll seize on the outside and stay hard inside.
 
-**Full Meal:** Tteokbokki + steamed eggs (gyeran-jjim, silky steamed egg custard in a stone pot) + rice + kimchi
+**Full Meal:** [Tteokbokki](https://www.maangchi.com/recipe/tteokbokki) + steamed eggs (gyeran-jjim, silky steamed egg custard in a stone pot) + rice + kimchi
 
 > 🎥 **Compare Notes:** [Tteokbokki — Maangchi](https://www.youtube.com/watch?v=9nXGmwFI7DQ) — Watch the sauce progression as it reduces and thickens. The gochujang deepens in color as it cooks — that's what you're aiming for.
 
@@ -127,7 +127,7 @@
 - **Technique key:** Each namul is different: blanched spinach gets sesame oil and garlic; bean sprouts get the same; sautéed zucchini gets gochugaru; mushrooms get soy and sesame. The variety of seasoning within a simple framework is what makes bibimbap special.
 - **The egg:** Fried, runny yolk. The yolk is the sauce. It's not negotiable.
 
-**Full Meal:** Bibimbap is the complete meal — rice, vegetables, protein (if adding beef or tofu), egg, and gochujang at the table to mix with.
+**Full Meal:** [Bibimbap](https://www.maangchi.com/recipe/bibimbap) is the complete meal — rice, vegetables, protein (if adding beef or tofu), egg, and gochujang at the table to mix with.
 
 > 🎥 **Compare Notes:** [Bibimbap — Maangchi](https://www.youtube.com/watch?v=6BQgCGBsQa0) — Watch her namul preparation sequence. The order of vegetables and the specific seasoning for each one is the lesson.
 
@@ -141,7 +141,7 @@
 - **Also see:** [Maangchi — Dakgangjeong (Crispy Korean Fried Chicken)](https://www.maangchi.com/recipe/dakgangjeong) — a soy-garlic style with sticky glaze
 - **Technique key:** The first fry (325°F for 12–15 minutes) cooks the chicken through. The second fry (375°F for 3–5 minutes) drives off remaining moisture in the skin and creates the characteristic shatter. Skipping the second fry makes fine fried chicken — it just isn't Korean fried chicken.
 
-**Full Meal:** Korean fried chicken (half plain, half glazed with yangnyeom sauce) + pickled daikon + steamed rice
+**Full Meal:** [Korean Fried Chicken](https://www.seriouseats.com/korean-fried-chicken-recipe) (half plain, half glazed with yangnyeom sauce) + pickled daikon + steamed rice
 
 > 🎥 **Compare Notes:** [Korean Fried Chicken — Maangchi](https://www.youtube.com/watch?v=YiSIm8Tf0oo) — Watch the double-fry temperatures and timing. The first and second fry serve completely different purposes — make sure you understand both before your first attempt.
 
@@ -155,7 +155,7 @@
 - **Technique key:** All in one pan, medium-high heat, enough oil to shallow-fry the edges. Press the pancake flat with a spatula after pouring. Flip only once. The bottom should be deeply golden and crispy — pale pajeon isn't right.
 - **Dipping sauce:** soy sauce + rice vinegar + sesame oil + gochugaru + scallion. Equal parts soy and vinegar, everything else to taste.
 
-**Full Meal:** Pajeon + dipping sauce + doenjang jjigae (quick version — 20-minute soup) + rice
+**Full Meal:** [Pajeon](https://www.maangchi.com/recipe/pajeon) + dipping sauce + doenjang jjigae (quick version — 20-minute soup) + rice
 
 > 🎥 **Compare Notes:** [Pajeon — Korean Scallion Pancake](https://www.youtube.com/watch?v=QHwPHC4iw8E) — Watch the oil quantity and the pan temperature. Korean pancakes need more oil than you'd expect — they're closer to a shallow-fry than a dry sauté.
 
@@ -168,7 +168,7 @@
 - **Technique:** Blanch the ribs briefly in boiling water first (this removes blood and impurities and produces a cleaner, clearer braising liquid). Then braise in the soy-based sauce with garlic, ginger, Asian pear, and vegetables for 1.5–2 hours. The sauce should reduce to a thick, glossy coating in the last 20 minutes (uncover and increase heat).
 - **Reference:** [Maangchi — Galbi-Jjim](https://www.maangchi.com/recipe/galbi-jjim) — Korean braised short ribs
 
-**Full Meal:** Galbi-jjim + steamed short grain rice + sautéed spinach banchan (blanched, seasoned with sesame oil and garlic) + kimchi
+**Full Meal:** [Galbi-Jjim](https://www.maangchi.com/recipe/galbi-jjim) + steamed short grain rice + sautéed spinach banchan (blanched, seasoned with sesame oil and garlic) + kimchi
 
 > 🎥 **Compare Notes:** [Korean Braised Short Ribs (Galbi-Jjim)](https://www.youtube.com/watch?v=KnjkPkBWMCo) — The pre-blanching step distinguishes Korean braising from French braising — it's not about fond development, it's about clarity.
 

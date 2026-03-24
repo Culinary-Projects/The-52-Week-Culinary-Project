@@ -32,9 +32,7 @@ French pastry week is the most technically demanding section of this program. Th
 
 **What you're learning:** Pâte sucrée (sweet paste) is the French shortcrust tart dough — butter creamed with sugar, then flour added just until combined, then rested cold, then pressed or rolled into a tart ring and blind-baked. The creaming method (unlike rubbing cold butter into flour for pie crust) gives it a more cookie-like texture. No water — no gluten development.
 
-**Full Meal:**
-- Salad with grilled chicken or a simple pasta, then the fruit tart as a proper dessert course
-- The tart is the finish — give it a savory lead-in
+**Full Meal:** [Pâte Sucrée Tart](https://www.seriouseats.com/pate-sucree-tart-shell-recipe) filled with pastry cream and fresh fruit, served after a salad with grilled chicken — the tart is the finish, give it a savory lead-in
 
 ---
 
@@ -45,9 +43,7 @@ French pastry week is the most technically demanding section of this program. Th
 
 **What you're learning:** Pastry cream is the filling for every French pastry: éclairs, mille-feuille, fruit tarts, cream puffs. It's thickened with cornstarch and egg yolks. The key skills: tempering (pouring hot milk slowly into yolks to prevent scrambling), cooking while whisking constantly until it thickens (it will lump if you stop), and pressing plastic wrap directly on the surface to prevent a skin.
 
-**Full Meal:**
-- A bowl of soup or a roast chicken sandwich, then éclairs as the dessert course
-- The pastry is the finish, not the foundation
+**Full Meal:** [Vanilla Pastry Cream](https://www.seriouseats.com/vanilla-pastry-cream-creme-patissiere) setting in the fridge; dinner is a bowl of soup or a roast chicken sandwich, then éclairs as the dessert course
 
 > 🎥 **Compare Notes:** [How To Make A Fruit Tart](https://www.youtube.com/watch?v=DVh_EXHZsSQ) *(Claire Saffitz)* — Pastry cream is the central skill in this video; watch her tempering step and the moment she declares it done — that's the texture you're aiming for.
 
@@ -60,9 +56,7 @@ French pastry week is the most technically demanding section of this program. Th
 
 **What you're learning:** Tarte Tatin is an upside-down apple tart — apples cooked in caramelized butter and sugar in a cast iron skillet, then tart dough pressed over the top and baked, then flipped. The caramel soaks into the apples and glazes the finished tart on top. Timing the inversion is the scary part — too soon and it's liquid chaos; too late and the caramel hardens.
 
-**Full Meal:**
-- Pan-seared pork chop or a simple omelet + vegetables, then Tarte Tatin with crème fraîche for dessert
-- The tart is your reward for eating your vegetables
+**Full Meal:** [Tarte Tatin](https://www.seriouseats.com/tarte-tatin-recipe-11844901) with crème fraîche after a pan-seared pork chop or simple omelet — the tart is your reward for eating your vegetables
 
 > 🎥 **Compare Notes:** [Foolproof Tarte Tatin & Rough Puff Pastry](https://www.youtube.com/watch?v=eiQR-F5wqvk) *(Claire Saffitz)* — Note how far she lets the caramel darken before adding the apples, and her confidence at the inversion step — that's the point most people flinch.
 
@@ -75,9 +69,7 @@ French pastry week is the most technically demanding section of this program. Th
 
 **What you're learning:** Choux is a cooked starch paste — one of the four French grande pâtes. The eggs are beaten in gradually; correct dough consistency is "ribbon-y" when dropped from a spoon (falls in a thick, slow V). Underbaked choux will collapse. Properly baked choux has a hollow interior ready for filling. This technique underlies éclairs, profiteroles, gougères, Paris-Brest, and churros.
 
-**Full Meal:**
-- Pan-seared fish and steamed vegetables, then chocolate-glazed éclairs or profiteroles with ice cream for dessert
-- Fifteen minutes of savory cooking gives your pastry the stage it deserves
+**Full Meal:** [Choux Pastry Éclairs or Profiteroles](https://www.seriouseats.com/choux-au-craquelin) — pan-seared fish and steamed vegetables for dinner, then chocolate-glazed éclairs or profiteroles with ice cream for dessert
 
 > 🎥 **Compare Notes:** [Chocolate Éclairs / Pâte à Choux](https://www.youtube.com/watch?v=lB9X_nr2P7M) *(Claire Saffitz)* — Watch her dough consistency test — the ribbon drop off the spoon — that's the single diagnostic that tells you whether the choux will rise properly or collapse.
 
@@ -90,9 +82,7 @@ French pastry week is the most technically demanding section of this program. Th
 
 **What you're learning:** Rough puff achieves 70–80% of classic feuilletage in a fraction of the time. The mille-feuille puts everything from this week together: pastry cream from Session 203 as the filling, puff pastry sheets baked flat and weighted, icing or powdered sugar finish.
 
-**Full Meal:**
-- Mille-Feuille: pastry cream + puff pastry
-- Espresso to accompany
+**Full Meal:** [Mille-Feuille](https://www.seriouseats.com/mille-feuille-recipe-8729243) — pastry cream layered with puff pastry, finished with icing; espresso to accompany
 
 ---
 
@@ -116,9 +106,7 @@ The pastry doughs from Block 47 aren't just for French desserts — they're the 
 
 **What you're learning:** Quiche is the savory application of everything you learned in Block 47. The tart shell is blind-baked first (to prevent a soggy bottom when the wet custard goes in), then filled with a simple egg + cream custard and baked until the center barely jiggles. Pull at 160°F internal — the carryover heat finishes the job. The Lorraine variant adds lardons and Gruyère.
 
-**Full Meal:**
-- Quiche Lorraine with a simple green salad (mustard vinaigrette from Block 9–10)
-- This is lunch, not dinner — quiche is better at midday
+**Full Meal:** [Quiche Lorraine](https://www.seriouseats.com/quiche-lorraine-recipe-8715255) with a simple green salad and mustard vinaigrette — this is lunch, not dinner; quiche is better at midday
 
 ---
 
@@ -129,9 +117,7 @@ The pastry doughs from Block 47 aren't just for French desserts — they're the 
 
 **What you're learning:** American pie dough is the other great pastry tradition — different from French pâte sucrée. Here you want visible butter flakes (cold, cut into flour), minimal water (added a tablespoon at a time), and zero overworking. The fruit filling is about controlling moisture: toss the apples with sugar, let them macerate, reduce the juices separately, then reassemble. This prevents the gap between crust and fruit that ruins lesser pies.
 
-**Full Meal:**
-- Sheet-pan roast (chicken thighs + root vegetables), then apple pie with vanilla ice cream for dessert
-- Cheddar cheese on the side is the New England way, and it's correct
+**Full Meal:** [Apple Pie](https://www.kingarthurbaking.com/recipes/apple-pie-recipe) with vanilla ice cream after a sheet-pan roast of chicken thighs and root vegetables — cheddar on the side is the New England way, and it's correct
 
 ---
 
@@ -142,9 +128,7 @@ The pastry doughs from Block 47 aren't just for French desserts — they're the 
 
 **What you're learning:** Lemon curd is egg yolks + sugar + lemon juice + butter, cooked to 170°F until thick. The acid-to-sugar ratio is the creative decision — a good lemon tart should taste clearly, assertively sour with sweetness as a counterpoint, not the other way around. Pour the warm curd into a fully baked tart shell, chill until set, and serve at room temperature. This is one of the most elegant simple desserts in the pastry canon.
 
-**Full Meal:**
-- Green salad with grilled salmon or a quick pasta, then lemon tart with fresh berries for dessert
-- This is the rhythm of the pastry blocks: cook dinner simply, bake ambitiously
+**Full Meal:** [Lemon Tart](https://www.bonappetit.com/recipe/lemon-tart) with fresh berries after a green salad with grilled salmon or a quick pasta — cook dinner simply, bake ambitiously
 
 ---
 

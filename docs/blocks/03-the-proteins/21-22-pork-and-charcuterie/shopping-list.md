@@ -108,7 +108,7 @@
 
 ---
 
-## Charcuterie & Curing
+## 🥓 Charcuterie & Curing
 
 ## ⚠️ Equipment Check
 

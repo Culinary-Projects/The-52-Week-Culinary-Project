@@ -44,9 +44,7 @@ This week covers five core dessert structures — each uses a different mechanis
 
 📖 **Reference:** [BBC Good Food — Raspberry Coulis](https://www.bbcgoodfood.com/recipes/raspberry-coulis)
 
-**Full Meal:**
-- A quick stir-fry or pasta from your repertoire, then the sauce tasting as your dessert course
-- Taste all three sauces over vanilla ice cream — the comparison is the lesson
+**Full Meal:** [Caramel Sauce](https://www.seriouseats.com/caramel-vs-butterscotch-vs-toffee-11828566) tasting — a quick stir-fry or pasta, then all three sauces (caramel, crème anglaise, raspberry coulis) over vanilla ice cream; the comparison is the lesson
 
 > 🎥 **Compare Notes:** [Perfect Stovetop Chocolate Caramels](https://www.youtube.com/watch?v=KXH2SFX_8Ts) *(Claire Saffitz)* — She's working at hard-crack stage rather than sauce stage; watch how she reads color as the primary signal and treats the thermometer as secondary.
 
@@ -59,9 +57,7 @@ This week covers five core dessert structures — each uses a different mechanis
 
 **What you're learning:** Crème brûlée is a baked cream custard set with egg yolks only — no whites, no starch — relying entirely on egg protein coagulation, the same mechanism as the quiche in Block 47–48. Here the ratio is richer (heavy cream, more yolks) and the water bath (bain-marie) provides gentle, even heat. Internal temperature: 160–165°F. The sugar crust is caramelized with a kitchen torch immediately before serving.
 
-**Full Meal:**
-- Pan-seared fish and a salad, then crème brûlée for dessert — torch at the table for maximum drama
-- Make the custards ahead; they need 2+ hours to set
+**Full Meal:** [Crème Brûlée](https://www.seriouseats.com/creme-brulee-recipe-7107199) — torch at the table for maximum drama; pan-seared fish and a salad for dinner first; make the custards ahead, they need 2+ hours to set
 
 > 🎥 **Compare Notes:** [Crème Brûlée & Crème Caramel](https://www.youtube.com/watch?v=dsjoULgoCf4) *(Claire Saffitz)* — She makes both in one session; the crème caramel comparison shows how the same custard base behaves completely differently without the brûlée crust.
 
@@ -74,9 +70,7 @@ This week covers five core dessert structures — each uses a different mechanis
 
 **What you're learning:** Panna cotta is gelatin-set, not egg-set — a completely different mechanism from custards. The gelatin amount must be precise: too much and it bounces; too little and it collapses when unmolded. The right amount barely holds its shape and quivers when touched. This precision with gelatin transfers directly to bavarois, mousses, and any set cream preparation.
 
-**Full Meal:**
-- Simple roast chicken or grilled fish with lemon, then panna cotta with [raspberry coulis](https://www.bbcgoodfood.com/recipes/raspberry-coulis) for dessert
-- Match the panna cotta's elegance — or go Sicilian: olive oil and sea salt on the panna cotta, and keep dinner rustic
+**Full Meal:** [Panna Cotta](https://www.seriouseats.com/classic-panna-cotta-vanilla-bean-recipe) with raspberry coulis after simple roast chicken or grilled fish with lemon — match the panna cotta's elegance
 
 ---
 
@@ -87,9 +81,7 @@ This week covers five core dessert structures — each uses a different mechanis
 
 **What you're learning:** Classic French chocolate mousse is chocolate + butter, then beaten egg whites folded in. The chocolate must be cooled before the eggs go in — hot chocolate kills the foam instantly. The folding technique — large, enveloping strokes that preserve the air — is the same foundational movement used in soufflés and génoise cake. This is the session that teaches you how air becomes structure.
 
-**Full Meal:**
-- A steak, a roast, or a good sandwich — the mousse needs 2 hours to chill, so use that time to cook dinner
-- Chocolate mousse with whipped cream and bitter chocolate shavings for dessert
+**Full Meal:** [Chocolate Mousse](https://www.seriouseats.com/chocolate-mousse-recipe-7109970) with whipped cream and bitter chocolate shavings — mousse needs 2 hours to chill, so use that time to cook a steak, roast, or good sandwich
 
 ---
 
@@ -100,9 +92,7 @@ This week covers five core dessert structures — each uses a different mechanis
 
 **What you're learning:** A well-executed layer cake requires: even layers (weigh the batter into the pans), flat tops (trim the dome or use baking strips), full cooling before frosting (warm cake melts buttercream), a thin crumb coat refrigerated before the final layer, and patience. Buttercream is a fat emulsion — its temperature sensitivity ties back to Block 5–6. Make a 3-layer cake: vanilla, chocolate ganache between layers, Swiss meringue or American buttercream outside.
 
-**Full Meal:**
-- Layer cake — serve to anyone available; this is a milestone bake
-- Champagne or sparkling water
+**Full Meal:** [Génoise Layer Cake](https://www.seriouseats.com/genoise-sponge-cake-recipe-6755258) — a 3-layer cake with chocolate ganache and buttercream; serve to anyone available, this is a milestone bake
 
 ---
 
@@ -145,9 +135,7 @@ The final pastry week: ice cream, sorbet, and chocolate work. These are the prep
 
 **What you're learning:** Tempering chocolate means controlling which crystal form (Form V) dominates as it sets — this creates the snap, gloss, and clean break of professional chocolate work. The technique: melt to 115°F, cool to 82°F (seed with chopped chocolate), then warm to 88–90°F. Ganache is simpler: hot cream poured over chopped chocolate, emulsified by stirring. The ratio (2:1 chocolate:cream for truffles, 1:1 for glazes) determines the texture.
 
-**Full Meal:**
-- Eat a simple dinner from your repertoire before you start — tempering chocolate demands focus
-- Chocolate truffles and ganache-glazed éclairs (use leftover choux from Block 47) are the evening's reward
+**Full Meal:** [How to Temper Chocolate](https://www.seriouseats.com/the-food-lab-best-way-to-temper-chocolate) + [Chocolate Ganache](https://www.kingarthurbaking.com/recipes/chocolate-ganache-recipe) — eat a simple dinner first, then chocolate truffles and ganache-glazed éclairs are the evening's reward
 
 ---
 

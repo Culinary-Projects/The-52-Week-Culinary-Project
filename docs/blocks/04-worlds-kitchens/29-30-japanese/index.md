@@ -47,6 +47,8 @@ Over two weeks, you will learn the dashi-based foundation; explore ramen, rice, 
 
 **Reserve:** Make 2 liters. You'll use it all week.
 
+**Full Meal:** [Miso Soup](https://www.seriouseats.com/basic-japanese-dashi-recipe) — the awase dashi you just made, seasoned with miso, tofu, and wakame; serve with steamed rice
+
 ---
 
 ### Session 139 — Miso, Soy & the Japanese Pantry
@@ -63,6 +65,8 @@ Over two weeks, you will learn the dashi-based foundation; explore ramen, rice, 
 - Apply it: brush onto chicken thighs in a cast iron pan, cook and glaze repeatedly until lacquered
 - Make **miso butter:** combine white (shiro) miso with softened butter 1:2 ratio; finish your next vegetable dish or steak with a small knob
 - Taste miso varietal differences: shiro (white, mild) vs. aka (red, intense, fermented longer)
+
+**Full Meal:** [Teriyaki Chicken](https://www.seriouseats.com/homemade-teriyaki-sauce-recipe) with the glaze you just made, served over steamed rice with a small side salad or pickled vegetables
 
 ---
 
@@ -86,6 +90,8 @@ Over two weeks, you will learn the dashi-based foundation; explore ramen, rice, 
   - Bamboo shoots, bean sprouts, nori, green onion
 - Cook and serve ramen noodles; combine at the last moment in a heated bowl
 
+**Full Meal:** [Weeknight Shoyu Ramen](https://www.seriouseats.com/rich-and-creamy-tonkotsu-ramen-broth-from-scratch-recipe) — the ramen bowl you assembled from dashi broth, shoyu tare, soft-boiled eggs, and chashu
+
 ---
 
 ### Session 141 — Nimono & Japanese Braising (Simmered Dishes)
@@ -104,6 +110,8 @@ Over two weeks, you will learn the dashi-based foundation; explore ramen, rice, 
 - This is Japanese home cooking at its most fundamental — comfort food, not fancy
 
 **Variation:** Agedashi tofu — dust silken tofu with potato starch; fry until crisp; serve in warm dashi seasoned with soy and mirin; top with grated daikon and ginger.
+
+**Full Meal:** [Nikujaga](https://www.justonecookbook.com/nikujaga/) — Japanese beef and potato stew with steamed rice
 
 ---
 
@@ -139,6 +147,8 @@ Over two weeks, you will learn the dashi-based foundation; explore ramen, rice, 
 - Rest 10 minutes off heat before opening
 - Make **ochazuke:** pour hot green tea or dashi over leftover rice; top with salmon flakes, nori, pickled plum (umeboshi), or sesame seeds — this is what Japanese home cooks eat for breakfast with last night's rice
 
+**Full Meal:** [Ochazuke](https://www.justonecookbook.com/ochazuke/) — green tea or dashi poured over rice with salmon flakes and umeboshi; a complete light Japanese meal
+
 ---
 
 ### Session 143 — Tempura: Batter, Oil & Timing
@@ -156,6 +166,8 @@ Over two weeks, you will learn the dashi-based foundation; explore ramen, rice, 
 - **Protein option:** Large shrimp (deveined, tail on; score belly to prevent curling)
 - Fry in batches at 350°F; drain on a wire rack; never paper towels (traps steam)
 - **Tentsuyu dipping sauce:** Dashi + soy sauce + mirin (2:1:1) simmered 2 min; serve with grated daikon and fresh ginger on the side
+
+**Full Meal:** [Tempura Set](https://www.seriouseats.com/the-food-lab-tempura-vegetables-shrimp-recipe) — assorted vegetable and shrimp tempura with tentsuyu dipping sauce and steamed rice
 
 ---
 
@@ -176,6 +188,8 @@ Over two weeks, you will learn the dashi-based foundation; explore ramen, rice, 
 
 **Optional advancement:** Temaki (hand rolls) — cone-shaped, no mat required; more casual but excellent for groups.
 
+**Full Meal:** [Simple Maki Rolls](https://www.justonecookbook.com/how-to-make-sushi-rice/) — sushi rice rolled with cucumber, avocado, or cooked shrimp; served with soy sauce, wasabi, and pickled ginger
+
 ---
 
 ### Session 145 — Gyoza: Dumplings and Crispy-Bottom Pan-Fry
@@ -193,6 +207,8 @@ Over two weeks, you will learn the dashi-based foundation; explore ramen, rice, 
 - Pleat and fold: fold wrapper in half over filling; crimp one side in small folds while pressing against the flat other side
 - Cook: neutral oil; lay flat-side down in single layer; add 1/4 cup water carefully; cover immediately; steam 5 min; uncover; fry until crispy base (2–3 more min)
 - **Dipping sauce:** Soy sauce + rice vinegar + sesame oil; chili oil optional
+
+**Full Meal:** [Gyoza](https://www.seriouseats.com/the-best-japanese-pork-and-cabbage-dumplings-gyoza-recipe) — pan-fried pork and cabbage dumplings with dipping sauce; serve with miso soup and steamed rice
 
 ---
 

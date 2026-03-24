@@ -55,24 +55,22 @@
 
 > Most of these keep for months or years. This is a one-time investment that covers many blocks.
 
-| Item | Needed for | Notes |
-|------|-----------|-------|
-| **Gochujang** (large tub) | Tteokbokki, BBQ, fried chicken sauce | Store in fridge after opening |
-| **Doenjang** (tub) | Session 148 jjigae | Not the same as Japanese miso — don't substitute |
-| **Gochugaru** (bag) | Kimchi, banchan, dipping sauces | Coarse flakes; medium heat |
-| **Sesame oil (toasted)** | Every dish | Finishing oil only; don't heat |
-| **Soy sauce** | Marinades, jjigae | Korean ganjang or Japanese dark |
-| **Fish sauce** | Kimchi, jjigae | Thai or Vietnamese fish sauce works |
-| **Rice vinegar** | Dipping sauces, pickles | |
-| **Mirin** | Marinades | |
-| **Dangmyeon** (sweet potato glass noodles) | Session 147 japchae | Soak before cooking |
-| **Cylindrical tteok** (rice cakes) | Session 149 tteokbokki | Frozen or refrigerated; Korean grocery |
-| **Firm tofu** | Session 148 jjigae | Press and cube |
-| **Dried anchovies (myeolchi)** | Anchovy stock for jjigae | Small silver ones |
-| **Kombu** | Anchovy stock | Dashi kombu works |
-| **Short-grain white rice** | Every session | Korean or Japanese variety |
-| **Potato starch** | Session 151 KFC batter | Shatteringly crispy coating |
-| **Sesame seeds** | Garnish throughout | Keep sealed; go rancid quickly once open |
+- [ ] Gochujang (large tub) — Tteokbokki, BBQ, fried chicken sauce · Store in fridge after opening
+- [ ] Doenjang (tub) — Session 148 jjigae · Not the same as Japanese miso — don't substitute
+- [ ] Gochugaru (bag) — Kimchi, banchan, dipping sauces · Coarse flakes; medium heat
+- [ ] Sesame oil (toasted) — Every dish · Finishing oil only; don't heat
+- [ ] Soy sauce — Marinades, jjigae · Korean ganjang or Japanese dark
+- [ ] Fish sauce — Kimchi, jjigae · Thai or Vietnamese fish sauce works
+- [ ] Rice vinegar — Dipping sauces, pickles
+- [ ] Mirin — Marinades
+- [ ] Dangmyeon (sweet potato glass noodles) — Session 147 japchae · Soak before cooking
+- [ ] Cylindrical tteok (rice cakes) — Session 149 tteokbokki · Frozen or refrigerated; Korean grocery
+- [ ] Firm tofu — Session 148 jjigae · Press and cube
+- [ ] Dried anchovies (myeolchi) — Anchovy stock for jjigae · Small silver ones
+- [ ] Kombu — Anchovy stock · Dashi kombu works
+- [ ] Short-grain white rice — Every session · Korean or Japanese variety
+- [ ] Potato starch — Session 151 KFC batter · Shatteringly crispy coating
+- [ ] Sesame seeds — Garnish throughout · Keep sealed; go rancid quickly once open
 
 ---
 

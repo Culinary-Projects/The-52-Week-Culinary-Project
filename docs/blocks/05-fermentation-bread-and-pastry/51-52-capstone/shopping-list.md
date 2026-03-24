@@ -8,7 +8,7 @@
 
 ---
 
-## General Pantry Restock
+## 🌾 General Pantry Restock
 
 By Block 51, your pantry should be well-stocked from the year's cooking. Check and restock as needed:
 
@@ -24,7 +24,7 @@ By Block 51, your pantry should be well-stocked from the year's cooking. Check a
 
 ---
 
-## For the Anniversary Dinner (Service 56)
+## 🍽️ For the Anniversary Dinner (Service 56)
 
 Plan your own menu. Consider:
 
@@ -37,7 +37,7 @@ Plan your own menu. Consider:
 
 ---
 
-## For the Final Exam Dish (Session 230)
+## 🎓 For the Final Exam Dish (Session 230)
 
 - [ ] Whatever your chosen dish requires
 - [ ] Buy the best version of each ingredient — this is your showcase
@@ -45,7 +45,7 @@ Plan your own menu. Consider:
 
 ---
 
-## For the Retrospective Meal (Session 231)
+## 🍷 For the Retrospective Meal (Session 231)
 
 You'll need ingredients for 4 small courses spanning the program:
 

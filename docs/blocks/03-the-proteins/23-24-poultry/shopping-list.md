@@ -30,21 +30,19 @@
 
 ## 🥦 Produce — Side Dishes
 
-| Item | Qty | For |
-|---|---|---|
-| Potatoes (Yukon Gold) | 2 lb | Crispy Roast Potatoes (S62) |
-| Watercress | 1 bunch | Watercress Salad (S62) |
-| Lemons | 4 | Vinaigrettes, pan sauces |
-| Cauliflower | 1 head | Roasted Cauliflower (S63) |
-| Pine nuts | ¼ cup | Roasted Cauliflower (S63) |
-| Raisins | 2 tbsp | Roasted Cauliflower (S63) |
-| Capers | 1 jar | Roasted Cauliflower, pan sauces |
-| Rice (basmati or long-grain) | 1 cup | Tahdig or Pilaf (S63, S65) |
-| Frisée or curly endive | 2 heads | Salad (S64), Bistro Salad (Service 16) |
-| Crusty bread or sourdough | 1 loaf | Garlic-Rubbed Grilled Bread (S64) |
-| Carrots | 1 bunch | Honey-Roasted Carrots (S65) |
-| Honey | 1 jar | Glazed Carrots (S65) |
-| Fresh herbs: tarragon, chives, parsley | 1 bunch each | Pan sauce (S65), salads |
+- [ ] Potatoes (Yukon Gold) — 2 lb · Crispy Roast Potatoes (S62)
+- [ ] Watercress — 1 bunch · Watercress Salad (S62)
+- [ ] Lemons — 4 · Vinaigrettes, pan sauces
+- [ ] Cauliflower — 1 head · Roasted Cauliflower (S63)
+- [ ] Pine nuts — ¼ cup · Roasted Cauliflower (S63)
+- [ ] Raisins — 2 tbsp · Roasted Cauliflower (S63)
+- [ ] Capers — 1 jar · Roasted Cauliflower, pan sauces
+- [ ] Rice (basmati or long-grain) — 1 cup · Tahdig or Pilaf (S63, S65)
+- [ ] Frisée or curly endive — 2 heads · Salad (S64), Bistro Salad (Service 16)
+- [ ] Crusty bread or sourdough — 1 loaf · Garlic-Rubbed Grilled Bread (S64)
+- [ ] Carrots — 1 bunch · Honey-Roasted Carrots (S65)
+- [ ] Honey — 1 jar · Glazed Carrots (S65)
+- [ ] Fresh herbs: tarragon, chives, parsley — 1 bunch each · Pan sauce (S65), salads
 
 ---
 

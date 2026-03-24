@@ -93,7 +93,7 @@
 
 ---
 
-## Advanced Seafood (Sessions 91–97)
+## 🐟 Advanced Seafood (Sessions 91–97)
 
 ## ⚠️ Equipment Check
 
