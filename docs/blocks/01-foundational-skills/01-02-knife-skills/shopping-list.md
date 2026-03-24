@@ -8,7 +8,7 @@
 >
 > **Pantry and dry goods** (pasta, sauces, oils, spices) can all be bought in one trip before Block 1 — they keep indefinitely.
 >
-> **Proteins:** Buy the Block 1 proteins (chicken breasts, shrimp, beef) before Block 1. Buy the Block 2 Pad Thai protein (shrimp or tofu) with your Block 2 shop. Buy the Block 2 whole chicken the day before you plan to break it down — it must be fresh, not frozen, and fresh chicken has a short window.
+> **Proteins:** Buy the Block 1 proteins (chicken breasts, shrimp, beef) before Block 1. Buy the Block 2 Pad Thai proteins (pork shoulder + pressed tofu) with your Block 2 shop. Buy the Block 2 whole chicken the day before you plan to break it down — it must be fresh, not frozen, and fresh chicken has a short window.
 
 ---
 
@@ -19,7 +19,8 @@
 - [ ] Flank steak or beef sirloin — 1 lb, thinly sliced (Session 4, stir-fry)
 - [ ] Bone-in, skin-on chicken thighs — 6 pieces (Session 6 + Friday leftovers)
 - [ ] **Whole chicken — 1 (Session 7): You will break this down yourself. This is the lesson.** The breasts go into piccata; the thighs and legs are your Session 8 leftovers. Save the carcass in the freezer — it becomes your Block 7 stock.
-- [ ] Shrimp (16/20 count) OR firm tofu — 8 oz (Session 5 Pad Thai protein)
+- [ ] Pork shoulder — 4 oz, sliced ⅛ inch thin (Session 5 Pad Thai — the recipe's default protein; can swap for 4 oz shrimp 16/20)
+- [ ] Pressed tofu — 4 oz (Session 5 Pad Thai aromatic base — used regardless of protein choice; look for "pressed" or extra-dry extra-firm; Asian markets have the best variety)
 
 ---
 
@@ -55,7 +56,9 @@
 - [ ] Yellow squash — 2 medium (Service 2 tian)
 - [ ] Mixed greens / butter lettuce — 1 bag (Session 6 salad)
 - [ ] Bean sprouts — 1 bag (Session 5 Pad Thai)
-- [ ] Scallions — 1 bunch (Session 5 Pad Thai + garnishes)
+- [ ] Scallions — 1 bunch (garnishes throughout)
+- [ ] Chinese flat garlic chives — 1 small bunch (Session 5 Pad Thai — the recipe calls for these specifically; Asian grocery; scallions work as a fallback but taste different)
+- [ ] Asian shallot — 1 small (Session 5 Pad Thai)
 - [ ] Fresh basil — 1 bunch (Session 5 Pad Thai chiffonade drill)
 
 ---
@@ -86,13 +89,14 @@
 - [ ] Soy sauce — 1 bottle
 - [ ] Sesame oil — 1 small bottle (Session 4 stir-fry)
 - [ ] Fish sauce — 1 bottle (Pad Thai) — most grocery stores carry this now (Thai Kitchen brand); Asian grocery is cheaper
-- [ ] Tamarind paste or concentrate — 1 jar (Pad Thai) — Asian grocery or Amazon; **not the same as tamarind chutney** (that's sweetened)
+- [ ] Tamarind concentrate — 1 jar (Pad Thai) — **Thai brand only** (Indian brands are much thicker; wrong ratios); Asian grocery or Amazon; block + hot water also works (instructions in the recipe notes)
 - [ ] Brown sugar or palm sugar — 1 bag (Pad Thai) — regular brown sugar works fine
+- [ ] Dried shrimp, small or medium — 1 bag (Session 5 Pad Thai aromatic; Asian grocery)
+- [ ] Sweet preserved radish, pre-minced (chai poh) — 1 package (Session 5 Pad Thai aromatic; Asian grocery — **sweet version, not salty**)
 - [ ] Cornstarch — 1 box (stir-fry velveting)
 - [ ] All-purpose flour — 1 bag (Session 7 piccata dredge)
 - [ ] Dijon mustard — 1 jar (Session 6 vinaigrette + general use)
 - [ ] Red wine vinegar — 1 bottle (Session 6 vinaigrette)
-- [ ] Unseasoned rice vinegar — 1 bottle (Pad Thai)
 - [ ] Roasted peanuts — 1 bag (Pad Thai garnish)
 - [ ] Capers — 1 jar (Session 7 piccata)
 - [ ] Cumin, smoked paprika, dried chili flakes, ground coriander (Session 8 shakshuka)
