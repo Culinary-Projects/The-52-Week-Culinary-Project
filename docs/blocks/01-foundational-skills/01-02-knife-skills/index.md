@@ -73,7 +73,7 @@ This block handles raw shrimp (Session 3), raw pork (Session 5), and a whole raw
 
 Reading about knife technique only goes so far. These videos show you what the grip and motion actually look like at speed:
 
-- 📺 [**Jacques Pépin — Knife Skills (KQED)**](https://www.youtube.com/watch?v=0aKVFUGCmVY) — Watch him break down an onion, mince garlic, and fillet a fish. The grip, the motion, the board control — all of it visible at real speed from someone who's done it ten thousand times.
+- 📺 [**Jacques Pépin — Proper Knife Skills for Cutting, Chopping and Slicing (KQED)**](https://www.youtube.com/watch?v=nffGuGwCE3E) — He covers the three knives worth owning, then demonstrates cutting, chopping, and slicing vegetables. The grip, the motion, the board control — all of it visible at real speed from someone who's done it ten thousand times.
 
 ---
 
