@@ -35,6 +35,9 @@ plugins:
   - search
   - offline
 
+extra_javascript:
+  - javascripts/giscus.js
+
 nav:
   - Home: README.md
   - How to Use: how-to-use.md
