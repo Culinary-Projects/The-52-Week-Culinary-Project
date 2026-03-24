@@ -16,150 +16,29 @@ The final two weeks of this program are structured as a culmination and a retros
 
 ---
 
+
 ## Block 51 — Signature Dish and Self-Assessment
 
 ---
 
-### Session 225 — Skills Inventory
-
-**Exercise:** Pull out any notes, journals, or memories from Block 1–2. Answer the following questions honestly:
-
-1. What was the first dish you cooked in Block 1–2?
-2. Which block was the hardest? Why?
-3. What is a dish you thought you'd never make — and then made?
-4. What technique do you still find genuinely difficult?
-5. What do you now do without thinking that required real concentration in Block 1–2?
-
-**Read first:** [The Serious Eats Knife Tutorial](https://www.seriouseats.com/knife-skills-how-to-slice-and-dice-an-onion) — your original knife skill reference. Time yourself on an onion dice. Compare.
-
-**Session:** Write at least one page (or record notes). This is the benchmark that gives meaning to everything else.
+- [Session 225: Skills Inventory](session-225-skills-inventory.md)
+- [Session 226: The Forgotten Dish](session-226-the-forgotten-dish.md)
+- [Session 227: Design Your Signature Dish](session-227-design-your-signature-dish.md)
+- [Session 228: Cook Something From Memory](session-228-cook-something-from-memory.md)
+- [⏰ Service 56: The Anniversary Dinner](service-56-the-anniversary-dinner.md)
 
 ---
 
-### Session 226 — The Forgotten Dish
-
-**Exercise:** Cook one dish from the first 10 weeks that you have not returned to since. Not because it was bad — because life moved on and you never circled back.
-
-Dig into Blocks 1–10. Find the dish you meant to repeat but didn't. Cook it today with all subsequent knowledge applied.
-
-**Session:**
-- Choose and cook the dish
-- Note how differently you approach it now
-- Serve it simply; eat and think
-
----
-
-### Session 227 — Design Your Signature Dish
-
-**Skill:** Original recipe development; choosing a technique foundation; building flavor intentionally
-**Challenge:** Design one dish that is entirely yours. Not a recreation of a recipe from the program — an original creation built on the skills you've developed.
-
-**Guidelines:**
-- Start with a technique you've mastered (a braise, a sauce, a ferment, a bread)
-- Choose one cuisine's flavor logic as your framework (or blend two)
-- Write the recipe before you cook: ingredients, method, plating concept
-- Execute it. Taste it. Revise the recipe based on what you learn.
-
-This is the creative payoff of 50 weeks of technical work. The constraints of technique become the freedom of composition.
-
-**Full Meal:**
-- Your signature dish, plated with intention
-- Photograph it. This is your portfolio piece.
-
----
-
-### Session 228 — Cook Something From Memory
-
-**Skill:** Executing a complete dish with no written recipe
-**Challenge:** Cook a complete 2-course meal entirely from memory. No recipe open. No quick checks. Only what your hands remember.
-
-This is not graded. But it reveals — more clearly than any other measure — what you have actually internalized vs. what you have only read.
-
-**Debrief:** Afterward, look up the recipe you cooked from memory. Where did you differ? Was your version better or worse? Why?
-
----
-
-### ⏰ Service 56 — The Anniversary Dinner
-
-**Goal:** Cook the dinner you would serve to mark the completion of this year.
-
-Who do you invite? Your closest people. People who have eaten with you, who watched you improve, who benefited from your cooking experiments. A minimum of 4, a maximum of however many fit at your table.
-
-**The menu:**
-Let it be entirely yours. No prescribed structure. What do you want to cook? What represents the year? What represents you?
-
-Suggested constraints only:
-- At least 3 courses
-- At least one dish you learned in the first half of the year
-- At least one dish from the second half
-- One element from your signature dish (Session 227)
-- A dessert that showcases what you learned in Blocks 47–50
-
-Serve it. Sit at the table. Be present.
-
----
 
 ## Block 52 — The Final Exam
 
 ---
 
-### Session 229 — Define the Exam for Yourself
-
-**Exercise:** Write a brief personal culinary philosophy. 1–3 paragraphs. Answer these questions:
-
-1. What kind of cook do you want to be?
-2. What role does food play in your life now, compared to a year ago?
-3. What is your signature dish?
-4. What is the most valuable single thing you learned this year?
-
-There are no correct answers. There is only what is true for you.
-
----
-
-### Session 230 — Cook the Final Exam Dish
-
-**The exam:** Cook one dish that represents everything.
-
-No constraints on cuisine, technique, or difficulty. But it must:
-- Require real skill (not just effort)
-- Be completely executed without assistance or recipe
-- Be something you would be proud to serve to anyone
-- Taste exactly the way you want it to taste
-
-Photograph it. Eat it. Write two sentences about it.
-
----
-
-### Session 231 — The Retrospective Meal
-
-**Exercise:** Cook a meal that traces the arc of the year:
-
-- A bite or starter from Blocks 1–10 (foundations)
-- A smaller course from Blocks 11–24 (proteins)
-- A main from Blocks 25–40 (world cuisines)
-- A dessert from Blocks 41–50 (fermentation, bread, pastry)
-
-This is a one-person retrospective tasting — a private tasting menu of the year. Eat slowly. Think about each one.
-
----
-
-### Session 232 — The Open Kitchen
-
-**Goal:** Cook for people. Whatever they want.
-
-Open your kitchen to family, friends, or anyone who wants to taste what you can do. Let them request dishes. Let them watch you cook. Show them the techniques. Cook without a net.
-
-This is not a class — you are not teaching. You are sharing.
-
----
-
-### Session 233 — The Final Dinner
-
-**No instructions. No structure. No format.**
-
-You are a cook who has spent 52 weeks building this. Tonight, cook whatever you want, for whoever you love, in whatever way feels most like you.
-
-The year is complete.
+- [Session 229: Define the Exam for Yourself](session-229-define-the-exam-for-yourself.md)
+- [Session 230: Cook the Final Exam Dish](session-230-cook-the-final-exam-dish.md)
+- [Session 231: The Retrospective Meal](session-231-the-retrospective-meal.md)
+- [Session 232: The Open Kitchen](session-232-the-open-kitchen.md)
+- [Session 233: The Final Dinner](session-233-the-final-dinner.md)
 
 ---
 

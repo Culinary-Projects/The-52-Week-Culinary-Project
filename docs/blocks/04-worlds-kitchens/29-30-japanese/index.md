@@ -18,227 +18,32 @@ Over two weeks, you will learn the dashi-based foundation; explore ramen, rice, 
 
 ---
 
-## Block 29 — The Japanese Flavor Foundation
 
----
+## Block 29 — The Japanese Flavor Foundation
 
 > ⏰ **Planning Ahead**
 >
 > - **Session 138 (Dashi):** Make a large batch — you'll use it throughout the block
 > - **Service 35 (PROJECT):** Plan your menu by Session 140; source ingredients by Session 141
 
----
-
-### Session 138 — Dashi: The Umami Foundation
-
-**Skill:** Making kombu dashi and awase dashi; understanding umami at its source
-
-**Read first:**
-- [How to Make Dashi](https://www.seriouseats.com/basic-japanese-dashi-recipe) — the foundational technique
-- [What Is Umami?](https://en.wikipedia.org/wiki/Umami) — understanding why dashi tastes the way it does
-
-**What you're learning:** Dashi is the foundation of most Japanese cooking — the broth that gives miso soup, ramen, nimono, and countless other dishes their characteristic depth. Kombu (dried kelp) contributes glutamates; katsuobushi (dried bonito flakes) contributes inosinates. Together, these two umami compounds multiply each other's effect — a phenomenon called synergistic umami enhancement. The result is a broth of extraordinary savoriness made from just two ingredients in 20 minutes.
-
-**Exercise:**
-1. **Kombu dashi:** Soak 1 piece kombu (10g) in 1 liter cold water 30 min; heat to 140–160°F and hold 10 min; remove kombu before boiling
-2. **Awase dashi:** Bring kombu dashi to a simmer; add a handful of katsuobushi; remove from heat; steep 5 min; strain through fine cloth
-3. Taste each at each stage: cold soak water, kombu dashi, finished awase dashi. Note the progression of umami.
-4. Season a small cup of awase dashi with miso — make your first miso soup from scratch
-
-**Reserve:** Make 2 liters. You'll use it all week.
-
-**Full Meal:** [Miso Soup](https://www.seriouseats.com/basic-japanese-dashi-recipe) — the awase dashi you just made, seasoned with miso, tofu, and wakame; serve with steamed rice
+- [Session 138: Dashi: The Umami Foundation](session-138-dashi-the-umami-foundation.md)
+- [Session 139: Miso, Soy & the Japanese Pantry](session-139-miso-soy-the-japanese-pantry.md)
+- [Session 140: Ramen: Broth, Tare & Components](session-140-ramen-broth-tare-components.md)
+- [Session 141: Nimono & Japanese Braising (Simmered Dishes)](session-141-nimono-japanese-braising-simmered-dishes.md)
+- [⏰ Service 35: Japanese Dinner for Two](service-35-japanese-dinner-for-two.md)
 
 ---
 
-### Session 139 — Miso, Soy & the Japanese Pantry
-
-**Skill:** Understanding the Japanese pantry; applications of miso, soy, sake, mirin, and rice vinegar
-
-**Read first:**
-- [Japanese Pantry Essentials](https://www.justonecookbook.com/categories/pantry/) — the core ingredients and why each matters
-
-**What you're learning:** Japanese flavor comes from five foundational condiments: soy sauce (umami and salt), mirin (sweetness and gloss), sake (cooking alcohol evaporated for depth), rice vinegar (brightness and acidity), and miso (fermented umami). Understanding how these work in combination — the tare, the agedashi sauce, the teriyaki glaze — gives you access to the entire flavor system.
-
-**Exercise:**
-- Make **teriyaki sauce** from scratch: 2 tbsp soy sauce, 2 tbsp mirin, 1 tbsp sake, 1/2 tsp sugar — simmer to gloss
-- Apply it: brush onto chicken thighs in a cast iron pan, cook and glaze repeatedly until lacquered
-- Make **miso butter:** combine white (shiro) miso with softened butter 1:2 ratio; finish your next vegetable dish or steak with a small knob
-- Taste miso varietal differences: shiro (white, mild) vs. aka (red, intense, fermented longer)
-
-**Full Meal:** [Teriyaki Chicken](https://www.seriouseats.com/homemade-teriyaki-sauce-recipe) with the glaze you just made, served over steamed rice with a small side salad or pickled vegetables
-
----
-
-### Session 140 — Ramen: Broth, Tare & Components
-
-**Skill:** Building a ramen bowl from components; understanding the tare system; noodle selection
-
-**Read first:**
-- [The Food Lab's Guide to Tonkotsu Ramen](https://www.seriouseats.com/rich-and-creamy-tonkotsu-ramen-broth-from-scratch-recipe) — the deepest dive into ramen science
-- [The Components of Ramen Explained](https://www.seriouseats.com/serious-entertaining-a-ramen-blowout-feast-menu) — the anatomy of a bowl
-
-**What you're learning:** A ramen bowl has three separate components that combine at serving: the broth (base flavor and body), the tare (concentrated seasoning sauce added to each bowl individually), and the toppings. This modular system is what allows one pot of broth to become shoyu ramen, shio ramen, or miso ramen by changing only the tare. Understanding this lets you build ramen at home without a 12-hour pork bone boil.
-
-**Exercise — Weeknight Ramen from Dashi:**
-- Use your Block 29 awase dashi as the broth base; enrich it with a small amount of chicken stock
-- Make a **shoyu tare:** soy sauce, mirin, sake, touch of sesame oil — simmer 5 min
-- Season broth with tare to taste
-- **Toppings (make at least 3):**
-  - Soft-boiled egg (marinated in soy/mirin mixture 4–6 hours)
-  - Chashu pork belly (braise thin-sliced pork in soy/mirin/sake/sugar, roll and tie, slice thin)
-  - Bamboo shoots, bean sprouts, nori, green onion
-- Cook and serve ramen noodles; combine at the last moment in a heated bowl
-
-**Full Meal:** [Weeknight Shoyu Ramen](https://www.seriouseats.com/rich-and-creamy-tonkotsu-ramen-broth-from-scratch-recipe) — the ramen bowl you assembled from dashi broth, shoyu tare, soft-boiled eggs, and chashu
-
----
-
-### Session 141 — Nimono & Japanese Braising (Simmered Dishes)
-
-**Skill:** Japanese simmering technique; dashi-based braising; working with tofu and root vegetables
-
-**Read first:**
-- [How to Make Nikujaga](https://www.justonecookbook.com/nikujaga/) — the classic simmered dish
-
-**What you're learning:** Nimono are simmered dishes — vegetables and proteins cooked slowly in seasoned dashi until they absorb its flavor. The technique is gentle: a bare simmer, not a boil, covered with a drop lid (otoshibuta) or parchment to keep everything submerged. The result is radically different from Western braising — clean, dashi-forward, precise rather than rich and heavy.
-
-**Exercise — Nikujaga (Japanese Beef and Potato Stew):**
-- Thinly sliced beef (shabu-shabu cut) or ground beef, potato, onion, carrot, snap peas
-- Dashi base; seasoned with soy sauce, mirin, and a touch of sugar
-- Simmer gently until potatoes are just tender (don't overcook)
-- This is Japanese home cooking at its most fundamental — comfort food, not fancy
-
-**Variation:** Agedashi tofu — dust silken tofu with potato starch; fry until crisp; serve in warm dashi seasoned with soy and mirin; top with grated daikon and ginger.
-
-**Full Meal:** [Nikujaga](https://www.justonecookbook.com/nikujaga/) — Japanese beef and potato stew with steamed rice
-
----
-
-### ⏰ Service 35 — Japanese Dinner for Two
-
-**Goal:** A composed Japanese meal of 3–4 courses using techniques from Sessions 1–4
-
-**Suggested structure:**
-1. **Miso soup** (from your dashi, with tofu and wakame seaweed)
-2. **Something fried:** Agedashi tofu or tempura (see Session 142 for tempura technique — cook this block in any order)
-3. **Main:** Teriyaki chicken or salmon; or a nimono dish; or ramen as a centerpiece course
-4. **Rice:** Properly cooked Japanese short-grain rice (see Session 142 note); served with pickled vegetables (tsukemono) — even quick-pickled cucumber in rice vinegar works
-
----
 
 ## Block 30 — Tempura, Sushi Rice & Japanese Technique
 
 ---
 
-### Session 142 — Perfect Japanese Rice & Ochazuke
-
-**Skill:** Washing and cooking Japanese short-grain rice; understanding the rice-to-water ratio; ochazuke (tea-on-rice)
-
-**Read first:**
-- [How to Cook Japanese Rice Without a Rice Cooker](https://www.justonecookbook.com/how-to-make-rice/) — stove-top method
-- [Ochazuke: Japanese Tea on Rice](https://www.justonecookbook.com/ochazuke/) — the simplest Japanese meal
-
-**What you're learning:** Japanese short-grain rice is cooked differently from long-grain or basmati. It is washed until the water runs clear (washing removes excess starch). The absorption method is precise: fixed ratio, high heat to start, then low simmer, then rest with no peeking. The result is sticky, cohesive grains — not fluffy. This stickiness is a feature, not a bug; it is what makes rice the platform for Japanese food.
-
-**Exercise:**
-- Wash 2 cups Japanese rice until water runs clear (6–8 washes)
-- Cook using absorption method: 1:1.2 ratio (rice:water); lid on; never lift
-- Rest 10 minutes off heat before opening
-- Make **ochazuke:** pour hot green tea or dashi over leftover rice; top with salmon flakes, nori, pickled plum (umeboshi), or sesame seeds — this is what Japanese home cooks eat for breakfast with last night's rice
-
-**Full Meal:** [Ochazuke](https://www.justonecookbook.com/ochazuke/) — green tea or dashi poured over rice with salmon flakes and umeboshi; a complete light Japanese meal
-
----
-
-### Session 143 — Tempura: Batter, Oil & Timing
-
-**Skill:** Tempura batter technique; deep-frying at correct temperature; draining and serving immediately
-
-**Read first:**
-- [The Secret to Perfect Tempura Batter](https://www.seriouseats.com/the-food-lab-tempura-vegetables-shrimp-recipe) — why cold water and clumpy batter actually work
-
-**What you're learning:** Tempura batter seems counterintuitive — it should be lumpy, ice-cold, and thin. The lumps are undissolved flour pockets that create irregular, shatteringly crisp texture. The cold temperature keeps gluten from forming (gluten = tough, not crisp). The thinness means the batter drapes rather than coats. Fry at 340–360°F in neutral oil; serve within 2 minutes or the crust loses its crunch.
-
-**Exercise — Tempura Set:**
-- Batter: Ice water, egg yolk, cake flour or a mix of all-purpose and potato starch; mix minimally with chopsticks; keep bowl over ice
-- **Vegetables:** Sweet potato (thin slices), shishito peppers, mushrooms, broccoli florets, asparagus
-- **Protein option:** Large shrimp (deveined, tail on; score belly to prevent curling)
-- Fry in batches at 350°F; drain on a wire rack; never paper towels (traps steam)
-- **Tentsuyu dipping sauce:** Dashi + soy sauce + mirin (2:1:1) simmered 2 min; serve with grated daikon and fresh ginger on the side
-
-**Full Meal:** [Tempura Set](https://www.seriouseats.com/the-food-lab-tempura-vegetables-shrimp-recipe) — assorted vegetable and shrimp tempura with tentsuyu dipping sauce and steamed rice
-
----
-
-### Session 144 — Sushi Rice & Simple Maki
-
-**Skill:** Making sushi rice (seasoned with vinegar, sugar, salt); rolling maki
-
-**Read first:**
-- [How to Make Sushi Rice at Home](https://www.justonecookbook.com/how-to-make-sushi-rice/) — the technique for correctly seasoned, properly textured sushi rice
-
-**What you're learning:** Sushi does not require raw fish to learn. The skill is the rice. Sushi rice is cooled and seasoned immediately after cooking with a vinegar mixture (sushi-zu: rice vinegar, sugar, salt). It must be folded — not stirred — to preserve the rice structure while evenly distributing the seasoning. Maki (rolled sushi) is the most approachable format for home cooks; it requires nori, rice, and a filling.
-
-**Exercise:**
-- Make sushi rice: cook as per Session 142; season with sushi-zu immediately; fold with a rice paddle while fanning
-- Roll **simple maki:** nori sheet on bamboo mat; rice spread thinly (leave 1-inch gap at far edge); filling in center (cucumber, avocado, cooked shrimp, or canned tuna with mayo — all acceptable for learning)
-- Roll using mat; firm pressure; slice with a wet knife in single forward strokes
-- Serve with soy sauce, wasabi (real wasabi or prepared paste), pickled ginger
-
-**Optional advancement:** Temaki (hand rolls) — cone-shaped, no mat required; more casual but excellent for groups.
-
-**Full Meal:** [Simple Maki Rolls](https://www.justonecookbook.com/how-to-make-sushi-rice/) — sushi rice rolled with cucumber, avocado, or cooked shrimp; served with soy sauce, wasabi, and pickled ginger
-
----
-
-### Session 145 — Gyoza: Dumplings and Crispy-Bottom Pan-Fry
-
-**Skill:** Making gyoza dough or using wrappers; filling and pleating; the steam-fry technique
-
-**Read first:**
-- [The Best Gyoza (Japanese Pork and Cabbage Dumplings)](https://www.seriouseats.com/the-best-japanese-pork-and-cabbage-dumplings-gyoza-recipe) — complete technique
-
-**What you're learning:** Gyoza cooking is a two-step technique: steam to cook the filling, fry to crisp the bottom. The trademark crispy bottom-soft top texture comes from adding water to a hot oiled pan (creating steam) and covering immediately. When the water evaporates, the steam phase is complete; removing the lid and continuing to fry crisps the base.
-
-**Exercise — Gyoza:**
-- **Filling:** Ground pork, finely shredded and salted cabbage (squeeze dry), garlic, ginger, sesame oil, soy sauce, green onion
-- Use store-bought gyoza wrappers for first attempt; making wrappers from scratch is an optional advancement
-- Pleat and fold: fold wrapper in half over filling; crimp one side in small folds while pressing against the flat other side
-- Cook: neutral oil; lay flat-side down in single layer; add 1/4 cup water carefully; cover immediately; steam 5 min; uncover; fry until crispy base (2–3 more min)
-- **Dipping sauce:** Soy sauce + rice vinegar + sesame oil; chili oil optional
-
-**Full Meal:** [Gyoza](https://www.seriouseats.com/the-best-japanese-pork-and-cabbage-dumplings-gyoza-recipe) — pan-fried pork and cabbage dumplings with dipping sauce; serve with miso soup and steamed rice
-
----
-
-### ⏰ Service 36 — The Japanese Dinner Party
-
-**Goal:** A complete Japanese dinner for 4–6 guests demonstrating techniques from across the block
-
-**Suggested menu:**
-
-**Course 1 — Soup:** Miso soup with dashi, tofu, and wakame; served in lacquer bowls if available
-
-**Course 2 — Small Bites:** One or two of:
-- Gyoza (crispy-bottom, pan-fried)
-- Agedashi tofu
-- Edamame with sea salt
-
-**Course 3 — Main Selection (choose one or two):**
-- Tempura set (vegetable + shrimp) with tentsuyu dipping sauce
-- Teriyaki salmon or chicken with steamed rice
-- Ramen course (unexpected as a dinner party dish; dramatic when served properly in heated bowls)
-
-**Course 4 — Rice Course (if main was not rice-forward):**
-- Steamed Japanese rice with pickled vegetables and a side of miso-marinated something
-
-**Course 5 — Dessert (optional):**
-- Mochi ice cream (purchased)
-- Matcha panna cotta (made in advance)
-- Fresh fruit sliced precisely — this is a legitimate Japanese dessert approach
-
-**Logistics note:** Much of this meal can be prepped in advance. The tempura must be fried à la minute. Plan: everything else ready before guests arrive; fry tempura during a short kitchen break after the soup course.
+- [Session 142: Perfect Japanese Rice & Ochazuke](session-142-perfect-japanese-rice-ochazuke.md)
+- [Session 143: Tempura: Batter, Oil & Timing](session-143-tempura-batter-oil-timing.md)
+- [Session 144: Sushi Rice & Simple Maki](session-144-sushi-rice-simple-maki.md)
+- [Session 145: Gyoza: Dumplings and Crispy-Bottom Pan-Fry](session-145-gyoza-dumplings-and-crispy-bottom-pan-fry.md)
+- [⏰ Service 36: The Japanese Dinner Party](service-36-the-japanese-dinner-party.md)
 
 ---
 

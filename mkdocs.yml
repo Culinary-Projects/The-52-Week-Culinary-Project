@@ -46,120 +46,385 @@ nav:
   - "Unit 1 — Foundational Skills":
     - Overview: blocks/01-foundational-skills/README.md
     - "Block 1–2: Knife Skills":
-      - Full Guide: blocks/01-foundational-skills/01-02-knife-skills/index.md
+      - Overview: blocks/01-foundational-skills/01-02-knife-skills/index.md
+      - "Session 1: The Pinch Grip": blocks/01-foundational-skills/01-02-knife-skills/session-1-the-pinch-grip.md
+      - "Session 2: The Claw": blocks/01-foundational-skills/01-02-knife-skills/session-2-the-claw.md
+      - "Session 3: Rock Chop vs. Push Cut": blocks/01-foundational-skills/01-02-knife-skills/session-3-rock-chop-vs-push-cut.md
+      - "Session 4: Mise en Place": blocks/01-foundational-skills/01-02-knife-skills/session-4-mise-en-place.md
+      - "⏰ Service 1: French Onion Soup": blocks/01-foundational-skills/01-02-knife-skills/service-1-french-onion-soup.md
+      - "Session 5: The Julienne": blocks/01-foundational-skills/01-02-knife-skills/session-5-the-julienne.md
+      - "Session 6: The Dice (Small, Medium, Large)": blocks/01-foundational-skills/01-02-knife-skills/session-6-the-dice-small-medium-large.md
+      - "Session 7: Breaking Down a Whole Chicken": blocks/01-foundational-skills/01-02-knife-skills/session-7-breaking-down-a-whole-chicken.md
+      - "Session 8: Speed Benchmark": blocks/01-foundational-skills/01-02-knife-skills/session-8-speed-benchmark.md
+      - "⏰ Service 2: Provençal Vegetable Tian": blocks/01-foundational-skills/01-02-knife-skills/service-2-provencal-vegetable-tian.md
       - Quick Reference: blocks/01-foundational-skills/01-02-knife-skills/quick-ref.md
       - Shopping List: blocks/01-foundational-skills/01-02-knife-skills/shopping-list.md
     - "Block 1–2: Knife Skills (Atelier Preview)":
-      - Full Guide: blocks/01-foundational-skills/01-02-knife-skills-atelier/index.md
+      - Overview: blocks/01-foundational-skills/01-02-knife-skills-atelier/index.md
     - "Block 3–4: Heat & Cooking":
-      - Full Guide: blocks/01-foundational-skills/03-04-heat-and-cooking/index.md
+      - Overview: blocks/01-foundational-skills/03-04-heat-and-cooking/index.md
+      - "Session 9: Sauté: Hot Pan, Don't Crowd": blocks/01-foundational-skills/03-04-heat-and-cooking/session-9-saute-hot-pan-don-t-crowd.md
+      - "Session 10: Roasting: Hot Oven, Dry Surface": blocks/01-foundational-skills/03-04-heat-and-cooking/session-10-roasting-hot-oven-dry-surface.md
+      - "Session 11: Braising: Low, Slow, Wet": blocks/01-foundational-skills/03-04-heat-and-cooking/session-11-braising-low-slow-wet.md
+      - "Session 12: Steaming, Poaching, and En Papillote: Gentle Heat": blocks/01-foundational-skills/03-04-heat-and-cooking/session-12-steaming-poaching-and-en-papillote-gentle-heat.md
+      - "⏰ Service 3: Spatchcocked Roast Chicken": blocks/01-foundational-skills/03-04-heat-and-cooking/service-3-spatchcocked-roast-chicken.md
+      - "Session 13: Searing Steak: The Art of Doing Nothing": blocks/01-foundational-skills/03-04-heat-and-cooking/session-13-searing-steak-the-art-of-doing-nothing.md
+      - "Session 14: High-Heat Fish: Crispy Skin Without Fear": blocks/01-foundational-skills/03-04-heat-and-cooking/session-14-high-heat-fish-crispy-skin-without-fear.md
+      - "Session 15: Broiling: Overhead Heat": blocks/01-foundational-skills/03-04-heat-and-cooking/session-15-broiling-overhead-heat.md
+      - "Session 16: Recap Cook: No Recipes": blocks/01-foundational-skills/03-04-heat-and-cooking/session-16-recap-cook-no-recipes.md
+      - "⏰ Service 4: Braised Short Ribs": blocks/01-foundational-skills/03-04-heat-and-cooking/service-4-braised-short-ribs.md
       - Quick Reference: blocks/01-foundational-skills/03-04-heat-and-cooking/quick-ref.md
       - Shopping List: blocks/01-foundational-skills/03-04-heat-and-cooking/shopping-list.md
     - "Block 5–6: Mother Sauces":
-      - Full Guide: blocks/01-foundational-skills/05-06-mother-sauces/index.md
+      - Overview: blocks/01-foundational-skills/05-06-mother-sauces/index.md
+      - "Session 17: Béchamel: The White Sauce": blocks/01-foundational-skills/05-06-mother-sauces/session-17-bechamel-the-white-sauce.md
+      - "Session 18: Velouté: Stock Instead of Milk": blocks/01-foundational-skills/05-06-mother-sauces/session-18-veloute-stock-instead-of-milk.md
+      - "Session 19: Sauce Tomat: The Slow Tomato": blocks/01-foundational-skills/05-06-mother-sauces/session-19-sauce-tomat-the-slow-tomato.md
+      - "Session 20: Espagnole and Demi-Glace (Simplified)": blocks/01-foundational-skills/05-06-mother-sauces/session-20-espagnole-and-demi-glace-simplified.md
+      - "⏰ Service 5: Greek Moussaka": blocks/01-foundational-skills/05-06-mother-sauces/service-5-greek-moussaka.md
+      - "Session 21: Hollandaise: The Emulsion": blocks/01-foundational-skills/05-06-mother-sauces/session-21-hollandaise-the-emulsion.md
+      - "Session 22: Mayonnaise: Emulsion Without Heat": blocks/01-foundational-skills/05-06-mother-sauces/session-22-mayonnaise-emulsion-without-heat.md
+      - "Session 23: The Vinaigrette: A Temporary Emulsion": blocks/01-foundational-skills/05-06-mother-sauces/session-23-the-vinaigrette-a-temporary-emulsion.md
+      - "Session 24: Pan Sauce: The Working Sauce": blocks/01-foundational-skills/05-06-mother-sauces/session-24-pan-sauce-the-working-sauce.md
+      - "⏰ Service 6: A Classic French Bistro Dinner (3 Courses)": blocks/01-foundational-skills/05-06-mother-sauces/service-6-a-classic-french-bistro-dinner-3-courses.md
       - Quick Reference: blocks/01-foundational-skills/05-06-mother-sauces/quick-ref.md
       - Shopping List: blocks/01-foundational-skills/05-06-mother-sauces/shopping-list.md
     - "Block 7–8: Stocks & Eggs":
-      - Full Guide: blocks/01-foundational-skills/07-08-stocks-and-eggs/index.md
+      - Overview: blocks/01-foundational-skills/07-08-stocks-and-eggs/index.md
+      - "Session 26: Chicken Stock from Scratch": blocks/01-foundational-skills/07-08-stocks-and-eggs/session-26-chicken-stock-from-scratch.md
+      - "Session 27: Pan Sauces from Real Stock": blocks/01-foundational-skills/07-08-stocks-and-eggs/session-27-pan-sauces-from-real-stock.md
+      - "Session 28: Fish Stock + Fumet": blocks/01-foundational-skills/07-08-stocks-and-eggs/session-28-fish-stock-fumet.md
+      - "Session 29: Vegetable Stock + Risotto": blocks/01-foundational-skills/07-08-stocks-and-eggs/session-29-vegetable-stock-risotto.md
+      - "⏰ Service 7: A Whole Soup Kitchen Day": blocks/01-foundational-skills/07-08-stocks-and-eggs/service-7-a-whole-soup-kitchen-day.md
+      - "Session 30: The French Scramble": blocks/01-foundational-skills/07-08-stocks-and-eggs/session-30-the-french-scramble.md
+      - "Session 31: The Perfect Poached Egg": blocks/01-foundational-skills/07-08-stocks-and-eggs/session-31-the-perfect-poached-egg.md
+      - "Session 32: The Omelette": blocks/01-foundational-skills/07-08-stocks-and-eggs/session-32-the-omelette.md
+      - "Session 33: Custard: Eggs as Thickener — Quiche Lorraine": blocks/01-foundational-skills/07-08-stocks-and-eggs/session-33-custard-eggs-as-thickener-quiche-lorraine.md
+      - "⏰ Service 8: A Complete Egg Dinner Party (3 Courses)": blocks/01-foundational-skills/07-08-stocks-and-eggs/service-8-a-complete-egg-dinner-party-3-courses.md
       - Quick Reference: blocks/01-foundational-skills/07-08-stocks-and-eggs/quick-ref.md
       - Shopping List: blocks/01-foundational-skills/07-08-stocks-and-eggs/shopping-list.md
 
   - "Unit 2 — Building Flavor":
     - Overview: blocks/02-building-flavor/README.md
     - "Block 9–10: Seasoning & Flavor":
-      - Full Guide: blocks/02-building-flavor/09-10-seasoning-and-flavor/index.md
+      - Overview: blocks/02-building-flavor/09-10-seasoning-and-flavor/index.md
+      - "Session 34: Early Salt: Brining": blocks/02-building-flavor/09-10-seasoning-and-flavor/session-34-early-salt-brining.md
+      - "Session 35: During Salt: Layered Seasoning": blocks/02-building-flavor/09-10-seasoning-and-flavor/session-35-during-salt-layered-seasoning.md
+      - "Session 36: Late Salt: Finishing": blocks/02-building-flavor/09-10-seasoning-and-flavor/session-36-late-salt-finishing.md
+      - "Session 37: Salt as Texture and Contrast": blocks/02-building-flavor/09-10-seasoning-and-flavor/session-37-salt-as-texture-and-contrast.md
+      - "⏰ Service 9: Salt-Crusted Whole Roasted Fish": blocks/02-building-flavor/09-10-seasoning-and-flavor/service-9-salt-crusted-whole-roasted-fish.md
+      - "Session 38: Acid: The Brightness Lever": blocks/02-building-flavor/09-10-seasoning-and-flavor/session-38-acid-the-brightness-lever.md
+      - "Session 39: Different Acids, Different Effects": blocks/02-building-flavor/09-10-seasoning-and-flavor/session-39-different-acids-different-effects.md
+      - "Session 40: Fat as Flavor": blocks/02-building-flavor/09-10-seasoning-and-flavor/session-40-fat-as-flavor.md
+      - "Session 41: Umami: The Depth Dial": blocks/02-building-flavor/09-10-seasoning-and-flavor/session-41-umami-the-depth-dial.md
+      - "⏰ Service 10: A Composed Tasting Plate": blocks/02-building-flavor/09-10-seasoning-and-flavor/service-10-a-composed-tasting-plate.md
       - Quick Reference: blocks/02-building-flavor/09-10-seasoning-and-flavor/quick-ref.md
       - Shopping List: blocks/02-building-flavor/09-10-seasoning-and-flavor/shopping-list.md
     - "Block 11–12: Vegetables & Plant-Forward":
-      - Full Guide: blocks/02-building-flavor/11-12-vegetables-plant-forward/index.md
+      - Overview: blocks/02-building-flavor/11-12-vegetables-plant-forward/index.md
+      - "Session 42: Blanching, Shocking, and Color Science": blocks/02-building-flavor/11-12-vegetables-plant-forward/session-42-blanching-shocking-and-color-science.md
+      - "Session 43: Roasting: Caramelization and Concentration": blocks/02-building-flavor/11-12-vegetables-plant-forward/session-43-roasting-caramelization-and-concentration.md
+      - "Session 44: Sauté, Braise, and the Crucifer Redemption": blocks/02-building-flavor/11-12-vegetables-plant-forward/session-44-saute-braise-and-the-crucifer-redemption.md
+      - "Session 45: Grilling and Charring: Fire as Flavor": blocks/02-building-flavor/11-12-vegetables-plant-forward/session-45-grilling-and-charring-fire-as-flavor.md
+      - "⏰ Service 11: Plant-Forward Dinner Party": blocks/02-building-flavor/11-12-vegetables-plant-forward/service-11-plant-forward-dinner-party.md
+      - "Session 46: The Composed Salad: Dressing Is a Technique": blocks/02-building-flavor/11-12-vegetables-plant-forward/session-46-the-composed-salad-dressing-is-a-technique.md
+      - "Session 47: Legumes and Beans: The Forgotten Protein": blocks/02-building-flavor/11-12-vegetables-plant-forward/session-47-legumes-and-beans-the-forgotten-protein.md
+      - "Session 48: Mushrooms: Umami in Plant Form": blocks/02-building-flavor/11-12-vegetables-plant-forward/session-48-mushrooms-umami-in-plant-form.md
+      - "Session 49: Potatoes: The Technique Spectrum": blocks/02-building-flavor/11-12-vegetables-plant-forward/session-49-potatoes-the-technique-spectrum.md
+      - "⏰ Service 12: The Vegetable Tasting Menu": blocks/02-building-flavor/11-12-vegetables-plant-forward/service-12-the-vegetable-tasting-menu.md
       - Quick Reference: blocks/02-building-flavor/11-12-vegetables-plant-forward/quick-ref.md
       - Shopping List: blocks/02-building-flavor/11-12-vegetables-plant-forward/shopping-list.md
     - "Block 13–14: Pasta & Grains":
-      - Full Guide: blocks/02-building-flavor/13-14-pasta-and-grains/index.md
+      - Overview: blocks/02-building-flavor/13-14-pasta-and-grains/index.md
+      - "Session 50: The Dough: Meeting Gluten": blocks/02-building-flavor/13-14-pasta-and-grains/session-50-the-dough-meeting-gluten.md
+      - "Session 51: Ravioli: Pasta as a Vessel": blocks/02-building-flavor/13-14-pasta-and-grains/session-51-ravioli-pasta-as-a-vessel.md
+      - "Session 52: Gnocchi: Potato and Restraint": blocks/02-building-flavor/13-14-pasta-and-grains/session-52-gnocchi-potato-and-restraint.md
+      - "Session 53: Pasta Water: The Secret Sauce Ingredient": blocks/02-building-flavor/13-14-pasta-and-grains/session-53-pasta-water-the-secret-sauce-ingredient.md
+      - "⏰ Service 13: A Full Italian Pasta Dinner": blocks/02-building-flavor/13-14-pasta-and-grains/service-13-a-full-italian-pasta-dinner.md
+      - "Session 54: Risotto alla Milanese: Saffron and Patience": blocks/02-building-flavor/13-14-pasta-and-grains/session-54-risotto-alla-milanese-saffron-and-patience.md
+      - "Session 55: Rice: The World's Most Important Grain": blocks/02-building-flavor/13-14-pasta-and-grains/session-55-rice-the-world-s-most-important-grain.md
+      - "Session 56: Polenta: Low and Slow": blocks/02-building-flavor/13-14-pasta-and-grains/session-56-polenta-low-and-slow.md
+      - "Session 57: Farro and Grains That Think for Themselves": blocks/02-building-flavor/13-14-pasta-and-grains/session-57-farro-and-grains-that-think-for-themselves.md
+      - "⏰ Service 14: A Grain-Forward Dinner Party": blocks/02-building-flavor/13-14-pasta-and-grains/service-14-a-grain-forward-dinner-party.md
       - Quick Reference: blocks/02-building-flavor/13-14-pasta-and-grains/quick-ref.md
       - Shopping List: blocks/02-building-flavor/13-14-pasta-and-grains/shopping-list.md
 
   - "Unit 3 — The Proteins":
     - Overview: blocks/03-the-proteins/README.md
     - "Block 15–16: Beef":
-      - Full Guide: blocks/03-the-proteins/15-16-beef/index.md
+      - Overview: blocks/03-the-proteins/15-16-beef/index.md
+      - "Session 74: The Science of Searing a Steak": blocks/03-the-proteins/15-16-beef/session-74-the-science-of-searing-a-steak.md
+      - "Session 75: Cuts, Grades & the Butcher Relationship": blocks/03-the-proteins/15-16-beef/session-75-cuts-grades-the-butcher-relationship.md
+      - "Session 76: Reverse Sear & Thick Cuts": blocks/03-the-proteins/15-16-beef/session-76-reverse-sear-thick-cuts.md
+      - "Session 77: Pan Sauce from Fond": blocks/03-the-proteins/15-16-beef/session-77-pan-sauce-from-fond.md
+      - "⏰ Service 19: The Steak Dinner": blocks/03-the-proteins/15-16-beef/service-19-the-steak-dinner.md
+      - "Session 78: Braising Beef: Short Ribs or Chuck": blocks/03-the-proteins/15-16-beef/session-78-braising-beef-short-ribs-or-chuck.md
+      - "Session 79: Braising Liquid as Sauce": blocks/03-the-proteins/15-16-beef/session-79-braising-liquid-as-sauce.md
+      - "Session 80: Burgers: Fat Ratios, Grind & Shape": blocks/03-the-proteins/15-16-beef/session-80-burgers-fat-ratios-grind-shape.md
+      - "Session 81: Beef Stock & Its Derivatives": blocks/03-the-proteins/15-16-beef/session-81-beef-stock-its-derivatives.md
+      - "⏰ Service 20: The Braise Dinner": blocks/03-the-proteins/15-16-beef/service-20-the-braise-dinner.md
       - Quick Reference: blocks/03-the-proteins/15-16-beef/quick-ref.md
       - Shopping List: blocks/03-the-proteins/15-16-beef/shopping-list.md
     - "Block 17–18: Fish":
-      - Full Guide: blocks/03-the-proteins/17-18-fish/index.md
+      - Overview: blocks/03-the-proteins/17-18-fish/index.md
+      - "Session 82: Crispy-Skin Pan-Seared Salmon": blocks/03-the-proteins/17-18-fish/session-82-crispy-skin-pan-seared-salmon.md
+      - "Session 83: Sole Meunière: The French Lesson": blocks/03-the-proteins/17-18-fish/session-83-sole-meuniere-the-french-lesson.md
+      - "Session 84: The Universal Crispy Fish Technique": blocks/03-the-proteins/17-18-fish/session-84-the-universal-crispy-fish-technique.md
+      - "Session 85: Ceviche: Fish Cooked by Acid": blocks/03-the-proteins/17-18-fish/session-85-ceviche-fish-cooked-by-acid.md
+      - "⏰ Service 21: Whole Roasted Fish": blocks/03-the-proteins/17-18-fish/service-21-whole-roasted-fish.md
+      - "Session 86: Seared Fish + Mushroom, Asian Style": blocks/03-the-proteins/17-18-fish/session-86-seared-fish-mushroom-asian-style.md
+      - "Session 87: Fish Tacos: West Coast Done Right": blocks/03-the-proteins/17-18-fish/session-87-fish-tacos-west-coast-done-right.md
+      - "Session 88: Salmon Teriyaki: The Weeknight Standard": blocks/03-the-proteins/17-18-fish/session-88-salmon-teriyaki-the-weeknight-standard.md
+      - "Session 89: Whole Grilled Branzino": blocks/03-the-proteins/17-18-fish/session-89-whole-grilled-branzino.md
+      - "⏰ Service 22: A Full Fish Dinner": blocks/03-the-proteins/17-18-fish/service-22-a-full-fish-dinner.md
+      - "Session 91: Trout Amandine: Whole Fish + Brown Butter": blocks/03-the-proteins/17-18-fish/session-91-trout-amandine-whole-fish-brown-butter.md
+      - "Session 93: Whole Grilled Branzino": blocks/03-the-proteins/17-18-fish/session-93-whole-grilled-branzino.md
+      - "⏰ Service 23: Whole Fish Dinner Party": blocks/03-the-proteins/17-18-fish/service-23-whole-fish-dinner-party.md
       - Quick Reference: blocks/03-the-proteins/17-18-fish/quick-ref.md
       - Shopping List: blocks/03-the-proteins/17-18-fish/shopping-list.md
     - "Block 19–20: Shellfish":
-      - Full Guide: blocks/03-the-proteins/19-20-shellfish/index.md
+      - Overview: blocks/03-the-proteins/19-20-shellfish/index.md
+      - "Session 98: Spaghetti alle Vongole (Clams + White Wine)": blocks/03-the-proteins/19-20-shellfish/session-98-spaghetti-alle-vongole-clams-white-wine.md
+      - "Session 99: Moules Marinière (Mussels, French Style)": blocks/03-the-proteins/19-20-shellfish/session-99-moules-mariniere-mussels-french-style.md
+      - "Session 100: Roasted Oysters with Bacon and Parmesan": blocks/03-the-proteins/19-20-shellfish/session-100-roasted-oysters-with-bacon-and-parmesan.md
+      - "Session 101: Shrimp Scampi": blocks/03-the-proteins/19-20-shellfish/session-101-shrimp-scampi.md
+      - "⏰ Service 25: Lobster Night": blocks/03-the-proteins/19-20-shellfish/service-25-lobster-night.md
+      - "Session 102: Chili Crab (Singaporean)": blocks/03-the-proteins/19-20-shellfish/session-102-chili-crab-singaporean.md
+      - "Session 103: Shrimp Bisque / Shrimp in Compound Butter": blocks/03-the-proteins/19-20-shellfish/session-103-shrimp-bisque-shrimp-in-compound-butter.md
+      - "Session 104: Clam Chowder or Clam + Corn Pasta": blocks/03-the-proteins/19-20-shellfish/session-104-clam-chowder-or-clam-corn-pasta.md
+      - "Session 105: Mussels in Tomato-Saffron Broth": blocks/03-the-proteins/19-20-shellfish/session-105-mussels-in-tomato-saffron-broth.md
+      - "⏰ Service 26: Multi-Shellfish Plateau (Cold & Hot)": blocks/03-the-proteins/19-20-shellfish/service-26-multi-shellfish-plateau-cold-hot.md
       - Quick Reference: blocks/03-the-proteins/19-20-shellfish/quick-ref.md
       - Shopping List: blocks/03-the-proteins/19-20-shellfish/shopping-list.md
     - "Block 21–22: Pork & Charcuterie":
-      - Full Guide: blocks/03-the-proteins/21-22-pork-and-charcuterie/index.md
+      - Overview: blocks/03-the-proteins/21-22-pork-and-charcuterie/index.md
+      - "Session 106: Perfect Pork Chop": blocks/03-the-proteins/21-22-pork-and-charcuterie/session-106-perfect-pork-chop.md
+      - "Session 107: Chashu Pork Belly: Low and Slow Japanese-Style": blocks/03-the-proteins/21-22-pork-and-charcuterie/session-107-chashu-pork-belly-low-and-slow-japanese-style.md
+      - "Session 108: Pork Tenderloin: Speed and Precision": blocks/03-the-proteins/21-22-pork-and-charcuterie/session-108-pork-tenderloin-speed-and-precision.md
+      - "Session 109: Vietnamese Grilled Pork Chop (Thit Heo Nuong)": blocks/03-the-proteins/21-22-pork-and-charcuterie/session-109-vietnamese-grilled-pork-chop-thit-heo-nuong.md
+      - "⏰ Service 27: Ultra-Crispy Slow-Roasted Pork Shoulder": blocks/03-the-proteins/21-22-pork-and-charcuterie/service-27-ultra-crispy-slow-roasted-pork-shoulder.md
+      - "Session 110: Belly: Pan-Crispy, No 5-Hour Braise": blocks/03-the-proteins/21-22-pork-and-charcuterie/session-110-belly-pan-crispy-no-5-hour-braise.md
+      - "Session 111: Pork Ribs: Understanding the Two Methods": blocks/03-the-proteins/21-22-pork-and-charcuterie/session-111-pork-ribs-understanding-the-two-methods.md
+      - "Session 112: Porchetta: Italian Pork at Its Peak": blocks/03-the-proteins/21-22-pork-and-charcuterie/session-112-porchetta-italian-pork-at-its-peak.md
+      - "Session 113: Pork Meatballs: Ground Pork Technique": blocks/03-the-proteins/21-22-pork-and-charcuterie/session-113-pork-meatballs-ground-pork-technique.md
+      - "⏰ Service 28: Carnitas and the Whole Shoulder Taco Dinner": blocks/03-the-proteins/21-22-pork-and-charcuterie/service-28-carnitas-and-the-whole-shoulder-taco-dinner.md
+      - "Session 114: Gravlax (Cured Salmon)": blocks/03-the-proteins/21-22-pork-and-charcuterie/session-114-gravlax-cured-salmon.md
+      - "Session 115: Sausage Making Fundamentals": blocks/03-the-proteins/21-22-pork-and-charcuterie/session-115-sausage-making-fundamentals.md
+      - "Session 116: Taste the Gravlax / Cured Charcuterie Board": blocks/03-the-proteins/21-22-pork-and-charcuterie/session-116-taste-the-gravlax-cured-charcuterie-board.md
+      - "Session 117: Quick Pickles & Lacto-Fermented Vegetables": blocks/03-the-proteins/21-22-pork-and-charcuterie/session-117-quick-pickles-lacto-fermented-vegetables.md
+      - "⏰ Service 29: Full Charcuterie Spread + Potted Rillettes": blocks/03-the-proteins/21-22-pork-and-charcuterie/service-29-full-charcuterie-spread-potted-rillettes.md
+      - "Session 118: Pancetta-Style Cured Belly (Start the Project)": blocks/03-the-proteins/21-22-pork-and-charcuterie/session-118-pancetta-style-cured-belly-start-the-project.md
+      - "Session 119: Chicken Liver Pâté": blocks/03-the-proteins/21-22-pork-and-charcuterie/session-119-chicken-liver-pate.md
+      - "Session 120: Unit 3 Capstone: Six-Month Inventory": blocks/03-the-proteins/21-22-pork-and-charcuterie/session-120-unit-3-capstone-six-month-inventory.md
+      - "Session 121: Bacon-Cured Salmon Breakfast Board": blocks/03-the-proteins/21-22-pork-and-charcuterie/session-121-bacon-cured-salmon-breakfast-board.md
+      - "⏰ Service 30: Complete Cured Meat Tasting + Pancetta Check-In": blocks/03-the-proteins/21-22-pork-and-charcuterie/service-30-complete-cured-meat-tasting-pancetta-check-in.md
       - Quick Reference: blocks/03-the-proteins/21-22-pork-and-charcuterie/quick-ref.md
       - Shopping List: blocks/03-the-proteins/21-22-pork-and-charcuterie/shopping-list.md
     - "Block 23–24: Poultry":
-      - Full Guide: blocks/03-the-proteins/23-24-poultry/index.md
+      - Overview: blocks/03-the-proteins/23-24-poultry/index.md
+      - "Session 62: High-Heat Whole-Bird Roast": blocks/03-the-proteins/23-24-poultry/session-62-high-heat-whole-bird-roast.md
+      - "Session 63: Spatchcock: Why It Changes Everything": blocks/03-the-proteins/23-24-poultry/session-63-spatchcock-why-it-changes-everything.md
+      - "Session 64: Braised Poultry: Coq au Vin": blocks/03-the-proteins/23-24-poultry/session-64-braised-poultry-coq-au-vin.md
+      - "Session 65: Pan-Seared Chicken Breast + Pan Sauce": blocks/03-the-proteins/23-24-poultry/session-65-pan-seared-chicken-breast-pan-sauce.md
+      - "⏰ Service 16: Duck Confit": blocks/03-the-proteins/23-24-poultry/service-16-duck-confit.md
       - Quick Reference: blocks/03-the-proteins/23-24-poultry/quick-ref.md
       - Shopping List: blocks/03-the-proteins/23-24-poultry/shopping-list.md
 
   - "Unit 4 — World's Kitchens":
     - Overview: blocks/04-worlds-kitchens/README.md
     - "Block 25–26: French Classics":
-      - Full Guide: blocks/04-worlds-kitchens/25-26-french/index.md
+      - Overview: blocks/04-worlds-kitchens/25-26-french/index.md
+      - "Session 122: French Onion Soup": blocks/04-worlds-kitchens/25-26-french/session-122-french-onion-soup.md
+      - "Session 123: Hollandaise and Eggs Benedict": blocks/04-worlds-kitchens/25-26-french/session-123-hollandaise-and-eggs-benedict.md
+      - "Session 124: Béarnaise Sauce with Steak": blocks/04-worlds-kitchens/25-26-french/session-124-bearnaise-sauce-with-steak.md
+      - "Session 125: Steak Frites": blocks/04-worlds-kitchens/25-26-french/session-125-steak-frites.md
+      - "⏰ Service 31: Cassoulet": blocks/04-worlds-kitchens/25-26-french/service-31-cassoulet.md
+      - "Session 126: Beurre Blanc (White Butter Sauce)": blocks/04-worlds-kitchens/25-26-french/session-126-beurre-blanc-white-butter-sauce.md
+      - "Session 127: Duck à l'Orange": blocks/04-worlds-kitchens/25-26-french/session-127-duck-a-l-orange.md
+      - "Session 128: Soufflé (Cheese or Chocolate)": blocks/04-worlds-kitchens/25-26-french/session-128-souffle-cheese-or-chocolate.md
+      - "Session 129: French Bistro Dinner": blocks/04-worlds-kitchens/25-26-french/session-129-french-bistro-dinner.md
+      - "⏰ Service 32: Le Grand Aioli (Provence-Style)": blocks/04-worlds-kitchens/25-26-french/service-32-le-grand-aioli-provence-style.md
       - Quick Reference: blocks/04-worlds-kitchens/25-26-french/quick-ref.md
       - Shopping List: blocks/04-worlds-kitchens/25-26-french/shopping-list.md
     - "Block 27–28: Italian":
-      - Full Guide: blocks/04-worlds-kitchens/27-28-italian/index.md
+      - Overview: blocks/04-worlds-kitchens/27-28-italian/index.md
+      - "Session 130: Mushroom Risotto": blocks/04-worlds-kitchens/27-28-italian/session-130-mushroom-risotto.md
+      - "Session 131: Minestrone (The Full Version)": blocks/04-worlds-kitchens/27-28-italian/session-131-minestrone-the-full-version.md
+      - "Session 132: Osso Buco alla Milanese": blocks/04-worlds-kitchens/27-28-italian/session-132-osso-buco-alla-milanese.md
+      - "Session 133: Ribollita (Tuscan Bean Bread Soup)": blocks/04-worlds-kitchens/27-28-italian/session-133-ribollita-tuscan-bean-bread-soup.md
+      - "⏰ Service 33: Pan-Roasted Whole Branzino + Tiramisu": blocks/04-worlds-kitchens/27-28-italian/service-33-pan-roasted-whole-branzino-tiramisu.md
+      - "Session 134: Gnocchi from Scratch": blocks/04-worlds-kitchens/27-28-italian/session-134-gnocchi-from-scratch.md
+      - "Session 135: Pasta Fresca (Fresh Egg Pasta)": blocks/04-worlds-kitchens/27-28-italian/session-135-pasta-fresca-fresh-egg-pasta.md
+      - "Session 136: Spaghetti alle Vongole (Revisited from Italian Perspective)": blocks/04-worlds-kitchens/27-28-italian/session-136-spaghetti-alle-vongole-revisited-from-italian-perspective.md
+      - "Session 137: Saltimbocca alla Romana": blocks/04-worlds-kitchens/27-28-italian/session-137-saltimbocca-alla-romana.md
+      - "⏰ Service 34: Italian Sunday Dinner": blocks/04-worlds-kitchens/27-28-italian/service-34-italian-sunday-dinner.md
       - Quick Reference: blocks/04-worlds-kitchens/27-28-italian/quick-ref.md
       - Shopping List: blocks/04-worlds-kitchens/27-28-italian/shopping-list.md
     - "Block 29–30: Japanese":
-      - Full Guide: blocks/04-worlds-kitchens/29-30-japanese/index.md
+      - Overview: blocks/04-worlds-kitchens/29-30-japanese/index.md
+      - "Session 138: Dashi: The Umami Foundation": blocks/04-worlds-kitchens/29-30-japanese/session-138-dashi-the-umami-foundation.md
+      - "Session 139: Miso, Soy & the Japanese Pantry": blocks/04-worlds-kitchens/29-30-japanese/session-139-miso-soy-the-japanese-pantry.md
+      - "Session 140: Ramen: Broth, Tare & Components": blocks/04-worlds-kitchens/29-30-japanese/session-140-ramen-broth-tare-components.md
+      - "Session 141: Nimono & Japanese Braising (Simmered Dishes)": blocks/04-worlds-kitchens/29-30-japanese/session-141-nimono-japanese-braising-simmered-dishes.md
+      - "⏰ Service 35: Japanese Dinner for Two": blocks/04-worlds-kitchens/29-30-japanese/service-35-japanese-dinner-for-two.md
+      - "Session 142: Perfect Japanese Rice & Ochazuke": blocks/04-worlds-kitchens/29-30-japanese/session-142-perfect-japanese-rice-ochazuke.md
+      - "Session 143: Tempura: Batter, Oil & Timing": blocks/04-worlds-kitchens/29-30-japanese/session-143-tempura-batter-oil-timing.md
+      - "Session 144: Sushi Rice & Simple Maki": blocks/04-worlds-kitchens/29-30-japanese/session-144-sushi-rice-simple-maki.md
+      - "Session 145: Gyoza: Dumplings and Crispy-Bottom Pan-Fry": blocks/04-worlds-kitchens/29-30-japanese/session-145-gyoza-dumplings-and-crispy-bottom-pan-fry.md
+      - "⏰ Service 36: The Japanese Dinner Party": blocks/04-worlds-kitchens/29-30-japanese/service-36-the-japanese-dinner-party.md
       - Quick Reference: blocks/04-worlds-kitchens/29-30-japanese/quick-ref.md
       - Shopping List: blocks/04-worlds-kitchens/29-30-japanese/shopping-list.md
     - "Block 31–32: Korean":
-      - Full Guide: blocks/04-worlds-kitchens/31-32-korean/index.md
+      - Overview: blocks/04-worlds-kitchens/31-32-korean/index.md
+      - "Session 146: Kimchi: The Soul of the Korean Kitchen": blocks/04-worlds-kitchens/31-32-korean/session-146-kimchi-the-soul-of-the-korean-kitchen.md
+      - "Session 147: Japchae: Glass Noodles, Vegetables, and Technique": blocks/04-worlds-kitchens/31-32-korean/session-147-japchae-glass-noodles-vegetables-and-technique.md
+      - "Session 148: Doenjang Jjigae: The Everyday Soup": blocks/04-worlds-kitchens/31-32-korean/session-148-doenjang-jjigae-the-everyday-soup.md
+      - "Session 149: Tteokbokki: Spicy Rice Cakes": blocks/04-worlds-kitchens/31-32-korean/session-149-tteokbokki-spicy-rice-cakes.md
+      - "⏰ Service 37: Korean Barbecue Night": blocks/04-worlds-kitchens/31-32-korean/service-37-korean-barbecue-night.md
+      - "Session 150: Bibimbap: The Composed Bowl": blocks/04-worlds-kitchens/31-32-korean/session-150-bibimbap-the-composed-bowl.md
+      - "Session 151: Korean Fried Chicken: The Science of the Crisp": blocks/04-worlds-kitchens/31-32-korean/session-151-korean-fried-chicken-the-science-of-the-crisp.md
+      - "Session 152: Pajeon: Korean Savory Pancakes": blocks/04-worlds-kitchens/31-32-korean/session-152-pajeon-korean-savory-pancakes.md
+      - "Session 153: Galbi-Jjim: Braised Short Ribs": blocks/04-worlds-kitchens/31-32-korean/session-153-galbi-jjim-braised-short-ribs.md
+      - "⏰ Service 38: A Korean Dinner Party": blocks/04-worlds-kitchens/31-32-korean/service-38-a-korean-dinner-party.md
       - Quick Reference: blocks/04-worlds-kitchens/31-32-korean/quick-ref.md
       - Shopping List: blocks/04-worlds-kitchens/31-32-korean/shopping-list.md
     - "Block 33–34: Chinese":
-      - Full Guide: blocks/04-worlds-kitchens/33-34-chinese/index.md
+      - Overview: blocks/04-worlds-kitchens/33-34-chinese/index.md
+      - "Session 154: The Wok: Heat, Motion, and Wok Hei": blocks/04-worlds-kitchens/33-34-chinese/session-154-the-wok-heat-motion-and-wok-hei.md
+      - "Session 155: Red-Braised Pork Belly (Hong Shao Rou)": blocks/04-worlds-kitchens/33-34-chinese/session-155-red-braised-pork-belly-hong-shao-rou.md
+      - "Session 156: Cantonese Steamed Fish": blocks/04-worlds-kitchens/33-34-chinese/session-156-cantonese-steamed-fish.md
+      - "Session 157: Mapo Tofu (麻婆豆腐)": blocks/04-worlds-kitchens/33-34-chinese/session-157-mapo-tofu.md
+      - "⏰ Service 39: Sichuan Dinner": blocks/04-worlds-kitchens/33-34-chinese/service-39-sichuan-dinner.md
+      - "Session 158: Congee (Rice Porridge)": blocks/04-worlds-kitchens/33-34-chinese/session-158-congee-rice-porridge.md
+      - "Session 159: Dim Sum at Home: Har Gow (Shrimp Dumplings)": blocks/04-worlds-kitchens/33-34-chinese/session-159-dim-sum-at-home-har-gow-shrimp-dumplings.md
+      - "Session 160: Chinese Egg Fried Rice": blocks/04-worlds-kitchens/33-34-chinese/session-160-chinese-egg-fried-rice.md
+      - "Session 161: Hot and Sour Soup (酸辣汤)": blocks/04-worlds-kitchens/33-34-chinese/session-161-hot-and-sour-soup.md
+      - "⏰ Service 40: Full Chinese Banquet (for 4–6)": blocks/04-worlds-kitchens/33-34-chinese/service-40-full-chinese-banquet-for-46.md
       - Quick Reference: blocks/04-worlds-kitchens/33-34-chinese/quick-ref.md
       - Shopping List: blocks/04-worlds-kitchens/33-34-chinese/shopping-list.md
     - "Block 35–36: Mexican":
-      - Full Guide: blocks/04-worlds-kitchens/35-36-mexican/index.md
+      - Overview: blocks/04-worlds-kitchens/35-36-mexican/index.md
+      - "Session 162: Carne Asada": blocks/04-worlds-kitchens/35-36-mexican/session-162-carne-asada.md
+      - "Session 163: Pozole Rojo": blocks/04-worlds-kitchens/35-36-mexican/session-163-pozole-rojo.md
+      - "Session 164: Guacamole + Salsa Verde (The Fundamentals)": blocks/04-worlds-kitchens/35-36-mexican/session-164-guacamole-salsa-verde-the-fundamentals.md
+      - "Session 165: Tacos al Pastor": blocks/04-worlds-kitchens/35-36-mexican/session-165-tacos-al-pastor.md
+      - "⏰ Service 41: Enchiladas + Red Chile Sauce from Scratch": blocks/04-worlds-kitchens/35-36-mexican/service-41-enchiladas-red-chile-sauce-from-scratch.md
+      - "Session 166: Birria de Res (Beef Birria)": blocks/04-worlds-kitchens/35-36-mexican/session-166-birria-de-res-beef-birria.md
+      - "Session 167: Mole Negro (Simplified Introduction)": blocks/04-worlds-kitchens/35-36-mexican/session-167-mole-negro-simplified-introduction.md
+      - "Session 168: Tamales (Team Project)": blocks/04-worlds-kitchens/35-36-mexican/session-168-tamales-team-project.md
+      - "Session 169: Chiles Rellenos": blocks/04-worlds-kitchens/35-36-mexican/session-169-chiles-rellenos.md
+      - "⏰ Service 42: Full Mexican Celebration Dinner": blocks/04-worlds-kitchens/35-36-mexican/service-42-full-mexican-celebration-dinner.md
       - Quick Reference: blocks/04-worlds-kitchens/35-36-mexican/quick-ref.md
       - Shopping List: blocks/04-worlds-kitchens/35-36-mexican/shopping-list.md
     - "Block 37–38: Indian":
-      - Full Guide: blocks/04-worlds-kitchens/37-38-indian/index.md
+      - Overview: blocks/04-worlds-kitchens/37-38-indian/index.md
+      - "Session 170: Butter Chicken (Murgh Makhani)": blocks/04-worlds-kitchens/37-38-indian/session-170-butter-chicken-murgh-makhani.md
+      - "Session 171: Moong Dal (Yellow Split Lentils)": blocks/04-worlds-kitchens/37-38-indian/session-171-moong-dal-yellow-split-lentils.md
+      - "Session 172: Chicken Tikka Masala (Grilled Version)": blocks/04-worlds-kitchens/37-38-indian/session-172-chicken-tikka-masala-grilled-version.md
+      - "Session 173: Dal Makhani (All-Day Slow Dal)": blocks/04-worlds-kitchens/37-38-indian/session-173-dal-makhani-all-day-slow-dal.md
+      - "⏰ Service 43: North Indian Feast": blocks/04-worlds-kitchens/37-38-indian/service-43-north-indian-feast.md
+      - "Session 174: Chana Masala (Chickpea Curry)": blocks/04-worlds-kitchens/37-38-indian/session-174-chana-masala-chickpea-curry.md
+      - "Session 175: Aloo Gobi (Potato and Cauliflower)": blocks/04-worlds-kitchens/37-38-indian/session-175-aloo-gobi-potato-and-cauliflower.md
+      - "Session 176: Lamb Biryani": blocks/04-worlds-kitchens/37-38-indian/session-176-lamb-biryani.md
+      - "Session 177: Garam Masala from Scratch + Spice Inventory": blocks/04-worlds-kitchens/37-38-indian/session-177-garam-masala-from-scratch-spice-inventory.md
+      - "⏰ Service 44: South Indian Weekend": blocks/04-worlds-kitchens/37-38-indian/service-44-south-indian-weekend.md
       - Quick Reference: blocks/04-worlds-kitchens/37-38-indian/quick-ref.md
       - Shopping List: blocks/04-worlds-kitchens/37-38-indian/shopping-list.md
     - "Block 39–40: Southeast Asian":
-      - Full Guide: blocks/04-worlds-kitchens/39-40-southeast-asian/index.md
+      - Overview: blocks/04-worlds-kitchens/39-40-southeast-asian/index.md
+      - "Session 186: Pad Thai": blocks/04-worlds-kitchens/39-40-southeast-asian/session-186-pad-thai.md
+      - "Session 187: Traditional Beef Pho": blocks/04-worlds-kitchens/39-40-southeast-asian/session-187-traditional-beef-pho.md
+      - "Session 188: Nasi Goreng (Indonesian Fried Rice)": blocks/04-worlds-kitchens/39-40-southeast-asian/session-188-nasi-goreng-indonesian-fried-rice.md
+      - "Session 189: Curry Laksa (Malaysian)": blocks/04-worlds-kitchens/39-40-southeast-asian/session-189-curry-laksa-malaysian.md
+      - "⏰ Service 47: Thai Chicken Satay + Som Tam": blocks/04-worlds-kitchens/39-40-southeast-asian/service-47-thai-chicken-satay-som-tam.md
+      - "Session 190: Pad See Ew": blocks/04-worlds-kitchens/39-40-southeast-asian/session-190-pad-see-ew.md
+      - "Session 191: Chicken Pho (Pho Gà — 30-Minute Pressure Cooker)": blocks/04-worlds-kitchens/39-40-southeast-asian/session-191-chicken-pho-pho-ga-30-minute-pressure-cooker.md
+      - "Session 192: Banh Mi": blocks/04-worlds-kitchens/39-40-southeast-asian/session-192-banh-mi.md
+      - "Session 193: Beef Rendang (Malaysian/Indonesian)": blocks/04-worlds-kitchens/39-40-southeast-asian/session-193-beef-rendang-malaysian-indonesian.md
+      - "⏰ Service 48: Southeast Asian Dinner Party (Selection)": blocks/04-worlds-kitchens/39-40-southeast-asian/service-48-southeast-asian-dinner-party-selection.md
       - Quick Reference: blocks/04-worlds-kitchens/39-40-southeast-asian/quick-ref.md
       - Shopping List: blocks/04-worlds-kitchens/39-40-southeast-asian/shopping-list.md
 
   - "Unit 5 — Fermentation, Bread & Pastry":
     - Overview: blocks/05-fermentation-bread-and-pastry/README.md
     - "Block 41–42: Fermentation & Preservation":
-      - Full Guide: blocks/05-fermentation-bread-and-pastry/41-42-fermentation-and-preservation/index.md
+      - Overview: blocks/05-fermentation-bread-and-pastry/41-42-fermentation-and-preservation/index.md
+      - "Session 210: Sauerkraut and the Logic of Lacto-Fermentation": blocks/05-fermentation-bread-and-pastry/41-42-fermentation-and-preservation/session-210-sauerkraut-and-the-logic-of-lacto-fermentation.md
+      - "Session 211: Quick Pickles and Vinegar Preservation": blocks/05-fermentation-bread-and-pastry/41-42-fermentation-and-preservation/session-211-quick-pickles-and-vinegar-preservation.md
+      - "Session 212: Fermented Hot Sauce": blocks/05-fermentation-bread-and-pastry/41-42-fermentation-and-preservation/session-212-fermented-hot-sauce.md
+      - "Session 213: Gravlax (Salt-Cured Salmon)": blocks/05-fermentation-bread-and-pastry/41-42-fermentation-and-preservation/session-213-gravlax-salt-cured-salmon.md
+      - "⏰ Service 53: Fermentation Tasting": blocks/05-fermentation-bread-and-pastry/41-42-fermentation-and-preservation/service-53-fermentation-tasting.md
+      - "Session 214: Fruit Preserves and Jam": blocks/05-fermentation-bread-and-pastry/41-42-fermentation-and-preservation/session-214-fruit-preserves-and-jam.md
+      - "Session 215: Cured Egg Yolks": blocks/05-fermentation-bread-and-pastry/41-42-fermentation-and-preservation/session-215-cured-egg-yolks.md
+      - "Session 216: Confit Garlic and Confit Anything": blocks/05-fermentation-bread-and-pastry/41-42-fermentation-and-preservation/session-216-confit-garlic-and-confit-anything.md
+      - "Session 217: Compound Butters and Flavor Bases": blocks/05-fermentation-bread-and-pastry/41-42-fermentation-and-preservation/session-217-compound-butters-and-flavor-bases.md
+      - "Session 218: Shrubs and Drinking Vinegars": blocks/05-fermentation-bread-and-pastry/41-42-fermentation-and-preservation/session-218-shrubs-and-drinking-vinegars.md
+      - "⏰ Service 54: Preservation Showcase": blocks/05-fermentation-bread-and-pastry/41-42-fermentation-and-preservation/service-54-preservation-showcase.md
       - Quick Reference: blocks/05-fermentation-bread-and-pastry/41-42-fermentation-and-preservation/quick-ref.md
       - Shopping List: blocks/05-fermentation-bread-and-pastry/41-42-fermentation-and-preservation/shopping-list.md
     - "Block 43–44: Bread — Lean Doughs":
-      - Full Guide: blocks/05-fermentation-bread-and-pastry/43-44-bread-lean-doughs/index.md
+      - Overview: blocks/05-fermentation-bread-and-pastry/43-44-bread-lean-doughs/index.md
+      - "Session 194: Better No-Knead Bread": blocks/05-fermentation-bread-and-pastry/43-44-bread-lean-doughs/session-194-better-no-knead-bread.md
+      - "Session 195: No-Knead Bread Variation (Folding Technique Upgrade)": blocks/05-fermentation-bread-and-pastry/43-44-bread-lean-doughs/session-195-no-knead-bread-variation-folding-technique-upgrade.md
+      - "Session 196: No-Knead Focaccia": blocks/05-fermentation-bread-and-pastry/43-44-bread-lean-doughs/session-196-no-knead-focaccia.md
+      - "Session 197: Pullman Loaf (Sandwich Bread)": blocks/05-fermentation-bread-and-pastry/43-44-bread-lean-doughs/session-197-pullman-loaf-sandwich-bread.md
+      - "⏰ Service 49: Sourdough Starter Project": blocks/05-fermentation-bread-and-pastry/43-44-bread-lean-doughs/service-49-sourdough-starter-project.md
+      - "Session 234: Baguette": blocks/05-fermentation-bread-and-pastry/43-44-bread-lean-doughs/session-234-baguette.md
+      - "Session 235: Flatbread Survey: Pita and Naan": blocks/05-fermentation-bread-and-pastry/43-44-bread-lean-doughs/session-235-flatbread-survey-pita-and-naan.md
+      - "Session 236: Pizza Dough from Scratch": blocks/05-fermentation-bread-and-pastry/43-44-bread-lean-doughs/session-236-pizza-dough-from-scratch.md
+      - "⏰ Service 50: Lean Dough Tasting and Evaluation": blocks/05-fermentation-bread-and-pastry/43-44-bread-lean-doughs/service-50-lean-dough-tasting-and-evaluation.md
       - Quick Reference: blocks/05-fermentation-bread-and-pastry/43-44-bread-lean-doughs/quick-ref.md
       - Shopping List: blocks/05-fermentation-bread-and-pastry/43-44-bread-lean-doughs/shopping-list.md
     - "Block 45–46: Bread — Sourdough & Enriched":
-      - Full Guide: blocks/05-fermentation-bread-and-pastry/45-46-bread-sourdough-and-enriched/index.md
+      - Overview: blocks/05-fermentation-bread-and-pastry/45-46-bread-sourdough-and-enriched/index.md
+      - "Session 198: Sourdough: First Real Loaf": blocks/05-fermentation-bread-and-pastry/45-46-bread-sourdough-and-enriched/session-198-sourdough-first-real-loaf.md
+      - "Session 199: Sourdough: Bake Day": blocks/05-fermentation-bread-and-pastry/45-46-bread-sourdough-and-enriched/session-199-sourdough-bake-day.md
+      - "Session 237: Sourdough Variations: Whole Wheat and Add-Ins": blocks/05-fermentation-bread-and-pastry/45-46-bread-sourdough-and-enriched/session-237-sourdough-variations-whole-wheat-and-add-ins.md
+      - "Session 238: Sourdough Discard Cooking": blocks/05-fermentation-bread-and-pastry/45-46-bread-sourdough-and-enriched/session-238-sourdough-discard-cooking.md
+      - "⏰ Service 58: Sourdough Evaluation": blocks/05-fermentation-bread-and-pastry/45-46-bread-sourdough-and-enriched/service-58-sourdough-evaluation.md
+      - "Session 200: Brioche": blocks/05-fermentation-bread-and-pastry/45-46-bread-sourdough-and-enriched/session-200-brioche.md
+      - "Session 201: Croissants": blocks/05-fermentation-bread-and-pastry/45-46-bread-sourdough-and-enriched/session-201-croissants.md
+      - "Session 239: Cinnamon Rolls": blocks/05-fermentation-bread-and-pastry/45-46-bread-sourdough-and-enriched/session-239-cinnamon-rolls.md
+      - "⏰ Service 59: Enriched Dough Tasting and Bread Capstone": blocks/05-fermentation-bread-and-pastry/45-46-bread-sourdough-and-enriched/service-59-enriched-dough-tasting-and-bread-capstone.md
       - Quick Reference: blocks/05-fermentation-bread-and-pastry/45-46-bread-sourdough-and-enriched/quick-ref.md
       - Shopping List: blocks/05-fermentation-bread-and-pastry/45-46-bread-sourdough-and-enriched/shopping-list.md
     - "Block 47–48: Pastry — Doughs & Custards":
-      - Full Guide: blocks/05-fermentation-bread-and-pastry/47-48-pastry-doughs-and-custards/index.md
+      - Overview: blocks/05-fermentation-bread-and-pastry/47-48-pastry-doughs-and-custards/index.md
+      - "Session 202: Pâte Sucrée (Sweet Tart Dough)": blocks/05-fermentation-bread-and-pastry/47-48-pastry-doughs-and-custards/session-202-pate-sucree-sweet-tart-dough.md
+      - "Session 203: Pastry Cream (Crème Pâtissière)": blocks/05-fermentation-bread-and-pastry/47-48-pastry-doughs-and-custards/session-203-pastry-cream-creme-patissiere.md
+      - "Session 204: Tarte Tatin": blocks/05-fermentation-bread-and-pastry/47-48-pastry-doughs-and-custards/session-204-tarte-tatin.md
+      - "Session 205: Choux Pastry (Éclairs or Profiteroles)": blocks/05-fermentation-bread-and-pastry/47-48-pastry-doughs-and-custards/session-205-choux-pastry-eclairs-or-profiteroles.md
+      - "⏰ Service 51: Mille-Feuille (Napoleon)": blocks/05-fermentation-bread-and-pastry/47-48-pastry-doughs-and-custards/service-51-mille-feuille-napoleon.md
+      - "Session 240: Quiche Lorraine": blocks/05-fermentation-bread-and-pastry/47-48-pastry-doughs-and-custards/session-240-quiche-lorraine.md
+      - "Session 241: Apple Pie (Double Crust)": blocks/05-fermentation-bread-and-pastry/47-48-pastry-doughs-and-custards/session-241-apple-pie-double-crust.md
+      - "Session 242: Lemon Tart": blocks/05-fermentation-bread-and-pastry/47-48-pastry-doughs-and-custards/session-242-lemon-tart.md
+      - "⏰ Service 55: Afternoon Tea": blocks/05-fermentation-bread-and-pastry/47-48-pastry-doughs-and-custards/service-55-afternoon-tea.md
       - Quick Reference: blocks/05-fermentation-bread-and-pastry/47-48-pastry-doughs-and-custards/quick-ref.md
       - Shopping List: blocks/05-fermentation-bread-and-pastry/47-48-pastry-doughs-and-custards/shopping-list.md
     - "Block 49–50: Pastry — Desserts":
-      - Full Guide: blocks/05-fermentation-bread-and-pastry/49-50-pastry-desserts/index.md
+      - Overview: blocks/05-fermentation-bread-and-pastry/49-50-pastry-desserts/index.md
+      - "Session 206: Dessert Sauces: Caramel, Crème Anglaise, and Coulis": blocks/05-fermentation-bread-and-pastry/49-50-pastry-desserts/session-206-dessert-sauces-caramel-creme-anglaise-and-coulis.md
+      - "Session 207: Crème Brûlée": blocks/05-fermentation-bread-and-pastry/49-50-pastry-desserts/session-207-creme-brulee.md
+      - "Session 208: Panna Cotta": blocks/05-fermentation-bread-and-pastry/49-50-pastry-desserts/session-208-panna-cotta.md
+      - "Session 209: Chocolate Mousse": blocks/05-fermentation-bread-and-pastry/49-50-pastry-desserts/session-209-chocolate-mousse.md
+      - "⏰ Service 52: Layer Cake": blocks/05-fermentation-bread-and-pastry/49-50-pastry-desserts/service-52-layer-cake.md
+      - "Session 243: No-Churn Ice Cream": blocks/05-fermentation-bread-and-pastry/49-50-pastry-desserts/session-243-no-churn-ice-cream.md
+      - "Session 244: Sorbet and Granita": blocks/05-fermentation-bread-and-pastry/49-50-pastry-desserts/session-244-sorbet-and-granita.md
+      - "Session 245: Chocolate Tempering and Ganache": blocks/05-fermentation-bread-and-pastry/49-50-pastry-desserts/session-245-chocolate-tempering-and-ganache.md
+      - "⏰ Service 57: Grand Dessert Tasting": blocks/05-fermentation-bread-and-pastry/49-50-pastry-desserts/service-57-grand-dessert-tasting.md
       - Quick Reference: blocks/05-fermentation-bread-and-pastry/49-50-pastry-desserts/quick-ref.md
       - Shopping List: blocks/05-fermentation-bread-and-pastry/49-50-pastry-desserts/shopping-list.md
     - "Block 51–52: Capstone":
-      - Full Guide: blocks/05-fermentation-bread-and-pastry/51-52-capstone/index.md
+      - Overview: blocks/05-fermentation-bread-and-pastry/51-52-capstone/index.md
+      - "Session 225: Skills Inventory": blocks/05-fermentation-bread-and-pastry/51-52-capstone/session-225-skills-inventory.md
+      - "Session 226: The Forgotten Dish": blocks/05-fermentation-bread-and-pastry/51-52-capstone/session-226-the-forgotten-dish.md
+      - "Session 227: Design Your Signature Dish": blocks/05-fermentation-bread-and-pastry/51-52-capstone/session-227-design-your-signature-dish.md
+      - "Session 228: Cook Something From Memory": blocks/05-fermentation-bread-and-pastry/51-52-capstone/session-228-cook-something-from-memory.md
+      - "⏰ Service 56: The Anniversary Dinner": blocks/05-fermentation-bread-and-pastry/51-52-capstone/service-56-the-anniversary-dinner.md
+      - "Session 229: Define the Exam for Yourself": blocks/05-fermentation-bread-and-pastry/51-52-capstone/session-229-define-the-exam-for-yourself.md
+      - "Session 230: Cook the Final Exam Dish": blocks/05-fermentation-bread-and-pastry/51-52-capstone/session-230-cook-the-final-exam-dish.md
+      - "Session 231: The Retrospective Meal": blocks/05-fermentation-bread-and-pastry/51-52-capstone/session-231-the-retrospective-meal.md
+      - "Session 232: The Open Kitchen": blocks/05-fermentation-bread-and-pastry/51-52-capstone/session-232-the-open-kitchen.md
+      - "Session 233: The Final Dinner": blocks/05-fermentation-bread-and-pastry/51-52-capstone/session-233-the-final-dinner.md
       - Quick Reference: blocks/05-fermentation-bread-and-pastry/51-52-capstone/quick-ref.md
       - Shopping List: blocks/05-fermentation-bread-and-pastry/51-52-capstone/shopping-list.md

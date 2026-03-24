@@ -1,0 +1,18 @@
+# Session 126 — Beurre Blanc (White Butter Sauce)
+
+[← Block 25–26: French Classics Overview](index.md)
+
+---
+
+**Skill:** Pure butter emulsion sauce; wine-and-shallot reduction base  
+**Read first:** [Beurre Blanc](https://www.seriouseats.com/beurre-blanc-recipe-7643412)
+
+**What you're learning:** Beurre blanc is butter whisked into a reduced shallot-and-white-wine base, creating a light but rich sauce that coats fish and vegetables beautifully. Unlike hollandaise, no eggs involved — the emulsion is butter protein in an acidic liquid. It will break if overheated.
+
+**Full Meal:**
+- Beurre blanc over pan-seared halibut or salmon
+- Steamed asparagus as the vehicle for extra sauce
+
+---
+
+[← Block 25–26: French Classics Overview](index.md)

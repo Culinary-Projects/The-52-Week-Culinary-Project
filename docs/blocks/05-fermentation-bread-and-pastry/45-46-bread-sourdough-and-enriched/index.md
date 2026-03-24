@@ -12,6 +12,7 @@
 
 ---
 
+
 ## Block 45 — Sourdough Mastery
 
 Your sourdough starter (begun in Block 43, Service 49) should now be active, bubbly, and predictable. This week you use it for real: your first loaf, your first bake, and your first encounter with the unpredictable reality of wild yeast baking.
@@ -24,109 +25,23 @@ Your sourdough starter (begun in Block 43, Service 49) should now be active, bub
 > - **Session 200 (Brioche):** dough needs overnight cold retard after initial mix
 > - **Session 201 (Croissants):** block out the FULL day — lamination requires multiple cold rests
 
-
-### Session 198 — Sourdough: First Real Loaf
-
-**Skill:** Levain build; bulk fermentation judgment; shaping; cold retard
-**Read first:** [Sourdough Starter](https://www.seriouseats.com/sourdough-starter) (review your culture's health)
-
-**What you're learning:** Build a levain (a measured feeding of your starter used as the leavener), mix into a dough, bulk ferment 4–6 hours with stretch-and-folds, shape, refrigerate overnight. The next morning, score and bake in a preheated Dutch oven. The levain should pass the float test (a small piece floats in water) before you mix.
-
-**Full Meal:** No bread today — the loaf is cold-proofing overnight. Cook something simple and protein-forward; tomorrow is bake day.
+- [Session 198: Sourdough: First Real Loaf](session-198-sourdough-first-real-loaf.md)
+- [Session 199: Sourdough: Bake Day](session-199-sourdough-bake-day.md)
+- [Session 237: Sourdough Variations: Whole Wheat and Add-Ins](session-237-sourdough-variations-whole-wheat-and-add-ins.md)
+- [Session 238: Sourdough Discard Cooking](session-238-sourdough-discard-cooking.md)
+- [⏰ Service 58: Sourdough Evaluation](service-58-sourdough-evaluation.md)
 
 ---
 
-### Session 199 — Sourdough: Bake Day
-
-**Skill:** Cold-retarded sourdough baking; scoring technique; reading the oven spring
-**Read first:** Continue your sourdough journey — score with a lame or sharp razor; bake covered 20 min, uncovered 20–25 min
-
-**What you're learning:** The most important bake of the whole bread curriculum. Oven spring (the final rise in a hot oven), scoring (the line you cut before baking that guides the bloom), and the crumb reveal after cooling (don't cut hot — wait 1 hour minimum) are all key moments.
-
-**Full Meal:** [First Sourdough Loaf](https://www.seriouseats.com/sourdough-starter) torn warm with butter alongside a simple salad with roast chicken or a bowl of soup — you earned the bread
-
----
-
-### Session 237 — Sourdough Variations: Whole Wheat and Add-Ins
-
-**Skill:** Adjusting hydration for different flours; incorporating mix-ins without deflating
-**Read first:** [Whole Wheat Sourdough](https://www.kingarthurbaking.com/recipes/whole-wheat-sourdough-bread-recipe) *(King Arthur)*
-
-**What you're learning:** Whole wheat flour absorbs more water than white bread flour, so your hydration ratio changes. The bran also cuts gluten strands, meaning the crumb will be tighter — this is normal, not a failure. Try a 50/50 blend (half bread flour, half whole wheat) for your first variation. For the add-in version: fold in olives, walnuts, or roasted garlic during the final stretch-and-fold. The principle: add-ins go in late so they don't interfere with gluten development.
-
-**Full Meal:** [Whole Wheat Sourdough](https://www.kingarthurbaking.com/recipes/whole-wheat-sourdough-bread-recipe) or olive-walnut variation + a composed salad with poached egg and shaved Parmesan
-
----
-
-### Session 238 — Sourdough Discard Cooking
-
-**Skill:** Using unfed starter as a flavor ingredient; pancake and cracker technique
-**Read first:** Sourdough Discard Pancakes and [Sourdough Crackers](https://www.kingarthurbaking.com/recipes/sourdough-crackers-recipe)
-
-**What you're learning:** Every sourdough baker accumulates discard — unfed starter removed during feeding. It's not waste; it's a tangy, complex-flavored ingredient. Discard pancakes are the gateway: the fermentation gives them a buttermilk-like tang and extraordinary fluffiness. Sourdough crackers are a revelation — paper-thin, shatteringly crisp, better than anything you can buy.
-
-**Full Meal:** [Sourdough Crackers](https://www.kingarthurbaking.com/recipes/sourdough-crackers-recipe) with a cheese board, or sourdough discard pancakes for a breakfast-for-dinner
-
----
-
-### ⏰ Service 58 — Sourdough Evaluation
-
-**Skill:** Comparing wild yeast vs. commercial yeast breads; identifying fermentation flavor
-**Goal:** Line up your sourdough loaves next to the commercial-yeast breads from Block 43–44. Taste them side by side. The sourdough should have: more complex flavor (lactic acid tang), chewier crumb, crackly crust, and longer shelf life. If the flavor is flat, your starter needs more time or warmer conditions.
-
-**Full Meal:** Sourdough tasting alongside your best lean dough from Block 43–44 — this is a comparison, not a competition.
-
----
 
 ## Block 46 — Enriched Doughs: Brioche, Croissants, and the Butter Line
 
 Enriched doughs add fat, eggs, and sugar to the bread equation. The result: tender, rich breads that blur the line between bread and pastry. The techniques are more demanding — butter must be at the right temperature, the dough needs cold resting — but the products are some of the most impressive things that come out of a home oven.
 
----
-
-### Session 200 — Brioche
-
-**Skill:** Enriched dough with high butter content; emulsifying butter into dough; long cold overnight rest
-**Read first:** [Brioche Loaf](https://www.seriouseats.com/brioche-loaf-recipe-6755249)
-
-**What you're learning:** Brioche is bread enriched with so much butter (up to 50–60% of flour weight) and eggs that it blurs the line between bread and cake. The butter must be at room temperature and added gradually while the dough is already developed. If you add cold butter, the gluten breaks — the emulsification is fragile and temperature-sensitive.
-
-**Full Meal:** [Brioche Loaf](https://www.seriouseats.com/brioche-loaf-recipe-6755249) alongside a quick frittata or pan-seared fish; save remaining slices for French toast the next morning
-
----
-
-### Session 201 — Croissants
-
-**Skill:** Laminated dough technique (détrempe + beurrage); layering (tourage); the fold method
-**Read first:** [Croissants](https://www.seriouseats.com/croissants-recipe-11863500)
-
-**What you're learning:** Croissants are laminated — thin sheets of butter layered into a dough through a series of folds, creating hundreds of distinct layers that steam and puff in the oven. This requires cold butter (firm), cold dough, and patience between rest periods. Block out the full day. The result: the most honest test of your patience and precision so far.
-
-**Full Meal:** [Croissants](https://www.seriouseats.com/croissants-recipe-11863500) (plain, butter, and chocolate-stuffed) alongside a cheese plate, charcuterie, and a simple green salad — if you've been laminating all day, this French supper is earned
-
-> 🎥 **Compare Notes:** [The Croissant That Changed My Life](https://www.youtube.com/watch?v=vpwY3nmLLaA) *(Alex French Guy Cooking)* — The lamination logic requires seeing it done. Watch his fold technique and butter temperature management. The movement should be confident and decisive; hesitation warms the dough.
-
----
-
-### Session 239 — Cinnamon Rolls
-
-**Skill:** Enriched dough shaping; filling distribution; cream cheese glaze technique
-**Read first:** [The Best Cinnamon Rolls](https://www.kingarthurbaking.com/recipes/cinnamon-rolls-recipe)
-
-**What you're learning:** Cinnamon rolls use the same enriched dough principles as brioche but with a different shaping technique — roll, fill, cut, proof, bake. The filling (butter + cinnamon + brown sugar) needs to be spread evenly to the edges or you'll get bare spots. The glaze goes on while the rolls are hot so it melts into the layers. This is enriched dough as crowd-pleasing spectacle.
-
-**Full Meal:** [Cinnamon Rolls](https://www.kingarthurbaking.com/recipes/cinnamon-rolls-recipe) for a weekend brunch with scrambled eggs and fruit — the rolls are the centrepiece
-
----
-
-### ⏰ Service 59 — Enriched Dough Tasting and Bread Capstone
-
-**Skill:** Evaluating enriched doughs; understanding the spectrum from lean to laminated
-**Goal:** Taste your brioche, croissants, and cinnamon rolls alongside a store-bought croissant and brioche bun. Evaluate: butter flavor, layer definition (croissants), crumb tenderness (brioche), and overall richness. Then choose one bread from the entire bread curriculum (Blocks 43–46) and bake it one more time from memory.
-
-**Full Meal:**
-- Enriched dough tasting board
-- The final bread of the bread curriculum — baked from memory, served with pride
+- [Session 200: Brioche](session-200-brioche.md)
+- [Session 201: Croissants](session-201-croissants.md)
+- [Session 239: Cinnamon Rolls](session-239-cinnamon-rolls.md)
+- [⏰ Service 59: Enriched Dough Tasting and Bread Capstone](service-59-enriched-dough-tasting-and-bread-capstone.md)
 
 ---
 

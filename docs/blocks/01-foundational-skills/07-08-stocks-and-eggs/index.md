@@ -63,6 +63,7 @@ The roasting step is optional but worth it: it caramelizes the squash and adds d
 
 ---
 
+
 ## Block 7 — Stocks & Broths
 
 > ⏰ **Planning Ahead**
@@ -70,81 +71,14 @@ The roasting step is optional but worth it: it caramelizes the squash and adds d
 > - **Session 26 (Chicken Stock):** 3–4 hrs of gentle simmering; start afternoon or earlier
 > - **Service 7 (PROJECT: Beef Stock Day):** start stock by 9 AM; 6–8 hrs passive + soup assembly at dinner
 
-
-### Session 26 — Chicken Stock from Scratch
-
-**Skill:** Cold water start, gentle simmer (never boil), skim the foam in the first 20 minutes, don't stir. A good stock simmers for 3–4 hours. It should be golden, clear (not murky), and taste of chicken without being aggressively salty. Cool it in an ice bath, then refrigerate. **A proper stock should gel when cold — that's the gelatin from the bones.**
-
-This takes time but is mostly passive. Start it when you get home, let it simmer while you do other things.
-
-**Full Meal:** [Quick Weeknight Ramen Using Homemade Stock](https://www.seriouseats.com/easy-ramen-noodles)
-
-| Component | Recipe |
-|-----------|--------|
-| Broth | Your homemade chicken stock, seasoned with soy and mirin |
-| Protein | Soft-boiled eggs, chashu pork or rotisserie chicken, scallions |
-| Starch | Ramen noodles |
+- [Session 26: Chicken Stock from Scratch](session-26-chicken-stock-from-scratch.md)
+- [Session 27: Pan Sauces from Real Stock](session-27-pan-sauces-from-real-stock.md)
+- [Session 28: Fish Stock + Fumet](session-28-fish-stock-fumet.md)
+- [Session 29: Vegetable Stock + Risotto](session-29-vegetable-stock-risotto.md)
+- [⏰ Service 7: A Whole Soup Kitchen Day](service-7-a-whole-soup-kitchen-day.md)
 
 ---
 
-### Session 27 — Pan Sauces from Real Stock
-
-**Skill:** Now that you have fresh stock, you understand why pan sauces taste so much better when made with real stock instead of water or canned broth. The gelatin creates body and silkiness that nothing else can replicate. Tonight's lesson: **the difference is in your freezer.**
-
-**Full Meal:** [Chicken with Rich Pan Sauce](https://www.seriouseats.com/easy-pan-seared-chicken-breast-white-wine-fines-herbes-pan-sauce-food-lab-recipe) (using your homemade stock) + [Roasted Potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + [Bitter Greens Salad](https://www.seriouseats.com/five-minute-radicchio-watercress-arugula-salad-recipe)
-
-| Component | Recipe |
-|-----------|--------|
-| Protein | Sautéed chicken with a pan sauce made from your Block 7 stock |
-| Starch | Crispy roasted potatoes |
-| Salad | Bitter greens salad with a sharp vinaigrette |
-
----
-
-### Session 28 — Fish Stock + Fumet
-
-**Skill:** Fish stock (fumet) takes only 20–30 minutes — fish bones give up their gelatin quickly and become bitter if cooked too long. Ask your fishmonger for frames (carcasses) or use shrimp shells. Aromatics are lighter: white wine, leek, fennel, parsley stems, bay leaf.
-
-**Full Meal:** [Bouillabaisse](https://www.seriouseats.com/bouillabaisse-marseillaise-fish-stew-recipe) — the classic Provençal fish stew, built on your fresh fish stock
-
-| Component | Recipe |
-|-----------|--------|
-| Protein | Mixed seafood — shrimp, clams, white fish |
-| Stock | Your fresh fish fumet |
-| Starch | Grilled bread rubbed with garlic (rouille on the side) |
-| Veg | Fennel, leek, tomato in the stew |
-
----
-
-### Session 29 — Vegetable Stock + Risotto
-
-**Skill:** Vegetable stock is the quickest and most approachable. Key: don't over-simmer — 45–60 minutes max, or it turns bitter. Tonight you'll use it immediately for risotto, which also teaches you another core technique: the gradual addition of hot liquid while stirring to coax starch from Arborio rice.
-
-**Full Meal:** [Parmesan Risotto](https://www.seriouseats.com/classic-risotto-recipe-8347844) + [Roasted Mushrooms](https://www.seriouseats.com/easy-roasted-mushroom-food-lab-recipe) + [Simple Arugula Salad](https://www.seriouseats.com/fennel-orange-and-roasted-pepper-arugula-salad-recipe)
-
-| Component | Recipe |
-|-----------|--------|
-| Protein | Roasted mushrooms (the star) + parmesan as umami |
-| Starch | Risotto (the main dish) |
-| Salad | Arugula alongside to cut richness |
-
----
-
-### ⏰ Service 7 — A Whole Soup Kitchen Day
-
-The project session you make three things — stock, soup, and a complete dinner — that set you up with leftovers and frozen stock for weeks.
-
-| Time | Task | Recipe |
-|------|------|--------|
-| Morning | Big batch beef/veal stock (6–8 hrs, mostly passive) | [Homemade Beef Stock](https://www.seriouseats.com/pressure-cooker-beef-stock) |
-| Dinner | French Onion Soup using your fresh beef stock | [French Onion Soup](https://www.seriouseats.com/french-onion-soup-recipe) |
-| Sides | Watercress Salad with Lemon Vinaigrette + [Garlic-Rubbed Grilled Bread](https://www.seriouseats.com/easy-weeknight-garlic-bread-recipe-8641247) | [Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) |
-
-**Freeze the remaining stock in 1-cup portions. You now have stock in your freezer at all times. This changes your cooking permanently.**
-
----
-
----
 
 ## Block 8 — Eggs
 
@@ -156,105 +90,11 @@ The project session you make three things — stock, soup, and a complete dinner
 
 Block 8 dives straight into egg technique — no additional reading required. Sessions pick up below.
 
----
-
-### Session 30 — The French Scramble
-
-**Skill:** French scrambled eggs are not American scrambled eggs. They're cooked low and slow, constantly stirred with a spatula, off and on the heat, until they form soft, creamy, barely-set curds. The result tastes like what restaurants serve for brunch at $22 a plate.
-
-**Full Meal:** [French Scrambled Eggs](https://www.seriouseats.com/french-style-soft-spoonable-scrambled-eggs-recipe) + [Smoked Salmon with Crème Fraîche](https://www.seriouseats.com/hot-smoked-salmon-recipe-11718524) + Toasted Sourdough + [Watercress Salad with Lemon Vinaigrette](https://www.seriouseats.com/five-minute-radicchio-watercress-arugula-salad-recipe)
-
-A French scramble dinner is a legitimately elegant meal when served with smoked salmon and a peppery watercress salad.
-
-| Component | Recipe |
-|-----------|--------|
-| Protein | French scrambled eggs + smoked salmon |
-| Starch | Toasted sourdough |
-| Salad | Watercress with lemon vinaigrette — peppery, bright, cuts the richness |
-
-> 🎥 **Compare Notes:** [Really Good Scrambled Eggs](https://www.youtube.com/watch?v=CXTnq7srJRs) — Same goal, different execution — notice how often he's moving the pan and when he pulls it off the heat entirely.
-
----
-
-### Session 31 — The Perfect Poached Egg
-
-**Skill:** Fresh eggs, a wide shallow pan, simmering (not boiling) water with a splash of vinegar, a gentle swirl, and confidence. The white should be fully set and the yolk should run when broken. Most home cooks are afraid of poached eggs — by the end of tonight, you shouldn't be.
-
-**Full Meal:** [Poached Eggs Over Sautéed Greens with Crispy Bacon](https://www.seriouseats.com/foolproof-poached-eggs-food-lab-recipe) + [Slow-Roasted Cherry Tomatoes](https://www.seriouseats.com/how-to-oven-roast-tomatoes-canned-fresh) + [Sourdough Toast with Herb Butter](https://www.seriouseats.com/garlic-parsley-butter-beurre-maitre-d-hotel-snail-butter-recipe)
-
-| Component | Recipe |
-|-----------|--------|
-| Protein | Poached eggs + crispy bacon |
-| Veg | Wilted greens (kale or spinach), slow-roasted cherry tomatoes — concentrated sweetness |
-| Starch | Sourdough spread with herb compound butter — a callback to Block 5–6 technique |
-
-> 🎥 **Compare Notes:** [Truly Foolproof Poached Eggs](https://www.youtube.com/watch?v=S60GxA9JpLk) — Watch the water temperature and the swirl — two details that determine whether you get a poached egg or a cloud of egg white.
-
----
-
-### Session 32 — The Omelette
-
-**Skill:** The French omelette is one of the hardest things in cooking to get right — pale, barely colored outside, softly set inside, folded into a cylinder in under 2 minutes. Practice the French version until you get it right. Make two omelettes — one for practice, one to eat.
-
-**Full Meal:** [The French Omelette](https://www.seriouseats.com/classic-french-omelette-recipe) + [Frisée Salad with Warm Bacon Vinaigrette](https://www.seriouseats.com/spring-salad-with-poached-eggs-and-bread-crumbs) + warm baguette
-
-A properly made omelette with a glass of wine and a frisée salad is one of the most satisfying dinners in existence.
-
-| Component | Recipe |
-|-----------|--------|
-| Protein | Two omelettes (one per person or two attempts) |
-| Filling | Gruyère, herbs, or mushrooms |
-| Salad | Frisée with warm bacon vinaigrette — a classic French bistro pairing |
-| Starch | Warm baguette |
-
-> 🎥 **Compare Notes:** [How to Make a French Omelette](https://www.youtube.com/watch?v=onFC-DlCA9k) · [Want Perfect French Omelettes? Start With Water](https://www.youtube.com/watch?v=2fWXrpkoFes) — Watch the wrist and the pan angle. The fold happens faster than you think it should.
-
----
-
-### Session 33 — Custard: Eggs as Thickener — Quiche Lorraine
-
-**Skill:** Savory egg custard in a tart shell; cream-to-egg ratio; setting without overcooking. 
-**Read first:** [Quiche Lorraine](https://www.seriouseats.com/quiche-lorraine-recipe-8715255)
-
-**What you're learning:** Quiche custard sets at 160–165°F — the exact same temperature window you'll return to with crème brûlée in Block 48. The ratio is 1 egg per ¼ cup heavy cream; this scales to any savory tart. Overbaked quiche is grainy and rubbery; done correctly it is silky and sliceable. The tart shell can be store-bought this session — the custard technique is the entire point.
-
-**Full Meal:**
-- [Quiche Lorraine](https://www.seriouseats.com/quiche-lorraine-recipe-8715255) (lardons + Gruyère + chive)
-- [Butter Lettuce Salad with Dijon Vinaigrette](https://www.seriouseats.com/simple-vinaigrette-recipe)
-
-| Component | Notes |
-|-----------|-------|
-| Shell | Store-bought shortcrust — pastry dough is covered fully in Block 47 |
-| Custard | 3 eggs + ¾ cup heavy cream + salt + white pepper |
-| Cheese | Gruyère grated fresh; pre-shredded bags have coatings that prevent clean melting |
-| Bake | 325°F, 30–40 min; pull when center still has a gentle wobble |
-
-> 🎥 **Compare Notes:** [How to Make Quiche Lorraine](https://www.youtube.com/watch?v=DVh_EXHZsSQ) *(Claire Saffitz)* — Watch her custard pour and the oven pull moment — those two steps are the whole skill.
-
----
-
-### ⏰ Service 8 — A Complete Egg Dinner Party (3 Courses)
-
-**The challenge:** Cook a 3-course egg-forward dinner for at least two people, without recipes open in front of you during service.
-
-| Course | Dish | Link |
-|--------|------|------|
-| **Starter** | Deviled Eggs (vehicle for your homemade mayo from Block 6) | [Recipe](https://www.seriouseats.com/great-deviled-eggs-recipe) |
-| **Main** | Shakshuka (scaled up, served family-style with salad and bread) | [Recipe](https://www.seriouseats.com/shakshuka-north-african-shirred-eggs-tomato-pepper-recipe) |
-| **Dessert** | Crème Brûlée (classic baked egg custard, finished with a torch) | [Recipe](https://www.seriouseats.com/creme-brulee-recipe-7107199) |
-
-*Skill targets: Proper custard texture in the crème brûlée. Perfectly poached eggs in the shakshuka. Smooth, properly seasoned deviled egg filling from scratch.*
-
----
-
-
-You've been cooking for eight weeks with deliberate intention. Before Block 9 (Seasoning & Flavor Building), write five sentences:
-
-1. What is the technique you're most proud of?
-2. What still feels unnatural?
-3. What recipe from the past 8 weeks did you want to make again?
-4. What did you learn that changed how you think about food?
-5. What do you want to tackle in the next 8 weeks?
+- [Session 30: The French Scramble](session-30-the-french-scramble.md)
+- [Session 31: The Perfect Poached Egg](session-31-the-perfect-poached-egg.md)
+- [Session 32: The Omelette](session-32-the-omelette.md)
+- [Session 33: Custard: Eggs as Thickener — Quiche Lorraine](session-33-custard-eggs-as-thickener-quiche-lorraine.md)
+- [⏰ Service 8: A Complete Egg Dinner Party (3 Courses)](service-8-a-complete-egg-dinner-party-3-courses.md)
 
 ---
 

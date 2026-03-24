@@ -1,0 +1,19 @@
+# Session 193 — Beef Rendang (Malaysian/Indonesian)
+
+[← Block 39–40: Unit 4 Capstone — Southeast Asian Cuisines Overview](index.md)
+
+---
+
+**Skill:** Dry coconut braising technique; toasting desiccated coconut; rendang spice paste 
+**Read first:** [Beef Rendang](https://www.seriouseats.com/beef-rendang-recipe-8731804)
+
+**What you're learning:** Rendang is one of the few dishes that is wet (a braise) when it starts and completely dry when it's done — the coconut milk reduces entirely, and the beef almost fries in its own coconut fat at the end. This creates an intensely caramelized, complex exterior that stores for a week at room temperature. A technical masterpiece.
+
+**Full Meal:**
+- Beef Rendang
+- Steamed jasmine rice and [coconut rice](https://www.seriouseats.com/nasi-lemak-malaysian-coconut-rice-recipe-7197924) (variation)
+- Cucumber and tomato [kachumber](https://www.spiceupthecurry.com/kachumber-salad-recipe/)
+
+---
+
+[← Block 39–40: Unit 4 Capstone — Southeast Asian Cuisines Overview](index.md)

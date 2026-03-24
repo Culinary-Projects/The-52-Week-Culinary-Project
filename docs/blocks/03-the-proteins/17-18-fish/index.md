@@ -37,6 +37,7 @@
 
 ---
 
+
 ## Block 17 — The Fundamentals of Fish Cookery
 
 **The central principle this week:** Fish cooks faster than you think, at lower temperatures than you're used to, and the margin between perfect and overdone is about 30 seconds. Salmon at 125°F (slightly translucent at the center) is perfect. At 145°F it becomes dry and flaky in the wrong way. Everything this week is about developing the instinct to pull fish early.
@@ -47,157 +48,35 @@
 >
 > - **Service 21 (PROJECT: Whole Roasted Fish):** buy a whole fish the same day for maximum freshness
 
-
-### Session 82 — Crispy-Skin Pan-Seared Salmon
-
-**Skill:** Perfectly crisped fish skin in a pan is one of the most technically satisfying results in everyday cooking. The two secrets are: dry the skin completely before cooking (paper towels, uncovered in fridge if possible), and resist the urge to move it. The skin needs sustained contact with the hot pan to release its moisture and crisp. If it sticks, it's not ready.
-
-- **Read:** [Serious Eats — Crispy Pan-Seared Salmon Fillets](https://www.seriouseats.com/crispy-pan-seared-salmon-fillets-recipe) — the technique section is essential reading
-- Cold pan start is debated; we recommend room-temp pan, medium-high heat, oil just to shimmer
-
-**Full Meal:** Crispy skin salmon + herb oil or lemon butter + [Serious Eats — Stir-Fried Garlic Spinach](https://www.seriouseats.com/stir-fried-garlic-spinach-with-mustard-seeds-recipe) + Coconut Rice (simmer jasmine rice in equal parts coconut milk and water)
-
-| Component | Notes |
-|-----------|-------|
-| Fish | Crispy skin salmon — skin side down 80% of the cook |
-| Veg | Garlic spinach with mustard seeds — wilts in 3 min, punchy and aromatic |
-| Starch | Coconut rice — richer than plain steamed; pairs with the richness of salmon |
-
-> 🎥 **Compare Notes:** [How to Grill Salmon](https://www.youtube.com/watch?v=B1ucS4E5dB4) *(Helen Rennie)* — Different heat source, same goal as your pan sear; notice how she reads doneness and what she says about the margin for error.
+- [Session 82: Crispy-Skin Pan-Seared Salmon](session-82-crispy-skin-pan-seared-salmon.md)
+- [Session 83: Sole Meunière: The French Lesson](session-83-sole-meuniere-the-french-lesson.md)
+- [Session 84: The Universal Crispy Fish Technique](session-84-the-universal-crispy-fish-technique.md)
+- [Session 85: Ceviche: Fish Cooked by Acid](session-85-ceviche-fish-cooked-by-acid.md)
+- [⏰ Service 21: Whole Roasted Fish](service-21-whole-roasted-fish.md)
 
 ---
 
-### Session 83 — Sole Meunière: The French Lesson
-
-**Skill:** Sole meunière is one of the first dishes classically taught to French culinary students. It's also one of the most instructive: dredge in flour, cook in butter, make the brown butter sauce in the same pan in 60 seconds, finish with lemon. Brown butter (beurre noisette) is a flavor you'll reach for constantly once you know it.
-
-- **Read:** [Serious Eats — Sole Meunière](https://www.seriouseats.com/sole-meuniere-recipe-5649376)
-- The brown butter sauce: butter continues to cook in the hot pan after you remove the fish. Watch it turn amber. Smell it — it should smell nutty, like hazelnuts. Off the heat. Lemon juice. Pour immediately.
-
-**Full Meal:** Sole meunière + [Steamed Haricots Verts with Shallot Butter](https://www.seriouseats.com/cooks-illustrated-sauteed-green-beans-recipe) + warm sourdough to catch the brown butter sauce
-
-| Component | Notes |
-|-----------|-------|
-| Fish | Sole, dredged in flour, cooked in butter |
-| Sauce | Beurre noisette — made in the same pan in 60 seconds |
-| Veg | Haricots verts finished with shallot butter — the French bistro standard |
-| Bread | Warm sourdough — functional here, the brown butter demands something to soak it up |
-
-> 🎥 **Compare Notes:** [Sole Meunière](https://www.youtube.com/watch?v=uQ6U9uiP5go) *(Jacques Pépin)* — Watch the brown butter timing and how little it takes to cross from noisette to burned. This is the master class version of what you're cooking tonight.
-
----
-
-### Session 84 — The Universal Crispy Fish Technique
-
-**Skill:** [Serious Eats — The Easiest Crispy Pan-Seared Fish](https://www.seriouseats.com/the-easiest-crispy-pan-seared-fish-food-lab-recipe) — works on almost any white fish fillet. Tonight: cod, halibut, sea bass, or snapper — whatever is freshest and least expensive at your market. This is the workhorse technique you'll use for the rest of your life.
-
-- The key insight: a stainless steel or cast iron pan, properly preheated, with enough oil, prevents sticking better than nonstick does because it creates a proper sear
-
-**Full Meal:** Crispy white fish + [Braised Leeks with Lemon](https://www.seriouseats.com/braised-leeks-with-parsley-and-lemon-recipe) + [Smashed Potatoes](https://www.seriouseats.com/crispy-smashed-potatoes-recipe)
-
-| Component | Notes |
-|-----------|-------|
-| Fish | Cod, halibut, sea bass, or snapper — the workhorse crispy technique |
-| Veg | Braised leeks — silky, sweet, a technique worth owning; 20 min passive |
-| Starch | Smashed potatoes — boiled, smashed, crisped in the oven |
-
-*Skill note: If the fish sticks, it's telling you something. It means the pan wasn't hot enough or there isn't enough fat. This is useful information — not failure.*
-
----
-
-### Session 85 — Ceviche: Fish Cooked by Acid
-
-**Skill:** Ceviche is the technique of "cooking" raw fish with citrus acid — the low pH of lime juice denatures the surface proteins of the fish, turning it opaque and firm without any heat. This is one of the most intellectually interesting preparations in the program: you are cooking without a stove.
-
-- **Read:** [BBC Good Food — Ceviche](https://www.bbcgoodfood.com/recipes/ceviche)
-- Use the freshest fish you can find — sushi-grade sea bass, snapper, or halibut; dice to 1cm cubes; cover completely with fresh lime juice; cure in the fridge for 20–30 minutes; season with salt, chili, red onion, and coriander
-- Taste at 10 minutes and again at 30 — notice the texture change happening in real time
-
-**Full Meal:** Ceviche as a starter or light main + [quick-pickled cucumbers](https://www.seriouseats.com/quick-pickled-cucumbers-rice-vinegar-recipe) + tostadas or tortilla chips + avocado slices
-
-*Skill note: The line between perfectly cured (firm outside, just barely opaque inside) and overcooked (rubbery all the way through) is about 15 minutes. Pull it at the earlier end.*
-
----
-
-### ⏰ Service 21 — Whole Roasted Fish
-
-**Skill:** A whole fish — scored, stuffed with aromatics, and roasted at high heat — is one of the most impressive and least technically demanding cooks in this program. The bones protect the fish from overcooking significantly more than fillets do. The crispy skin pulls away from the bone with a wonderful texture.
-
-- **Read:** [Serious Eats — Salt-Baked Whole Fish with Fresh Herbs](https://www.seriouseats.com/salt-baked-whole-fish-with-fresh-herbs-5212108) — a more dramatic version of the whole-fish concept; alternatively roast the fish simply with just olive oil, lemon, and herbs in a 425°F oven for 25–30 minutes per kilo
-- Any whole fish works: snapper, branzino, sea bass, striped bass, or whatever is freshest
-
-**The project meal:** Whole roasted or salt-baked fish + olive oil, lemon, and capers dressed over the top + [Smashed and Crisped Potatoes](https://www.seriouseats.com/crispy-smashed-potatoes-recipe) + [Arugula, Fennel & Orange Salad](https://www.seriouseats.com/arugula-fennel-and-orange-salad-recipe)
-
-> 🎥 **Compare Notes:** [How to Grill and Eat a Whole Fish (Branzino)](https://www.youtube.com/watch?v=220Q_ppV8bs) *(Helen Rennie)* — Same fish, different heat source; pay attention to how she talks about the bones changing the cook time calculus compared to fillets.
-
----
 
 ## Block 18 — Fish: Deeper Techniques & Global Preparations
 
 ---
 
-### Session 86 — Seared Fish + Mushroom, Asian Style
-
-**Skill:** Pan-searing fish over a bed of shiitake mushrooms and aromatics — a technique from Chinese and East Asian cooking where the mushrooms both flavor the fish and prevent it from sticking dramatically. The result is fish with deeply savory umami below it, almost stock-like in the pan.
-
-- **Read:** [Serious Eats — Pan-Seared Fish with Shiitake Mushrooms](https://www.seriouseats.com/pan-seared-fish-shiitake-mushroom-recipe)
-
-**Full Meal:** Seared fish with mushrooms + steamed jasmine rice + [Sesame-Dressed Bok Choy](https://www.seriouseats.com/stir-fried-greens-with-garlic-bok-choy-with-oyster-sauce-recipe)
-
-| Component | Notes |
-|-----------|-------|
-| Fish | White fish seared on a shiitake bed |
-| Starch | Steamed jasmine rice — appropriate here; the mushroom broth soaks in |
-| Veg | Bok choy with sesame oil and rice vinegar — matches the East Asian frame |
+- [Session 86: Seared Fish + Mushroom, Asian Style](session-86-seared-fish-mushroom-asian-style.md)
+- [Session 87: Fish Tacos: West Coast Done Right](session-87-fish-tacos-west-coast-done-right.md)
+- [Session 88: Salmon Teriyaki: The Weeknight Standard](session-88-salmon-teriyaki-the-weeknight-standard.md)
+- [Session 89: Whole Grilled Branzino](session-89-whole-grilled-branzino.md)
+- [⏰ Service 22: A Full Fish Dinner](service-22-a-full-fish-dinner.md)
 
 ---
 
-### Session 87 — Fish Tacos: West Coast Done Right
 
-**Skill:** Baja fish tacos — battered, fried white fish, shredded cabbage, crema, and salsa. The batter is rice-flour-light; the oil temperature matters (350°F); the fish cooks in 90 seconds. Building a perfect taco is a lesson in acid, fat, heat, and crunch in one bite.
+## Block 15–18 — Whole Fish & Curing
 
-- **Read:** [Serious Eats — Baja Fish Tacos](https://www.seriouseats.com/baja-fish-tacos-recipe-8682282)
-- Set up a simple deep-fry station: Dutch oven, 3 inches of neutral oil, thermometer. Don't skip the thermometer.
+**The central principle:** Whole fish and cured fish are the two preparations that demand attention to the fish itself — its freshness, its age, its smell — in a way that a fillet from a vacuum pack never will. This week teaches you to read fish.
 
-**Full Meal:** Baja fish tacos + pickled jalapeños + [guacamole](https://www.seriouseats.com/the-best-basic-guacamole-recipe) or avocado crema + cold beer (optional)
-
----
-
-### Session 88 — Salmon Teriyaki: The Weeknight Standard
-
-**Skill:** True teriyaki is a Japanese glaze (soy, mirin, sake, sugar) applied and cooked in the pan — not the thick bottled sauce you pour over cooked meat. The technique: sear the salmon, flip, add the teriyaki glaze to the pan, baste continuously as it reduces and lacquers the fish. This takes about 4 minutes total.
-
-- **Read and follow closely:** [Serious Eats — Easy Teriyaki Glazed Salmon](https://www.seriouseats.com/easy-teriyaki-glazed-salmon-cucumber-avocado-rice-bowl-recipe)
-
-**Full Meal:** Teriyaki salmon rice bowl + cucumber + avocado + sesame seeds + pickled ginger
-
----
-
-### Session 89 — Whole Grilled Branzino
-
-**Skill:** Small whole fish on the grill — scored, rubbed with olive oil, placed over direct heat, flipped once. The bones protect the flesh from drying, the skin chars beautifully, and the result is cleaner-tasting than almost any fillet preparation. Two minutes per side is usually enough for a 500g fish.
-
-- **Read:** [Serious Eats — Whole Grilled Fish](https://www.seriouseats.com/whole-grilled-fish-recipe-11744350)
-
-**Full Meal:** Whole grilled branzino (or snapper) + [salsa verde](https://www.seriouseats.com/italian-salsa-verde-with-parsley-and-capers) or [gremolata](https://www.seriouseats.com/gremolata-sauce-recipe) + [Serious Eats — Best Roast Potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + [Tomato, Cucumber & Red Onion Salad](https://www.seriouseats.com/the-best-greek-salad-tomato-feta-summer-recipe)
-
-> 🎥 **Compare Notes:** [Go Fish](https://www.youtube.com/watch?v=H8jL9uRhIbI) *(Jacques Pépin)* — Watch how he reads the cooked fish and separates the fillet from the bone at the table; that's the finishing move that makes whole fish feel confident rather than awkward.
-
----
-
-### ⏰ Service 22 — A Full Fish Dinner
-
-**The challenge:** Build a complete three-component fish dinner using techniques from the block. Nothing from a packet. Everything cooked the same evening.
-
-**Full Meal (serves 2–4):**
-
-1. **Starter:** Ceviche (from Session 85 technique) — fresh-made, served immediately after curing, with tostadas and sliced avocado
-2. **Main:** Crispy-skin pan-seared fish of your choice (Session 82 or 3 technique) + [salsa verde](https://www.seriouseats.com/italian-salsa-verde-with-parsley-and-capers) drizzled over the top
-3. **Sides:** [Crispy Smashed Potatoes](https://www.seriouseats.com/crispy-smashed-potatoes-recipe) + [Shaved Zucchini Salad with Lemon and Parmesan](https://www.seriouseats.com/zucchini-carpaccio-salad-with-parmesan-basil)
-
-*Skill targets: Ceviche fish properly opaque but not rubbery. Crispy fish skin that doesn't stick to the plate. Everything on the table at the same time — this is the timing challenge.*
-
-> Write: What single technique from this block will you use the most in everyday cooking? Not the most impressive — the most useful.
+- [Session 91: Trout Amandine: Whole Fish + Brown Butter](session-91-trout-amandine-whole-fish-brown-butter.md)
+- [Session 93: Whole Grilled Branzino](session-93-whole-grilled-branzino.md)
+- [⏰ Service 23: Whole Fish Dinner Party](service-23-whole-fish-dinner-party.md)
 
 ---
 
@@ -241,67 +120,6 @@ Bouillabaisse is a lesson in building shellfish stock, saffron, and rouille — 
 > ⏰ **Planning Ahead**
 >
 > > - **Session 96 (Cioppino):** ask your fishmonger 2 days ahead to save fish bones/shells for the stock
-
----
-
-## Block 15–18 — Whole Fish & Curing
-
-**The central principle:** Whole fish and cured fish are the two preparations that demand attention to the fish itself — its freshness, its age, its smell — in a way that a fillet from a vacuum pack never will. This week teaches you to read fish.
-
----
-
-### Session 91 — Trout Amandine: Whole Fish + Brown Butter
-
-**Skill:** Cooking a whole fish in butter — dredged in flour, pan-fried until golden, finished with a classic brown butter and toasted almond sauce. One of the most elegant French preparations, and fast.
-
-📖 **Read:** [Serious Eats — Trout Amandine](https://www.seriouseats.com/trout-amandine-recipe)
-
-Trout Amandine teaches you to read a whole fish for doneness (the flesh should pull away from the bone at the dorsal fin; the eye turns white and opaque). The sauce — beurre noisette with toasted almonds and lemon juice — is made in the same pan in 90 seconds after the fish comes out.
-
-**Full Meal:** Trout Amandine + [Haricots Verts with Dijon Vinaigrette](https://www.seriouseats.com/cooks-illustrated-sauteed-green-beans-recipe) + warm bread to catch the beurre noisette
-
-| Component | Notes |
-|-----------|-------|
-| Fish | Whole rainbow trout, butterflied or pan-ready |
-| Sauce | Beurre noisette + toasted sliced almonds + lemon juice + parsley |
-| Veg | Haricots verts, blanched or simply steamed |
-
-> 🎥 **Compare Notes:** [Sole Meunière *(Jacques Pépin)*](https://www.youtube.com/watch?v=uQ6U9uiP5go) — Different fish, identical technique — watch the brown butter timing and how little time separates noisette from burned.
-
----
-
-### Session 93 — Whole Grilled Branzino
-
-**Skill:** Small whole fish on the grill — scored, rubbed with olive oil, placed over direct high heat, flipped once. The bones protect the flesh from drying, the skin chars beautifully, and the result is cleaner-tasting than almost any fillet preparation.
-
-📖 **Read:** [Serious Eats — Whole Grilled Fish](https://www.seriouseats.com/whole-grilled-fish-recipe-11744350)
-
-Score the fish 3–4 times on each side (diagonal cuts to the bone — these allow heat to reach the thickest parts). Rub with oil, stuff the cavity with lemon slices, garlic, and herbs. Grill 4–5 minutes per side for a 500g fish over direct high heat.
-
-**Full Meal:** Whole grilled branzino + [Italian salsa verde](https://www.seriouseats.com/italian-salsa-verde-with-parsley-and-capers) + [roasted potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + [Grilled Radicchio with Balsamic](https://www.seriouseats.com/grilled-radicchio-with-cherry-gastrique-recipe-11744361)
-
-| Component | Notes |
-|-----------|-------|
-| Fish | Whole branzino or snapper, 500g each |
-| Sauce | Salsa verde made ahead: parsley, capers, anchovy, olive oil, lemon |
-| Starch | [Crispy Roasted Potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) — parboiled, roughed up, roasted until shattering-crisp |
-| Veg | [Grilled Radicchio with Balsamic](https://www.seriouseats.com/grilled-radicchio-with-cherry-gastrique-recipe-11744361) — bitter char against the mild fish |
-
-> 🎥 **Compare Notes:** [How to Grill and Eat a Whole Fish *(Helen Rennie)*](https://www.youtube.com/watch?v=220Q_ppV8bs) — Pay attention to how she separates the fillet from the bone at the table — that finishing move makes whole fish feel confident.
-
----
-
-### ⏰ Service 23 — Whole Fish Dinner Party
-
-**The challenge:** A complete dinner centered on whole fish — plated with intention. Cook for at least two people.
-
-**Full Meal (3 courses):**
-
-1. **Starter:** Smoked salmon board with blinis, crème fraîche, capers, and pickled onion *(if you've done Block 19–22, use your own gravlax here)*
-2. **Main:** [Salt-Baked Whole Fish](https://www.seriouseats.com/salt-baked-whole-fish-with-fresh-herbs-5212108) — the enclosed salt crust steams the fish in its own moisture; crack at the table. Dress the revealed fish with olive oil and capers.
-3. **Side:** Warm Potato Salad with Herbs + [gremolata](https://www.seriouseats.com/gremolata-sauce-recipe) or salsa verde alongside
-
-*Skill targets: A properly sealed salt crust (no cracks before roasting). Fish pulled at 130–135°F at the thickest point. Confident tableside crack-and-reveal. Graceful plating directly from the fish to the plate.*
 
 ---
 

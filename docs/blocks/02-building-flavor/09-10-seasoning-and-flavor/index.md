@@ -20,6 +20,7 @@
 
 ---
 
+
 ## Block 9 — Salt: When, What, and Why
 
 > The lesson: salt behaves differently at different stages of cooking, and learning to recognize *what* your food is missing — flat? dull? one-dimensional? — is more valuable than any single technique.
@@ -34,171 +35,24 @@ Take a carrot. Cut it in two. Salt one half with a pinch of kosher salt and wait
 > - **Session 34 (Brined Chicken Thighs):** dry-brine the night before your first session
 > - **Service 10 (Miso-Glazed Cod Project):** apply miso marinade 24–48 hrs ahead; start two days before
 
-
-### Session 34 — Early Salt: Brining
-
-**Skill:** Dry-brining (salting well in advance) allows salt to penetrate proteins deeply, seasoning from within rather than just the surface. The meat loses moisture initially, which is then reabsorbed as a concentrated, seasoned brine. The result: more flavorful, more evenly seasoned meat, and — as a bonus — drier skin that crisps better in the oven. Tonight you'll dry-brine chicken thighs in the morning and cook them at dinner.
-
-*Before you leave for work or start your day:* Pat 4–6 bone-in, skin-on chicken thighs dry, season generously with kosher salt (about ¾ tsp per pound), place on a rack over a sheet pan, and refrigerate uncovered. Come back to them at dinner.
-
-**Full Meal:** [Serious Eats — Crispy-Skinned Chicken Thighs](https://www.seriouseats.com/easy-pan-roasted-chicken-breast-lemon-rosemary-pan-sauce-recipe) (use your dry-brined thighs) + [Serious Eats — Roasted Broccoli with Garlic](https://www.seriouseats.com/roasted-broccoli-science-11887862) + [Serious Eats — Simple Arugula Salad with Lemon Vinaigrette](https://www.seriouseats.com/fennel-orange-and-roasted-pepper-arugula-salad-recipe)
-
-Before you season the broccoli, taste a raw floret. Season it with salt and taste again. Notice the difference before it goes in the oven.
-
-- **Protein:** Dry-brined chicken thighs, seared until the skin is lacquer-crisp
-- **Veg:** Roasted broccoli, each floret seasoned before roasting
-- **Salad:** Arugula with shaved parmesan and a sharp lemon vinaigrette
-
-> 🎥 **Compare Notes:** [Dry Brining Is the Easiest Way to Improve Any Roast](https://www.youtube.com/shorts/QcWCXVZJ0sk) — A 60-second demonstration of the exact technique you're using tonight — notice that the salt goes on much earlier than most people think.
+- [Session 34: Early Salt: Brining](session-34-early-salt-brining.md)
+- [Session 35: During Salt: Layered Seasoning](session-35-during-salt-layered-seasoning.md)
+- [Session 36: Late Salt: Finishing](session-36-late-salt-finishing.md)
+- [Session 37: Salt as Texture and Contrast](session-37-salt-as-texture-and-contrast.md)
+- [⏰ Service 9: Salt-Crusted Whole Roasted Fish](service-9-salt-crusted-whole-roasted-fish.md)
 
 ---
 
-### Session 35 — During Salt: Layered Seasoning
-
-**Skill:** Tonight, season every single component of your dish at the moment it goes into the pan — not just at the beginning or the end. Salt the onions when they go in. Salt the garlic when you add it. Salt the tomatoes when they hit the pan. Taste after each addition. You're building flavor in layers, not slapping it on at the end.
-
-**Full Meal:** [Serious Eats — Pasta all'Amatriciana](https://www.seriouseats.com/bucatini-pasta-amatriciana-recipe) + [Serious Eats — Classic Caesar Salad](https://www.seriouseats.com/the-best-caesar-salad-recipe)
-
-Amatriciana is one of the great Roman pasta sauces — guanciale (or pancetta), white wine, tomato, pecorino. Each component is distinct and requires its own seasoning moment. It's a perfect layering teacher.
-
-- **Protein:** Guanciale or pancetta, crisped in the pan and layered through the sauce
-- **Starch:** Bucatini or rigatoni — both are traditional
-- **Salad:** Classic Caesar alongside — learn to taste and adjust the dressing before it goes on the leaves
-
-> 🎥 **Compare Notes:** [Food Lab Basics: POV Bucatini All'Amatriciana](https://www.youtube.com/watch?v=0SxlESaak_Q) — Watch when he seasons at each stage — count how many separate times salt or salty ingredients go in before the dish is done.
-
----
-
-### Session 36 — Late Salt: Finishing
-
-**Skill:** Some things should not be salted early. Delicate fish toughens if salted too far in advance. Soups and braises that reduce become dangerously salty if heavily salted at the start. Finishing salts — flaky Maldon, fleur de sel — exist to add texture and a burst of flavor right at the moment of eating. They should never dissolve. Tonight you'll deliberately hold salt until the final moment and let a finishing salt do the work.
-
-**Full Meal:** [Serious Eats — Pan-Seared Halibut or Sea Bass](https://www.seriouseats.com/sous-vide-seared-halibut-recipe) with a squeeze of lemon and a pinch of Maldon flakes right at plating + [Serious Eats — White Bean Salad with Olive Oil and Herbs](https://www.seriouseats.com/quick-marinated-white-bean-salad-feta-lettuce-cups-recipe) + [Serious Eats — Sautéed Cherry Tomatoes](https://www.seriouseats.com/tomato-raisins-oven-dried-whole-cherry-tomatoes)
-
-The white bean salad benefits enormously from being dressed early (the beans absorb the seasoning) while the fish is seasoned *only at the very end*. Two different salt strategies on the same plate, by design.
-
-- **Protein:** Pan-seared white fish, seasoned only right before going in the pan and finished with Maldon flakes
-- **Veg:** Sautéed cherry tomatoes, blistered in olive oil
-- **Starch/Salad:** White bean salad with olive oil, lemon, and fresh herbs — dressed 20 minutes ahead so the beans absorb the seasoning
-
----
-
-### Session 37 — Salt as Texture and Contrast
-
-**Skill:** Tonight's focus is on salt as a *textural* and *contrast* element. A finishing salt on a rich braise doesn't just season — it provides crunch and a burst of concentrated flavor that cuts through the fat. A well-salted pasta water (it should taste "pleasantly seasoned," like a light broth) actually seasons the pasta from within, not just its surface. Both are explored tonight.
-
-**Full Meal:** [Serious Eats — Cacio e Pepe](https://www.seriouseats.com/perfect-cacio-e-pepe-sauce-pasta-recipe-8780373) + [Serious Eats — Bitter Greens Salad with Anchovy Vinaigrette](https://www.seriouseats.com/five-minute-radicchio-watercress-arugula-salad-recipe) + [Serious Eats — Roasted Cauliflower with Crispy Capers](https://www.seriouseats.com/roasted-cauliflower-pine-nut-raisin-caper-food-lab-recipe)
-
-Cacio e Pepe is three ingredients: pasta, pecorino, black pepper. There is nowhere to hide. The pasta water must be well-salted. The cheese is the only seasoning. This dish teaches you precision — and it's one of the best things you can make.
-
-- **Protein:** Pecorino and parmesan (the sauce *is* the protein component here)
-- **Starch:** Tonnarelli or spaghetti
-- **Veg:** Roasted cauliflower with crispy capers — the capers add a salty, briny pop that is the finishing-salt concept in action
-- **Salad:** Bitter greens to cut through the richness
-
-> 🎥 **Compare Notes:** [How to Make Cacio e Pepe](https://www.youtube.com/watch?v=Sap5IKEGHDA) — Three ingredients. Watch how he uses pasta water to build a sauce, not just coat the noodles. That emulsification is the whole technique.
-
----
-
-### ⏰ Service 9 — Salt-Crusted Whole Roasted Fish
-
-**Skill:** Salt-crusting is an ancient technique where a whole fish (or chicken or beet) is encased in a thick crust of kosher salt before roasting. The salt absorbs moisture from the surface, seasons the interior gently, and creates a steaming environment inside the crust. The result is the most evenly cooked, delicately seasoned fish you will ever eat at home. Cracking the crust at the table is genuinely theatrical.
-
-**Full Meal:** [Serious Eats — Salt-Crusted Whole Roasted Fish](https://www.seriouseats.com/salt-baked-whole-fish-with-fresh-herbs-5212108) + [Serious Eats — Roasted Fingerling Potatoes with Herbs](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + [Serious Eats — Fennel and Orange Salad](https://www.seriouseats.com/grilling-fennel-and-orange-salad-recipe)
-
-This is one of the most impressive things you can serve to guests and it requires almost no active cooking skill — just good salt technique and confidence.
-
-- **Protein:** Whole branzino or red snapper, salt-crusted and roasted
-- **Starch:** Crispy roasted fingerling potatoes, dressed with herbs and flaky salt at the end
-- **Salad:** Fennel and orange salad — light, acidic, a perfect counterpoint to the fish
-
-*Skill targets: A properly sealed salt crust (no cracks before roasting). Even internal temperature of 130–135°F at the thickest point. Confident tableside crack-and-reveal.*
-
----
 
 ## Block 10 — Acid, Fat, and the Fifth Taste
 
 > The lesson: seasoning is not just salt. Acid brightens. Fat carries and extends. Umami deepens. Knowing which one is missing from a flat dish is the difference between following a recipe and actually cooking.
 
----
-
-### Session 38 — Acid: The Brightness Lever
-
-**Skill:** Acid — lemon juice, vinegar, wine, citrus zest — does something salt cannot: it lifts and brightens flavors, making food taste *fresher* and more vibrant. Most dishes benefit from a small hit of acid right at the end of cooking, before serving. Tonight you'll cook a dish twice in your mind: once without the final acid, once with. The difference is immediately obvious.
-
-**Full Meal:** [Serious Eats — Chicken Marsala](https://www.seriouseats.com/chicken-marsala-mushroom-pan-sauce-recipe) + [Serious Eats — Creamy Mashed Potatoes](https://www.seriouseats.com/rich-and-creamy-mashed-potatoes-recipe) + Escarole Salad with Sharp Dijon Vinaigrette
-
-Before you finish the Marsala sauce, taste it. Now add a small squeeze of lemon and taste again. Notice how the whole sauce comes into focus. *That* is acid as a lever.
-
-- **Protein:** Chicken Marsala — mushrooms, Marsala wine, a final hit of lemon
-- **Starch:** Mashed potatoes (their richness is exactly what needs the acid in the salad to balance the plate)
-- **Salad:** Sharp Dijon vinaigrette salad — the acidic foil for the rich main
-
----
-
-### Session 39 — Different Acids, Different Effects
-
-**Skill:** Not all acid is the same. Lemon juice is bright and immediate. Red wine vinegar is assertive and fruity. Sherry vinegar is mellow and nutty. White balsamic is sweet and gentle. Tamarind is deep and complex. Tonight you'll use two different acids in two different components of the same meal and taste the difference.
-
-**Full Meal:** [Serious Eats — Glazed Pork Tenderloin with Balsamic Reduction](https://www.seriouseats.com/pork-tenderloin-with-rhubarb-sauce-recipe-11703853) + [Serious Eats — Lentil Salad with Sherry Vinaigrette](https://www.seriouseats.com/basic-french-lentil-recipe) + [Serious Eats — Roasted Carrots with Cumin](https://www.seriouseats.com/honey-roasted-carrots-with-spring-herbs-recipe-11725322)
-
-Balsamic on the pork: sweet, deep, slightly caramelized. Sherry vinegar in the lentil salad: dry, nutty, assertive. Two acids, two entirely different effects.
-
-- **Protein:** Pork tenderloin with balsamic glaze
-- **Starch/Salad:** Warm French lentil salad with sherry vinaigrette
-- **Veg:** Roasted carrots with cumin
-
----
-
-### Session 40 — Fat as Flavor
-
-**Skill:** Fat is not just a cooking medium or a source of richness. Different fats carry fundamentally different flavors: brown butter is nutty and toasty; extra-virgin olive oil is grassy and peppery; duck fat is savory and deep; bacon fat is smoky and umami-forward. Tonight you cook the same vegetable three different ways — once in each of three fats — and taste the difference.
-
-*The mini-experiment:* Before dinner, sauté three small batches of green beans — one in neutral canola oil, one in good extra-virgin olive oil, one in butter with a little brown at the end. Taste each with just a pinch of salt. The difference is the fat speaking.
-
-**Full Meal:** [Serious Eats — Brown Butter Gnocchi with Crispy Sage](https://www.seriouseats.com/light-tender-potato-gnocchi-recipe) + [Serious Eats — Roasted Mushrooms with Thyme](https://www.seriouseats.com/easy-roasted-mushroom-food-lab-recipe) + [Serious Eats — Bitter Greens Salad](https://www.seriouseats.com/five-minute-radicchio-watercress-arugula-salad-recipe)
-
-Brown butter is fat transformed — milk solids toasted to a deep hazelnut color, releasing a complex, nutty flavor that coats the gnocchi and makes the dish. Tonight fat is the whole story.
-
-- **Protein:** The sage and parmesan carry the protein element
-- **Starch:** Potato gnocchi, tossed in brown butter and crispy sage
-- **Veg:** Roasted mushrooms alongside
-- **Salad:** Bitter greens to cut through all that butter
-
-> 🎥 **Compare Notes:** [Spring Vegetable Gnocchi](https://www.youtube.com/watch?v=hit26kbaDYk) — Different filling, same brown butter sauce technique — watch how the butter goes from golden to hazelnut and how the gnocchi absorb the fat.
-
----
-
-### Session 41 — Umami: The Depth Dial
-
-**Skill:** Umami is the fifth taste — the savory, lingering depth you get from glutamate-rich ingredients: aged parmesan, soy sauce, miso, fish sauce, anchovies, dried mushrooms, tomato paste. Tonight you'll learn to use umami ingredients as *seasoning*, not as central flavors — a tablespoon of fish sauce where you'd normally add salt, a smear of miso in a braise, a parmesan rind dropped into a soup pot. They should deepen the dish without announcing themselves.
-
-**Full Meal:** [Serious Eats — Umami-Packed Mushroom Pasta](https://www.seriouseats.com/roman-style-spaghetti-alla-carrettiera-tomato-tuna-and-mushroom-pasta) + [Serious Eats — Roasted Asparagus with Parmesan](https://www.seriouseats.com/how-to-cook-asparagus-7487955) + [Serious Eats — Arugula Salad with Shaved Parmesan](https://www.seriouseats.com/fennel-orange-and-roasted-pepper-arugula-salad-recipe)
-
-This pasta uses anchovies (umami), mushrooms (umami), and tomato (umami) in combination. None of them taste like themselves in the finished dish — together they create a savory depth that makes you want to keep eating. The parmesan on the asparagus and the salad keeps the umami thread running through the whole meal.
-
-- **Protein:** Anchovies melted into the sauce (they disappear — trust the process)
-- **Starch:** Spaghetti or rigatoni
-- **Veg:** Asparagus with shaved parmesan — the parmesan is doing seasoning work here
-- **Salad:** Arugula with more parmesan and lemon
-
-> 🎥 **Compare Notes:** [How to Make Pasta Puttanesca](https://www.youtube.com/watch?v=ZJMUIDEJ6ls) — Same principle: anchovies and olives as hidden umami, not as the headline flavors. Watch how they disappear into the sauce while deepening it.
-
----
-
-### ⏰ Service 10 — A Composed Tasting Plate
-
-**The challenge:** The project session isn't about following a single recipe. It's about applying everything from Blocks 9–10 in one deliberate meal. You'll cook a three-component plate and consciously think about salt timing, acid balance, fat choice, and umami depth for each component.
-
-**Suggested composed plate:**
-
-1. **Protein:** [Serious Eats — Miso-Glazed Black Cod](https://www.seriouseats.com/miso-glazed-salmon-in-the-toaster-oven-recipe) — umami from the miso marinade, fat from the fish, a hit of rice vinegar for acid in the glaze
-2. **Grain:** [Serious Eats — Saffron Risotto alla Milanese](https://www.seriouseats.com/risotto-alla-milanese-saffron-recipe) — salt-seasoned at every stage, finished with butter (fat) and parmesan (umami), a squeeze of lemon at the end (acid)
-3. **Salad:** [Serious Eats — Fennel and Citrus Salad](https://www.seriouseats.com/grilling-fennel-and-orange-salad-recipe) — acid-forward, a deliberate foil to the rich risotto and fish
-
-Before you plate everything, taste each component and ask: Is it salty enough? Does it need acid? Is the fat coming through? Is there depth? Adjust one thing at a time.
-
-*Skill targets: Each component consciously seasoned, not just salted. A finished dish where all four elements — salt, acid, fat, umami — are present and in balance.*
+- [Session 38: Acid: The Brightness Lever](session-38-acid-the-brightness-lever.md)
+- [Session 39: Different Acids, Different Effects](session-39-different-acids-different-effects.md)
+- [Session 40: Fat as Flavor](session-40-fat-as-flavor.md)
+- [Session 41: Umami: The Depth Dial](session-41-umami-the-depth-dial.md)
+- [⏰ Service 10: A Composed Tasting Plate](service-10-a-composed-tasting-plate.md)
 
 ---
 
