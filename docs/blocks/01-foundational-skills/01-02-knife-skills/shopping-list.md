@@ -85,9 +85,9 @@
 - [ ] Oyster sauce — 1 bottle (Session 4 stir-fry)
 - [ ] Soy sauce — 1 bottle
 - [ ] Sesame oil — 1 small bottle (Session 4 stir-fry)
-- [ ] Fish sauce — 1 bottle (Pad Thai)
-- [ ] Tamarind paste or concentrate — 1 jar (Pad Thai) — Asian grocery or Amazon
-- [ ] Brown sugar or palm sugar — 1 bag (Pad Thai)
+- [ ] Fish sauce — 1 bottle (Pad Thai) — most grocery stores carry this now (Thai Kitchen brand); Asian grocery is cheaper
+- [ ] Tamarind paste or concentrate — 1 jar (Pad Thai) — Asian grocery or Amazon; **not the same as tamarind chutney** (that's sweetened)
+- [ ] Brown sugar or palm sugar — 1 bag (Pad Thai) — regular brown sugar works fine
 - [ ] Cornstarch — 1 box (stir-fry velveting)
 - [ ] All-purpose flour — 1 bag (Session 7 piccata dredge)
 - [ ] Dijon mustard — 1 jar (Session 6 vinaigrette + general use)

@@ -6,13 +6,13 @@
 
 **Skill:** Slice eggplant, zucchini, yellow squash, and tomatoes into rounds of *identical* thickness — ideally ⅛ to ¼ inch. The beauty of the finished dish is a direct function of your slicing precision. Uniform slices = a dish that looks like a restaurant made it.
 
-**Full Meal:** [Provençal Summer Vegetable Tian](https://www.seriouseats.com/summer-vegetable-tian-ratatouille-recipe) + [Garlic Toast](https://www.seriouseats.com/easy-weeknight-garlic-bread-recipe-8641247)
+**Full Meal:** [Provençal Summer Vegetable Tian](https://www.seriouseats.com/summer-vegetable-tian-ratatouille-recipe)
 
 | Component | Recipe |
 |-----------|--------|
 | Protein | Optional — serve with good burrata or a soft-boiled egg on top |
 | Veg | The tian (eggplant, zucchini, squash, tomato) |
-| Starch | [Garlic Toast](https://www.seriouseats.com/easy-weeknight-garlic-bread-recipe-8641247) — broiled with olive oil and flaky salt |
+| Side | Simple green salad with lemon vinaigrette — the brightness balances the richness of the tian |
 
 *Skill targets: Consistent thickness on every slice. Go slow. This is about control, not speed.*
 

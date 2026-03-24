@@ -68,8 +68,7 @@ These aren't required reading — but if something from this block sparked a que
 
 Reading about knife technique only goes so far. These videos show you what the grip and motion actually look like at speed:
 
-- 📺 [**Jacques Pépin — Knife Skills**](https://www.youtube.com/results?search_query=jacques+pepin+knife+skills+kqed) — He's filmed these sessions multiple times across decades. Watching a 90-year-old chef break down an onion is humbling and clarifying.
-- 📺 [**Ethan Chlebowski — How to Actually Improve Your Knife Skills**](https://www.youtube.com/@EthanChlebowski) — More data-driven and modern. Good on speed benchmarks and how deliberate practice actually works in the kitchen.
+- 📺 [**Jacques Pépin — Knife Skills (KQED)**](https://www.youtube.com/watch?v=0aKVFUGCmVY) — Watch him break down an onion, mince garlic, and fillet a fish. The grip, the motion, the board control — all of it visible at real speed from someone who's done it ten thousand times.
 
 ---
 

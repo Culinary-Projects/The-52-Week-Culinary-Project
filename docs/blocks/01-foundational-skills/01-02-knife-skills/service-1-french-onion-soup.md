@@ -8,7 +8,7 @@
 
 **Full Meal:** [French Onion Soup (Soupe à l'Oignon)](https://www.seriouseats.com/french-onion-soup-recipe)
 
-A self-contained stunning dinner — nothing else needed except a glass of red wine.
+A largely self-contained dinner. If you want something green alongside, a simple arugula salad with lemon and olive oil takes 3 minutes and cuts through the richness nicely — but it's optional.
 
 *Skill targets: Uniform half-moon slices. Pinch grip maintained throughout. Knife honed before you start.*
 

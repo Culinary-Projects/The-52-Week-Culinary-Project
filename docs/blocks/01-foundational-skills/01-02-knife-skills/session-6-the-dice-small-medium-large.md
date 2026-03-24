@@ -4,11 +4,11 @@
 
 ---
 
-**Skill:** Dice three potatoes — one small (¼"), one medium (½"), one large (¾"). Notice the process: planks first, then batons, then cubes. Cook all three in the same hot pan at the same time. Watch what happens — the small ones finish first. The large ones are still raw when the small ones are done. **That's the entire lesson.**
+**Skill:** As you cut your home fry potatoes, deliberately mix your cut sizes — some chunks small (¼"), some medium (½"), some larger (¾"). Don't try to fix it. Let the pan tell you what happens: the small ones overcook while the large ones are still raw. That's the lesson, and the home fries are your evidence. Watch the Kenji video below before you start — he explains exactly why this happens and what to do about it.
 
 *Why it matters:* Uniform cuts = uniform cooking. This is the single biggest quality gap between home cooks and professionals.
 
-**Full Meal:** [Home Fries](https://www.seriouseats.com/crispy-potato-home-fries-red-onion-poblano-pepper-recipe) + [Pan-Seared Crispy Chicken Thighs](https://www.seriouseats.com/easy-pan-roasted-chicken-breast-lemon-rosemary-pan-sauce-recipe)
+**Full Meal:** [Home Fries](https://www.seriouseats.com/crispy-potato-home-fries-red-onion-poblano-pepper-recipe) + [Crispy Pan-Seared Chicken Thighs](https://www.seriouseats.com/crispy-pan-seared-chicken-thighs)
 
 | Component | Recipe |
 |-----------|--------|

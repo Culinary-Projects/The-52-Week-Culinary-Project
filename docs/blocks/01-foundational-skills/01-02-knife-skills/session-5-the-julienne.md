@@ -12,6 +12,8 @@ While you have your knife out: grab a small handful of fresh basil leaves. Stack
 
 **Full Meal:** [The Best Pad Thai](https://www.seriouseats.com/pad-thai-recipe-11680356)
 
+> **Sourcing note:** Pad Thai has a few ingredients that aren't in a typical grocery store. Check an Asian grocery for tamarind paste, fish sauce, dried shrimp (optional), and wide rice noodles — they'll have everything at once and it's worth the trip. In a pinch: tamarind paste → 1 tbsp lime juice + 1 tsp brown sugar per tablespoon; fish sauce → soy sauce (less funky, still works).
+
 | Component | Recipe |
 |-----------|--------|
 | Protein | Shrimp, chicken, or tofu |
