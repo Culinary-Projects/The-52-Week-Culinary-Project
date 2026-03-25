@@ -10,7 +10,7 @@ Every session has a **Read** — a linked article that explains the *why* behind
 
 When you cook a dish without understanding why it works, you learn one recipe. When you read the article alongside it, you learn a transferable principle that applies to a hundred dishes you haven't made yet.
 
-Kenji's article on [wok hei](https://thewoksoflife.com/how-to-season-a-wok/) isn't just about woks. It explains high-heat chemistry in a way that changes how you think about every sear, every sauté, every time you're tempted to crowd the pan. That's the difference between following a recipe and understanding cooking.
+Kenji's article on [wok hei](https://www.seriouseats.com/the-food-lab-for-the-best-stir-fry-fire-up-the-grill) isn't just about woks. It explains high-heat chemistry in a way that changes how you think about every sear, every sauté, every time you're tempted to crowd the pan. That's the difference between following a recipe and understanding cooking.
 
 **The rule:** Before you clean up, open the article. Read it while the meal is still in your memory.
 
