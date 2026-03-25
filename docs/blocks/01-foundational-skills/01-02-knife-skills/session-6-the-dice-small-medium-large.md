@@ -18,7 +18,6 @@
 |-----------|--------|
 | Protein + Veg | Chicken thighs braised with shredded cabbage, bacon lardons, cider vinegar, and whole-grain mustard — all in one pan |
 | Starch | Home fries (your dice drill is the recipe) |
-| Optional salad | Butter lettuce with [a simple vinaigrette](https://www.seriouseats.com/simple-vinaigrette-recipe) — if you want something green; this is the first time you'll whisk one from scratch |
 
 > 🎥 **Compare Notes:** [The Food Lab: How to Roast the Best Potatoes of Your Life](https://www.youtube.com/watch?v=argKpeiKFfo) — He explains why cut size and uniformity determine texture and doneness — the exact lesson from your three-potato drill, applied to the oven.
 
