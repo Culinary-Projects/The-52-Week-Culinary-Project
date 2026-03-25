@@ -21,10 +21,10 @@
 | Session | Dish | Skill | Link |
 |-----|------|-------|------|
 | **Session 5** | The Best Pad Thai | Julienne cut | [Recipe](https://www.seriouseats.com/pad-thai-recipe-11680356) |
-| **Session 6** | Home Fries + Crispy Pan-Seared Chicken Thighs + Green Salad | Small/medium/large dice | [Home Fries](https://www.seriouseats.com/crispy-potato-home-fries-red-onion-poblano-pepper-recipe) · [Chicken](https://www.seriouseats.com/easy-pan-roasted-chicken-breast-lemon-rosemary-pan-sauce-recipe) · [Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) |
+| **Session 6** | Home Fries + Crispy Braised Chicken Thighs with Cabbage and Bacon | Small/medium/large dice | [Home Fries](https://www.seriouseats.com/crispy-potato-home-fries-red-onion-poblano-pepper-recipe) · [Chicken](https://www.seriouseats.com/braised-chicken-thighs-cabbage-bacon-recipe) |
 | **Session 7** | Chicken Piccata + Burst Cherry Tomatoes | Break down whole chicken | [Piccata](https://www.seriouseats.com/chicken-piccata-italian-fried-cutlet-recipe) · [Breakdown](https://www.seriouseats.com/knife-skills-how-to-break-down-a-chicken) · [Tomatoes](https://www.seriouseats.com/fast-easy-pasta-blistered-cherry-tomato-sauce-recipe) |
-| **Session 8** | Shakshuka + Leftover Chicken Thighs + Garlic-Rubbed Grilled Bread | Speed benchmark — time your onion dice | [Recipe](https://www.seriouseats.com/shakshuka-north-african-shirred-eggs-tomato-pepper-recipe) · [Bread](https://www.seriouseats.com/easy-weeknight-garlic-bread-recipe-8641247) |
-| **Service 2** | **Provençal Vegetable Tian** + Garlic Toast | Uniform round slices | [Tian](https://www.seriouseats.com/summer-vegetable-tian-ratatouille-recipe) · [Toast](https://www.seriouseats.com/easy-weeknight-garlic-bread-recipe-8641247) |
+| **Session 8** | Shakshuka + Leftover Chicken Thighs + Crusty Bread | Speed benchmark — time your onion dice | [Recipe](https://www.seriouseats.com/shakshuka-north-african-shirred-eggs-tomato-pepper-recipe) |
+| **Service 2** | **Provençal Vegetable Tian** + Simple Green Salad | Uniform round slices | [Tian](https://www.seriouseats.com/summer-vegetable-tian-ratatouille-recipe) |
 
 ---
 
@@ -32,7 +32,7 @@
 
 **Buy early in Block 1:** A honing steel (if you don't own one)
 
-**Buy for Block 2:** One whole chicken — you'll break it down yourself. Breasts go in Piccata; thighs/legs go in the fridge for Session 4's Shakshuka.
+**Buy for Block 2:** One whole chicken — you'll break it down yourself. Breasts go into Piccata; thighs/legs go in the fridge for Session 8 Shakshuka leftovers.
 
 **Freeze:** The chicken carcass from Block 2 → **this is your Block 7 stock.**
 
@@ -40,7 +40,7 @@
 
 ## Food Safety
 
-> 📢 Before you cook raw protein for the first time (Block 3), read the food safety primer embedded in Block 3–4.
+> 📢 Food safety basics for this block (raw shrimp, pork, whole chicken) are covered in the [Block 1–2 overview → Food Safety Fundamentals](index.md#food-safety-fundamentals).
 
 | Key rule | Detail |
 |----------|--------|
