@@ -17,8 +17,8 @@
 - [ ] Boneless, skinless chicken breasts — 1 lb (Session 2, for soup)
 - [ ] Large shrimp (16/20 count), peeled and deveined — 1 lb (Session 3 scampi)
 - [ ] Flank steak or beef sirloin — 1 lb, thinly sliced (Session 4, stir-fry)
-- [ ] Bone-in, skin-on chicken thighs — 6 pieces (Session 6 braised chicken + Session 8 shakshuka leftovers)
-- [ ] **Whole chicken — 1 (Session 7): You will break this down yourself. This is the lesson.** The breasts go into piccata; the thighs and legs are your Session 8 leftovers. Save the carcass in the freezer — it becomes your Block 7 stock.
+- [ ] Bone-in, skin-on chicken thighs — 6 pieces (Session 6 braised chicken)
+- [ ] **Whole chicken — 1 (Session 7): You will break this down yourself. This is the lesson.** The breasts go into piccata; freeze the thighs, drumsticks, and wings — use them in Block 3–4 (Session 10 roasting or Session 11 braising). Save the carcass in the freezer — it becomes your Block 7 stock.
 - [ ] Pork shoulder — 4 oz, sliced ⅛ inch thin (Session 5 Pad Thai — the recipe's default protein; can swap for 4 oz shrimp 16/20)
 - [ ] Pressed tofu — 4 oz (Session 5 Pad Thai aromatic base — used regardless of protein choice; look for "pressed" or extra-dry extra-firm; Asian markets have the best variety)
 - [ ] Slab bacon — 8 oz (Session 6 braised chicken; cut into lardons; salt pork works too)

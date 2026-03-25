@@ -10,6 +10,8 @@
 
 The thighs and legs go in the fridge (use them later in the block) or freeze for later. Nothing wasted.
 
+The thighs, drumsticks, and wings won't get used this block. Freeze them in a zip-lock — they're perfect for Block 3–4's roasting (Session 10) or braising (Session 11) sessions, and you'll save yourself a grocery run.
+
 > 📖 **Before you start piccata:** [How to Cut Chicken Breasts Into Cutlets](https://www.seriouseats.com/knife-skills-how-to-cut-chicken-breasts-into-cutlets) — The breasts from your breakdown need to be sliced horizontally into thin cutlets before they'll cook evenly in the pan. This article covers the technique. It's another knife skill, and it's the first prep step for tonight.
 
 | Component | Recipe |
