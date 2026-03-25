@@ -17,7 +17,7 @@ Each 2-week block has **three files**:
 - **Quick ref** — one-page recipe + link table for when you're in a rush
 - **Shopping list** — organized grocery list for both weeks in the block
 
-**New to the program?** Read [How to Get the Most Out of This Program](how-to-use.md) first — it covers the mindset, the reading habit, and how to use Claude throughout.
+**New to the program?** Read [How to Get the Most Out of This Program](how-to-use.md) first — it covers the mindset, the reading habit, and how to use an AI assistant throughout.
 
 ---
 

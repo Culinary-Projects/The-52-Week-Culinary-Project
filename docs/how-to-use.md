@@ -90,12 +90,12 @@ Labs are where you fix what went wrong during the regular sessions. They're also
 
 ---
 
-## Using Claude as a Sous Chef
+## Using an AI Assistant as a Sous Chef
 
 The program is built to work with an AI assistant as an on-demand cooking coach. Here's how to use it well:
 
 ### Before a session
-Paste the session text from the `index.md` and ask Claude to brief you. Useful prompts:
+Paste the session text from the `index.md` and ask your AI to brief you. Useful prompts:
 - *"What are the three most likely mistakes someone makes when cooking this dish for the first time?"*
 - *"This recipe calls for [technique]. I've never done it before — what am I likely to miss?"*
 - *"Can you give me a timeline for this session? I have 90 minutes."*
@@ -106,13 +106,13 @@ Paste the session text from the `index.md` and ask Claude to brief you. Useful p
 - *"The sauce broke. What happened and can I fix it?"*
 
 ### After a session (learning)
-This is where Claude earns its keep:
+This is where an AI assistant earns its keep:
 - *"I cooked [dish] tonight. Here's what I thought went wrong: [your notes]. What's your read on the cause?"*
 - *"The article I read explained [concept]. Can you connect that to how it would apply to [different dish] I'm cooking next week?"*
 - *"What's the professional version of what I just cooked, and what separates their technique from mine?"*
 
 ### The one rule
-Don't ask Claude to write your three-sentence reflection for you. It defeats the entire purpose of the reflection habit. Everything else is fair game.
+Don't ask your AI to write your three-sentence reflection for you. It defeats the entire purpose of the reflection habit. Everything else is fair game.
 
 ---
 
@@ -147,7 +147,7 @@ The sessions that go wrong teach more than the ones that go right — but only i
 - Was the timing unrealistic for a weeknight?
 - Is the recipe wrong, or was I?
 
-Write down what you think went wrong. Even a single sentence before you move on is enough to get the insight to stick. If you're unsure what went wrong, ask Claude — paste the recipe steps and describe what happened. A good diagnosis is worth more than a do-over.
+Write down what you think went wrong. Even a single sentence before you move on is enough to get the insight to stick. If you're unsure what went wrong, ask your AI — paste the recipe steps and describe what happened. A good diagnosis is worth more than a do-over.
 
 ---
 
