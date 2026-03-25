@@ -11,6 +11,8 @@
 **Full Meal:** [Home Fries](https://www.seriouseats.com/crispy-potato-home-fries-red-onion-poblano-pepper-recipe) + [Crispy Braised Chicken Thighs With Cabbage and Bacon](https://www.seriouseats.com/braised-chicken-thighs-cabbage-bacon-recipe)
 
 > **Timing note:** Start the chicken first — 30 min active, then 45 min in the oven uncovered. Get it in the oven before you touch the potatoes.
+>
+> **Common sear mistake:** The biggest risk is burning the skin. After it goes in skin-side down, **don't touch it**. It will stick at first — that's normal. It releases cleanly when it's ready (~8 minutes). If the pan is smoking heavily, lower the heat; don't move the chicken. The skin needs patience to crisp properly, and a proper sear is what keeps it crispy through the 45-minute braise.
 
 | Component | Recipe |
 |-----------|--------|

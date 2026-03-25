@@ -12,6 +12,8 @@ The onion is handled separately: halve it through the root, press it cut-side do
 
 The recipe only uses charred onion for the stock — carrot and celery aren't in it. Your diced carrot and celery go straight into the soup for the last 10 minutes. The recipe doesn't call for them but they belong there, and the soup is better for it.
 
+> **Don't under-season this.** Chicken soup needs aggressive salting to taste like anything. Taste the broth after 30 minutes and add salt until it tastes like actual soup, not dish water — then taste again after the noodles go in (they absorb salt fast). If it still needs depth, ½ tsp of fish sauce or soy sauce added at the end adds umami without any detectable fishiness.
+
 > **Sous vide note:** The recipe calls for cooking the chicken breast sous vide (140°F, 2 hours). You don't need a circulator — but don't rely on timing either. Lower the heat so the broth is barely simmering (small bubbles, not a rolling boil), add the chicken breasts, and cook until the thickest part reads 165°F on an instant-read thermometer. For average supermarket chicken breasts this takes roughly 25–35 minutes but thickness varies enough that a thermometer is the only safe call. Remove and dice.
 
 | Component | Recipe |

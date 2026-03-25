@@ -10,6 +10,8 @@
 
 The thighs and legs go in the fridge (use them later in the block) or freeze for later. Nothing wasted.
 
+> 📖 **Before you start piccata:** [How to Cut Chicken Breasts Into Cutlets](https://www.seriouseats.com/knife-skills-how-to-cut-chicken-breasts-into-cutlets) — The breasts from your breakdown need to be sliced horizontally into thin cutlets before they'll cook evenly in the pan. This article covers the technique. It's another knife skill, and it's the first prep step for tonight.
+
 | Component | Recipe |
 |-----------|--------|
 | Protein | Chicken piccata using the breasts you broke down |

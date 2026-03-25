@@ -10,6 +10,8 @@
 
 The prep is simple — garlic and parsley — which lets you focus entirely on your grip without managing a complicated recipe. This is intentional.
 
+> **Sauce note:** This recipe builds a creamy emulsified sauce from pasta water and Parmesan. Two things kill it: too much heat when adding the cheese (the fat breaks and goes grainy) and pasta water that's too thin. Fix both: reserve at least 1 cup of starchy pasta water before draining, take the pan **fully off the heat** before adding cheese, and add the water gradually while tossing. If it seizes or goes grainy, a small splash of warm pasta water and a vigorous toss usually brings it back. The goal is glossy and coating, not clumpy or oily.
+
 | Component | Recipe |
 |-----------|--------|
 | Main | Parmesan-crusted pasta |
