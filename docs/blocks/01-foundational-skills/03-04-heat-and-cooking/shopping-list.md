@@ -12,7 +12,7 @@
 
 **Block 3:**
 - [ ] Boneless, skinless chicken breasts — 4 pieces (Session 9)
-- [ ] Bone-in, skin-on chicken thighs — 6 pieces (Session 10 sheet pan + Wed braise)
+- [ ] Bone-in, skin-on chicken thighs — 6 pieces (Session 10 sheet pan + Wed braise) — **if you froze the thighs, drumsticks, and wings from your Block 1–2 chicken breakdown, use those here instead and skip this line**
 - [ ] Salmon fillets (skin-on) — 2 pieces (Session 12 poached)
 - [ ] Whole chicken — 1 large (Service 3 spatchcocked roast)
 
