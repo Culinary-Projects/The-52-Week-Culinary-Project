@@ -44,6 +44,7 @@ extra_javascript:
 nav:
   - Home: README.md
   - How to Use: how-to-use.md
+  - Reading Guide: reading-guide.md
   - Equipment Guide: equipment-guide.md
 
   - "Unit 1 — Foundational Skills":

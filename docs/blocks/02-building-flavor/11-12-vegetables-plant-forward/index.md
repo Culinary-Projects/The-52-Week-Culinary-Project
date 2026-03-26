@@ -103,6 +103,7 @@ Vegetables are now in your repertoire, not just alongside your repertoire. Befor
 - 📖 [Serious Eats — The Food Lab: How to Get Maximum Browning on Your Vegetables](https://www.recipetineats.com/roasted-vegetables/) — the science behind the single pan, high heat approach
 - 📖 [Samin Nosrat on Salt, Fat, Acid, Heat applied to vegetables](https://www.saltfatacidheat.com/) — how acid changes everything
 - 📚 [***The Zuni Cafe Cookbook* by Judy Rodgers**](https://www.amazon.com/dp/0393020436) — not primarily vegetarian, but contains the most thoughtful writing on vegetable cookery of any English-language cookbook
+- 📚 [***On Food and Cooking* by Harold McGee**](https://www.amazon.com/dp/0684800012) — **Ch. 5 (Edible Plants)** explains why vegetables soften, why blanched greens stay green, and how pectin breaks down. **Ch. 6 (Common Vegetables)** has individual entries for every vegetable you cook this block. [Full reading guide →](../../../reading-guide.md)
 
 ---
 

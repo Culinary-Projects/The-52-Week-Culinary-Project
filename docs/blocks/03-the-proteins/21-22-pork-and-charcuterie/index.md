@@ -148,6 +148,7 @@ Gravlax is the cleanest introduction to curing — no smoking, no casings, no sp
 ### A Book Worth Having
 
 - 📚 [***Charcuterie: The Craft of Salting, Smoking, and Curing* by Michael Ruhlman & Brian Polcyn**](https://www.amazon.com/dp/0393058298) — The foundational English-language charcuterie text. Covers every technique you did this week (and the next ten years of possible projects).
+- 📚 [***On Food and Cooking* by Harold McGee**](https://www.amazon.com/dp/0684800012) — **Ch. 3 (Meat)**, pork and curing sections. Curing chemistry (salt + nitrates + time), fat rendering, collagen in pork shoulder, belly structure. [Full reading guide →](../../../reading-guide.md)
 
 ---
 

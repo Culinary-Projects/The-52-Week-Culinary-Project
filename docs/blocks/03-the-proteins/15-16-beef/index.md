@@ -72,6 +72,7 @@ Beef is unique among proteins in the way muscle fiber type, fat distribution, an
 ### A Book Worth Having
 
 - 📚 [***The Food Lab* by J. Kenji López-Alt**](https://www.amazon.com/dp/0393081087) — The protein chapters cover beef in more depth than any other single resource. The steak chapter alone is worth the price of the book.
+- 📚 [***On Food and Cooking* by Harold McGee**](https://www.amazon.com/dp/0684800012) — **Ch. 3 (Meat)** covers collagen-to-gelatin conversion (why braising works), myoglobin and color (it's not blood), doneness temperatures, and the science of grinding meat. [Full reading guide →](../../../reading-guide.md)
 
 ---
 

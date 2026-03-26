@@ -80,6 +80,7 @@ Every great cuisine is built on preservation: Korean kimchi, Japanese miso and t
 ### A Book Worth Having
 
 - 📚 [***The Noma Guide to Fermentation* by René Redzepi and David Zilber**](https://www.amazon.com/dp/1579657184) — Restaurant-grade fermentation techniques made accessible for home kitchens. Covers lacto-fermentation, kombucha, vinegar, miso, black garlic, and more. If this block ignited a serious interest, this is the next step.
+- 📚 [***On Food and Cooking* by Harold McGee**](https://www.amazon.com/dp/0684800012) — **Ch. 6 (Vegetables)** on lacto-fermentation chemistry and salt ratios. **Ch. 3 (Meat)** on curing and confit. **Ch. 12 (Sugars)** on pectin gelation (why jam sets). [Full reading guide →](../../../reading-guide.md)
 
 ---
 

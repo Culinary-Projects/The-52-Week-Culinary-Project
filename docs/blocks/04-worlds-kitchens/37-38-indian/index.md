@@ -89,6 +89,7 @@ Indian cooking draws on a pantry of 20–30 spices, but most dishes use the same
 ### A Book Worth Having
 
 - 📚 [***An Invitation to Indian Cooking* by Madhur Jaffrey**](https://www.amazon.com/dp/0374527849) — The book that introduced Indian home cooking to the English-speaking world. Still the best starting point for building a usable Indian cooking repertoire.
+- 📚 [***On Food and Cooking* by Harold McGee**](https://www.amazon.com/dp/0684800012) — **Ch. 8 (Flavorings)** is the big payoff chapter. Spice blooming science — why toasting in oil releases different flavors than dry-roasting. Individual entries for cumin, coriander, turmeric, cardamom, cinnamon. **Ch. 1 (Dairy)** on yogurt and ghee. [Full reading guide →](../../../reading-guide.md)
 
 ---
 

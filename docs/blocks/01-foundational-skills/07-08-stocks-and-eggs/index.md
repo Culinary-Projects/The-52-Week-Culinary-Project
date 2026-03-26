@@ -167,7 +167,7 @@ You cooked eggs five ways this week. Understanding the protein science — why t
 
 ### A Book Worth Having
 
-- 📚 [***On Food and Cooking* by Harold McGee**](https://www.amazon.com/dp/0684800012) — The original deep dive into food science. The egg chapter alone justifies the entire book. Not a cookbook — a reference work that explains *why* everything in the kitchen works.
+- 📚 [***On Food and Cooking* by Harold McGee**](https://www.amazon.com/dp/0684800012) — The original deep dive into food science. **Ch. 2 (Eggs)** covers coagulation temperatures, foaming, and emulsification — the science behind every egg technique this block. **Ch. 11 (Sauces)** explains gelatin extraction and stock clarity. [Full reading guide →](../../../reading-guide.md)
 
 
 ← [Block 5–6: Mother Sauces](../05-06-mother-sauces/index.md) | [Block 9–10: Seasoning & Flavor →](../../02-building-flavor/09-10-seasoning-and-flavor/index.md)

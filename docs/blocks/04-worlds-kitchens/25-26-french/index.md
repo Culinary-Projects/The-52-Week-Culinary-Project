@@ -72,6 +72,7 @@ Aioli made with patience and good olive oil is nothing like the commercial versi
 ### A Book Worth Having
 
 - 📚 [***Jacques Pépin: New Complete Techniques***](https://www.amazon.com/dp/0307266842) — The definitive classical French kitchen reference. Every sauce, every cut, every technique. If you're going deep into French cooking, this is the shelf book.
+- 📚 [***On Food and Cooking* by Harold McGee**](https://www.amazon.com/dp/0684800012) — **Ch. 2 (Eggs)** on soufflés (why they rise, why they fall). **Ch. 11 (Sauces)** on hollandaise and béarnaise mechanics. **Ch. 1 (Dairy)** on beurre blanc. [Full reading guide →](../../../reading-guide.md)
 
 ---
 

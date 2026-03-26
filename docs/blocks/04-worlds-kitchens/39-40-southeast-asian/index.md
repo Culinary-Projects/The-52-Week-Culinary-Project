@@ -72,6 +72,7 @@ Wok hei — the breath of the wok — is the smoky, slightly charred flavor you 
 ### A Book Worth Having
 
 - 📚 [***Hot, Sour, Salty, Sweet* by Jeffrey Alford & Naomi Duguid**](https://www.amazon.com/dp/1579652417) — A sprawling, beautiful book on SE Asian cooking organized by the flavors of the region rather than by country. Essential reading if this week sparked serious interest.
+- 📚 [***On Food and Cooking* by Harold McGee**](https://www.amazon.com/dp/0684800012) — **Ch. 4 (Fish)** on fish sauce fermentation chemistry. **Ch. 1 (Dairy)** on coconut milk emulsions (why they split and when that's a feature). **Ch. 8 (Flavorings)** on lemongrass, galangal, and ginger. [Full reading guide →](../../../reading-guide.md)
 
 ---
 

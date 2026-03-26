@@ -74,6 +74,7 @@ Mole negro is typically a multi-day project in its native context. Understanding
 ### A Book Worth Having
 
 - 📚 [***Mexico: The Cookbook* by Margarita Carrillo Bosco**](https://www.amazon.com/dp/0714867497) — The Phaidon comprehensive reference on Mexican regional cooking. If you want to understand the full diversity of what you started this week, this is the book.
+- 📚 [***On Food and Cooking* by Harold McGee**](https://www.amazon.com/dp/0684800012) — **Ch. 8 (Flavorings)** on chile drying chemistry and chocolate in savory cooking (mole science). **Ch. 9 (Seeds)** on nixtamalization — why treating corn with lime unlocks flavor and nutrition. [Full reading guide →](../../../reading-guide.md)
 
 ---
 

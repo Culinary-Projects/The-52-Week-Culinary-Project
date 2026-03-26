@@ -77,6 +77,7 @@ Risotto is not about patience. It's about starch gelatinization and gradual liqu
 ### A Book Worth Having
 
 - 📚 [***Mastering Pasta* by Marc Vetri**](https://www.amazon.com/dp/1607745712) — The most comprehensive English-language book on pasta. Goes deep on shapes, doughs, sauces, and the regional logic behind pairing them.
+- 📚 [***On Food and Cooking* by Harold McGee**](https://www.amazon.com/dp/0684800012) — **Ch. 9 (Seeds)** covers gluten formation, starch gelatinization, and rice starch ratios. **Ch. 10 (Doughs and Batters)** explains why kneading develops gluten and how egg changes pasta dough. [Full reading guide →](../../../reading-guide.md)
 
 ---
 

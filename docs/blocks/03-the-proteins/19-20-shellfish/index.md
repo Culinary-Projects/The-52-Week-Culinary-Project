@@ -71,6 +71,7 @@ A properly seared scallop has a deep, dry crust on each flat side and remains tr
 ### A Book Worth Having
 
 - 📚 [***The Joy of Cooking* by Irma Rombauer**](https://www.amazon.com/dp/1501169718) — The shellfish chapter remains one of the most comprehensive references for home cooks. Every preparation covered, without unnecessary complexity.
+- 📚 [***On Food and Cooking* by Harold McGee**](https://www.amazon.com/dp/0684800012) — **Ch. 4 (Fish and Shellfish)**, shellfish sections. Why bivalves open when cooked, shrimp texture and when it goes rubbery, crustacean shell flavor (the science behind bisque). [Full reading guide →](../../../reading-guide.md)
 
 ---
 

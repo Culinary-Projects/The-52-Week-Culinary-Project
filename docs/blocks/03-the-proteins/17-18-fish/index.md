@@ -259,6 +259,7 @@ Cioppino and bouillabaisse use almost identical technique but diverge in flavor 
 ### A Book Worth Having
 
 - 📚 [***The Whole Fish Cookbook* by Josh Niland**](https://www.amazon.com/dp/0525559590) — Argues for cooking the entire fish — the cheeks, the collar, the roe. Transforms how you see value and waste at the fish counter.
+- 📚 [***On Food and Cooking* by Harold McGee**](https://www.amazon.com/dp/0684800012) — **Ch. 4 (Fish and Shellfish)**, fish sections. Why fish cooks faster than meat, skin crisping science, and ceviche chemistry — acid denatures protein the same way heat does. [Full reading guide →](../../../reading-guide.md)
 
 ---
 

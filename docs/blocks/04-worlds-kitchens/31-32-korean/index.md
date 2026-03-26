@@ -93,6 +93,7 @@ The Korean BBQ table at home is one of the most social, interactive meals you ca
 
 - 📚 [***Korean Home Cooking* by Sohui Kim**](https://www.amazon.com/dp/1419732935) — The most comprehensive Korean cooking book for the home cook. Goes deep on banchan, fermentation, and the logic of the Korean table.
 - 📚 [***Koreatown* by Deuki Hong & Matt Rodbard**](https://www.amazon.com/dp/0804186731) — Korean-American cooking, with equal depth on technique and culture. The restaurant profiles add useful context.
+- 📚 [***On Food and Cooking* by Harold McGee**](https://www.amazon.com/dp/0684800012) — **Ch. 6 (Vegetables)** on cabbage fermentation and lacto-fermentation basics (the science behind kimchi). **Ch. 8 (Flavorings)** on capsaicin and gochugaru heat profiles. [Full reading guide →](../../../reading-guide.md)
 
 ---
 

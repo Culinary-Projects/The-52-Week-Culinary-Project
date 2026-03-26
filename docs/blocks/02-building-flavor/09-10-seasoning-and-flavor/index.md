@@ -97,6 +97,7 @@ Salt gets all the attention, but acid is what makes a dish taste complete. A squ
 ### A Book Worth Having
 
 - 📚 [***Salt Fat Acid Heat* by Samin Nosrat**](https://www.amazon.com/dp/1476753830) — This week's curriculum in book form, written for exactly the stage you're at. Possibly the best cooking book of the last ten years for developing instinct rather than just technique.
+- 📚 [***On Food and Cooking* by Harold McGee**](https://www.amazon.com/dp/0684800012) — **Ch. 8 (Flavorings from Plants)** covers salt's effect on protein, how acids brighten flavor, and capsaicin chemistry. **Ch. 11 (Sauces)** on flavor compound interactions. [Full reading guide →](../../../reading-guide.md)
 
 ---
 

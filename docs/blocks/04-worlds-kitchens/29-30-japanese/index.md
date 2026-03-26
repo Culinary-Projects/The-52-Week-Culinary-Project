@@ -66,6 +66,7 @@ Japanese cooking has codified its principles into aesthetics — wabi (understat
 
 - 📚 [***Japanese Soul Cooking* by Tadashi Ono & Harris Salat**](https://www.amazon.com/dp/1607743531) — ramen, tonkatsu, yakitori, gyoza, tempura: the full spectrum of Japanese food that people actually eat, day-to-day. Essential.
 - 📚 [***Japan: The Cookbook* by Nancy Singleton Hachisu**](https://www.amazon.com/dp/0714873599) — 400 recipes covering the full breadth of Japanese regional cooking. More ambitious; deeply rewarding.
+- 📚 [***On Food and Cooking* by Harold McGee**](https://www.amazon.com/dp/0684800012) — **Ch. 4 (Fish)** on bonito/katsuobushi and dashi umami extraction. **Ch. 6 (Vegetables)** on kombu and glutamate. **Ch. 9 (Seeds)** on short-grain rice starch. [Full reading guide →](../../../reading-guide.md)
 
 ---
 

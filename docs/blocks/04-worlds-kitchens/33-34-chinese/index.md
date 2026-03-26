@@ -151,6 +151,7 @@ Before Block 33 begins, verify you have:
 - 🎥 [Chinese Cooking Demystified (YouTube)](https://www.youtube.com/@ChineseCookingDemystified) — the best English-language YouTube channel for authentic Chinese technique, bar none
 - 📚 [***The Wok* by J. Kenji López-Alt**](https://www.amazon.com/dp/0393541215) — the definitive English-language treatment of wok cooking; reads like an engineering manual and a recipe book simultaneously
 - 📚 [***Land of Fish and Rice* by Fuchsia Dunlop**](https://www.amazon.com/dp/1324006161) — Dunlop is the best Western writer on Chinese food; this volume covers Jiangnan (Shanghai region) cuisine with deep historical context
+- 📚 [***On Food and Cooking* by Harold McGee**](https://www.amazon.com/dp/0684800012) — **Ch. 14 (Cooking Methods)** on wok hei chemistry and high-heat stir-fry science. **Ch. 9 (Seeds)** on why cold rice makes better fried rice (starch retrogradation). [Full reading guide →](../../../reading-guide.md)
 
 ---
 

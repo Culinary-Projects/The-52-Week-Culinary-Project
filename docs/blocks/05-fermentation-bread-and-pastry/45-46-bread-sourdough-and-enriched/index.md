@@ -71,6 +71,7 @@ Croissant dough and puff pastry both use lamination — alternating layers of do
 ### A Book Worth Having
 
 - 📚 [***Bread Science* by Emily Buehler**](https://www.amazon.com/dp/0615136079) — The scientific explanation of everything that happens when you make bread — yeast activity, gluten networks, crust formation — written for home bakers who want to understand, not just follow instructions.
+- 📚 [***On Food and Cooking* by Harold McGee**](https://www.amazon.com/dp/0684800012) — **Ch. 10 (Doughs and Batters)**, sourdough and enriched sections. Wild yeast biology, lactobacillus symbiosis, how fat and sugar slow gluten development, and lamination science (butter + steam = puff). [Full reading guide →](../../../reading-guide.md)
 
 ---
 

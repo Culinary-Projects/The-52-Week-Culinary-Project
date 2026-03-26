@@ -83,6 +83,7 @@ The reason hollandaise breaks and mayonnaise holds is the same — it's all abou
 ### A Book Worth Having
 
 - 📚 [***Jacques Pépin: New Complete Techniques***](https://www.amazon.com/dp/0307266842) — The definitive classical French reference from the man who best bridges professional technique and home cooking. Goes deep on every sauce category.
+- 📚 [***On Food and Cooking* by Harold McGee**](https://www.amazon.com/dp/0684800012) — **Ch. 11 (Sauces)** is this block in science form: roux thickening, emulsion mechanics, why hollandaise holds and why it breaks. Also skim the butter/cream sections of **Ch. 1 (Dairy)**. [Full reading guide →](../../../reading-guide.md)
 
 
 ← [Block 3–4: Heat & Cooking](../03-04-heat-and-cooking/index.md) | [Block 7–8: Stocks & Eggs →](../07-08-stocks-and-eggs/index.md)

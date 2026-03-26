@@ -70,6 +70,7 @@ Osso buco is a braise but it's also a study in gremolata — the lemon zest, gar
 ### A Book Worth Having
 
 - 📚 [***Essentials of Classic Italian Cooking* by Marcella Hazan**](https://www.amazon.com/dp/0394584732) — The foundational Italian cookbook in English. Everything you cooked this week, at greater depth, in one volume.
+- 📚 [***On Food and Cooking* by Harold McGee**](https://www.amazon.com/dp/0684800012) — **Ch. 9 (Seeds)** on risotto science (why Arborio releases starch). **Ch. 10 (Doughs and Batters)** on fresh pasta gluten and gnocchi (potato starch + minimal gluten). [Full reading guide →](../../../reading-guide.md)
 
 ---
 

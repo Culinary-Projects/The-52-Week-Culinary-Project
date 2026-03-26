@@ -26,4 +26,8 @@
 - [Session 65: Pan-Seared Chicken Breast + Pan Sauce](session-65-pan-seared-chicken-breast-pan-sauce.md)
 - [⏰ Service 16: Duck Confit](service-16-duck-confit.md)
 
+### A Book Worth Having
+
+- 📚 [***On Food and Cooking* by Harold McGee**](https://www.amazon.com/dp/0684800012) — **Ch. 3 (Meat)**, poultry sections. Dark vs. white meat (myoglobin), why 165°F is the target, dry-brining science, skin crisping (dehydration + Maillard), and confit. [Full reading guide →](../../../reading-guide.md)
+
 ---

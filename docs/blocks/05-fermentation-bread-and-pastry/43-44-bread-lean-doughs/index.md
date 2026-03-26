@@ -70,6 +70,7 @@ Bread baking is flour + water + time. But the mechanism is gluten development �
 ### A Book Worth Having
 
 - 📚 [***Flour Water Salt Yeast* by Ken Forkish**](https://www.amazon.com/dp/160774273X) — The definitive home bread book. Covers the full progression from no-knead through poolish baguettes and levain breads, with the science explained in baker's language.
+- 📚 [***On Food and Cooking* by Harold McGee**](https://www.amazon.com/dp/0684800012) — **Ch. 10 (Doughs and Batters)**, bread sections. The essential bread science chapter: gluten networks, yeast fermentation, oven spring, crust formation, hydration ratios, and pre-ferments. [Full reading guide →](../../../reading-guide.md)
 
 ---
 

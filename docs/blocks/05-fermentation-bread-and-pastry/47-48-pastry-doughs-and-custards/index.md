@@ -71,6 +71,7 @@ Sweet tart dough is the pastry equivalent of a mother sauce — once you can mak
 ### A Book Worth Having
 
 - 📚 [***BraveTart* by Stella Parks**](https://www.amazon.com/dp/0393239861) — The most scientifically rigorous American baking book ever written. Parks applies Food Lab-style testing to pastry. If you want to understand *why* your tart shell shrinks (and how to stop it), start here.
+- 📚 [***On Food and Cooking* by Harold McGee**](https://www.amazon.com/dp/0684800012) — **Ch. 10 (Doughs)** on why cold butter makes flaky pastry and how steam leavens choux. **Ch. 2 (Eggs)** on pastry cream science — egg coagulation as thickener, starch preventing curdling. [Full reading guide →](../../../reading-guide.md)
 
 ---
 

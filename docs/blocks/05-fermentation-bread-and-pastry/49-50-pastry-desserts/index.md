@@ -81,6 +81,7 @@ Chocolate mousse is your introduction to working with chocolate structurally. Th
 ### A Book Worth Having
 
 - 📚 [***BraveTart* by Stella Parks**](https://www.amazon.com/dp/0393239861) — The most scientifically rigorous American baking book ever written. Parks applies Food Lab-style testing to pastry.
+- 📚 [***On Food and Cooking* by Harold McGee**](https://www.amazon.com/dp/0684800012) — **Ch. 12 (Sugars and Chocolate)** on caramel stages and chocolate tempering (cocoa butter crystal forms). **Ch. 2 (Eggs)** on crème brûlée vs. panna cotta (egg-set vs. gelatin-set). **Ch. 1 (Dairy)** on ice cream. [Full reading guide →](../../../reading-guide.md)
 
 ---
 
