@@ -11,12 +11,15 @@
 ## 🥩 Proteins
 
 **Block 3:**
+
 - [ ] Boneless, skinless chicken breasts — 4 pieces (Session 9)
 - [ ] Bone-in, skin-on chicken thighs — 6 pieces (Session 10 sheet pan + Wed braise) — **if you froze the thighs, drumsticks, and wings from your Block 1–2 chicken breakdown, use those here instead and skip this line**
 - [ ] Salmon fillets (skin-on) — 2 pieces (Session 12 poached)
+- [ ] Mild white fish fillet — 1 piece (Session 12 en papillote — choose whatever's freshest: cod, halibut, snapper)
 - [ ] Whole chicken — 1 large (Service 3 spatchcocked roast)
 
 **Block 4:**
+
 - [ ] Ribeye or NY strip steaks — 2 (Session 13, 1–1.5" thick — don't go thin)
 - [ ] Salmon fillets (skin-on) — 4 pieces (Session 14 seared + Wed broiled/miso)
 - [ ] Bone-in beef short ribs — 3–4 lbs (Service 4 PROJECT — buy early, they're expensive; ask the butcher)
@@ -26,23 +29,27 @@
 ## 🥦 Produce
 
 **Block 3:**
+
 - [ ] Zucchini — 3 medium (Session 9 + leftover use)
-- [ ] Bell peppers (red and yellow) — 4 (Session 10 sheet pan + Wed braise)
+- [ ] Bell peppers (red and yellow) — 4 (Session 11 braise)
 - [ ] Onions (yellow) — 4 (braise base, mirepoix)
 - [ ] Broccoli — 1 head (Session 10 sheet pan component)
 - [ ] Bok choy — 1 large head (Session 12)
 - [ ] Potatoes (Yukon Gold) — 3 lbs total for Service 3 and Session 13 mash
+- [ ] Fresh ginger — 1 small knob (Sessions 12 + 15 bok choy)
 - [ ] Garlic — 2 heads
-- [ ] Lemons — 3
+- [ ] Lemons — 4 (Session 10 salad, Session 12 en papillote, Service 3)
 - [ ] Fresh thyme and rosemary — 1 bunch each
 - [ ] Fresh dill — 1 small bunch (Session 12 poached salmon sauce)
 - [ ] Celery — 3 stalks (Service 3 celery, Parmesan & walnut salad)
-- [ ] Mixed greens — 2 bags (salads)
+- [ ] Arugula — 1 bag (Session 10 salad)
 
 **Block 4:**
+
 - [ ] Asparagus — 1 bunch (Session 14)
 - [ ] Arugula — 2 bags (Session 14 salad + Session 16)
-- [ ] Fennel — 1 bulb (Session 14 arugula & fennel salad)
+- [ ] Fennel — 2 bulbs (Session 12 en papillote + Session 14 arugula salad)
+- [ ] Lemons — 2 (Session 14 salmon, salad dressing)
 - [ ] Orange — 1 (Session 14 arugula, fennel & orange salad)
 - [ ] Bok choy — 1 head (Session 15)
 - [ ] Green beans — 1 lb (Session 13)
@@ -54,7 +61,7 @@
 
 - [ ] Unsalted butter — 3 sticks (basting, pan sauces, mash)
 - [ ] Heavy cream — 1 cup (Session 13 mashed potatoes)
-- [ ] Parmesan — 4 oz (arugula salad)
+- [ ] Parmesan — 6 oz (Service 3 salad, Session 10 salad, Service 4 polenta)
 - [ ] Plain whole-milk yogurt — 1 cup (Session 12 poached salmon dill yogurt sauce)
 
 ---
@@ -67,7 +74,7 @@
 - [ ] Chicken stock — 64 oz total (sauces, braise liquid)
 - [ ] Beef stock — 32 oz (Service 4 short ribs)
 - [ ] Canned whole peeled tomatoes — 2 cans (Session 11 braise)
-- [ ] Capers — 1 jar (Session 11 braise)
+- [ ] Capers — 1 jar (Session 11 braise, Session 12 en papillote, Session 14 seared salmon)
 - [ ] Black olives (pitted) — 1 can or jar (Session 11 optional)
 - [ ] White miso paste — 1 container (Session 15 glazed salmon)
 - [ ] Mirin — 1 bottle (miso glaze)
@@ -79,6 +86,8 @@
 - [ ] Extra-virgin olive oil
 - [ ] Shallots — 1 bag (pan sauces)
 - [ ] Dijon mustard — 1 jar (vinaigrette + Service 4 marinade)
+- [ ] Oyster sauce — 1 bottle (Sessions 12 + 15 bok choy)
+- [ ] Sesame oil — 1 bottle (Sessions 12 + 15 bok choy)
 - [ ] Canola or vegetable oil (Service 4 long braise)
 
 ---

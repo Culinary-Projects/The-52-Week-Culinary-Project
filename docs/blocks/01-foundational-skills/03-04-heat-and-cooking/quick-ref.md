@@ -32,5 +32,5 @@
 
 - **Before every session:** Hone the knife. Pat proteins completely dry.
 - **Don't crowd the pan.** One layer, high heat, batches if needed.
-- **Session 12 is a freeform cook** — close the recipes, use the techniques.
+- **Session 16 is a freeform cook** — close the recipes, use the techniques.
 - **Project session short ribs:** 3–4 hours. Start early. Internal temp 200°F+ for full collagen breakdown.

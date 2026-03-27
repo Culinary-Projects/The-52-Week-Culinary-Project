@@ -128,6 +128,7 @@
 - [ ] **Duck fat** — 1 lb jar (Sat rillettes; lard works too)
 
 **For charcuterie board (Wed):**
+
 - [ ] Prosciutto, salami, coppa — varied deli assortment
 - [ ] Pâté or store-bought rillette
 
@@ -140,6 +141,7 @@
 - [ ] **Store-bought pancetta** — for Mon pasta carbonara comparison
 
 **For cured meat tasting (Sat):**
+
 - [ ] 5 different cured meats from deli/specialty market — prosciutto, salami, coppa or speck, regional specialty, pâté
 
 ---
@@ -169,6 +171,7 @@
 - [ ] Butter lettuce — 1 head (Session 116 salad)
 
 **Board accompaniments (Wed + Sat):**
+
 - [ ] Cornichons — 1 jar
 - [ ] Whole-grain mustard
 - [ ] Honey — small jar

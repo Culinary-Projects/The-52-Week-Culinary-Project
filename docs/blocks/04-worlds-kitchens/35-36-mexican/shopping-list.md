@@ -91,6 +91,7 @@
 - [ ] Long-grain white rice — 2 lbs (arroz rojo; rice sides appear multiple nights — completely the expected starch for this block)
 
 **Fresh cheeses (buy at Mexican market):**
+
 - [ ] Queso fresco — 8 oz
 - [ ] Oaxacan cheese (quesillo) — 4 oz (chiles rellenos or quesabirria)
 - [ ] Crema Mexicana — 1 cup (not the same as sour cream; thinner and tangy)
