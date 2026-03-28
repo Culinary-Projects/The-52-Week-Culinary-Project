@@ -13,7 +13,8 @@
 **Block 3:**
 
 - [ ] Boneless, skinless chicken breasts — 4 pieces (Session 9)
-- [ ] Bone-in, skin-on chicken thighs — 6 pieces (Session 10 sheet pan + Wed braise) — **if you froze the thighs, drumsticks, and wings from your Block 1–2 chicken breakdown, use those here instead and skip this line**
+- [ ] Bone-in pork chops (thick-cut, 1.5") — 2 (Session 10 — ask the butcher for center-cut)
+- [ ] Bone-in, skin-on chicken thighs — 4 pieces (Session 11 braise) — **if you froze thighs from your Block 1–2 chicken breakdown, use those here instead and skip this line**
 - [ ] Salmon fillets (skin-on) — 2 pieces (Session 12 poached)
 - [ ] Mild white fish fillet — 1 piece (Session 12 en papillote — choose whatever's freshest: cod, halibut, snapper)
 - [ ] Whole chicken — 1 large (Service 3 spatchcocked roast)
@@ -33,7 +34,7 @@
 - [ ] Zucchini — 3 medium (Session 9 + leftover use)
 - [ ] Bell peppers (red and yellow) — 4 (Session 11 braise)
 - [ ] Onions (yellow) — 4 (braise base, mirepoix)
-- [ ] Broccoli — 1 head (Session 10 sheet pan component)
+- [ ] Broccoli — 1 large head (Session 10 roasted)
 - [ ] Bok choy — 1 large head (Session 12)
 - [ ] Potatoes (Yukon Gold) — 3 lbs total for Service 3 and Session 13 mash
 - [ ] Fresh ginger — 1 small knob (Sessions 12 + 15 bok choy)
@@ -61,7 +62,7 @@
 
 - [ ] Unsalted butter — 3 sticks (basting, pan sauces, mash)
 - [ ] Heavy cream — 1 cup (Session 13 mashed potatoes)
-- [ ] Parmesan — 6 oz (Service 3 salad, Session 10 salad, Service 4 polenta)
+- [ ] Parmesan — 6 oz (Session 10 salad, Service 3 salad, Service 4 polenta)
 - [ ] Plain whole-milk yogurt — 1 cup (Session 12 poached salmon dill yogurt sauce)
 
 ---

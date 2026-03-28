@@ -8,7 +8,7 @@
 
 **Full Meal:** [Braised Chicken Thighs with Tomatoes and Capers](https://www.seriouseats.com/chicken-cacciatore-red-peppers-recipe) + [Serious Eats — Creamy Polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe)
 
-Notice the difference in texture from earlier in the block roasted thighs — same cut of meat, entirely different result because of heat and moisture.
+Notice the difference in texture between braised and sautéed chicken — Session 9 used high, fast heat to brown the outside while keeping the inside juicy. Tonight you'll use low, slow, wet heat to break the meat down entirely. Same protein, opposite approach, completely different result.
 
 | Component | Recipe |
 |-----------|--------|
