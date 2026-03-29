@@ -39,11 +39,11 @@
 - [ ] Potatoes (Yukon Gold) — 3 lbs total for Service 3 and Session 13 mash
 - [ ] Fresh ginger — 1 small knob (Sessions 12 + 15 bok choy)
 - [ ] Garlic — 2 heads
-- [ ] Lemons — 4 (Session 10 salad, Session 12 en papillote, Service 3)
+- [ ] Lemons — 3 (Session 12 en papillote, Service 3)
 - [ ] Fresh thyme and rosemary — 1 bunch each
 - [ ] Fresh dill — 1 small bunch (Session 12 poached salmon sauce)
 - [ ] Celery — 3 stalks (Service 3 celery, Parmesan & walnut salad)
-- [ ] Arugula — 1 bag (Session 10 salad)
+- [ ] Apple — 1 (Session 10 pan sauce — Granny Smith or Honeycrisp)
 
 **Block 4:**
 
@@ -62,7 +62,7 @@
 
 - [ ] Unsalted butter — 3 sticks (basting, pan sauces, mash)
 - [ ] Heavy cream — 1 cup (Session 13 mashed potatoes)
-- [ ] Parmesan — 6 oz (Session 10 salad, Service 3 salad, Service 4 polenta)
+- [ ] Parmesan — 4 oz (Service 3 salad, Service 4 polenta)
 - [ ] Plain whole-milk yogurt — 1 cup (Session 12 poached salmon dill yogurt sauce)
 
 ---
@@ -86,6 +86,7 @@
 - [ ] Neutral oil — for high-heat searing
 - [ ] Extra-virgin olive oil
 - [ ] Shallots — 1 bag (pan sauces)
+- [ ] Cider vinegar — 1 bottle (Session 10 pan sauce)
 - [ ] Dijon mustard — 1 jar (vinaigrette + Service 4 marinade)
 - [ ] Oyster sauce — 1 bottle (Sessions 12 + 15 bok choy)
 - [ ] Sesame oil — 1 bottle (Sessions 12 + 15 bok choy)
