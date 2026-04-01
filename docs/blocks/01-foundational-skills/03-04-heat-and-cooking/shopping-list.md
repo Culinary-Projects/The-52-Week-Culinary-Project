@@ -32,6 +32,9 @@
 **Block 3:**
 
 - [ ] Zucchini — 3 medium (Session 9 + leftover use)
+- [ ] Cherry tomatoes — 1 pint (Session 9 zucchini sauté)
+- [ ] Fresh chives — 1 small bunch (Session 9 pan sauce / fines herbes)
+- [ ] Fresh tarragon — 1 small bunch (Session 9 pan sauce / fines herbes; omit if unavailable, chives + parsley cover it)
 - [ ] Bell peppers (red and yellow) — 4 (Session 11 braise)
 - [ ] Onions (yellow) — 4 (braise base, mirepoix)
 - [ ] Broccoli — 1 large head (Session 10 roasted)
