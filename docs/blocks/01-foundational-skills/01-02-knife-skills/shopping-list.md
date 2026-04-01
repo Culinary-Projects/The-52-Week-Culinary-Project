@@ -8,13 +8,12 @@
 >
 > **Pantry and dry goods** (pasta, sauces, oils, spices) can all be bought in one trip before Block 1 — they keep indefinitely.
 >
-> **Proteins:** Buy the Block 1 proteins (chicken breasts, shrimp, beef) before Block 1. Buy the Block 2 Pad Thai proteins (pork shoulder + pressed tofu) with your Block 2 shop. Buy the Block 2 whole chicken the day before you plan to break it down — it must be fresh, not frozen, and fresh chicken has a short window.
+> **Proteins:** Buy the Block 1 proteins (shrimp, beef) before Block 1. Buy the Block 2 Pad Thai proteins (pork shoulder + pressed tofu) with your Block 2 shop. Buy the Block 2 whole chicken the day before you plan to break it down — it must be fresh, not frozen, and fresh chicken has a short window.
 
 ---
 
 ## 🥩 Proteins
 
-- [ ] Boneless, skinless chicken breasts — 1 lb (Session 2, for soup)
 - [ ] Large shrimp (16/20 count), peeled and deveined — 1 lb (Session 3 scampi)
 - [ ] Flank steak or beef sirloin — 1 lb, thinly sliced (Session 4, stir-fry)
 - [ ] Bone-in, skin-on chicken thighs — 6 pieces (Session 6 braised chicken)
@@ -29,9 +28,10 @@
 
 **Block 1:**
 
-- [ ] Yellow onions — 7 large (1 for soup stock, charred + 5–6 for French onion soup — they cook down to almost nothing)
-- [ ] Carrots — 6 (4 for Block 1 soup claw-grip drill + 2 reserved for Session 5 julienne drill)
-- [ ] Celery — 1 bunch (2–3 stalks for Session 2 claw-grip drill; remainder available for stock/other uses)
+- [ ] Yellow onions — 7 large (1–2 for Session 2 ribollita mirepoix + 5–6 for French onion soup — they cook down to almost nothing)
+- [ ] Carrots — 6 (4 for Session 2 ribollita mirepoix drill + 2 reserved for Session 5 julienne drill)
+- [ ] Celery — 1 bunch (2–3 stalks for Session 2 claw-grip drill / ribollita mirepoix; remainder available for other uses)
+- [ ] Tuscan kale (lacinato/cavolo nero) — 1 bunch (Session 2 ribollita)
 - [ ] Baby spinach — 5 oz bag (Session 1 pasta)
 - [ ] Arugula — 1 bag (Session 3 salad)
 - [ ] Fennel — 1 bulb (Session 3 salad)
@@ -78,12 +78,12 @@
 
 - [ ] Pasta — short shape, e.g. rigatoni or spaghetti — 1 lb (Session 1 cacio e pepe-style)
 - [ ] Pasta (linguine) — 2 lbs (Session 3 scampi + Session 7 piccata)
-- [ ] Egg noodles — 8 oz (Session 2 soup)
 - [ ] Rice noodles, medium width — 8 oz (Session 5 Pad Thai)
 - [ ] Jasmine rice — 1 lb (Session 4 stir-fry)
-- [ ] Chicken stock or broth — 32 oz carton (soup)
+- [ ] Chicken or vegetable stock — 32 oz carton (Session 2 ribollita)
 - [ ] Beef stock or broth — 32 oz + 1 extra carton (Service 1 French onion soup)
-- [ ] Canned whole peeled tomatoes — 2 cans (1 for Service 2 tian sauce + 1 for Session 8 shakshuka)
+- [ ] Canned whole peeled tomatoes — 3 cans (1 for Session 2 ribollita + 1 for Service 2 tian sauce + 1 for Session 8 shakshuka)
+- [ ] Canned cannellini beans — 2 cans (Session 2 ribollita)
 - [ ] Dry white wine — 1 bottle (Session 3 scampi + Session 7 piccata)
 - [ ] Dry sherry — small bottle (Service 1 French onion soup; also works as a Shaoxing wine sub in stir-fry)
 - [ ] Oyster sauce — 1 bottle (Session 4 stir-fry)
@@ -123,6 +123,8 @@
 ---
 
 ## 📝 Notes
+
+**Ribollita (Session 2):** Use leftover or day-old bread — don't buy fresh bread just for this. Save a few slices from your Session 1 baguette or any crusty loaf earlier in the block and let them go stale. A Parmesan rind dropped into the pot while it simmers adds a lot; save rinds in your freezer. The soup is genuinely better the next day.
 
 **French onion soup (Service 1) needs a huge amount of onions.** 5–6 large yellow onions is not too many — they cook down to about 10% of their raw volume over 45–60 minutes. Don't rush the caramelization.
 

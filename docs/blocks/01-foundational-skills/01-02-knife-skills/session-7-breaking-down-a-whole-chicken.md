@@ -8,15 +8,13 @@
 
 **Full Meal:** [Chicken Piccata](https://www.seriouseats.com/chicken-piccata-italian-fried-cutlet-recipe) (use the breasts) + [Burst Cherry Tomatoes](https://www.seriouseats.com/fast-easy-pasta-blistered-cherry-tomato-sauce-recipe)
 
-The thighs and legs go in the fridge (use them later in the block) or freeze for later. Nothing wasted.
+Freeze the thighs, drumsticks, and wings in a zip-lock — they're perfect for Block 3–4's roasting (Session 10) or braising (Session 11) sessions, and you'll save yourself a grocery run. Save the carcass separately for Block 7 stock.
 
-The thighs, drumsticks, and wings won't get used this block. Freeze them in a zip-lock — they're perfect for Block 3–4's roasting (Session 10) or braising (Session 11) sessions, and you'll save yourself a grocery run.
-
-> 📖 **Before you start piccata:** [How to Cut Chicken Breasts Into Cutlets](https://www.seriouseats.com/knife-skills-how-to-cut-chicken-breasts-into-cutlets) — The breasts from your breakdown need to be sliced horizontally into thin cutlets before they'll cook evenly in the pan. This article covers the technique. It's another knife skill, and it's the first prep step for tonight.
+> 📖 **Before you start piccata:** [How to Cut Chicken Breasts Into Cutlets](https://www.seriouseats.com/knife-skills-how-to-cut-chicken-breasts-into-cutlets) — The breasts from your breakdown need to be sliced horizontally into thin cutlets before they'll cook evenly in the pan. This article covers the technique. Slicing a breast into even cutlets is a knife skill — treat it as the second skill of this session.
 
 | Component | Recipe |
 |-----------|--------|
-| Protein | Chicken piccata using the breasts you broke down |
+| Protein | Chicken piccata using the breasts you broke down and sliced into cutlets |
 | Veg | [Burst Cherry Tomatoes with Garlic and Olive Oil](https://www.seriouseats.com/fast-easy-pasta-blistered-cherry-tomato-sauce-recipe) |
 | Starch | Linguine — toss with the burst tomatoes and a splash of pasta water |
 

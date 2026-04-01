@@ -8,6 +8,8 @@
 
 ---
 
+> **Food safety:** This block handles raw shrimp (Session 3), raw pork (Session 5), and a whole chicken (Session 7). Use a separate board for raw proteins. Full details in [Food Safety Fundamentals](#food-safety-fundamentals) below.
+
 ## Before You Start Block 1
 
 Read these first — they'll make every session click:
@@ -60,28 +62,23 @@ This block handles raw shrimp (Session 3), raw pork (Session 5), and a whole raw
 
 ---
 
-### Buying & Maintaining Your Knife
+### Watching a Pro Do It
 
-- 📖 [The Best Chef's Knives](https://www.seriouseats.com/the-best-chefs-knives) — Serious Eats' tested roundup. The short answer for most people: a 8" German-style knife (Wüsthof or Victorinox) to start.
-- 📖 [Wirecutter: The Best Chef's Knife](https://www.nytimes.com/wirecutter/reviews/the-best-chefs-knife/) — independent testing with a different methodology. Worth comparing both.
-- 📖 [German vs. Japanese Chef's Knives — What's the Difference?](https://www.seriouseats.com/western-versus-japanese-style-chefs-knives-6751328) — harder steel, thinner bevel, more acute angle on Japanese; softer, more robust, easier to maintain on German. Useful context if you're buying soon.
-- 📖 [How to Store Your Knives](https://www.seriouseats.com/how-to-store-knives) — magnetic strip vs. block vs. in-drawer protectors. The dishwasher is the enemy.
+- 📺 [**Jacques Pépin — Proper Knife Skills for Cutting, Chopping and Slicing (KQED)**](https://www.youtube.com/watch?v=nffGuGwCE3E) — The grip, the motion, the board control — all visible at real speed from someone who's done it ten thousand times. Watch this once at the start of the block and again at the end to see how much you've absorbed.
 
 ---
 
-### Watching a Pro Do It
+### Buying & Maintaining Your Knife
 
-Reading about knife technique only goes so far. These videos show you what the grip and motion actually look like at speed:
-
-- 📺 [**Jacques Pépin — Proper Knife Skills for Cutting, Chopping and Slicing (KQED)**](https://www.youtube.com/watch?v=nffGuGwCE3E) — He covers the three knives worth owning, then demonstrates cutting, chopping, and slicing vegetables. The grip, the motion, the board control — all of it visible at real speed from someone who's done it ten thousand times.
+- 📖 [The Best Chef's Knives](https://www.seriouseats.com/the-best-chefs-knives) — Serious Eats' tested roundup. Short answer: an 8" German-style knife (Wüsthof or Victorinox) to start.
+- 📖 [German vs. Japanese Chef's Knives — What's the Difference?](https://www.seriouseats.com/western-versus-japanese-style-chefs-knives-6751328) — harder steel, thinner bevel on Japanese; softer, more robust, easier to maintain on German.
+- 📖 [How to Store Your Knives](https://www.seriouseats.com/how-to-store-knives) — magnetic strip vs. block vs. in-drawer protectors. The dishwasher is the enemy.
 
 ---
 
 ### The Broader Concept: Mise en Place
 
-Session 4 introduces mise en place but only as setup. The idea runs a lot deeper:
-
-- 📖 [How to Set Up a Prep Station Like a Pro Cook](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro) — Sohla El-Waylly on the practical side of mise en place: how professional kitchens organize their workspace for vegetables, proteins, frying, and more. Session 4 introduces the habit; this shows you what it looks like fully applied.
+- 📖 [How to Set Up a Prep Station Like a Pro Cook](https://www.seriouseats.com/how-to-set-up-a-station-like-a-pro) — Session 4 introduces the habit; this shows you what it looks like fully applied in a professional kitchen.
 
 ---
 

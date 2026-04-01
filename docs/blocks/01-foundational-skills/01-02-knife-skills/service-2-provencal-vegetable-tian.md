@@ -12,9 +12,10 @@ The recipe makes a quick tomato sauce from a 28 oz can of whole peeled tomatoes 
 
 | Component | Recipe |
 |-----------|--------|
-| Protein | Optional — serve with good burrata or a soft-boiled egg on top |
+| Protein | Recommended — good burrata alongside, or a soft-boiled egg on top. Don't skip this; the tian is rich and needs something cool and creamy to anchor the plate. |
 | Veg | The tian (eggplant, zucchini, squash, tomato) |
 | Side | Simple green salad with lemon vinaigrette — the brightness balances the richness of the tian |
+| Bread | Crusty bread (not garlic bread) — plain is right here. The tian sauce is assertive enough; garlic bread fights it. |
 
 *Skill targets: Consistent thickness on every slice. Go slow. This is about control, not speed.*
 
