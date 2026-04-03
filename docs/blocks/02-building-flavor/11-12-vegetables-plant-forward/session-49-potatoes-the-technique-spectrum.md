@@ -22,6 +22,8 @@
 
 **Full Meal:** Make one of the three above as the main event + a simple protein (seared chicken thighs or fried eggs work beautifully) + a bitter green salad
 
+> 🎥 **Compare Notes:** [How to Make Light and Fluffy Mashed Potatoes — Kenji's Cooking Show](https://www.youtube.com/watch?v=CIibuibsy_U) — Kenji's method for the fluffiest mashed potatoes; compare his technique to pommes purée
+
 | Technique | Key skill | Time |
 |-----------|-----------|------|
 | Rösti | Starch release, patience with the crust | 25 min |

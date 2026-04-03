@@ -18,6 +18,8 @@
 
 **Full Meal:** Braised white beans on toast + crispy chickpeas + wilted Swiss chard in the bean liquid + poached egg on top
 
+> 🎥 **Compare Notes:** [Carla Makes Beans — From the Test Kitchen (Bon Appétit)](https://www.youtube.com/watch?v=PXqoyt4vsPA) — Carla's approach to cooking dried beans: the slow braise and build of flavor
+
 | Component | Recipe |
 |-----------|--------|
 | White beans | Braised in stock with garlic, rosemary, anchovy |

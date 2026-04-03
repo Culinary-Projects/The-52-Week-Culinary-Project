@@ -13,7 +13,7 @@
 **En papillote** — place a fish fillet, a spoonful of butter, aromatics (sliced fennel, capers, lemon), and a splash of white wine on one half of a large sheet of parchment paper. Fold and crimp the paper into a sealed parcel. Bake at 400°F for 12–15 minutes. The parcel puffs and steams the fish in its own moisture. This is the most foolproof fish technique in the kitchen — it's nearly impossible to overcook. Open the parcel at the table.
 
 **Full Meal:** [Perfect Poached Salmon](https://www.seriouseats.com/poached-salmon-dill-yogurt-sauce-recipe) + fish en papillote (technique from description above; choose your fish based on what’s freshest) + [Stir-Fried Bok Choy with Ginger](https://www.seriouseats.com/stir-fried-greens-with-garlic-bok-choy-with-oyster-sauce-recipe) + Coconut Rice (simmer jasmine rice in equal parts coconut milk and water)
-
+> 🎥 **Compare Notes:** [Salmon in Parchment — How to Cook Fish in Parchment Paper](https://www.youtube.com/watch?v=VHl1AAAeKGM) — Chef John walks through the fold-and-crimp technique; compare his aromatics to yours
 | Component | Recipe |
 |-----------|--------|
 | Protein | Gently poached salmon + a second fish fillet en papillote (see technique above) — two gentle-heat methods, one meal |

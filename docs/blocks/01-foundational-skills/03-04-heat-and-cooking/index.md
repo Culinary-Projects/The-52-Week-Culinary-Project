@@ -97,10 +97,9 @@ Oil isn't just oil. Fat choice affects flavor, smoke point, and technique — th
 
 ---
 
-### A Book Worth Having
+### Watching a Pro Do It
 
-- 📚 [***CookWise* by Shirley Corriher**](https://www.amazon.com/dp/0688102298) — Corriher is a food scientist who explains not just how to cook, but *why* techniques work at a chemical level. The chapters on searing, browning, and fat behavior are the most practical food-science reading available for the exact techniques you did this week.
-- 📚 [***On Food and Cooking* by Harold McGee**](https://www.amazon.com/dp/0684800012) — **Ch. 14 (Cooking Methods)** and **Ch. 15 (Four Basic Food Molecules)** cover the science behind every technique in this block: heat transfer, the Maillard reaction, why braising tenderizes. [Full reading guide →](../../../reading-guide.md)
+- 📺 [**Kenji López-Alt: POV How to Cook a Steak**](https://www.youtube.com/watch?v=INiAM1u925E) — 30 minutes of Kenji cooking a steak from seasoning through the reverse sear to the final slice. No narration — just technique at real speed. Watch the confidence with heat: when he moves the pan, when he waits, when he flips. That's what this block is building.
 
 
 ← [Block 1–2: Knife Skills](../01-02-knife-skills/index.md) | [Block 5–6: Mother Sauces →](../05-06-mother-sauces/index.md)

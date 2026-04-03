@@ -8,6 +8,8 @@
 
 **Full Meal:** [Parmesan Risotto](https://www.seriouseats.com/classic-risotto-recipe-8347844) + [Roasted Mushrooms](https://www.seriouseats.com/easy-roasted-mushroom-food-lab-recipe) + [Simple Arugula Salad](https://www.seriouseats.com/fennel-orange-and-roasted-pepper-arugula-salad-recipe)
 
+> 🎥 **Compare Notes:** [How to Make CREAMY MUSHROOM RISOTTO Like an Italian](https://www.youtube.com/watch?v=8ak3lUxy_yU) — Watch the ladling rhythm and how he checks for the 'wave' texture
+
 | Component | Recipe |
 |-----------|--------|
 | Protein | Roasted mushrooms (the star) + parmesan as umami |

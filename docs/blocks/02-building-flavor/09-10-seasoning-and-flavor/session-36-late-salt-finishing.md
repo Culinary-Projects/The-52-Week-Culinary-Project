@@ -14,6 +14,8 @@ The white bean salad benefits enormously from being dressed early (the beans abs
 - **Veg:** Sautéed cherry tomatoes, blistered in olive oil
 - **Starch/Salad:** White bean salad with olive oil, lemon, and fresh herbs — dressed 20 minutes ahead so the beans absorb the seasoning
 
+> 🎥 **Compare Notes:** [How Jacobsen Salt Company Harvests the Best Finishing Salt in America](https://www.youtube.com/watch?v=7FuEpgUGhVY) — How finishing salt is harvested and why flake structure matters at the plate
+
 ---
 
 [← Block 9–10: Seasoning & Flavor Building Overview](index.md)

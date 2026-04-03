@@ -8,6 +8,26 @@
 
 ---
 
+## Before You Start Block 25
+
+You've been learning French technique since Block 1 — sauté, braise, deglaze, fond, roux. This block makes the system explicit. French cooking is organized around sauces: master the five mothers and their derivatives, and you have a framework for hundreds of dishes.
+
+**Stock your pantry before starting:**
+
+| Ingredient | Notes |
+|-----------|-------|
+| **Unsalted butter** (2 lbs minimum) | French cooking uses more butter than you think — have plenty |
+| **Shallots** (6–8) | The preferred allium in French sauces; milder than onion |
+| **Fresh tarragon** | Essential for béarnaise; no dried substitute |
+| **Dry white wine** (1 bottle) | For deglazing, beurre blanc, reductions — choose something you'd drink |
+| **Heavy cream** | For pan sauces and finishing |
+| **White wine vinegar** | For béarnaise and vinaigrettes |
+| **Dijon mustard** | The standard emulsifier in French vinaigrettes |
+| **Duck legs or confit** | For Service 31 Cassoulet — source early, specialty item |
+| **Dried white beans** (cannellini or Great Northern) | Also for cassoulet; soak overnight before project day |
+
+---
+
 
 ## Block 25 — The Sauces: Hollandaise, Béarnaise, and the French Mother Sauces
 
@@ -69,10 +89,9 @@ Aioli made with patience and good olive oil is nothing like the commercial versi
 
 ---
 
-### A Book Worth Having
+### Watching a Pro Do It
 
-- 📚 [***Jacques Pépin: New Complete Techniques***](https://www.amazon.com/dp/0307266842) — The definitive classical French kitchen reference. Every sauce, every cut, every technique. If you're going deep into French cooking, this is the shelf book.
-- 📚 [***On Food and Cooking* by Harold McGee**](https://www.amazon.com/dp/0684800012) — **Ch. 2 (Eggs)** on soufflés (why they rise, why they fall). **Ch. 11 (Sauces)** on hollandaise and béarnaise mechanics. **Ch. 1 (Dairy)** on beurre blanc. [Full reading guide →](../../../reading-guide.md)
+- 📺 [**Jacques Pépin: Chicken in Cream Sauce (KQED)**](https://www.youtube.com/watch?v=ot6X0UzeUDg) — Pépin breaks down a classic French bistro dish: sear, deglaze, build a cream sauce, finish. This is what everything you learned in Blocks 3–6 was building toward.
 
 ---
 

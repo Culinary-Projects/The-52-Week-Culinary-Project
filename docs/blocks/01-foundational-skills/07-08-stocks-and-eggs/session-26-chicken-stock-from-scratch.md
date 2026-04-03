@@ -10,6 +10,8 @@ This takes time but is mostly passive. Start it when you get home, let it simmer
 
 **Full Meal:** [Quick Weeknight Ramen Using Homemade Stock](https://www.seriouseats.com/easy-ramen-noodles)
 
+> 🎥 **Compare Notes:** [The Ultimate Guide To Making Amazing Chicken Stock](https://www.youtube.com/watch?v=rjDHii3Ngj8) — Weissman's deep dive on extracting maximum flavor and gelatin from bones
+
 | Component | Recipe |
 |-----------|--------|
 | Broth | Your homemade chicken stock, seasoned with soy and mirin |

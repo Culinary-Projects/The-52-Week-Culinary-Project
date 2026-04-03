@@ -8,6 +8,8 @@
 
 **Full Meal:** [Chicken with Rich Pan Sauce](https://www.seriouseats.com/easy-pan-seared-chicken-breast-white-wine-fines-herbes-pan-sauce-food-lab-recipe) (using your homemade stock) + [Roasted Potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe) + [Bitter Greens Salad](https://www.seriouseats.com/five-minute-radicchio-watercress-arugula-salad-recipe)
 
+> 🎥 **Compare Notes:** [Pan Sauces — Basics with Babish](https://www.youtube.com/watch?v=ru4U_T83uOU) — Babish breaks down the deglaze-reduce-mount cycle for pan sauces
+
 | Component | Recipe |
 |-----------|--------|
 | Protein | Sautéed chicken with a pan sauce made from your Block 7 stock |

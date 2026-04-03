@@ -12,6 +12,8 @@
 
 [Classic Caesar Salad](https://www.bonappetit.com/recipe/classic-caesar-salad) teaches emulsification, acid balance, the role of anchovies as umami backbone, and why freshly grated Parmesan behaves differently than pre-grated.
 
+> 🎥 **Compare Notes:** [Food Lab Basics: POV Caesar Salad](https://www.youtube.com/watch?v=zDpP28gdjC4) — Kenji makes Caesar dressing from scratch and dresses the salad in real time
+
 | Component | Technique |
 |-----------|-----------|
 | Dressing | Raw egg yolk + anchovy + garlic + lemon + Worcestershire; emulsify with oil |

@@ -14,6 +14,8 @@ Balsamic on the pork: sweet, deep, slightly caramelized. Sherry vinegar in the l
 - **Starch/Salad:** Warm French lentil salad with sherry vinaigrette
 - **Veg:** Roasted carrots with cumin
 
+> 🎥 **Compare Notes:** [The Eight Vinegars to Keep in Your Pantry](https://www.youtube.com/watch?v=R_Lp08FM5RE) — A guided tasting of eight vinegars and what makes each one distinct
+
 ---
 
 [← Block 9–10: Seasoning & Flavor Building Overview](index.md)

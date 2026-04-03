@@ -10,6 +10,8 @@ If you need to glance at times and temperatures, that's fine. But close the reci
 
 **This is the week's most important session.**
 
+> 🎥 **Compare Notes:** [Cook Without A Recipe With These 9 Tips](https://www.youtube.com/watch?v=RAY22jLhHTs) — 9 principles for cooking without a recipe; exactly the mindset for tonight
+
 ---
 
 [← Block 3–4: Heat & Cooking Methods Overview](index.md)

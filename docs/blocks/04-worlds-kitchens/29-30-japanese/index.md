@@ -10,11 +10,26 @@
 
 ---
 
-## The Challenge of This Block
+## Before You Start Block 29
 
 Japanese cuisine is one of the most technically precise culinary traditions in the world — which means it is also one of the most legible once you understand the underlying logic. The flavor foundation is umami: the savory depth that comes from dashi (a 10-minute broth of kombu and bonito), miso, soy sauce, mirin, and sake. The cooking methods are precise. The textures are intentional. Nothing is accidental.
 
 Over two weeks, you will learn the dashi-based foundation; explore ramen, rice, and noodle cookery; master tempura batter and frying technique; understand sushi rice and simple maki construction; and execute a multi-course Japanese dinner as your project.
+
+**Stock your pantry before starting:**
+
+| Ingredient | Notes |
+|-----------|-------|
+| **Kombu** (dried kelp) | The glutamate half of dashi |
+| **Katsuobushi** (bonito flakes) | The inosinic acid half; together with kombu, this is umami |
+| **White miso paste** (shiro miso) | For soups and glazes |
+| **Soy sauce** (Japanese koikuchi + usukuchi) | Dark for depth; light for seasoning without darkening |
+| **Mirin** | Sweet rice wine for glazes and finishing |
+| **Rice vinegar** (unseasoned) | For sushi rice and dressings |
+| **Sake** (cooking grade or better) | For deglazing and simmers |
+| **Short-grain Japanese rice** (Koshihikari) | The foundation of every meal this block |
+| **Nori** (roasted seaweed sheets) | For maki and ochazuke |
+| **Panko** bread crumbs | For tempura and frying |
 
 ---
 
@@ -57,7 +72,7 @@ These aren't required reading — but if something from this block sparked a que
 
 Japanese cooking has codified its principles into aesthetics — wabi (understated, imperfect beauty), kaiseki (the multi-course formal meal as an art form), and shun (cooking with seasonal ingredients at their peak). These are not decoration. They are why Japanese food looks and tastes the way it does.
 
-- 📖 The Science of Japanese Fermentation — miso, soy sauce, and sake as fermented products; understanding how fermentation builds flavor over time
+- 📖 [**Just One Cookbook: How to Make Dashi**](https://www.justonecookbook.com/how-to-make-dashi-jiru/) — Nami's definitive English-language dashi guide. Kombu-and-katsuobushi extraction explained step by step, with variations for vegan and quick dashi. If you want to understand the foundation of Japanese flavor, start here.
 - 📖 [A Complete Guide to Japanese Noodles](https://en.wikipedia.org/wiki/Japanese_noodles) — soba, udon, somen, ramen: each has its own dough, texture, and ideal context
 
 ---

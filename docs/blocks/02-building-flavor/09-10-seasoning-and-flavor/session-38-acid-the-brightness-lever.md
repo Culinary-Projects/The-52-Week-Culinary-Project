@@ -14,6 +14,8 @@ Before you finish the Marsala sauce, taste it. Now add a small squeeze of lemon 
 - **Starch:** Mashed potatoes (their richness is exactly what needs the acid in the salad to balance the plate)
 - **Salad:** Sharp Dijon vinaigrette salad — the acidic foil for the rich main
 
+> 🎥 **Compare Notes:** [The Secrets to Easy & Delicious Pan Sauces — Techniquely with Lan Lam](https://www.youtube.com/watch?v=z8Y88GS7TSg) — Lan Lam demonstrates how acid transforms a pan sauce; exactly tonight's lesson
+
 ---
 
 [← Block 9–10: Seasoning & Flavor Building Overview](index.md)

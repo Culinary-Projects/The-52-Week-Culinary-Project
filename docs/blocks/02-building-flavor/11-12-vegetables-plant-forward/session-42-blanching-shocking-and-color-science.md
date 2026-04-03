@@ -26,6 +26,8 @@
 
 **Full Meal:** Blanched and shocked asparagus + haricots verts + broccolini — dressed with [brown butter and toasted almonds](https://www.seriouseats.com/the-food-lab-all-about-asparagus), served at room temperature
 
+> 🎥 **Compare Notes:** [For the Best Roasted Vegetables, Start with Steam — Techniquely with Lan Lam](https://www.youtube.com/watch?v=JURWfebevjc) — A related approach to tonight's blanch-and-shock: steam first, then roast for color
+
 | Component | Recipe |
 |-----------|--------|
 | Vegetables | Asparagus, haricots verts, broccolini — all blanched and shocked |

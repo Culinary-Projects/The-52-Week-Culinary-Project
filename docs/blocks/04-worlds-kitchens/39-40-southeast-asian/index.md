@@ -12,6 +12,27 @@
 
 ---
 
+## Before You Start Block 39
+
+Southeast Asian cooking shares a grammar across Thailand, Vietnam, Indonesia, and Malaysia: the balance of salt (fish sauce), sour (lime or tamarind), sweet (palm sugar), and heat (chili) in every dish. The ingredients overlap but the proportions differ by country. Thai cooking hits all four notes hard. Vietnamese cooking is more restrained. Indonesian cooking relies on coconut and shrimp paste. Malaysian cooking blends all traditions.
+
+**Stock your pantry before starting:**
+
+| Ingredient | Notes |
+|-----------|-------|
+| **Fish sauce** (Thai or Vietnamese) | The primary salt in most SE Asian cooking |
+| **Tamarind paste** | The sour component in pad Thai and many sauces |
+| **Palm sugar** (or dark brown sugar) | The sweetness that balances fish sauce |
+| **Coconut milk** (full-fat cans, 4–6) | For curries, rendang, and laksa |
+| **Lemongrass** (fresh stalks) | Used in stocks, curries, and pastes |
+| **Galangal** (fresh or frozen) | Related to ginger but distinctly different — no substitute |
+| **Thai bird chiles** (fresh) or dried red chiles | The primary heat source |
+| **Rice noodles** (flat + thin) | For pad Thai, pad see ew, and pho |
+| **Shrimp paste** (belacan or kapi) | Fermented; intensely pungent — essential for curry pastes |
+| **Thai basil** (fresh) | Anise-scented; different from Italian basil |
+
+---
+
 
 ## Block 39 — The Big Four: Thailand, Vietnam, Indonesia, Malaysia
 

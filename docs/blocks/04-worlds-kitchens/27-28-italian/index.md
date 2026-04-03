@@ -8,6 +8,25 @@
 
 ---
 
+## Before You Start Block 27
+
+Italian cooking rewards ingredient quality over complex technique. Where French cuisine builds flavor through method (reductions, emulsions, compound sauces), Italian cuisine builds it through the ingredient itself — a San Marzano tomato that needs nothing more than olive oil and garlic, Parmigiano-Reggiano that carries a risotto, a veal shank that becomes osso buco through patience alone. The recipes this week are deceptively simple. The results depend on what you buy.
+
+**Stock your pantry before starting:**
+
+| Ingredient | Notes |
+|-----------|-------|
+| **Parmigiano-Reggiano** (wedge) | Not pre-grated; for risotto, gnocchi, and finishing |
+| **San Marzano tomatoes** (2–3 cans) | DOP-certified if possible |
+| **Arborio or Carnaroli rice** | The high-starch rice that makes risotto release its creaminess |
+| **Good olive oil** (extra virgin) | For finishing — the flavor matters; save it for drizzling, not frying |
+| **Pancetta or guanciale** | For soups, braises, and pasta sauces |
+| **Fresh rosemary, sage, flat-leaf parsley** | Used throughout both weeks |
+| **Dried pasta** (quality brand) | Bronze-die extruded (De Cecco, Rummo, or similar) |
+| **Veal shanks** (for Session 132) | Order from your butcher; may need advance notice |
+
+---
+
 
 ## Block 27 — Risotto, Osso Buco, and the Art of Italian Patience
 

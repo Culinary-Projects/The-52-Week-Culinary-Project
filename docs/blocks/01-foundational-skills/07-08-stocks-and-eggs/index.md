@@ -165,9 +165,9 @@ You cooked eggs five ways this week. Understanding the protein science — why t
 
 ---
 
-### A Book Worth Having
+### Watching a Pro Do It
 
-- 📚 [***On Food and Cooking* by Harold McGee**](https://www.amazon.com/dp/0684800012) — The original deep dive into food science. **Ch. 2 (Eggs)** covers coagulation temperatures, foaming, and emulsification — the science behind every egg technique this block. **Ch. 11 (Sauces)** explains gelatin extraction and stock clarity. [Full reading guide →](../../../reading-guide.md)
+- 📺 [**Julia Child: French Omelette (The French Chef, Season 1)**](https://www.youtube.com/watch?v=N40qglGNRlA) — The original television omelette lesson. Child demonstrates two methods — the classic shake-and-roll and a flat filled version — with the unfussy confidence that made her a legend. Compare your technique to hers after Session 32.
 
 
 ← [Block 5–6: Mother Sauces](../05-06-mother-sauces/index.md) | [Block 9–10: Seasoning & Flavor →](../../02-building-flavor/09-10-seasoning-and-flavor/index.md)

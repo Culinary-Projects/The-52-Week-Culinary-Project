@@ -19,6 +19,8 @@
 - [Charred Cabbage with Miso-Sesame Sauce](https://www.seriouseats.com/grilled-cabbage-wedges-ginger-miso-dressing-recipe) — a revelation; whole cabbage wedges charred in cast iron
 - Steamed jasmine rice — the neutral base lets the miso and fish sauce flavours land
 
+> 🎥 **Compare Notes:** [Brussels Sprouts with Bacon — Jacques Pépin Cooking At Home (KQED)](https://www.youtube.com/watch?v=y73w8pXtmZY) — Pépin on Brussels sprouts: high heat, flat side down, same principle as tonight
+
 | Component | Notes |
 |-----------|-------|
 | Brussels sprouts | Halved, pressed cut-side into very hot oil; don't move; then toss |

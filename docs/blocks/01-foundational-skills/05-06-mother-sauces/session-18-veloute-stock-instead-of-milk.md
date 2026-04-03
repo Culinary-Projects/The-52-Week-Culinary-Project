@@ -10,6 +10,8 @@
 
 The pot pie filling is a classic chicken velouté extended with vegetables and cream. You're learning the mother sauce *and* a classic comfort food simultaneously.
 
+> 🎥 **Compare Notes:** [How to Make the Freshest Tomato Sauce — Jacques Pépin Cooking at Home (KQED)](https://www.youtube.com/watch?v=Jb5MzTBVnl8) — Pépin's roux-based sauce technique applied to tomato; same mother-sauce thinking
+
 | Component | Recipe |
 |-----------|--------|
 | Protein | Chicken (cooked and pulled into the filling) |

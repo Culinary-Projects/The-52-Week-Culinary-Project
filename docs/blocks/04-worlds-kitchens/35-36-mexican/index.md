@@ -8,6 +8,27 @@
 
 ---
 
+## Before You Start Block 35
+
+Mexican cuisine is a UNESCO-recognized cultural heritage — one of only three cuisines with that distinction (alongside French and Japanese). It is built on a triad that predates European contact by millennia: corn, chiles, and beans. The dried chile system alone — guajillo, ancho, pasilla, chipotle, morita, chile de árbol — is a vocabulary that takes years to master. This block gives you the working foundation.
+
+**Stock your pantry before starting:**
+
+| Ingredient | Notes |
+|-----------|-------|
+| **Dried chiles** (guajillo, ancho, chipotle in adobo) | The essential trio for sauces and marinades |
+| **Masa harina** (or good-quality corn tortillas) | The foundation of Mexican cooking |
+| **Tomatillos** (fresh) | For salsa verde — not the same as green tomatoes |
+| **Lard** (or good neutral oil) | For tamale masa and refried beans — lard is traditional and better |
+| **Mexican oregano** | Different species from Mediterranean oregano; more floral, more citrusy |
+| **Cumin** (whole seeds) | Toast and grind fresh for marinades and sauces |
+| **Cotija cheese** | The salty, crumbly finishing cheese |
+| **Limes** (a bag) | Mexican cooking uses lime where French uses lemon |
+| **Dried corn husks** (for tamales in Block 36) | Soak 2 hours before use |
+| **Hominy** (canned or dried) | For pozole — large white corn kernels treated with lime |
+
+---
+
 
 ## Block 35 — Pozole, Tacos al Pastor, and Carne Asada
 
@@ -67,7 +88,7 @@ Mole negro is typically a multi-day project in its native context. Understanding
 
 ### Watching a Pro Do It
 
-- 📺 [**Bayless on mole**](https://www.youtube.com/@rickbayless) — The foremost authority on Mexican cuisine in the American culinary world. His mole breakdowns are the clearest explanations available in English.
+- 📺 [**Rick Bayless: Oaxacan Black Mole**](https://www.youtube.com/watch?v=Zwgsbzcl5j8) — 45 minutes of the foremost authority on Mexican cuisine walking through a complete mole negro from toasting chiles to final assembly. The clearest explanation of mole logic available in English.
 
 ---
 
