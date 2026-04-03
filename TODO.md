@@ -13,38 +13,38 @@ Prioritized improvement list generated from full curriculum audit. Work through 
 
 ### Broken / Mismatched Links
 
-- [ ] **Block 5–6 Before You Start:** Link labeled "The 5 French Mother Sauces, Explained" points to `seriouseats.com/bechamel-white-sauce-recipe` (a single sauce recipe, not an overview). Find and replace with a verified SE overview article or a reliable alternative that actually covers all 5 sauces.
+- [x] **Block 5–6 Before You Start:** ~~Link labeled "The 5 French Mother Sauces, Explained" points to `seriouseats.com/bechamel-white-sauce-recipe`.~~ Fixed: SE has no overview article; changed link text to honestly label the béchamel recipe destination. Inline text already explains all 5 sauces.
   - File: `docs/blocks/01-foundational-skills/05-06-mother-sauces/index.md` line 15
 
-- [ ] **Block 5–6 Go Deeper — YouTube channel links:** Pépin omelette link points to `@JPCuisine` channel homepage, not a specific video. Gordon Ramsay link points to `@gordonramsay` channel homepage. Replace both with verified specific video URLs or remove and substitute SE articles.
+- [x] **Block 5–6 Go Deeper — YouTube channel links:** ~~Pépin/Ramsay channel homepages.~~ Fixed: replaced with verified SE articles (French omelette, pan sauce guide). Section renamed "Technique in Practice".
   - File: `docs/blocks/01-foundational-skills/05-06-mother-sauces/index.md` (Go Deeper section)
 
-- [ ] **Block 19–20 Go Deeper — YouTube search links:** "How to shuck oysters" and "how to sear scallops" point to generic YouTube search results, not specific videos. Find and verify specific video URLs.
-  - File: `docs/blocks/02-building-flavor/` (shellfish block index, Go Deeper section)
+- [x] **Block 19–20 Go Deeper — YouTube search links:** ~~Generic YT search URLs.~~ Fixed: scallop sear replaced with verified SE article (Kenji’s Best Seared Scallops); oyster shucking marked `<!-- URL needed -->` for future video verification.
+  - File: `docs/blocks/03-the-proteins/19-20-shellfish/index.md` (Go Deeper section)
 
-- [ ] **Block 25–26 Go Deeper — YouTube search link:** "Cassoulet technique" points to a YouTube search result, not a specific video. Find a verified cassoulet video (Kenji, Pépin, or Serious Eats).
-  - File: French classics block index, Go Deeper section
+- [x] **Block 25–26 Go Deeper — YouTube search link:** ~~Generic YT search URL.~~ Fixed: replaced with verified SE article (Kenji’s Traditional French Cassoulet). Section renamed "The Cassoulet Deep Dive".
+  - File: `docs/blocks/04-worlds-kitchens/25-26-french/index.md` (Go Deeper section)
 
 ### Numbering Errors
 
-- [ ] **Block 13–14 index — internal block numbers wrong:** Index labels its two halves "Block 11 — Pasta Dough" and "Block 12 — Grains" (should be Block 13 and Block 14). Also ends with a section headed "Block 7 Capstone" (should be "Unit 1 Capstone" or similar).
-  - File: `docs/blocks/01-foundational-skills/` pasta & grains block `index.md`
+- [x] **Block 13–14 index — internal block numbers wrong:** ~~Block 11→13, Block 12→14, Block 7 Capstone→Unit 2 Capstone.~~ Fixed.
+  - File: `docs/blocks/02-building-flavor/13-14-pasta-and-grains/index.md`
 
-- [ ] **Block 17–18 quick-ref — header mislabeled:** File header says "Block 15–18" but contains only Block 17–18 content. Interior section headers labeled "Block 19" and "Block 20" when they mean sessions within Block 17–18. Also contains Block 19–20 shellfish content mixed in — move that content to the Block 19–20 quick-ref.
-  - File: fish block `quick-ref.md`
+- [x] **Block 17–18 quick-ref — header mislabeled:** ~~Block 15-18→17-18, Block 19/20→17/18.~~ Fixed. Orphaned Sessions 94-97 shellfish content removed (no session files exist; Block 19-20 has its own quick-ref).
+  - File: `docs/blocks/03-the-proteins/17-18-fish/quick-ref.md`
 
 ### Misplaced Content
 
-- [ ] **Sessions 58–61 and Service 15 — capstone content in wrong block:** These Unit 1 capstone sessions (menu planning, dry run, knife benchmark, 3-course dinner for guests) appear inside Block 13–14 (pasta & grains) and are also referenced in Block 23–24 (poultry). They belong at the end of Unit 1 (after Block 12). Either move to a dedicated `unit-1-capstone` folder, or clearly separate them within Block 13–14 under a heading that explains why they're here.
-  - Files: pasta & grains block `index.md`; poultry block `quick-ref.md`
+- [x] **Sessions 58–61 and Service 15 — capstone content placement:** ~~Capstone content in Block 13-14 confusingly headed "Block 7 Capstone".~~ Fixed: relabeled as "Unit 2 Capstone" with clear separation. Content stays in Block 13-14 (end of Unit 2) which is correct placement.
+  - Files: `docs/blocks/02-building-flavor/13-14-pasta-and-grains/index.md`
 
-- [ ] **Block 7–8 — orphaned session fragments at end of index:** The index for Stocks & Eggs ends with stray fragments for Sessions 34–35 (Vichyssoise and Gazpacho cold soups). These belong in Block 9–10 (Seasoning & Flavor), not Block 7–8. Remove from Block 7–8 index and verify they exist properly in Block 9–10.
+- [x] **Block 7–8 — orphaned session fragments at end of index:** ~~Sessions 34-35 fragments at end of index.~~ Fixed: removed. These were stray stubs with no session files; Block 9-10 has its own Sessions 34-41.
   - File: `docs/blocks/01-foundational-skills/07-08-stocks-and-eggs/index.md`
 
 ### Missing Content
 
-- [ ] **Session 113 — no recipe link:** Pork Meatballs + Tomato Sugo + Pasta. Quick-ref shows "—" with no link. Either find a verified recipe link (SE pork meatball + sugo) or add an explicit note in the session file that this is technique-only and no recipe is provided.
-  - Files: pork block `session-113` file; pork block `quick-ref.md`
+- [x] **Session 113 — no recipe link:** ~~Quick-ref showed "—" with no link.~~ Fixed: added verified SE tomato sugo recipe link to quick-ref. Session file already had the link.
+  - Files: `docs/blocks/03-the-proteins/21-22-pork-and-charcuterie/quick-ref.md`
 
 ---
 
