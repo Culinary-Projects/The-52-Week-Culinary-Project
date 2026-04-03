@@ -71,6 +71,26 @@ The `private/feedback/` directory contains post-block feedback logs. When review
 - **Don't pad the plate.** A side that doesn't cohere with the dish is worse than no suggestion. Only recommend sides that actually belong.
 - **Time matters.** Sessions should land under 90 minutes. Project meals (Service sessions) can run 2 hours.
 
+### 6. Every session = a full meal with linked recipes
+
+Every session and service file **must** include at least one reputable, linked recipe that constitutes dinner for that night. "Described inline" is not acceptable — the student does not have time to hunt for recipes. Link to the actual source (Serious Eats, Bon Appétit, King Arthur, Just One Cookbook, Maangchi, Woks of Life, etc.).
+
+- The recipe link is the source of truth for ingredient lists and method
+- If a session teaches a technique, the linked recipe must **require** that technique — it is the vehicle for the drill
+- Side dishes, salads, and accompaniments should also be linked when they are part of the meal plan
+- The only exceptions are **challenge sessions** explicitly designed as freestyle/no-recipe exercises (e.g., "Cook Without a Recipe," capstone freestyle sessions). These must be clearly marked as challenges in the session file.
+
+If a recipe cannot be linked (no reputable free source exists), describe the dish with enough detail to cook from AND add `<!-- RECIPE NEEDED: [dish name] — no free source found -->` so it gets flagged for resolution.
+
+### 7. Every session and service must have Compare Notes
+
+Every session and service file **must** include a `🎥 Compare Notes` section with at least one YouTube video showing a professional or respected home cook preparing the same (or closely related) dish. The point is for the student to compare their result against someone else's approach.
+
+- Videos must be from a **specific video URL**, not a channel homepage
+- Prefer: Jacques Pépin, Kenji López-Alt, Helen Rennie, Claire Saffitz, Ethan Chlebowski, Adam Ragusea, Pailin's Kitchen, Maangchi, Chinese Cooking Demystified, Ranveer Brar, Italia Squisita, Pasta Grannies, Internet Shaquille, ATK/Lan Lam, Food Wishes, and similar reputable creators
+- The same exceptions apply as Rule 6 — challenge/freestyle sessions may omit Compare Notes if no meaningful comparison exists
+- All YouTube links must be verified (use `yt-dlp --skip-download` or equivalent)
+
 ---
 
 ## File Structure
