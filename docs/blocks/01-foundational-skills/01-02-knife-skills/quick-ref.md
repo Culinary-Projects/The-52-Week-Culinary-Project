@@ -9,7 +9,7 @@
 | Session | Dish | Skill | Link |
 |-----|------|-------|------|
 | **Session 1** | Pasta with Butter and Parmesan + Wilted Spinach | Pinch grip | [Recipe](https://www.seriouseats.com/pasta-cacio-e-uovo-vegetarian-carbonara) |
-| **Session 2** | Ribollita | The claw / mirepoix (carrot, celery, onion) | [Recipe](https://www.seriouseats.com/ribollita-recipe) |
+| **Session 2** | Ribollita | The claw / mirepoix (carrot, celery, onion) | [Recipe](https://www.sipandfeast.com/ribollita-soup/) |
 | **Session 3** | Shrimp Scampi + Arugula, Fennel & Orange Salad | Rock chop vs. push cut | [Scampi](https://www.seriouseats.com/shrimp-scampi-butter-garlic-recipe) · [Salad](https://www.seriouseats.com/arugula-fennel-and-orange-salad-recipe) |
 | **Session 4** | Stir-Fried Beef and Broccoli | Mise en place | [Recipe](https://www.seriouseats.com/chinese-american-beef-and-broccoli-with-oyster-sauce-recipe) |
 | **Service 1** | **French Onion Soup** | Uniform half-moon slices | [Recipe](https://www.seriouseats.com/french-onion-soup-recipe) |

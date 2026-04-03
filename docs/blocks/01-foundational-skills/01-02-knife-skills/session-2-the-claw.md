@@ -8,7 +8,7 @@
 
 The onion is handled separately: halve it through the root, peel it, and dice it with the same claw grip. This is the classic mirepoix — the aromatic base of much of French and Italian cooking.
 
-**Full Meal:** [Ribollita](https://www.seriouseats.com/ribollita-recipe)
+**Full Meal:** [Ribollita](https://www.sipandfeast.com/ribollita-soup/)
 
 Your diced carrot, celery, and onion are the aromatic foundation of the whole pot — this is the exact dish the mirepoix was invented for. Add cannellini beans and Tuscan kale for bulk, simmer until everything is soft and deeply flavored, then tear in a few pieces of stale bread at the end to thicken it. This is a real dinner — hearty, complex, and genuinely better the next day.
 
