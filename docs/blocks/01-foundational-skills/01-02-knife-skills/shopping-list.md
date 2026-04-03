@@ -20,6 +20,7 @@
 - [ ] **Whole chicken — 1 (Session 7): You will break this down yourself. This is the lesson.** The breasts go into piccata; freeze the thighs, drumsticks, and wings — use them in Block 3–4 (Session 11 braising). Save the carcass in the freezer — it becomes your Block 7 stock.
 - [ ] Pork shoulder — 4 oz, sliced ⅛ inch thin (Session 5 Pad Thai — the recipe's default protein; can swap for 4 oz shrimp 16/20)
 - [ ] Pressed tofu — 4 oz (Session 5 Pad Thai aromatic base — used regardless of protein choice; look for "pressed" or extra-dry extra-firm; Asian markets have the best variety)
+- [ ] Pancetta — ¼ lb, diced (Session 2 ribollita; the slab bacon from Session 6 works as a substitute if you'd rather not buy both)
 - [ ] Slab bacon — 8 oz (Session 6 braised chicken; cut into lardons; salt pork works too)
 
 ---
@@ -32,6 +33,7 @@
 - [ ] Carrots — 6 (4 for Session 2 ribollita mirepoix drill + 2 reserved for Session 5 julienne drill)
 - [ ] Celery — 1 bunch (2–3 stalks for Session 2 claw-grip drill / ribollita mirepoix; remainder available for other uses)
 - [ ] Tuscan kale (lacinato/cavolo nero) — 1 bunch (Session 2 ribollita)
+- [ ] Zucchini — 1 medium (Session 2 ribollita)
 - [ ] Baby spinach — 5 oz bag (Session 1 pasta)
 - [ ] Arugula — 1 bag (Session 3 salad)
 - [ ] Fennel — 1 bulb (Session 3 salad)
@@ -41,6 +43,7 @@
 - [ ] Lemon — 4 (Session 3 scampi + salad + piccata + dressings)
 - [ ] Fresh ginger — 2-inch knob (Session 4 stir-fry)
 - [ ] Fresh thyme — 1 bunch (Service 1 French onion soup + Session 6 braised chicken — same bunch, buy for Block 1 and keep refrigerated)
+- [ ] Fresh rosemary — 1 small bunch (Session 2 ribollita; 1 sprig needed)
 - [ ] Fresh flat-leaf parsley — 1 bunch (Session 3 scampi, garnishes throughout)
 
 **Block 2:**
@@ -82,7 +85,8 @@
 - [ ] Jasmine rice — 1 lb (Session 4 stir-fry)
 - [ ] Chicken or vegetable stock — 32 oz carton (Session 2 ribollita)
 - [ ] Beef stock or broth — 32 oz + 1 extra carton (Service 1 French onion soup)
-- [ ] Canned whole peeled tomatoes — 3 cans (1 for Session 2 ribollita + 1 for Service 2 tian sauce + 1 for Session 8 shakshuka)
+- [ ] Tomato paste — 1 small can or tube (Session 2 ribollita; recipe uses 5 tbsp)
+- [ ] Canned whole peeled tomatoes — 2 cans (1 for Service 2 tian sauce + 1 for Session 8 shakshuka)
 - [ ] Canned cannellini beans — 2 cans (Session 2 ribollita)
 - [ ] Dry white wine — 1 bottle (Session 3 scampi + Session 7 piccata)
 - [ ] Dry sherry — small bottle (Service 1 French onion soup; also works as a Shaoxing wine sub in stir-fry)
