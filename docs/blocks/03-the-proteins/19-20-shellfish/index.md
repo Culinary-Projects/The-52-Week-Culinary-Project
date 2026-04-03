@@ -63,8 +63,8 @@ A properly seared scallop has a deep, dry crust on each flat side and remains tr
 
 ### Watching a Pro Do It
 
-- 📺 [**Scallop sear technique**](https://www.youtube.com/results?search_query=how+to+sear+scallops+perfectly) — The dry-pat, hot pan, single flip, no-fuss method explained step by step.
-- 📺 [**Oyster shucking**](https://www.youtube.com/results?search_query=how+to+shuck+oysters) — Watch before you try. The knife angle and the location of the hinge are the whole skill.
+- � [**SE: The Best Seared Scallops**](https://www.seriouseats.com/the-food-lab-how-to-sear-scallops) — Kenji's full breakdown: dry vs. wet scallops, salt-and-blot moisture management, and why a screaming-hot pan is non-negotiable. The technique photos are as good as any video.
+- 📺 **Oyster shucking** — Watch a specific video before you try. The knife angle and the location of the hinge are the whole skill. <!-- URL needed — find and verify a specific oyster-shucking video before publishing -->
 
 ---
 

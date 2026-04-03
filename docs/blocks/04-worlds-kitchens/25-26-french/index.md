@@ -63,9 +63,9 @@ Aioli made with patience and good olive oil is nothing like the commercial versi
 
 ---
 
-### Watching a Pro Do It
+### The Cassoulet Deep Dive
 
-- 📺 [**Cassoulet technique**](https://www.youtube.com/results?search_query=cassoulet+recipe+technique) — The build order of cassoulet — confit, sausage, beans, breadcrumb crust — is visual. Look before you cook.
+- � [**SE: Traditional French Cassoulet**](https://www.seriouseats.com/traditional-french-cassoulet-recipe) — Kenji's definitive guide: why chicken works as well as confit, how to build the crust without a traditional cassole, and the step-by-step photos that make the build order clear.
 
 ---
 

@@ -1,10 +1,10 @@
-# ⚡ Block 15–18 Quick Reference — Fish & Seafood
+# ⚡ Block 17–18 Quick Reference — Fish
 
 ← [Back to Full Guide](index.md) | [Shopping List →](shopping-list.md)
 
 ---
 
-## Block 19 Recipes — Fish Fundamentals
+## Block 17 Recipes — Fish Fundamentals
 
 | Session | Dish | Skill | Link |
 |-----|------|-------|------|
@@ -16,7 +16,7 @@
 
 ---
 
-## Block 20 Recipes — Fish: Deeper Techniques
+## Block 18 Recipes — Fish: Deeper Techniques
 
 | Session | Dish | Skill | Link |
 |-----|------|-------|------|
@@ -42,33 +42,19 @@
 
 ## Shopping Notes
 
-**Block 19 — Buy fresh day-of or at most 1 day ahead:**
+**Block 17 — Buy fresh day-of or at most 1 day ahead:**
 - Salmon fillets, skin-on — 2 pieces (Sessions 1 & 4)
 - Dover sole or flounder — 2–4 fillets (Session 83)
 - Any fresh white fish fillet — cod, halibut, sea bass (Session 84; buy what's freshest/cheapest)
 - 1 whole fish — snapper, branzino, or sea bass; 1–1.5 kg (project session)
 - Coarse sea salt — 3 lbs (if salt-baking)
 
-**Block 20 — Again, freshness is the priority:**
+**Block 18 — Again, freshness is the priority:**
 - Firm white fish — cod or halibut (Session 82) 
 - White fish for frying — cod, mahi-mahi, or tilapia (Session 83 tacos)
 - Salmon fillets — 2 pieces (Session 84 teriyaki)
 - Branzino or snapper, whole — 2 small fish (Session 85 grill)
 - Assorted fish + shellfish for bouillabaisse — 2–3 types of firm white fish, plus clams or mussels; ask your fishmonger to save fish bones for the broth
-
----
-
-## Advanced Seafood Sessions
-
-## Block 20 Recipes — Advanced Shellfish & Cioppino
-
-| Session | Dish | Skill | Links |
-|---------|------|-------|-------|
-| **Session 94** | Mussels Marinière + Crusty Bread | Steam in wine; debeard; discard unopened shells | [Moules Marinière — BBC GF](https://www.bbcgoodfood.com/recipes/moules-mariniere) |
-| **Session 95** | Crab Cakes + Aioli + Pickled Onion | Minimal binder; crab-to-filler ratio matters; pan sear not deep fry | [Crab Cakes — Simply Recipes](https://www.simplyrecipes.com/recipes/crab_cakes/) |
-| **Session 96** | ⏰ Cioppino + Sourdough | Layered seafood stew; different add times per protein | [Cioppino — Simply Recipes](https://www.simplyrecipes.com/recipes/cioppino/) |
-| **Session 97** | ⏰ Miso-Glazed Black Cod or Salmon + Rice + Bok Choy | Overnight miso marinade; broiler caramelisation 4 min | [Miso Salmon — SE](https://www.seriouseats.com/miso-glazed-salmon-in-the-toaster-oven-recipe) |
-| **Service 24** | **Seafood Feast** | Crab cake starter + fish or mussel main + cured salmon | Combine the block's techniques |
 
 ---
 

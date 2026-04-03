@@ -16,7 +16,7 @@
 ---
 
 
-## Block 11 — Pasta Dough: The Foundation
+## Block 13 — Pasta Dough: The Foundation
 
 > ⏰ **Planning Ahead**
 >
@@ -33,7 +33,7 @@
 ---
 
 
-## Block 12 — Grains: Rice, Polenta, and Beyond
+## Block 14 — Grains: Rice, Polenta, and Beyond
 
 > *"Every culture has a grain at its center. Learning to cook grains properly — not just until they're done, but until they're excellent — is a quiet superpower."*
 
@@ -83,9 +83,9 @@ Risotto is not about patience. It's about starch gelatinization and gradual liqu
 
 ---
 
-## Block 7 Capstone — Skills Benchmark & Readiness Check
+## Unit 2 Capstone — Skills Benchmark & Readiness Check
 
-**The Block 7 rule:** Recipes are allowed for preparation and mise en place. Once service begins — meaning once anything goes on the heat — close the tabs.
+**The rule:** Recipes are allowed for preparation and mise en place. Once service begins — meaning once anything goes on the heat — close the tabs.
 
 ---
 
@@ -137,7 +137,7 @@ Mise en place everything for the project dinner. Every sauce component prepped. 
 
 ---
 
-### ⏰ Service 15 — The Block 7 Service Dinner
+### ⏰ Service 15 — The Unit 2 Capstone Dinner
 
 **The cook:** Execute your planned 3-course dinner for at least two guests. No recipes open during service. All techniques drawn from Blocks 1–12.
 

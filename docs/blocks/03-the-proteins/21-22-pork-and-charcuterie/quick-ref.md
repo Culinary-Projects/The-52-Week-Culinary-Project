@@ -23,7 +23,7 @@
 | **Session 110** | Crispy Pork Belly Lardons + White Beans + Swiss Chard + Garlic-Rubbed Bread | Fat rendering; lardon technique; no brine needed | [Bread](https://www.seriouseats.com/easy-weeknight-garlic-bread-recipe-8641247) |
 | **Session 111** | ⏰ Oven-and-Grill Ribs + Coleslaw + Cornbread | Collagen + caramelization hybrid method | [Pork Ribs Method](https://www.seriouseats.com/sous-vide-pork-ribs-recipe-food-lab) |
 | **Session 112** | Porchetta + Braised White Beans + Arugula Salad | Roll + tie; fennel-rosemary-garlic; crispy skin | [All-Belly Porchetta](https://www.seriouseats.com/all-belly-porchetta-recipe-italian-roast-pork) |
-| **Session 113** | Pork Meatballs + Tomato Sugo + Pasta | Ground pork; milk-bread ratio; sear not bake | — |
+| **Session 113** | Pork Meatballs + Tomato Sugo + Pasta | Ground pork; milk-bread ratio; sear not bake | [Tomato Sugo](https://www.seriouseats.com/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe) |
 | **Service 28** | **Carnitas Taco Dinner** + Salsa Verde + Guacamole + Pickled Jalapeños + Onion-Cilantro + Tortillas | Fat-braise; water-fry finish; taco assembly | [Carnitas](https://www.seriouseats.com/no-waste-tacos-de-carnitas-with-salsa-verde-recipe) · [Salsa Verde](https://www.seriouseats.com/charred-salsa-verde-tomatillo-salsa) |
 
 ---

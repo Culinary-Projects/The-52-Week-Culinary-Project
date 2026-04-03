@@ -12,7 +12,7 @@
 
 Read this first:
 
-- 📖 [The 5 French Mother Sauces, Explained](https://www.seriouseats.com/bechamel-white-sauce-recipe)
+- 📖 [Classic Béchamel (White Sauce)](https://www.seriouseats.com/bechamel-white-sauce-recipe) — Start here. The roux technique in this recipe applies to four of the five mother sauces.
 
 The five mother sauces are: **Béchamel** (milk + roux), **Velouté** (stock + roux), **Espagnole** (dark stock + roux + tomato), **Hollandaise** (emulsified egg yolk + butter), and **Sauce Tomat** (tomato-based).
 
@@ -73,10 +73,10 @@ The reason hollandaise breaks and mayonnaise holds is the same — it's all abou
 
 ---
 
-### Watching a Pro Do It
+### Technique in Practice
 
-- 📺 [**Jacques Pépin's omelette**](https://www.youtube.com/@JPCuisine) — His 30-second French omelette is a direct counterpart to what you've been building: technique over time, speed as the result of understanding.
-- 📺 [**Gordon Ramsay's pan sauce**](https://www.youtube.com/@gordonramsay) — Overexplained in some ways but very clear on the mechanics of building flavor in a pan after a sear.
+- 📖 [**SE: The French Omelette**](https://www.seriouseats.com/french-omelette-cheese-recipe) — Gritzer's technique breakdown is a direct counterpart to what you've been building with roux-based sauces: technique over time, speed as the result of understanding.
+- 📖 [**SE: How to Make a Pan Sauce (and Fix a Broken One)**](https://www.seriouseats.com/just-add-water-how-to-make-a-pan-sauce-and-how-to-fix-a-broken-one) — The mechanics of building flavor in a pan after a sear: fond, deglaze, reduce, mount with butter.
 
 ---
 

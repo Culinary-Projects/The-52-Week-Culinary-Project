@@ -171,13 +171,3 @@ You cooked eggs five ways this week. Understanding the protein science — why t
 
 
 ← [Block 5–6: Mother Sauces](../05-06-mother-sauces/index.md) | [Block 9–10: Seasoning & Flavor →](../../02-building-flavor/09-10-seasoning-and-flavor/index.md)
-
-## Session 34: Cold Soup Lab — Vichyssoise
-
-- Focus: temperature, texture, and smooth purée workflow
-- Output: classic potato-leek vichyssoise served chilled with garnish control
-
-## Session 35: Cold Soup Lab — Gazpacho
-
-- Focus: raw blending, acid balance, and seasoning at cold temperature
-- Output: Andalusian-style gazpacho with precise texture and finish
