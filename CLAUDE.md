@@ -38,15 +38,28 @@ A session change is never isolated. Every time a session's recipe, ingredients, 
 
 Do all of these in the same commit. Never split a session change and its shopping list update across separate commits.
 
-### 3. Link hygiene
+### 3. Link hygiene — verify before using
 
 - **Never invent URLs.** If you don't have high confidence a URL exists, do not include it.
-- When adding a new link, note in the commit message whether it was verified or is a best-guess URL pattern.
+- **Fetch every new recipe URL before touching the shopping list.** Use WebFetch to load the actual page and extract the full ingredient list. Do not assume you know what a recipe contains based on its name or description — recipes vary significantly by source.
 - YouTube links must point to a **specific video**, not a channel homepage.
-- Serious Eats URLs follow the pattern: `seriouseats.com/[recipe-slug]-recipe` — use this to sanity-check before adding.
+- Serious Eats URLs follow the pattern: `seriouseats.com/[recipe-slug]-recipe` — but this pattern does not guarantee the page exists. Verify with WebFetch.
 - If a recipe swap requires a new URL you can't verify, either omit the link and describe the dish, or add a comment: `<!-- URL unverified — check before publishing -->`.
+- Note in the commit message whether each new link was verified by fetch or is unverified.
 
-### 4. Feedback drives curriculum
+### 4. Recipe changes require a full ingredient audit
+
+When any recipe is added or swapped:
+
+1. **Fetch the recipe page** and extract the complete ingredient list — every item, including garnishes, aromatics, and pantry staples that may not be standard
+2. **Diff the ingredient list against the current shopping list** — what is present, what is missing, what is no longer needed
+3. **Update the shopping list** with all missing ingredients before committing
+4. **Remove or adjust** any ingredients that no longer apply
+5. Only then commit — session file, shopping list, and quick-ref in one commit
+
+Do not update the shopping list from memory or assumption. The recipe page is the source of truth.
+
+### 5. Feedback drives curriculum
 
 The `private/feedback/` directory contains post-block feedback logs. When reviewing or revising curriculum:
 
