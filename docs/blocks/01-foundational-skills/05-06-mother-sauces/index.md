@@ -12,7 +12,7 @@
 
 Read this first:
 
-- 📖 [Classic Béchamel (White Sauce)](https://www.seriouseats.com/bechamel-white-sauce-recipe) — Start here. The roux technique in this recipe applies to four of the five mother sauces.
+- 📖 [The Five Mother Sauces of Classical Cuisine](https://www.thespruceeats.com/mother-sauces-996119) — Start here. This overview covers all five sauces (béchamel, velouté, espagnole, hollandaise, and sauce tomat), their derivative "small sauces," and how they relate to each other.
 
 The five mother sauces are: **Béchamel** (milk + roux), **Velouté** (stock + roux), **Espagnole** (dark stock + roux + tomato), **Hollandaise** (emulsified egg yolk + butter), and **Sauce Tomat** (tomato-based).
 

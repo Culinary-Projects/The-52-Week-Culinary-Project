@@ -64,7 +64,7 @@ A properly seared scallop has a deep, dry crust on each flat side and remains tr
 ### Watching a Pro Do It
 
 - � [**SE: The Best Seared Scallops**](https://www.seriouseats.com/the-food-lab-how-to-sear-scallops) — Kenji's full breakdown: dry vs. wet scallops, salt-and-blot moisture management, and why a screaming-hot pan is non-negotiable. The technique photos are as good as any video.
-- 📺 **Oyster shucking** — Watch a specific video before you try. The knife angle and the location of the hinge are the whole skill. <!-- URL needed — find and verify a specific oyster-shucking video before publishing -->
+- � **Oyster shucking technique** — Use a short, stout oyster knife (not a paring knife). Fold a towel over your non-dominant hand to grip the oyster flat-side up. Insert the blade at the hinge (the pointed end where the two shells meet), applying moderate pressure with a twisting motion until you feel a pop. Slide the blade along the inside of the top shell to sever the adductor muscle, then remove the top shell. Run the knife under the oyster to detach it from the bottom shell. Work over a bowl to catch the liquor.
 
 ---
 
