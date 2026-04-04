@@ -17,4 +17,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [7 Pro Tips for a Perfect Dosa Batter — Hebbars Kitchen](https://www.youtube.com/watch?v=KPFAAjONfmk) — Detailed dosa batter fermentation and spreading technique; compare your batter consistency, griddle temperature, and how crispy you get the edges.
+
+---
+
 [← Block 37–38: Indian Overview](index.md)

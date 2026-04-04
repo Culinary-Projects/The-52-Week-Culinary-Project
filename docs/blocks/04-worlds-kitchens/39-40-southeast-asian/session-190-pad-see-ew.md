@@ -15,4 +15,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Authentic Pad See Ew — Pailin’s Kitchen (Hot Thai Kitchen)](https://www.youtube.com/watch?v=Ohy1DELF4is) — Pailin demonstrates proper wok technique for pad see ew; compare your noodle charring, sauce caramelization, and Chinese broccoli handling.
+
+---
+
 [← Block 39–40: Unit 4 Capstone — Southeast Asian Cuisines Overview](index.md)

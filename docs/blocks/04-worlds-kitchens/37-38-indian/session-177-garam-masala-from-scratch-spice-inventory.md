@@ -16,4 +16,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Homemade Garam Masala — Chef Ranveer Brar](https://www.youtube.com/watch?v=f5_E0SknU7Q) — Ranveer Brar toasts and grinds his own blend; compare your spice selection, toasting darkness, and grind fineness.
+
+---
+
 [← Block 37–38: Indian Overview](index.md)

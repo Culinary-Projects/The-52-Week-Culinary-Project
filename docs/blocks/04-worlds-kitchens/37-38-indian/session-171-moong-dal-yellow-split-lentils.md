@@ -16,4 +16,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Shahi Dal Mughlai / Moong Makhani — Chef Ranveer Brar](https://www.youtube.com/watch?v=gOHzDElkxEM) — Ranveer Brar elevates moong dal into a restaurant-style dish; compare your tempering technique, dal consistency, and finishing.
+
+---
+
 [← Block 37–38: Indian Overview](index.md)

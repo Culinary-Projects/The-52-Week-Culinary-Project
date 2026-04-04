@@ -15,4 +15,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Tacos al Pastor — Rick Bayless Taco Manual](https://www.youtube.com/watch?v=GS7g2l6t_Ug) — Rick Bayless demonstrates his al pastor method; compare your chile marinade, meat layering, and pineapple integration.
+
+---
+
 [← Block 35–36: Mexican Overview](index.md)

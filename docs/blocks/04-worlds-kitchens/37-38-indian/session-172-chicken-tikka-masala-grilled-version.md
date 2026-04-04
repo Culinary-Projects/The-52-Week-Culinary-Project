@@ -16,4 +16,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Chicken Tikka Masala Lazeez — Chef Ranveer Brar](https://www.youtube.com/watch?v=TzYACT9nT7A) — Ranveer Brar's take on tikka masala; compare your marinade depth, char on the chicken, and masala sauce balance.
+
+---
+
 [← Block 37–38: Indian Overview](index.md)

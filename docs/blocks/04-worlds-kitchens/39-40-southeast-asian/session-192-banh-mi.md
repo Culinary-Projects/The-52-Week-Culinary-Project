@@ -15,4 +15,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [How to Make Banh Mi with Andrea Nguyen — Munchies](https://www.youtube.com/watch?v=k4HA1ejw_hA) — Andrea Nguyen walks through the Vietnamese sandwich from bread to pickled daikon; compare your bread crustiness, pâté spread, and pickle crunch.
+
+---
+
 [← Block 39–40: Unit 4 Capstone — Southeast Asian Cuisines Overview](index.md)

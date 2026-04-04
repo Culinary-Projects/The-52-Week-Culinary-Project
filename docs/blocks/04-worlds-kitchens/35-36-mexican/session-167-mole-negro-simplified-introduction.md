@@ -15,4 +15,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Oaxacan Black Mole — Rick Bayless](https://www.youtube.com/watch?v=Zwgsbzcl5j8) — Rick Bayless walks through the complex process of building mole negro; compare your chile toasting, chocolate integration, and final sauce viscosity.
+
+---
+
 [← Block 35–36: Mexican Overview](index.md)

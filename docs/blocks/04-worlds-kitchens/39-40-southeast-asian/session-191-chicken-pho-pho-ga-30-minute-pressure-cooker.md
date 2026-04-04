@@ -14,4 +14,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Southern-Style Vietnamese Chicken Pho — Kenji López-Alt](https://www.youtube.com/watch?v=3ZgnKg8pEaI) — Kenji's approach to pho gà from broth aromatics through garnish assembly; compare your broth clarity, spice balance, and noodle texture.
+
+---
+
 [← Block 39–40: Unit 4 Capstone — Southeast Asian Cuisines Overview](index.md)

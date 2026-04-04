@@ -22,4 +22,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Easter Feast — Marion’s Kitchen (Marion Grasby)](https://www.youtube.com/watch?v=skPNbSDZLj0) — Marion cooks a multi-dish Asian-inspired spread for guests; compare your menu planning, timing across dishes, and table presentation.
+
+---
+
 [← Block 39–40: Unit 4 Capstone — Southeast Asian Cuisines Overview](index.md)

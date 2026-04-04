@@ -16,4 +16,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Home Style Aloo Gobhi — Chef Ranveer Brar](https://www.youtube.com/watch?v=PhgyyJE90w8) — Ranveer Brar's everyday aloo gobi; compare your spice blooming, potato-to-cauliflower ratio, and how you get color without mush.
+
+---
+
 [← Block 37–38: Indian Overview](index.md)

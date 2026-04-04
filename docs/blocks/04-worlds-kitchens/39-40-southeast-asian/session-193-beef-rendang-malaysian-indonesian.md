@@ -16,4 +16,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Beef Rendang — Pailin’s Kitchen](https://www.youtube.com/watch?v=l76CNoIYFkQ) — Pailin’s Malaysian/Indonesian rendang; compare your spice paste, coconut milk reduction pace, and how dry you take the final dish.
+
+---
+
 [← Block 39–40: Unit 4 Capstone — Southeast Asian Cuisines Overview](index.md)

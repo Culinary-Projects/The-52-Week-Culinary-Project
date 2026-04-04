@@ -15,4 +15,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Red Chile Pork Tamales for the Holidays — Rick Bayless](https://www.youtube.com/watch?v=8W5nc5c61kM) — Rick demonstrates the full tamale process from masa to assembly; compare your masa spreading, filling ratios, and steaming technique.
+
+---
+
 [← Block 35–36: Mexican Overview](index.md)

@@ -19,4 +19,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Butter Chicken at Home — Chef Ranveer Brar](https://www.youtube.com/watch?v=b7yuoRk227Y) — Ranveer Brar's butter chicken anchors a North Indian spread; compare your gravy richness, tandoori char, and how the full thali comes together.
+
+---
+
 [← Block 37–38: Indian Overview](index.md)

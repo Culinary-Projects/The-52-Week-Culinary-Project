@@ -19,4 +19,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Lo Que Voy a Cenar en Año Nuevo — De Mi Rancho a Tu Cocina](https://www.youtube.com/watch?v=4SR2iw0_gPw) — A Mexican home cook prepares a full celebratory dinner spread; compare your multi-dish coordination and table presentation.
+
+---
+
 [← Block 35–36: Mexican Overview](index.md)

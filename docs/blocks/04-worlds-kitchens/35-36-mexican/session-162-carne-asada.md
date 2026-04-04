@@ -15,4 +15,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [How to Host a Good Carne Asada — Internet Shaquille](https://www.youtube.com/watch?v=fcSi8qncG8Y) — From meat selection through fire management to the full spread; compare your marinade, grill setup, and how you build the table around the meat.
+
+---
+
 [← Block 35–36: Mexican Overview](index.md)
