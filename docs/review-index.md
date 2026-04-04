@@ -249,7 +249,7 @@
 | S128 | Soufflé (Cheese or Chocolate) | *(described inline)* | [Pépin: Fast Cheese Soufflé](https://www.youtube.com/watch?v=xutqSiQri1g) |
 | S129 | French Bistro Dinner | *(described inline)* | [Pépin: Famous Crêpes](https://www.youtube.com/watch?v=V_okk5pOLp4) |
 | Svc31 | Cassoulet | *(described inline)* | — |
-| Svc32 | Le Grand Aïoli (Provence) | *(described inline)* | [Old-Fashioned Handmade Aioli](https://www.youtube.com/watch?v=sVWBqy657TE) |
+| Svc32 | Le Grand Aïoli (Provence) | [Aioli](https://www.simplyrecipes.com/recipes/aioli/) | [Old-Fashioned Handmade Aioli](https://www.youtube.com/watch?v=sVWBqy657TE) |
 
 ---
 
@@ -262,11 +262,11 @@
 | S132 | Osso Buco alla Milanese | *(described inline)* | [Italia Squisita: Ossobuco](https://www.youtube.com/watch?v=OStJ5KJsvRA) |
 | S133 | Ribollita: Tuscan Bean & Bread Soup | *(described inline)* | — |
 | S134 | Gnocchi from Scratch | *(described inline)* | [Italia Squisita: Gnocchi di Patate](https://www.youtube.com/watch?v=VOig8WT_SgQ) |
-| S135 | Pasta Fresca: Fresh Egg Pasta | *(described inline)* | [Italia Squisita: Fresh Pasta from Scratch](https://www.youtube.com/watch?v=QSCTMN2ydPw) |
+| S135 | Pasta Fresca: Fresh Egg Pasta | [Fresh Egg Pasta](https://www.seriouseats.com/fresh-egg-pasta) | [Italia Squisita: Fresh Pasta from Scratch](https://www.youtube.com/watch?v=QSCTMN2ydPw) |
 | S136 | Spaghetti alle Vongole (Revisited) | *(described inline)* | — |
 | S137 | Saltimbocca alla Romana | *(described inline)* | — |
 | Svc33 | Pan-Roasted Branzino + Tiramisu | *(described inline)* | — |
-| Svc34 | Italian Sunday Dinner | *(described inline)* | — |
+| Svc34 | Italian Sunday Dinner | [Osso Buco](https://www.simplyrecipes.com/recipes/osso_buco/) | — |
 
 ---
 
@@ -282,8 +282,8 @@
 | S143 | Tempura: Batter, Oil & Timing | *(described inline)* | — |
 | S144 | Sushi Rice & Simple Maki | *(described inline)* | — |
 | S145 | Gyoza: Crispy-Bottom Pan-Fry | *(described inline)* | — |
-| Svc35 | Japanese Dinner for Two | *(described inline)* | — |
-| Svc36 | The Japanese Dinner Party | *(described inline)* | — |
+| Svc35 | Japanese Dinner for Two | [Chicken Teriyaki](https://www.justonecookbook.com/chicken-teriyaki/) | — |
+| Svc36 | The Japanese Dinner Party | [Gyoza](https://www.justonecookbook.com/gyoza/) · [Shrimp Tempura](https://www.justonecookbook.com/shrimp-tempura/) | — |
 
 ---
 
@@ -316,8 +316,8 @@
 | S159 | Dim Sum: Har Gow | *(described inline)* | — |
 | S160 | Chinese Egg Fried Rice | *(described inline)* | — |
 | S161 | Hot and Sour Soup | *(described inline)* | — |
-| Svc39 | Sichuan Dinner | *(described inline)* | — |
-| Svc40 | Full Chinese Banquet for 4–6 | *(described inline)* | — |
+| Svc39 | Sichuan Dinner | [Mapo Tofu](https://www.seriouseats.com/real-deal-mapo-dofu-tofu-chinese-sichuan-recipe) | — |
+| Svc40 | Full Chinese Banquet for 4–6 | [Hong Shao Rou](https://thewoksoflife.com/red-braised-pork/) | — |
 
 ---
 
@@ -334,7 +334,7 @@
 | S168 | Tamales (Team Project) | *(described inline)* | — |
 | S169 | Chiles Rellenos | *(described inline)* | — |
 | Svc41 | Enchiladas: Red Chile Sauce | *(described inline)* | — |
-| Svc42 | Full Mexican Celebration Dinner | *(described inline)* | — |
+| Svc42 | Full Mexican Celebration Dinner | [Guacamole](https://www.seriouseats.com/the-best-basic-guacamole-recipe) · [Birria](https://www.bonappetit.com/recipe/birria) | — |
 
 ---
 
@@ -368,7 +368,7 @@
 | S192 | Banh Mi | *(described inline)* | — |
 | S193 | Beef Rendang | *(described inline)* | — |
 | Svc47 | Thai Chicken Satay & Som Tam | *(described inline)* | [Pailin's Kitchen: Pork Satay & Peanut Sauce](https://www.youtube.com/watch?v=bil2fAQ36dY) |
-| Svc48 | SE Asian Dinner Party | *(described inline)* | — |
+| Svc48 | SE Asian Dinner Party | [Thai Chicken Satay](https://www.seriouseats.com/thai-chicken-satay-recipe) | — |
 
 ---
 
@@ -385,10 +385,10 @@
 | S214 | Fruit Preserves and Jam | *(described inline)* | — |
 | S215 | Cured Egg Yolks | *(described inline)* | — |
 | S216 | Confit: Garlic and Anything | *(described inline)* | — |
-| S217 | Compound Butters & Flavor Bases | *(described inline)* | — |
-| S218 | Shrubs and Drinking Vinegars | *(described inline)* | — |
-| Svc53 | Fermentation Tasting | *(described inline)* | — |
-| Svc54 | Preservation Showcase | *(described inline)* | — |
+| S217 | Compound Butters & Flavor Bases | [Compound Butter](https://www.bonappetit.com/recipe/compound-butter) | — |
+| S218 | Shrubs and Drinking Vinegars | [Drinking Vinegars](https://www.bonappetit.com/recipe/drinking-vinegars) | — |
+| Svc53 | Fermentation Tasting | [Sauerkraut](https://www.seriouseats.com/homemade-fermented-sauerkraut-recipe) | — |
+| Svc54 | Preservation Showcase | [Gravlax](https://www.epicurious.com/recipes/food/views/gravlax-51214520) | — |
 
 ---
 
@@ -397,14 +397,14 @@
 | # | Session | Recipes | Compare Notes |
 |---|---------|---------|---------------|
 | S194 | Better No-Knead Bread | [No-Knead Bread](https://www.seriouseats.com/better-no-knead-bread-recipe) | [No-Knead Bread, Revisited](https://www.youtube.com/watch?v=6RUDa0FKplk) |
-| S195 | No-Knead Variation: Folding Upgrade | *(described inline)* | — |
+| S195 | No-Knead Variation: Folding Upgrade | [No-Knead Crusty White Bread](https://www.kingarthurbaking.com/recipes/no-knead-crusty-white-bread-recipe) | — |
 | S196 | No-Knead Focaccia | [Focaccia](https://www.seriouseats.com/easy-no-knead-focaccia) | [Adam Ragusea: Extra-Flavorful Focaccia](https://www.youtube.com/watch?v=fE2sunDZhzg) |
 | S197 | Pullman Loaf: Sandwich Bread | [Pullman Loaf](https://www.seriouseats.com/bread-baking-pullman-loaf-recipe) | [Ethan Chlebowski: Best Sandwich Bread](https://www.youtube.com/watch?v=Z18KxyTnIV8) |
 | S234 | Baguette | [Baguette](https://www.kingarthurbaking.com/recipes/classic-baguettes-recipe) | [Alex: French Baguettes at Home](https://www.youtube.com/watch?v=efqe9Umxopc) |
 | S235 | Flatbread Survey: Pita and Naan | [Naan](https://www.kingarthurbaking.com/recipes/naan-recipe) | — |
 | S236 | Pizza Dough from Scratch | [Pan Pizza](https://www.seriouseats.com/foolproof-pan-pizza-recipe) | [Kenji: Pan Pizza at Home](https://www.youtube.com/watch?v=HukqEjCPkhU) |
 | Svc49 | Sourdough Starter Project | [Sourdough Starter](https://www.seriouseats.com/sourdough-starter) | [Alex: Non-Baker's Guide to Sourdough](https://www.youtube.com/watch?v=APEavQg8rMw) |
-| Svc50 | Lean Dough Tasting | *(described inline)* | — |
+| Svc50 | Lean Dough Tasting | [No-Knead Crusty White Bread](https://www.kingarthurbaking.com/recipes/no-knead-crusty-white-bread-recipe) *(ref)* | — |
 
 ---
 
@@ -416,8 +416,8 @@
 | S201 | Croissants | *(described inline)* | [Alex: The Croissant That Changed My Life](https://www.youtube.com/watch?v=vpwY3nmLLaA) |
 | S237 | Sourdough Variations: Whole Wheat | [Whole Wheat Sourdough](https://www.kingarthurbaking.com/recipes/whole-wheat-sourdough-bread-recipe) | — |
 | S238 | Sourdough Discard Cooking | [Sourdough Crackers](https://www.kingarthurbaking.com/recipes/sourdough-crackers-recipe) | — |
-| Svc58 | Sourdough Evaluation | *(described inline)* | — |
-| Svc59 | Enriched Dough Tasting / Bread Capstone | *(described inline)* | — |
+| Svc58 | Sourdough Evaluation | [Naturally Leavened Sourdough](https://www.kingarthurbaking.com/recipes/naturally-leavened-sourdough-bread-recipe) *(ref)* | — |
+| Svc59 | Enriched Dough Tasting / Bread Capstone | [Brioche](https://www.kingarthurbaking.com/recipes/brioche-recipe) *(ref)* | — |
 
 ---
 
@@ -433,7 +433,7 @@
 | S241 | Apple Pie: Double Crust | [Apple Pie](https://www.kingarthurbaking.com/recipes/apple-pie-recipe) | — |
 | S242 | Lemon Tart | [Lemon Tart](https://www.bonappetit.com/recipe/lemon-tart) | — |
 | Svc51 | Mille-Feuille (Napoleon) | [Mille-Feuille](https://www.seriouseats.com/mille-feuille-recipe-8729243) | — |
-| Svc55 | Afternoon Tea | *(described inline)* | — |
+| Svc55 | Afternoon Tea | [Scones](https://www.kingarthurbaking.com/recipes/scones-recipe) | — |
 
 ---
 
@@ -445,11 +445,11 @@
 | S207 | Crème Brûlée | *(described inline)* | [Claire Saffitz: Crème Brûlée & Crème Caramel](https://www.youtube.com/watch?v=dsjoULgoCf4) |
 | S208 | Panna Cotta | *(described inline)* | — |
 | S209 | Chocolate Mousse | *(described inline)* | — |
-| S243 | No-Churn Ice Cream | *(described inline)* | — |
-| S244 | Sorbet and Granita | *(described inline)* | — |
+| S243 | No-Churn Ice Cream | [No-Churn Vanilla Ice Cream](https://www.kingarthurbaking.com/recipes/no-churn-vanilla-ice-cream-recipe) | — |
+| S244 | Sorbet and Granita | [Raspberry Sorbet](https://www.kingarthurbaking.com/recipes/raspberry-sorbet-recipe) | — |
 | S245 | Chocolate Tempering & Ganache | *(described inline)* | — |
 | Svc52 | Layer Cake | *(described inline)* | — |
-| Svc57 | Grand Dessert Tasting | *(described inline)* | — |
+| Svc57 | Grand Dessert Tasting | [Crème Brûlée](https://www.kingarthurbaking.com/recipes/classic-creme-brulee-recipe) *(ref)* | — |
 
 ---
 

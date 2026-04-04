@@ -8,15 +8,15 @@
 
 | Metric | Count | % of 260 files |
 |---|---|---|
-| Sessions/services missing recipe links | **36** | 14% |
+| Sessions/services missing recipe links | **0** | 0% |
 | Sessions/services missing Compare Notes | **0** | 0% |
 | Capstone freestyle (intentionally exempt) | 10 recipes + 7 CN | 4% |
-| **Actionable recipe gaps** | **~26** | 10% |
+| **Actionable recipe gaps** | **0** | 0% |
 | **Actionable Compare Notes gaps** | **0** | 0% |
 
 > **Compare Notes:** All 120+ actionable gaps resolved across commits 566deb3, 3a04576, 3f860c2, e2d7747, 84782dc, 5049b04, 3c7ad89, 7ca63dc (124 files edited). 6 capstone sessions (S225, S226, S228, S229, S230, S233) and 1 freestyle session (S16) are intentionally exempt. 4 capstone files (S227, S231, S232, Svc56) received CN anyway.
 >
-> **Recipe Links:** Svc12 and S81 fixed. ~26 actionable gaps remain.
+> **Recipe Links:** All gaps resolved. Svc12, S81 fixed first; 21 files linked in commit 2042946; 5 Chinese files (S154, S155, S156, S159, S161) were false positives — already had Woks of Life recipe links.
 
 ---
 
@@ -63,39 +63,39 @@
 
 - [x] S81 — Beef Stock & Its Derivatives
 
-### Needs recipe links (~26 files)
+### Recipe links resolved — 26 files ✅
 
-**Unit 4**
+**Unit 4** *(21 linked in commit 2042946; 5 already had links)*
 
-- [ ] Svc32 — Le Grand Aïoli (Provence)
-- [ ] S135 — Pasta Fresca: Fresh Egg Pasta
-- [ ] Svc34 — Italian Sunday Dinner
-- [ ] Svc35 — Japanese Dinner for Two
-- [ ] Svc36 — The Japanese Dinner Party
-- [ ] S154 — The Wok: Heat, Motion, Wok Hei
-- [ ] S155 — Red-Braised Pork Belly (Hong Shao Rou)
-- [ ] S156 — Cantonese Steamed Fish
-- [ ] S159 — Dim Sum: Har Gow
-- [ ] S161 — Hot and Sour Soup
-- [ ] Svc39 — Sichuan Dinner
-- [ ] Svc40 — Full Chinese Banquet
-- [ ] Svc42 — Full Mexican Celebration Dinner
-- [ ] Svc48 — Southeast Asian Dinner Party
+- [x] Svc32 — Le Grand Aïoli (Provence) — Simply Recipes aioli
+- [x] S135 — Pasta Fresca: Fresh Egg Pasta — Serious Eats fresh egg pasta
+- [x] Svc34 — Italian Sunday Dinner — Simply Recipes osso buco
+- [x] Svc35 — Japanese Dinner for Two — Just One Cookbook chicken teriyaki
+- [x] Svc36 — The Japanese Dinner Party — Just One Cookbook gyoza + shrimp tempura
+- [x] S154 — The Wok: Heat, Motion, Wok Hei *(already had Woks of Life link)*
+- [x] S155 — Red-Braised Pork Belly (Hong Shao Rou) *(already had Woks of Life link)*
+- [x] S156 — Cantonese Steamed Fish *(already had Woks of Life link)*
+- [x] S159 — Dim Sum: Har Gow *(already had Woks of Life link)*
+- [x] S161 — Hot and Sour Soup *(already had Woks of Life link)*
+- [x] Svc39 — Sichuan Dinner — Serious Eats mapo tofu
+- [x] Svc40 — Full Chinese Banquet — Woks of Life hong shao rou
+- [x] Svc42 — Full Mexican Celebration Dinner — Serious Eats guacamole + Bon Appétit birria
+- [x] Svc48 — Southeast Asian Dinner Party — Serious Eats Thai chicken satay
 
-**Unit 5**
+**Unit 5** *(12 linked in commit 2042946)*
 
-- [ ] S217 — Compound Butters and Flavor Bases
-- [ ] S218 — Shrubs and Drinking Vinegars
-- [ ] Svc53 — Fermentation Tasting
-- [ ] Svc54 — Preservation Showcase
-- [ ] S195 — No-Knead Bread Variation: Folding Upgrade
-- [ ] Svc50 — Lean Dough Tasting
-- [ ] Svc58 — Sourdough Evaluation
-- [ ] Svc59 — Enriched Dough Tasting / Bread Capstone
-- [ ] Svc55 — Afternoon Tea
-- [ ] S243 — No-Churn Ice Cream
-- [ ] S244 — Sorbet and Granita
-- [ ] Svc57 — Grand Dessert Tasting
+- [x] S217 — Compound Butters and Flavor Bases — Bon Appétit compound butter
+- [x] S218 — Shrubs and Drinking Vinegars — Bon Appétit drinking vinegars
+- [x] Svc53 — Fermentation Tasting — Serious Eats sauerkraut
+- [x] Svc54 — Preservation Showcase — Epicurious gravlax
+- [x] S195 — No-Knead Bread Variation: Folding Upgrade — King Arthur no-knead bread
+- [x] Svc50 — Lean Dough Tasting — King Arthur no-knead bread (reference)
+- [x] Svc58 — Sourdough Evaluation — King Arthur sourdough bread (reference)
+- [x] Svc59 — Enriched Dough Tasting / Bread Capstone — King Arthur brioche
+- [x] Svc55 — Afternoon Tea — King Arthur scones
+- [x] S243 — No-Churn Ice Cream — King Arthur no-churn vanilla
+- [x] S244 — Sorbet and Granita — King Arthur raspberry sorbet
+- [x] Svc57 — Grand Dessert Tasting — King Arthur crème brûlée (reference)
 
 ---
 
