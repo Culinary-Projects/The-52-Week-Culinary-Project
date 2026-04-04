@@ -8,11 +8,15 @@
 
 | Metric | Count | % of 260 files |
 |---|---|---|
-| Sessions/services missing recipe links | **38** | 15% |
-| Sessions/services missing Compare Notes | **130** | 50% |
-| Capstone freestyle (intentionally exempt) | 10 | 4% |
-| **Actionable recipe gaps** | **~28** | 11% |
-| **Actionable Compare Notes gaps** | **~120** | 46% |
+| Sessions/services missing recipe links | **36** | 14% |
+| Sessions/services missing Compare Notes | **0** | 0% |
+| Capstone freestyle (intentionally exempt) | 10 recipes + 7 CN | 4% |
+| **Actionable recipe gaps** | **~26** | 10% |
+| **Actionable Compare Notes gaps** | **0** | 0% |
+
+> **Compare Notes:** All 120+ actionable gaps resolved across commits 566deb3, 3a04576, 3f860c2, e2d7747, 84782dc, 5049b04, 3c7ad89, 7ca63dc (124 files edited). 6 capstone sessions (S225, S226, S228, S229, S230, S233) and 1 freestyle session (S16) are intentionally exempt. 4 capstone files (S227, S231, S232, Svc56) received CN anyway.
+>
+> **Recipe Links:** Svc12 and S81 fixed. ~26 actionable gaps remain.
 
 ---
 
@@ -34,30 +38,32 @@
 
 ---
 
-## Missing Recipe Links — 38 files
+## Missing Recipe Links — 36 files
 
 ### Intentionally exempt (freestyle/challenge)
 
-- [ ] S16 — Recap Cook: No Recipes *(freestyle)*
-- [ ] S225 — Skills Inventory *(capstone)*
-- [ ] S226 — The Forgotten Dish *(capstone)*
-- [ ] S227 — Design Your Signature Dish *(capstone)*
-- [ ] S228 — Cook Something from Memory *(capstone)*
-- [ ] S229 — Define the Exam for Yourself *(capstone)*
-- [ ] S230 — Cook the Final Exam Dish *(capstone)*
-- [ ] S231 — The Retrospective Meal *(capstone)*
-- [ ] S232 — The Open Kitchen *(capstone)*
-- [ ] S233 — The Final Dinner *(capstone)*
+- [x] S16 — Recap Cook: No Recipes *(freestyle)*
+- [x] S225 — Skills Inventory *(capstone)*
+- [x] S226 — The Forgotten Dish *(capstone)*
+- [x] S227 — Design Your Signature Dish *(capstone)*
+- [x] S228 — Cook Something from Memory *(capstone)*
+- [x] S229 — Define the Exam for Yourself *(capstone)*
+- [x] S230 — Cook the Final Exam Dish *(capstone)*
+- [x] S231 — The Retrospective Meal *(capstone)*
+- [x] S232 — The Open Kitchen *(capstone)*
+- [x] S233 — The Final Dinner *(capstone)*
 
-### Needs recipe links (~28 files)
+### Fixed recipe links (2 files) ✅
 
 **Unit 2**
 
-- [ ] Svc12 — The Vegetable Tasting Menu
+- [x] Svc12 — The Vegetable Tasting Menu
 
 **Unit 3**
 
-- [ ] S81 — Beef Stock & Its Derivatives
+- [x] S81 — Beef Stock & Its Derivatives
+
+### Needs recipe links (~26 files)
 
 **Unit 4**
 
@@ -90,194 +96,195 @@
 - [ ] S243 — No-Churn Ice Cream
 - [ ] S244 — Sorbet and Granita
 - [ ] Svc57 — Grand Dessert Tasting
-- [ ] Svc56 — The Anniversary Dinner
 
 ---
 
-## Missing Compare Notes — 130 files
+## Missing Compare Notes — ~~130 files~~ ALL DONE ✅
 
-### Blocks with ZERO Compare Notes (all sessions missing)
+> All actionable Compare Notes gaps have been resolved. 6 capstone freestyle sessions and S16 are intentionally exempt. Checklist preserved below for the record.
 
-**Block 15–16 Beef** (10 files)
+### Blocks with ZERO Compare Notes — COMPLETED ✅
 
-- [ ] S74 — The Science of Searing a Steak
-- [ ] S75 — Cuts, Grades, The Butcher Relationship
-- [ ] S76 — Reverse Sear: Thick Cuts
-- [ ] S77 — Pan Sauce from Fond
-- [ ] S78 — Braising Beef: Short Ribs or Chuck
-- [ ] S79 — Braising Liquid as Sauce
-- [ ] S80 — Burgers: Fat Ratios, Grind, Shape
-- [ ] S81 — Beef Stock & Its Derivatives
-- [ ] Svc19 — The Steak Dinner
-- [ ] Svc20 — The Braise Dinner
+**Block 15–16 Beef** (10 files) ✅
 
-**Block 29–30 Japanese** (10 files)
+- [x] S74 — The Science of Searing a Steak
+- [x] S75 — Cuts, Grades, The Butcher Relationship
+- [x] S76 — Reverse Sear: Thick Cuts
+- [x] S77 — Pan Sauce from Fond
+- [x] S78 — Braising Beef: Short Ribs or Chuck
+- [x] S79 — Braising Liquid as Sauce
+- [x] S80 — Burgers: Fat Ratios, Grind, Shape
+- [x] S81 — Beef Stock & Its Derivatives
+- [x] Svc19 — The Steak Dinner
+- [x] Svc20 — The Braise Dinner
 
-- [ ] S138 — Dashi: The Umami Foundation
-- [ ] S139 — Miso & Soy: The Japanese Pantry
-- [ ] S140 — Ramen: Broth, Tare & Components
-- [ ] S141 — Nimono: Japanese Braising
-- [ ] S142 — Perfect Japanese Rice & Ochazuke
-- [ ] S143 — Tempura: Batter, Oil & Timing
-- [ ] S144 — Sushi Rice & Simple Maki
-- [ ] S145 — Gyoza: Crispy-Bottom Pan-Fry
-- [ ] Svc35 — Japanese Dinner for Two
-- [ ] Svc36 — The Japanese Dinner Party
+**Block 29–30 Japanese** (10 files) ✅
 
-**Block 41–42 Fermentation** (10 files)
+- [x] S138 — Dashi: The Umami Foundation
+- [x] S139 — Miso & Soy: The Japanese Pantry
+- [x] S140 — Ramen: Broth, Tare & Components
+- [x] S141 — Nimono: Japanese Braising
+- [x] S142 — Perfect Japanese Rice & Ochazuke
+- [x] S143 — Tempura: Batter, Oil & Timing
+- [x] S144 — Sushi Rice & Simple Maki
+- [x] S145 — Gyoza: Crispy-Bottom Pan-Fry
+- [x] Svc35 — Japanese Dinner for Two
+- [x] Svc36 — The Japanese Dinner Party
 
-- [ ] S211 — Quick Pickles & Vinegar Preservation
-- [ ] S212 — Fermented Hot Sauce
-- [ ] S213 — Gravlax: Salt-Cured Salmon
-- [ ] S214 — Fruit Preserves and Jam
-- [ ] S215 — Cured Egg Yolks
-- [ ] S216 — Confit: Garlic and Anything
-- [ ] S217 — Compound Butters & Flavor Bases
-- [ ] S218 — Shrubs and Drinking Vinegars
-- [ ] Svc53 — Fermentation Tasting
-- [ ] Svc54 — Preservation Showcase
+**Block 41–42 Fermentation** (10 files) ✅
 
-**Block 45–46 Sourdough & Enriched** (8 files)
+- [x] S211 — Quick Pickles & Vinegar Preservation
+- [x] S212 — Fermented Hot Sauce
+- [x] S213 — Gravlax: Salt-Cured Salmon
+- [x] S214 — Fruit Preserves and Jam
+- [x] S215 — Cured Egg Yolks
+- [x] S216 — Confit: Garlic and Anything
+- [x] S217 — Compound Butters & Flavor Bases
+- [x] S218 — Shrubs and Drinking Vinegars
+- [x] Svc53 — Fermentation Tasting
+- [x] Svc54 — Preservation Showcase
 
-- [ ] S198 — Sourdough: First Real Loaf
-- [ ] S199 — Sourdough: Bake Day
-- [ ] S200 — Brioche
-- [ ] S237 — Sourdough Variations: Whole Wheat
-- [ ] S238 — Sourdough Discard Cooking
-- [ ] S239 — Cinnamon Rolls
-- [ ] Svc58 — Sourdough Evaluation
-- [ ] Svc59 — Enriched Dough Tasting / Bread Capstone
+**Block 45–46 Sourdough & Enriched** (8 files) ✅
 
-**Block 51–52 Capstone** (10 files) *(freestyle — likely exempt)*
+- [x] S198 — Sourdough: First Real Loaf
+- [x] S199 — Sourdough: Bake Day
+- [x] S200 — Brioche
+- [x] S237 — Sourdough Variations: Whole Wheat
+- [x] S238 — Sourdough Discard Cooking
+- [x] S239 — Cinnamon Rolls
+- [x] Svc58 — Sourdough Evaluation
+- [x] Svc59 — Enriched Dough Tasting / Bread Capstone
 
-- [ ] S225 — Skills Inventory
-- [ ] S226 — The Forgotten Dish
-- [ ] S227 — Design Your Signature Dish
-- [ ] S228 — Cook Something from Memory
-- [ ] S229 — Define the Exam for Yourself
-- [ ] S230 — Cook the Final Exam Dish
-- [ ] S231 — The Retrospective Meal
-- [ ] S232 — The Open Kitchen
-- [ ] S233 — The Final Dinner
-- [ ] Svc56 — The Anniversary Dinner
+**Block 51–52 Capstone** (10 files) ✅ *(6 freestyle-exempt; 4 received CN anyway)*
 
-### Blocks with partial gaps
+- [x] S225 — Skills Inventory *(freestyle-exempt)*
+- [x] S226 — The Forgotten Dish *(freestyle-exempt)*
+- [x] S227 — Design Your Signature Dish *(CN added)*
+- [x] S228 — Cook Something from Memory *(freestyle-exempt)*
+- [x] S229 — Define the Exam for Yourself *(freestyle-exempt)*
+- [x] S230 — Cook the Final Exam Dish *(freestyle-exempt)*
+- [x] S231 — The Retrospective Meal *(CN added)*
+- [x] S232 — The Open Kitchen *(CN added)*
+- [x] S233 — The Final Dinner *(freestyle-exempt)*
+- [x] Svc56 — The Anniversary Dinner *(CN added)*
 
-**Block 33–34 Chinese** (9 missing)
+### Blocks with partial gaps — COMPLETED ✅
 
-- [ ] S155 — Red-Braised Pork Belly (Hong Shao Rou)
-- [ ] S156 — Cantonese Steamed Fish
-- [ ] S157 — Mapo Tofu
-- [ ] S158 — Congee: Rice Porridge
-- [ ] S159 — Dim Sum: Har Gow
-- [ ] S160 — Chinese Egg Fried Rice
-- [ ] S161 — Hot and Sour Soup
-- [ ] Svc39 — Sichuan Dinner
-- [ ] Svc40 — Full Chinese Banquet
+**Block 33–34 Chinese** (9 files) ✅
 
-**Block 49–50 Pastry Desserts** (7 missing)
+- [x] S155 — Red-Braised Pork Belly (Hong Shao Rou)
+- [x] S156 — Cantonese Steamed Fish
+- [x] S157 — Mapo Tofu
+- [x] S158 — Congee: Rice Porridge
+- [x] S159 — Dim Sum: Har Gow
+- [x] S160 — Chinese Egg Fried Rice
+- [x] S161 — Hot and Sour Soup
+- [x] Svc39 — Sichuan Dinner
+- [x] Svc40 — Full Chinese Banquet
 
-- [ ] S208 — Panna Cotta
-- [ ] S209 — Chocolate Mousse
-- [ ] S243 — No-Churn Ice Cream
-- [ ] S244 — Sorbet and Granita
-- [ ] S245 — Chocolate Tempering & Ganache
-- [ ] Svc52 — Layer Cake
-- [ ] Svc57 — Grand Dessert Tasting
+**Block 49–50 Pastry Desserts** (7 files) ✅
 
-**Block 17–18 Fish** (7 missing)
+- [x] S208 — Panna Cotta
+- [x] S209 — Chocolate Mousse
+- [x] S243 — No-Churn Ice Cream
+- [x] S244 — Sorbet and Granita
+- [x] S245 — Chocolate Tempering & Ganache
+- [x] Svc52 — Layer Cake
+- [x] Svc57 — Grand Dessert Tasting
 
-- [ ] S84 — Universal Crispy Fish Technique
-- [ ] S85 — Ceviche: Fish Cooked by Acid
-- [ ] S86 — Seared Fish & Mushroom, Asian-Style
-- [ ] S87 — Fish Tacos: West Coast Done Right
-- [ ] S88 — Salmon Teriyaki: Weeknight Standard
-- [ ] Svc22 — A Full Fish Dinner
-- [ ] Svc23 — Whole Fish Dinner Party
+**Block 17–18 Fish** (7 files) ✅
 
-**Block 47–48 Pastry Doughs & Custards** (6 missing)
+- [x] S84 — Universal Crispy Fish Technique
+- [x] S85 — Ceviche: Fish Cooked by Acid
+- [x] S86 — Seared Fish & Mushroom, Asian-Style
+- [x] S87 — Fish Tacos: West Coast Done Right
+- [x] S88 — Salmon Teriyaki: Weeknight Standard
+- [x] Svc22 — A Full Fish Dinner
+- [x] Svc23 — Whole Fish Dinner Party
 
-- [ ] S202 — Pâte Sucrée: Sweet Tart Dough
-- [ ] S240 — Quiche Lorraine
-- [ ] S241 — Apple Pie: Double Crust
-- [ ] S242 — Lemon Tart
-- [ ] Svc51 — Mille-Feuille
-- [ ] Svc55 — Afternoon Tea
+**Block 47–48 Pastry Doughs & Custards** (6 files) ✅
 
-**Block 37–38 Indian** (6 missing)
+- [x] S202 — Pâte Sucrée: Sweet Tart Dough
+- [x] S240 — Quiche Lorraine
+- [x] S241 — Apple Pie: Double Crust
+- [x] S242 — Lemon Tart
+- [x] Svc51 — Mille-Feuille
+- [x] Svc55 — Afternoon Tea
 
-- [ ] S171 — Moong Dal: Yellow Split Lentils
-- [ ] S172 — Chicken Tikka Masala (Grilled Version)
-- [ ] S175 — Aloo Gobi: Potato & Cauliflower
-- [ ] S177 — Garam Masala from Scratch
-- [ ] Svc43 — North Indian Feast
-- [ ] Svc44 — South Indian Weekend
+**Block 37–38 Indian** (6 files) ✅
 
-**Block 25–26 French** (5 missing)
+- [x] S171 — Moong Dal: Yellow Split Lentils
+- [x] S172 — Chicken Tikka Masala (Grilled Version)
+- [x] S175 — Aloo Gobi: Potato & Cauliflower
+- [x] S177 — Garam Masala from Scratch
+- [x] Svc43 — North Indian Feast
+- [x] Svc44 — South Indian Weekend
 
-- [ ] S124 — Béarnaise Sauce with Steak
-- [ ] S125 — Steak-Frites
-- [ ] S126 — Beurre Blanc
-- [ ] S127 — Duck à l'Orange
-- [ ] Svc31 — Cassoulet
+**Block 25–26 French** (5 files) ✅
 
-**Block 27–28 Italian** (5 missing)
+- [x] S124 — Béarnaise Sauce with Steak
+- [x] S125 — Steak-Frites
+- [x] S126 — Beurre Blanc
+- [x] S127 — Duck à l'Orange
+- [x] Svc31 — Cassoulet
 
-- [ ] S133 — Ribollita: Tuscan Bean & Bread Soup
-- [ ] S136 — Spaghetti alle Vongole (Revisited)
-- [ ] S137 — Saltimbocca alla Romana
-- [ ] Svc33 — Pan-Roasted Branzino + Tiramisu
-- [ ] Svc34 — Italian Sunday Dinner
+**Block 27–28 Italian** (5 files) ✅
 
-**Block 35–36 Mexican** (5 missing)
+- [x] S133 — Ribollita: Tuscan Bean & Bread Soup
+- [x] S136 — Spaghetti alle Vongole (Revisited)
+- [x] S137 — Saltimbocca alla Romana
+- [x] Svc33 — Pan-Roasted Branzino + Tiramisu
+- [x] Svc34 — Italian Sunday Dinner
 
-- [ ] S162 — Carne Asada
-- [ ] S165 — Tacos al Pastor
-- [ ] S167 — Mole Negro (Simplified)
-- [ ] S168 — Tamales (Team Project)
-- [ ] Svc42 — Full Mexican Celebration Dinner
+**Block 35–36 Mexican** (5 files) ✅
 
-**Block 39–40 Southeast Asian** (5 missing)
+- [x] S162 — Carne Asada
+- [x] S165 — Tacos al Pastor
+- [x] S167 — Mole Negro (Simplified)
+- [x] S168 — Tamales (Team Project)
+- [x] Svc42 — Full Mexican Celebration Dinner
 
-- [ ] S190 — Pad See Ew
-- [ ] S191 — Chicken Phở (Phở Gà)
-- [ ] S192 — Banh Mi
-- [ ] S193 — Beef Rendang
-- [ ] Svc48 — SE Asian Dinner Party
+**Block 39–40 Southeast Asian** (5 files) ✅
 
-**Block 19–20 Shellfish** (5 missing)
+- [x] S190 — Pad See Ew
+- [x] S191 — Chicken Phở (Phở Gà)
+- [x] S192 — Banh Mi
+- [x] S193 — Beef Rendang
+- [x] Svc48 — SE Asian Dinner Party
 
-- [ ] S99 — Moules Marinière
-- [ ] S102 — Chili Crab: Singaporean
-- [ ] S103 — Shrimp Bisque & Compound Butter
-- [ ] S105 — Mussels in Tomato-Saffron Broth
-- [ ] Svc26 — Multi-Shellfish Plateau
+**Block 19–20 Shellfish** (5 files) ✅
 
-**Block 21–22 Pork** (5 missing)
+- [x] S99 — Moules Marinière
+- [x] S102 — Chili Crab: Singaporean
+- [x] S103 — Shrimp Bisque & Compound Butter
+- [x] S105 — Mussels in Tomato-Saffron Broth
+- [x] Svc26 — Multi-Shellfish Plateau
 
-- [ ] S108 — Pork Tenderloin: Speed & Precision
-- [ ] S109 — Vietnamese Grilled Pork Chop
-- [ ] S110 — Belly: Pan-Crispy
-- [ ] S111 — Pork Ribs: Two Methods
-- [ ] S112 — Porchetta: Italian Pork at Its Peak
+**Block 21–22 Pork** (5 files) ✅
 
-**Block 13–14 Pasta & Grains** (4 missing)
+- [x] S108 — Pork Tenderloin: Speed & Precision
+- [x] S109 — Vietnamese Grilled Pork Chop
+- [x] S110 — Belly: Pan-Crispy
+- [x] S111 — Pork Ribs: Two Methods
+- [x] S112 — Porchetta: Italian Pork at Its Peak
 
-- [ ] S51 — Ravioli: Pasta as a Vessel
-- [ ] S55 — Rice: The World's Most Important Grain
-- [ ] S57 — Farro and Grains
-- [ ] Svc14 — A Grain-Forward Dinner Party
+**Block 13–14 Pasta & Grains** (4 files) ✅
 
-**Block 43–44 Bread: Lean Doughs** (3 missing)
+- [x] S51 — Ravioli: Pasta as a Vessel
+- [x] S55 — Rice: The World's Most Important Grain
+- [x] S57 — Farro and Grains
+- [x] Svc14 — A Grain-Forward Dinner Party
 
-- [ ] S195 — No-Knead Variation: Folding Upgrade
-- [ ] S235 — Flatbread Survey: Pita and Naan
-- [ ] Svc50 — Lean Dough Tasting
+**Block 43–44 Bread: Lean Doughs** (3 files) ✅
 
-**Blocks with 2 missing each**
+- [x] S195 — No-Knead Variation: Folding Upgrade
+- [x] S235 — Flatbread Survey: Pita and Naan
+- [x] Svc50 — Lean Dough Tasting
 
-- 05–06 Mother Sauces: Svc5 (Moussaka), Svc6 (French Bistro)
-- 07–08 Stocks & Eggs: Svc7 (Soup Kitchen), Svc8 (Egg Party)
-- 09–10 Seasoning: Svc9 (Salt-Crusted Fish), Svc10 (Tasting)
-- 11–12 Vegetables: Svc11 (Plant-Forward), Svc12 (Veg Tasting)
-- 31–32 Korean: Svc37 (KBQ Night), Svc38 (Korean Dinner)
+**Blocks with 2 each** ✅
+
+- ~~05–06 Mother Sauces: Svc5 (Moussaka), Svc6 (French Bistro)~~ ✅
+- ~~07–08 Stocks & Eggs: Svc7 (Soup Kitchen), Svc8 (Egg Party)~~ ✅
+- ~~09–10 Seasoning: Svc9 (Salt-Crusted Fish), Svc10 (Tasting)~~ ✅
+- ~~11–12 Vegetables: Svc11 (Plant-Forward), Svc12 (Veg Tasting)~~ ✅
+- ~~31–32 Korean: Svc37 (KBQ Night), Svc38 (Korean Dinner)~~ ✅
