@@ -54,15 +54,15 @@ Prioritized improvement list generated from full curriculum audit. Work through 
 
 Block 1–2 has a specific `🎥 Compare Notes:` video in every session — this is one of the most engaging features of the curriculum. Later blocks do this inconsistently. Audit each block below and add a verified specific video to any session that's missing one.
 
-- [ ] **Block 3–4 (Heat & Cooking):** Audit all sessions (9–16) for missing Compare Notes videos. Priority: Session 9 (sauté), Session 10 (roasting), Session 11 (braise), Session 13 (searing steak).
+- [x] **Block 3–4 (Heat & Cooking):** All sessions (9–16) now have Compare Notes videos. Resolved across CN commits 566deb3–7ca63dc.
 
-- [ ] **Block 5–6 (Mother Sauces):** Audit sessions 17–24. Hollandaise (S21) and pan sauce (S24) especially benefit from a side-by-side video.
+- [x] **Block 5–6 (Mother Sauces):** All sessions (17–24) now have Compare Notes videos. Resolved across CN commits.
 
-- [ ] **Block 7–8 (Stocks & Eggs):** Audit sessions 25–33. French omelette (S32) and poached eggs (S31) are natural candidates for Pépin's classic videos.
+- [x] **Block 7–8 (Stocks & Eggs):** All sessions (25–33) now have Compare Notes videos. Resolved across CN commits.
 
-- [ ] **Block 9–10 (Seasoning & Flavor):** Audit sessions 34–41. Salt Fat Acid Heat episodes map well to several sessions here.
+- [x] **Block 9–10 (Seasoning & Flavor):** All sessions (34–41) now have Compare Notes videos. Resolved across CN commits.
 
-- [ ] **Block 11–12 (Vegetables):** Audit sessions 42–49. Strong candidates: blanching, charring, braising legumes.
+- [x] **Block 11–12 (Vegetables):** All sessions (42–49) now have Compare Notes videos. Resolved across CN commits.
 
 ### "Go Deeper" — Add Pro Video to Each Block
 
@@ -142,5 +142,6 @@ As blocks were written over time, some Go Deeper sections may have accumulated l
 
 ---
 
-*Last updated: 2026-04-03*
+*Last updated: 2026-04-04*
 *Source: Full curriculum audit across all 5 block units (Blocks 1–52).*
+*Recipe links: all gaps resolved (commit 2042946). Compare Notes: all gaps resolved (commits 566deb3–7ca63dc).*
