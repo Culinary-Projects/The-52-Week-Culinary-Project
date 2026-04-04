@@ -15,4 +15,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Spaghetti alle Vongole: Napoli vs. Venezia — Italia Squisita](https://www.youtube.com/watch?v=LHycAX1XoSM) — Two Michelin-starred Italian chefs show their regional takes on vongole; compare clam preparation, sauce emulsification, and pasta timing.
+
+---
+
 [← Block 27–28: Italian Overview](index.md)

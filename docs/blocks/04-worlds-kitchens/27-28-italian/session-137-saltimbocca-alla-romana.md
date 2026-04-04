@@ -16,4 +16,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Saltimbocca alla Romana — DW Food](https://www.youtube.com/watch?v=4qZL54G7jgg) — A Roman chef demonstrates the dish on its home turf; compare your veal pounding, sage placement, and pan sauce.
+
+---
+
 [← Block 27–28: Italian Overview](index.md)

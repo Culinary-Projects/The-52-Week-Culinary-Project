@@ -16,4 +16,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Cassoulet de Toulouse — Food Wishes](https://www.youtube.com/watch?v=uOL-IgFC61c) — Chef John's Toulouse-style cassoulet; compare your layering technique, crust development, and bean texture.
+
+---
+
 [← Block 25–26: French Classics Overview](index.md)

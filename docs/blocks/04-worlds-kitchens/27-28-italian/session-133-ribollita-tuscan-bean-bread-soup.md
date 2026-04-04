@@ -15,4 +15,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Ribollita — Tuscan Bread Soup — Food Wishes](https://www.youtube.com/watch?v=myg-y7cHnag) — Chef John's approach to the classic Tuscan soup; compare your bread-layering technique and how the texture develops on the re-boil.
+
+---
+
 [← Block 27–28: Italian Overview](index.md)

@@ -15,4 +15,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Béarnaise Sauce Recipe — Food Wishes](https://www.youtube.com/watch?v=9VxgatSjVQE) — Chef John walks through the classic emulsion method; compare your reduction technique and how you handle the emulsion temperature.
+
+---
+
 [← Block 25–26: French Classics Overview](index.md)

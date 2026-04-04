@@ -19,4 +19,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [87-Year-Old Betta Makes Tagliatelle al Ragù — Pasta Grannies](https://www.youtube.com/watch?v=sVLHp5cNJHk) — A nonna's Sunday ragù and fresh pasta; compare your sauce depth, pasta texture, and the unhurried Italian approach to the meal.
+
+---
+
 [← Block 27–28: Italian Overview](index.md)

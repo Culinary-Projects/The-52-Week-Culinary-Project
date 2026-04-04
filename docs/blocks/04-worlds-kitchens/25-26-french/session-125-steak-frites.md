@@ -15,4 +15,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [How To Make Easy Steak Frites — America's Test Kitchen](https://www.youtube.com/watch?v=9ZgM9e1y2jQ) — ATK's approach to the bistro classic; watch their fry technique and steak sear for comparison.
+
+---
+
 [← Block 25–26: French Classics Overview](index.md)

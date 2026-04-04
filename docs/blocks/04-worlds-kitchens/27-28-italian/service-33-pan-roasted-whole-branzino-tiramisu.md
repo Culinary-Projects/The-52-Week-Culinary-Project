@@ -18,4 +18,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [How to Grill and Eat a Whole Fish (Branzino) — Helen Rennie](https://www.youtube.com/watch?v=220Q_ppV8bs) — Helen covers whole-fish technique from scoring through plating; compare your approach to doneness, skin crispness, and fish breakdown at the table.
+
+---
+
 [← Block 27–28: Italian Overview](index.md)

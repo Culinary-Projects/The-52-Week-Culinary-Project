@@ -15,4 +15,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [How to Make Beurre Blanc — Food Wishes](https://www.youtube.com/watch?v=84zkT4FIaOk) — Chef John's take on the French butter sauce; compare your reduction, butter incorporation pace, and final consistency.
+
+---
+
 [← Block 25–26: French Classics Overview](index.md)

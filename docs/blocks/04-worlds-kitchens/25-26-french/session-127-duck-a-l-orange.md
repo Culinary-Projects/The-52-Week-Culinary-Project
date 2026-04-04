@@ -15,4 +15,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Roast Duck à l'Orange — Julia Child, The French Chef](https://www.youtube.com/watch?v=qjmd9pw2mvU) — Julia Child's original demonstration of this classic; compare your rendering technique, orange sauce balance, and presentation.
+
+---
+
 [← Block 25–26: French Classics Overview](index.md)
