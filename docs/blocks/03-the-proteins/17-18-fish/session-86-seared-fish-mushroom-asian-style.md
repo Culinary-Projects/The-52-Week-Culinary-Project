@@ -18,4 +18,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [How to Pan Fry a Whole Fish (紅燒魚) — Made With Lau](https://www.youtube.com/watch?v=KiC-fFSGzlk) — Daddy Lau pan-fries fish with Asian aromatics. Watch his heat control, how he handles the fish without breaking it, and the sauce he builds.
+
+---
+
 [← Block 17–18: Seafood — Fish Overview](index.md)

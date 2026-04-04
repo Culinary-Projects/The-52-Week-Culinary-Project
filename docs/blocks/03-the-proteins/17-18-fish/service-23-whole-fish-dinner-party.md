@@ -16,4 +16,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [How to Bake a Fish in a Salt Crust — Chef Frank Olivieri](https://www.youtube.com/watch?v=_ofnIKByCkk) — A professional demonstration of salt-crusting whole fish. Compare the crust thickness, baking time, and the tableside reveal to your result.
+
+---
+
 [← Block 17–18: Seafood — Fish Overview](index.md)

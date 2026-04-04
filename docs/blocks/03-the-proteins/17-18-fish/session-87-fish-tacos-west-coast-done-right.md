@@ -13,4 +13,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Real Simple Fried Fish Tacos — Ethan Chlebowski](https://www.youtube.com/watch?v=4lLQk--0a_0) — Ethan's approach to battered fish tacos. Compare your batter crunch, oil temperature control, and taco assembly.
+
+---
+
 [← Block 17–18: Seafood — Fish Overview](index.md)

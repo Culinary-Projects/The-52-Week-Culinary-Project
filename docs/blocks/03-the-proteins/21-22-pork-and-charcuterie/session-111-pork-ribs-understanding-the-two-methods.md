@@ -12,4 +12,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [How to Cook Ribs in the Oven — Brian Lagerstrom](https://www.youtube.com/watch?v=skXvtGgRQKw) — Brian's oven-to-finish rib method with vinegar slaw. Compare your bark, tenderness, and sauce glaze to his.
+
+---
+
 [← Block 21–22: Pork & Charcuterie Overview](index.md)

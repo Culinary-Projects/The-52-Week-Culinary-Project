@@ -16,4 +16,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Ceviche and the Science of Marinating Fish — Kenji’s Cooking Show](https://www.youtube.com/watch?v=GDH6Xyzi_2Q) — Kenji explains the science of acid "cooking" fish. Compare your cure time and final texture to his recommended approach.
+
+---
+
 [← Block 17–18: Seafood — Fish Overview](index.md)

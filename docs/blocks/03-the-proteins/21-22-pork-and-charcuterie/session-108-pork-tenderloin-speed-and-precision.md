@@ -12,4 +12,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [How to Make Perfect Pan-Seared Pork Tenderloin Steaks — America's Test Kitchen](https://www.youtube.com/watch?v=ZthRPBsqtg4) — ATK's method for searing pork tenderloin steaks with a scallion-ginger salsa. Compare your sear and internal temp precision.
+
+---
+
 [← Block 21–22: Pork & Charcuterie Overview](index.md)

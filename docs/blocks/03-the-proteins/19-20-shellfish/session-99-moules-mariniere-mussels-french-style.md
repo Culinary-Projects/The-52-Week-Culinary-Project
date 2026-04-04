@@ -15,4 +15,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Jacques Pépin Makes Moules Two Ways — American Masters / PBS](https://www.youtube.com/watch?v=0eKRQ2PNx3I) — Jacques demonstrates two approaches to mussels. Compare your broth flavor, how quickly your mussels open, and your bread-dipping technique.
+
+---
+
 [← Block 19–20: Shellfish Overview](index.md)

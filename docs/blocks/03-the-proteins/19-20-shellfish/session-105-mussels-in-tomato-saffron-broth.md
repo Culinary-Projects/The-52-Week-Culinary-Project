@@ -15,4 +15,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [3 Amazing Mussels Recipes — Jacques Pépin / KQED](https://www.youtube.com/watch?v=tHt838QLePc) — Jacques cooks mussels three ways including a Med-style preparation. Compare your broth color, saffron bloom, and how you build the tomato base.
+
+---
+
 [← Block 19–20: Shellfish Overview](index.md)

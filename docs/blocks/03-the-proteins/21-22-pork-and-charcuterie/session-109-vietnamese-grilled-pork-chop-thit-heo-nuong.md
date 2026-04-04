@@ -13,4 +13,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Vietnamese Pork Chops with Broken Rice (Cơm Tấm) — Noms by Nancy](https://www.youtube.com/watch?v=vF2G70_qN_Q) — Nancy makes Saigon-style cơm tấm with grilled lemongrass pork chops. Compare your char, marinade penetration, and nuoc cham balance.
+
+---
+
 [← Block 21–22: Pork & Charcuterie Overview](index.md)

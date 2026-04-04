@@ -22,4 +22,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Singapore Chili Crabs Recipe — Food Wishes](https://www.youtube.com/watch?v=Ub9Z4UXU_MM) — Chef John walks through the sweet-spicy chili sauce technique. Compare your sauce thickness, egg incorporation, and how you handle the whole crab.
+
+---
+
 [← Block 19–20: Shellfish Overview](index.md)

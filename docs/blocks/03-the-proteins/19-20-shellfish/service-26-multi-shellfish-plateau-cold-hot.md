@@ -28,4 +28,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Andrew Zimmern Cooks: Plateau de Fruits de Mer — Andrew Zimmern](https://www.youtube.com/watch?v=0gClf-JSUcU) — Andrew assembles a full shellfish plateau. Compare your sourcing, shucking technique, and how you present cold and hot shellfish together.
+
+---
+
 [← Block 19–20: Shellfish Overview](index.md)

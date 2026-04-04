@@ -13,4 +13,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [La Porchetta Definitiva — Italia Squisita](https://www.youtube.com/watch?v=ben0bKGtnZQ) — A traditional Italian porchetta from Antica Porchetteria Granieri. Compare your rolling/tying technique, skin crackling, and herb stuffing to the professional version.
+
+---
+
 [← Block 21–22: Pork & Charcuterie Overview](index.md)

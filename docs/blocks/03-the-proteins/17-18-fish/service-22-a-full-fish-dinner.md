@@ -18,4 +18,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Bouillabaisse and How to Make Fish Stock — Helen Rennie](https://www.youtube.com/watch?v=Ul_ymBC-cxk) — Helen builds a multi-component seafood dinner from scratch. Compare how she juggles timing across courses and her presentation.
+
+---
+
 [← Block 17–18: Seafood — Fish Overview](index.md)

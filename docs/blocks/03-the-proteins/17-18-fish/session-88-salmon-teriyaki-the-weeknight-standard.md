@@ -12,4 +12,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [10-Minute Teriyaki Salmon Recipe — Sudachi Recipes](https://www.youtube.com/watch?v=GiyHYRI1gx0) — A Japanese take on teriyaki salmon with proper glaze technique. Compare your glaze caramelization and how the sauce coats the fish.
+
+---
+
 [← Block 17–18: Seafood — Fish Overview](index.md)

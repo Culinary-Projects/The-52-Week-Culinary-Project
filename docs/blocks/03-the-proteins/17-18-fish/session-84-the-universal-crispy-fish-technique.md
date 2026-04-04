@@ -20,4 +20,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [How to Make Butter-Basted Fish Fillets with Garlic and Thyme — America's Test Kitchen](https://www.youtube.com/watch?v=sPzBPj5mOls) — ATK walks through achieving a crispy sear on delicate fish fillets. Compare your crust and how confidently you flip to theirs.
+
+---
+
 [← Block 17–18: Seafood — Fish Overview](index.md)

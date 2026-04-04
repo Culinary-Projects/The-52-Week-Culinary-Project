@@ -15,4 +15,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [How to Make Shrimp and Pimiento Cheese Grits — Bon Appétit](https://www.youtube.com/watch?v=TLcdcELVs5k) — Watch the timing on shrimp doneness and how the compound butter melts into the grits. Compare your shrimp curl and grits texture.
+
+---
+
 [← Block 19–20: Shellfish Overview](index.md)
