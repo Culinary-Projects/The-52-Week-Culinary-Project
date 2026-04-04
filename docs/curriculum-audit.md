@@ -6,38 +6,35 @@
 
 ## Summary
 
-| Metric | Count | % of 265 files |
+| Metric | Count | % of 260 files |
 |---|---|---|
-| Sessions/services missing recipe links | **42** | 16% |
-| Sessions/services missing Compare Notes | **135** | 51% |
+| Sessions/services missing recipe links | **38** | 15% |
+| Sessions/services missing Compare Notes | **130** | 50% |
 | Capstone freestyle (intentionally exempt) | 10 | 4% |
-| **Actionable recipe gaps** | **~32** | 12% |
-| **Actionable Compare Notes gaps** | **~125** | 47% |
+| **Actionable recipe gaps** | **~28** | 11% |
+| **Actionable Compare Notes gaps** | **~120** | 46% |
 
 ---
 
-## Structural Issues
+## Structural Issues — Resolved
 
-### Block 21–22 Pork & Charcuterie — 2× oversized
+### Block 21–22 Pork — trimmed to standard size ✅
 
-- **16 sessions + 4 services** (normal = 8 + 2)
-- Sessions 114–121 are preservation/curing: gravlax, sausage, pickles, pancetta, pâté, bacon-cured salmon
-- This overlaps with Block 41–42 (Fermentation & Preservation)
-- The original "27-28 Charcuterie Review" plan was absorbed here but session count was never trimmed
+- Was **16 sessions + 4 services**; now **8 sessions + 2 services** (standard)
+- Removed 8 sessions (S114–S121) and 2 services (Svc29–Svc30) — all preservation/curing content
+- Curing topics remain in Block 41–42 (Fermentation & Preservation) where they belong
+- Block renamed from "Pork & Charcuterie" to "Pork"
 
-### Block 23–24 Poultry — half-size
+### Block 23–24 Poultry — expanded to standard size ✅
 
-- **4 sessions + 1 service** (normal = 8 + 2)
-- Only covers: whole roast, spatchcock, coq au vin, pan-seared breast, duck confit
-- Missing: turkey, cornish hen, ground poultry, thigh/leg work, poultry stock, Asian poultry techniques
-
-### Decision needed
-
-Rebalance pork/poultry (move 4 sessions from 21-22 to 23-24), or accept the asymmetry?
+- Was **4 sessions + 1 service**; now **8 sessions + 2 services** (standard)
+- Added S66 (chicken thighs, cold-pan technique), S67 (stock & soup), S68 (stir-fry, Kung Pao), S69 (Thai grilled chicken, Gai Yang), Svc17 (roast turkey dinner)
+- All new sessions have verified recipe links and Compare Notes
+- Total session count: 265 → 260 (net −5: removed 10, added 5)
 
 ---
 
-## Missing Recipe Links — 42 files
+## Missing Recipe Links — 38 files
 
 ### Intentionally exempt (freestyle/challenge)
 
@@ -52,7 +49,7 @@ Rebalance pork/poultry (move 4 sessions from 21-22 to 23-24), or accept the asym
 - [ ] S232 — The Open Kitchen *(capstone)*
 - [ ] S233 — The Final Dinner *(capstone)*
 
-### Needs recipe links (~32 files)
+### Needs recipe links (~28 files)
 
 **Unit 2**
 
@@ -61,10 +58,6 @@ Rebalance pork/poultry (move 4 sessions from 21-22 to 23-24), or accept the asym
 **Unit 3**
 
 - [ ] S81 — Beef Stock & Its Derivatives
-- [ ] S118 — Pancetta-Style Cured Belly
-- [ ] S120 — Unit 3 Capstone: Six-Month Inventory
-- [ ] S121 — Bacon-Cured Salmon Breakfast Board
-- [ ] Svc30 — Complete Cured Meat Tasting
 
 **Unit 4**
 
@@ -101,7 +94,7 @@ Rebalance pork/poultry (move 4 sessions from 21-22 to 23-24), or accept the asym
 
 ---
 
-## Missing Compare Notes — 135 files
+## Missing Compare Notes — 130 files
 
 ### Blocks with ZERO Compare Notes (all sessions missing)
 
@@ -260,18 +253,13 @@ Rebalance pork/poultry (move 4 sessions from 21-22 to 23-24), or accept the asym
 - [ ] S105 — Mussels in Tomato-Saffron Broth
 - [ ] Svc26 — Multi-Shellfish Plateau
 
-**Block 21–22 Pork & Charcuterie** (10 missing)
+**Block 21–22 Pork** (5 missing)
 
 - [ ] S108 — Pork Tenderloin: Speed & Precision
 - [ ] S109 — Vietnamese Grilled Pork Chop
 - [ ] S110 — Belly: Pan-Crispy
 - [ ] S111 — Pork Ribs: Two Methods
 - [ ] S112 — Porchetta: Italian Pork at Its Peak
-- [ ] S114 — Gravlax: Cured Salmon
-- [ ] S116 — Taste the Gravlax: Charcuterie Board
-- [ ] S120 — Unit 3 Capstone: Six-Month Inventory
-- [ ] S121 — Bacon-Cured Salmon Breakfast Board
-- [ ] Svc29 — Full Charcuterie Spread + Rillettes
 
 **Block 13–14 Pasta & Grains** (4 missing)
 

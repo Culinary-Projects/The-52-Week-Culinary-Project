@@ -11,12 +11,13 @@
 > ⏰ **Planning Ahead**
 >
 > - **Session 62 (High-Heat Whole-Bird Roast):** dry-brine the bird the night before
+> - **Session 69 (Gai Yang):** marinate the chicken at least 2 hours, preferably overnight
 > - **Service 16 (Duck Confit):** cure the duck legs the evening before; plan for 4–6 hr low cook
+> - **Service 17 (Roast Turkey):** dry-brine the turkey 24–48 hours ahead
 
 ---
 
-
-## Block 13 — Poultry in Depth
+## Block 23 — Poultry Fundamentals
 
 ---
 
@@ -25,6 +26,16 @@
 - [Session 64: Braised Poultry: Coq au Vin](session-64-braised-poultry-coq-au-vin.md)
 - [Session 65: Pan-Seared Chicken Breast + Pan Sauce](session-65-pan-seared-chicken-breast-pan-sauce.md)
 - [⏰ Service 16: Duck Confit](service-16-duck-confit.md)
+
+## Block 24 — Expanding the Repertoire
+
+---
+
+- [Session 66: Chicken Thighs — Crispy Skin, Dark-Meat Technique](session-66-chicken-thighs-crispy-skin-dark-meat.md)
+- [Session 67: Chicken Stock from Scratch + Chicken Soup](session-67-chicken-stock-and-soup.md)
+- [Session 68: Stir-Fry — Kung Pao Chicken](session-68-stir-fry-kung-pao-chicken.md)
+- [Session 69: Thai Grilled Chicken (Gai Yang)](session-69-thai-grilled-chicken-gai-yang.md)
+- [⏰ Service 17: Roast Turkey Dinner](service-17-roast-turkey-dinner.md)
 
 ### A Book Worth Having
 

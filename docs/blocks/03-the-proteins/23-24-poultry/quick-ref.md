@@ -1,22 +1,10 @@
-# ⚡ Block 21–24 Quick Reference — Poultry
+# ⚡ Block 23–24 Quick Reference — Poultry
 
 ← [Back to Full Guide](index.md) | [Shopping List →](shopping-list.md)
 
 ---
 
-## Block 23 — Sessions 58–61: Capstone Cook
-
-| Session | Dish | Skill | Link |
-|-----|------|-------|------|
-| **Session 58** | *Menu planning* | Design a 3-course dinner for the project session | — |
-| **Session 59** | Dry-run of your hardest project-session dish + Simple Green Salad | Technique rehearsal, no pressure | [Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) |
-| **Session 60** | Thai-Style Larb + Jasmine Rice + Quick-Pickled Cucumbers | Knife speed benchmark; acid + umami balance | [Larb](https://www.seriouseats.com/larb-muang-moo-northern-thai-style-chopped-pork-salad-recipe) · [Rice](https://www.seriouseats.com/perfect-stovetop-thai-jasmine-rice) · [Pickles](https://www.seriouseats.com/quick-pickled-cucumbers-rice-vinegar-recipe) |
-| **Session 61** | Grilled Cheese + Tomato Soup | Rest — mise en place the project dinner | [Grilled Cheese](https://www.seriouseats.com/crispy-grilled-cheese-sandwich-tip-11891994) · [Tomato Soup](https://www.seriouseats.com/thick-creamy-tomato-soup-recipe) |
-| **Service 15** | **3-Course Dinner for Guests — no recipes during service** | Full synthesis: Blocks 1–24 techniques | *Suggested:* [Shrimp Cocktail](https://www.seriouseats.com/shrimp-cocktail-recipe) · [Duck Breast](https://www.seriouseats.com/pan-seared-duck-breast) · [Polenta](https://www.seriouseats.com/smooth-creamy-polenta-recipe) · [Root Veg](https://www.seriouseats.com/roasted-root-vegetables-with-lime-dressing-8728919) |
-
----
-
-## Block 24 — Sessions 62–65: Poultry in Depth
+## Block 23 — Poultry Fundamentals
 
 | Session | Dish | Skill | Link |
 |-----|------|-------|------|
@@ -28,26 +16,20 @@
 
 ---
 
-## The Midpoint Benchmarks
+## Block 24 — Expanding the Repertoire
 
-| Benchmark | Block 1 Target | Block 23 Target |
-|-----------|--------------|----------------|
-| **Onion dice** | Sub 5 min | Sub 2 min, uniform cuts |
-| **Pan sauce** | Can make one | Can make one from memory with any fond |
-| **Seasoning** | Season at end | Season in layers, know what's missing |
-| **Mise en place** | Forget half of it | Everything prepped before heat goes on |
-| **Stock** | Just bought it | Made it, stored it, used it |
+| Session | Dish | Skill | Link |
+|-----|------|-------|------|
+| **Session 66** | Crusty Chicken Thighs + Mushroom-Wine Sauce | Cold-pan start; rendering fat; quick pan sauce | [Jacques Pépin Crusty Chicken](https://www.seriouseats.com/jacques-pepin-crusty-chicken-with-mushrooms-white-wine-sauce-recipe) |
+| **Session 67** | Chicken Stock + Homemade Chicken Soup | Stock fundamentals; gelatin extraction; gentle simmer | [Chicken Stock](https://www.seriouseats.com/best-rich-easy-white-chicken-stock-recipe) · [Chicken Soup](https://www.seriouseats.com/classic-chicken-soup) |
+| **Session 68** | Kung Pao Chicken + Steamed Rice | Wok technique; velveting; Sichuan flavor balance | [Kung Pao Chicken](https://www.seriouseats.com/real-deal-kung-pao-chicken-recipe) |
+| **Session 69** | ⏰ Thai Grilled Chicken (Gai Yang) + Sweet Chile Sauce | Two-zone grilling; sugar marinades; spice pastes | [Gai Yang](https://www.seriouseats.com/thai-style-grilled-chicken-recipe) · [Chile Sauce](https://www.seriouseats.com/thai-style-sweet-chili-dipping-sauce-recipe) |
+| **Service 17** | ⏰ **Roast Turkey Dinner** + Gravy + Two Sides | Large-bird management; dry brine; multi-component timing | [Roast Turkey](https://www.seriouseats.com/the-best-simple-roast-turkey-gravy-recipe) |
 
 ---
 
 ## Shopping Notes
 
-**Block 23 capstone dinner** — shopping depends on *your* chosen menu. Plan it Session 58, shop mid-week.
+**Block 23** covers whole-bird roasting, spatchcocking, braising, pan searing, and duck confit. Buy whole chickens early in the week; duck legs may need a butcher order.
 
-*If using the suggested Shrimp Cocktail + Duck Breast menu:*
-- **Shrimp:** 1 lb large shrimp (16/20 count), cocktail sauce ingredients
-- **Duck:** 2–4 duck breasts, cherries or cherry preserves for sauce, good red wine
-- **Polenta:** coarse-ground cornmeal, good parmesan, butter, chicken stock
-- **Root vegetables:** carrots, parsnips, turnips, beets — your choice of combination
-
-**Block 23 Session 60 (Larb):** Ground pork or chicken, fresh mint, cilantro, shallots, fish sauce, lime juice, toasted rice powder (make your own: toast rice in a dry pan, grind in spice grinder).
+**Block 24** adds chicken thighs, stock making, wok stir-fry, grilling, and a full turkey dinner. The turkey (Service 17) needs 24–48 hours of dry-brining and the chicken for gai yang (Session 69) should marinate overnight.

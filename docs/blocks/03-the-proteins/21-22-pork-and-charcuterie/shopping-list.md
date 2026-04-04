@@ -1,4 +1,4 @@
-# 🛒 Block 19–22 Shopping List — Pork & Charcuterie
+# 🛒 Block 21–22 Shopping List — Pork
 
 ← [Back to Full Guide](index.md) | [Back to Quick Ref](quick-ref.md)
 
@@ -104,97 +104,13 @@
 
 ## 🥖 Bread
 
-- [ ] Crusty bread — 1 loaf (Block 17 — serve with pork belly chashu bowl; also Block 18 porchetta)
+- [ ] Crusty bread — 1 loaf (serve with pork belly chashu bowl; also porchetta)
 
 ---
 
-## 🥓 Charcuterie & Curing
+## 📝 Notes
 
-## ⚠️ Equipment Check
-
-- [ ] **Meat grinder or food processor** — for sausage; KitchenAid grinder attachment is fine
-- [ ] **Sausage stuffer or piping bag** — for stuffing casings; skip casings for patties
-- [ ] **Sheet pan + wire rack** — for curing and airing
-- [ ] **Scale** — cure ratios must be by weight, not volume
-- [ ] **Czech or glass container with lid** — for gravlax cure
-
----
-
-## 🥩 Proteins — Block 23
-
-- [ ] **Salmon fillet, skin-on, center-cut** — 1–1.5 lbs (Mon gravlax cure)
-- [ ] **Ground lamb or lamb shoulder** — 1 lb (Tue merguez; grind your own if possible)
-- [ ] **Pork shoulder** — 2 lbs (Sat rillettes — slow confit)
-- [ ] **Duck fat** — 1 lb jar (Sat rillettes; lard works too)
-
-**For charcuterie board (Wed):**
-
-- [ ] Prosciutto, salami, coppa — varied deli assortment
-- [ ] Pâté or store-bought rillette
-
----
-
-## 🥩 Proteins — Block 24
-
-- [ ] **Pork belly** — 1.5 lbs (Mon pancetta cure — won't eat until Block 27)
-- [ ] **Chicken thighs** — 4 bone-in or duck legs × 2 (Tue rillettes)
-- [ ] **Store-bought pancetta** — for Mon pasta carbonara comparison
-
-**For cured meat tasting (Sat):**
-
-- [ ] 5 different cured meats from deli/specialty market — prosciutto, salami, coppa or speck, regional specialty, pâté
-
----
-
-## 🌿 Spices & Cure Ingredients
-
-- [ ] Diamond Crystal Kosher salt — large box (all curing uses by weight)
-- [ ] Granulated sugar (gravlax) and brown sugar (candied salmon)
-- [ ] Fresh dill — 1 large bunch (Mon gravlax)
-- [ ] Whole black peppercorns (cure + merguez)
-- [ ] Cumin, coriander, smoked paprika, cayenne — for merguez
-- [ ] Harissa — small jar (Tue merguez meal)
-- [ ] Bay leaves — dried (pancetta cure)
-- [ ] Fresh thyme — 1 bunch (pancetta cure + rillettes)
-
----
-
-## 🥦 Produce
-
-- [ ] Red onions — 4 (quick pickles Fri)
-- [ ] Cucumbers — 3 (pickles)
-- [ ] Jalapeños — 4 (optional pickles)
-- [ ] Garlic — 2 heads
-- [ ] Lemons — 4
-- [ ] Shallots — 4
-- [ ] Red bell peppers — 2 (Session 115 merguez plate accompaniment — roast until charred)
-- [ ] Butter lettuce — 1 head (Session 116 salad)
-
-**Board accompaniments (Wed + Sat):**
-
-- [ ] Cornichons — 1 jar
-- [ ] Whole-grain mustard
-- [ ] Honey — small jar
-- [ ] Grapes or dried cherries
-- [ ] Marcona almonds
-
----
-
-## 🧂 Pantry
-
-- [ ] White wine vinegar (quick pickles + brine)
-- [ ] Apple cider vinegar
-- [ ] Baguette — multiple (boards; buy fresh each time)
-- [ ] Rye bread or pumpernickel (Fri cured salmon board)
-- [ ] Cream cheese (Fri cured salmon)
-- [ ] Capers (Fri and boards)
-- [ ] Couscous (Tue merguez dinner)
-- [ ] Eggs — 6 (Mon Block 24 carbonara; various)
 - [ ] Pine nuts — ¼ cup (Session 106 roasted cauliflower with pine nuts and capers)
 - [ ] Walnuts — ½ cup (Session 106 apple-celery-walnut salad)
 - [ ] Long-grain or jasmine rice — 1 lb (Session 108 pilaf-style rice + Session 109 steamed rice)
 - [ ] Cornmeal — 1 cup (Session 111 cornbread)
-- [ ] Plain whole-milk yogurt — 1 cup (Session 115 merguez dipping sauce)
-- [ ] Pecorino Romano + Parmesan (carbonara Mon Block 26)
-- [ ] Spaghetti — 1 lb (Mon Block 24 carbonara)
-- [ ] Sheep casings — optional; order online (Tue sausage)
