@@ -26,4 +26,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Red Wine Braised Short Ribs (In-Depth Guide to Braising) — Helen Rennie](https://www.youtube.com/watch?v=aOI5pUXSQ4M) — Helen covers the full process from sear to sauce, including how she reduces and finishes the braising liquid. Compare your sauce's body and depth after reduction.
+
+---
+
 [← Block 15–16: Beef Overview](index.md)

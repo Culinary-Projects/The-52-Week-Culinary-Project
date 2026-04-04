@@ -28,4 +28,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [BETTER Braised Beef Short Ribs (w. Creamy Polenta) — Brian Lagerstrom](https://www.youtube.com/watch?v=rAQQMiQYq3Q) — Brian pairs braised short ribs with creamy polenta — the same structure as your dinner. Compare his sauce reduction, meat tenderness, and polenta texture to yours.
+
+---
+
 [← Block 15–16: Beef Overview](index.md)

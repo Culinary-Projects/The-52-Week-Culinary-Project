@@ -27,4 +27,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [This is a 43-Minute Steak Masterclass — Ethan Chlebowski](https://www.youtube.com/watch?v=AaHbfrryeYA) — Ethan covers reverse sear alongside other techniques. Watch how he gauges internal temp and the final sear — compare your edge-to-edge doneness and crust.
+
+---
+
 [← Block 15–16: Beef Overview](index.md)

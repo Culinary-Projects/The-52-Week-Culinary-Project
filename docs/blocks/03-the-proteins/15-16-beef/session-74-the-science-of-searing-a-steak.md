@@ -32,4 +32,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [POV How to Cook a Steak — J. Kenji López-Alt](https://www.youtube.com/watch?v=INiAM1u925E) — Kenji's POV walkthrough of a butter-basted steak. Watch his heat management, when he adds butter, and how often he bastes. Compare the crust color and evenness to yours.
+
+---
+
 [← Block 15–16: Beef Overview](index.md)

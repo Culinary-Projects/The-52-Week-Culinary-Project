@@ -24,4 +24,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Bistro-Style NY Strip Steak — Food Wishes](https://www.youtube.com/watch?v=lCP83EajBkk) — Chef John walks through a complete bistro-style steak dinner with pan sauce. Compare your plating, sauce consistency, and side pairing.
+
+---
+
 [← Block 15–16: Beef Overview](index.md)

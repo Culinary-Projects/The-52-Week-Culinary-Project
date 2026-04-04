@@ -28,4 +28,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Steak 201: Butcher's Cuts — Adam Ragusea](https://www.youtube.com/watch?v=amcbGsJkPj8) — Adam breaks down value cuts and how to shop for steak on a budget. Compare his picks and cooking approach to what you found at your butcher.
+
+---
+
 [← Block 15–16: Beef Overview](index.md)

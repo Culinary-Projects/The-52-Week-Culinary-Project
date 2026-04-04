@@ -25,4 +25,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [The Foolproof Formula for Braising Beef — Lan Lam / America's Test Kitchen](https://www.youtube.com/watch?v=t0ORhrvqvRw) — Lan Lam walks through the braising formula: sear, build aromatics, add liquid, low-and-slow. Compare your sear depth and how fork-tender the meat gets.
+
+---
+
 [← Block 15–16: Beef Overview](index.md)

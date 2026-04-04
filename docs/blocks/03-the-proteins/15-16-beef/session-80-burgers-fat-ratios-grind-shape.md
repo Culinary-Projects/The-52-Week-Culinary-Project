@@ -35,4 +35,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Late Night Smashed Cheeseburger — J. Kenji López-Alt](https://www.youtube.com/watch?v=Wwgn5k_TzKM) — Kenji's late-night smash burger technique. Watch how hard he presses, when he salts, and the crust he achieves. Compare your lace edges and melt to his.
+
+---
+
 [← Block 15–16: Beef Overview](index.md)

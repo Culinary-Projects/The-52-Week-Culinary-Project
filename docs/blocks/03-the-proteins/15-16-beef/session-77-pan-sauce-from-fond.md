@@ -30,4 +30,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [The Secrets to Easy & Delicious Pan Sauces — Lan Lam / America's Test Kitchen](https://www.youtube.com/watch?v=z8Y88GS7TSg) — Lan Lam explains the full pan sauce process: fond, deglaze, reduce, mount with butter. Compare your sauce's consistency and gloss to hers.
+
+---
+
 [← Block 15–16: Beef Overview](index.md)

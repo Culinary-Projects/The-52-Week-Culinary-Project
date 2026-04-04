@@ -7,7 +7,7 @@
 **Skill:** Making brown beef stock from roasted bones; understanding veal vs. beef stock; demi-glace concept
 
 **Read first:**
-- How to Make Rich Beef Stock — the complete process
+- [Serious Eats — Pressure Cooker Beef Stock](https://www.seriouseats.com/pressure-cooker-beef-stock) — Daniel Gritzer's method covers roasting bones, mirepoix, deglazing, and straining; the techniques apply whether you use a pressure cooker or a traditional 4–6 hour simmer
 
 **What you're learning:** Beef stock is the foundation of every classic French sauce and many other traditions. The difference between white and brown stock is whether the bones are roasted first (they are, for brown stock). Roasting creates Maillard compounds that the hot water extracts during the long, gentle simmer. This is why beef stock is darker, richer, and more complex than chicken stock — and why it takes 4–6 hours. A demi-glace is simply a reduction of brown stock and brown sauce combined, concentrated to near-syrup — the most powerful flavoring agent in European cooking.
 
@@ -21,6 +21,10 @@
 - **Store:** Reduces to a semi-gelatinous consistency when chilled — that's the collagen working
 
 *No full meal tonight — stock-making is its own session. Use your stock later in the week or freeze in 1-cup portions.*
+
+---
+
+> 🎥 **Compare Notes:** [Beef Stock (With Leftover Short Rib Bones) — Helen Rennie](https://www.youtube.com/watch?v=-0ez6I8kfqk) — Helen shows her approach to brown beef stock using leftover bones. Compare your roasting color, simmering clarity, and final gelatin set.
 
 ---
 
