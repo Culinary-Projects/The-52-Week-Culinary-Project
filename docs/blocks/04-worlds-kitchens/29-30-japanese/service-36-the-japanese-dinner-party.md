@@ -11,12 +11,12 @@
 **Course 1 — Soup:** Miso soup with dashi, tofu, and wakame; served in lacquer bowls if available
 
 **Course 2 — Small Bites:** One or two of:
-- Gyoza (crispy-bottom, pan-fried)
+- [Gyoza](https://www.justonecookbook.com/gyoza/) (crispy-bottom, pan-fried)
 - Agedashi tofu
 - Edamame with sea salt
 
 **Course 3 — Main Selection (choose one or two):**
-- Tempura set (vegetable + shrimp) with tentsuyu dipping sauce
+- [Tempura set](https://www.justonecookbook.com/shrimp-tempura/) (vegetable + shrimp) with tentsuyu dipping sauce
 - Teriyaki salmon or chicken with steamed rice
 - Ramen course (unexpected as a dinner party dish; dramatic when served properly in heated bowls)
 

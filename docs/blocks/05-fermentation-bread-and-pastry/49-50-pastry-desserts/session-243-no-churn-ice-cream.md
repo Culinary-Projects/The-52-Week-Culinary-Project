@@ -5,7 +5,7 @@
 ---
 
 **Skill:** Base composition; aeration without a machine; freeze behavior
-**Read first:** No-Churn Ice Cream
+**Read first:** [No-Churn Vanilla Ice Cream](https://www.kingarthurbaking.com/recipes/no-churn-vanilla-ice-cream-recipe) — King Arthur
 
 **What you're learning:** No-churn ice cream uses sweetened condensed milk and whipped cream to create a scoopable texture without an ice cream machine. The condensed milk provides sugar concentration that lowers the freezing point, and the whipped cream provides air. The result is richer and denser than churned ice cream — closer to a semifreddo. Make a vanilla base, then a variation (coffee, strawberry, or chocolate chip).
 

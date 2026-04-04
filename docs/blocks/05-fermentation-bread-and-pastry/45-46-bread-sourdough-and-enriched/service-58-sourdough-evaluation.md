@@ -9,6 +9,8 @@
 
 **Full Meal:** Sourdough tasting alongside your best lean dough from Block 43–44 — this is a comparison, not a competition.
 
+**Reference recipe:** [Naturally Leavened Sourdough Bread](https://www.kingarthurbaking.com/recipes/naturally-leavened-sourdough-bread-recipe) — King Arthur
+
 ---
 
 > 🎥 **Compare Notes:** [7 Crumb Clues: Upgrade Your Sourdough Game — The Bread Code](https://www.youtube.com/watch?v=sFQZIKb_iIA) — How to read your crumb structure to diagnose over/underproofing, shaping issues, and fermentation problems.

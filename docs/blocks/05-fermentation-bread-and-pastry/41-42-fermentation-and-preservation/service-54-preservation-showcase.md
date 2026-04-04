@@ -5,7 +5,7 @@
 ---
 
 **Skill:** Organizing a pantry tasting; understanding the preservation spectrum
-**Goal:** Lay out everything you've made this block: sauerkraut, quick pickles, hot sauce, gravlax, jam, cured egg yolks, confit garlic, compound butters, and shrubs. This is your extended pantry — every item here amplifies the cooking you do in every subsequent block.
+**Goal:** Lay out everything you've made this block: sauerkraut, quick pickles, hot sauce, [gravlax](https://www.epicurious.com/recipes/food/views/gravlax-51214520), jam, cured egg yolks, confit garlic, compound butters, and shrubs. This is your extended pantry — every item here amplifies the cooking you do in every subsequent block.
 
 Build a meal entirely from your preserved and fermented products plus fresh accompaniments (bread, greens, cheese, crackers).
 

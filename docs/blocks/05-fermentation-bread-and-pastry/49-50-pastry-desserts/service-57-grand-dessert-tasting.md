@@ -8,7 +8,7 @@
 **Goal:** Build a multi-dessert tasting that showcases the range of the pastry blocks (47–50). Choose at least four preparations from across both blocks. Plate them as a restaurant would — each on its own plate, with a sauce, a garnish, and intention.
 
 **Required elements:**
-- One custard (crème brûlée, panna cotta, or pastry cream)
+- One custard ([crème brûlée](https://www.kingarthurbaking.com/recipes/classic-creme-brulee-recipe), panna cotta, or pastry cream) — King Arthur reference
 - One frozen element (ice cream, sorbet, or granita)
 - One chocolate element (mousse, truffles, or ganache)
 - One pastry dough element (tart, éclair, or mille-feuille)

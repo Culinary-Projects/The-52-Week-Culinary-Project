@@ -9,7 +9,7 @@ Cook a complete Sichuan-focused dinner for two to four people. The goal is to co
 | Dish | Heat level | Role on table |
 |------|-----------|---------------|
 | Smashed cucumber salad | Low (just chilli flake) | Refreshing, palate-clearing starter |
-| Mapo tofu | High málà | Center of the table |
+| [Mapo tofu](https://www.seriouseats.com/real-deal-mapo-dofu-tofu-chinese-sichuan-recipe) | High málà | Center of the table |
 | Stir-fried green beans with garlic | None | Cooling, textural contrast |
 | Steamed white rice | None | Base and palate reset |
 | Dan dan noodles (half portion, dressed lighter) | Medium | A second carbohydrate |

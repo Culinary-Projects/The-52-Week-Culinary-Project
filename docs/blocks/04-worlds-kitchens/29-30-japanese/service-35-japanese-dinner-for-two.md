@@ -9,7 +9,7 @@
 **Suggested structure:**
 1. **Miso soup** (from your dashi, with tofu and wakame seaweed)
 2. **Something fried:** Agedashi tofu or tempura (see Session 142 for tempura technique — cook this block in any order)
-3. **Main:** Teriyaki chicken or salmon; or a nimono dish; or ramen as a centerpiece course
+3. **Main:** [Teriyaki chicken](https://www.justonecookbook.com/chicken-teriyaki/) or salmon; or a nimono dish; or ramen as a centerpiece course
 4. **Rice:** Properly cooked Japanese short-grain rice (see Session 142 note); served with pickled vegetables (tsukemono) — even quick-pickled cucumber in rice vinegar works
 
 ---

@@ -11,7 +11,7 @@ The traditional Chinese dinner table presents everything at once — multiple di
 | Celery root and cucumber appetizer | Light opener; no cooking |
 | Hot and sour soup | Starter; the egg ribbon technique on display |
 | Steamed whole fish | Cantonese technique; freshness as the statement |
-| Hong shao rou | Red-braised pork; make it early in the block, reheat and it's even better |
+| [Hong shao rou](https://thewoksoflife.com/red-braised-pork/) | Red-braised pork; make it early in the block, reheat and it's even better |
 | Stir-fried bok choy with garlic | Fast, green, balancing the rich dishes |
 | Steamed jasmine rice | Cook double the amount |
 

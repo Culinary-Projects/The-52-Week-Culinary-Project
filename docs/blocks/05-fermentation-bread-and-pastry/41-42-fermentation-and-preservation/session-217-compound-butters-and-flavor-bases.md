@@ -5,7 +5,7 @@
 ---
 
 **Skill:** Flavored butter technique; herb preservation; freezer pantry building
-**Read first:** Compound Butter (maître d'hôtel butter)
+**Read first:** [Compound Butter](https://www.bonappetit.com/recipe/compound-butter) (maître d'hôtel butter) — Bon Appétit
 
 **What you're learning:** Compound butter is softened butter mixed with herbs, spices, or aromatics, then rolled into a log and chilled or frozen. A slice melts over a steak (callback to Block 15–16), a fish fillet (Block 17–18), or a bowl of pasta. It's the simplest flavor multiplier in the kitchen. Make three versions today: herb (parsley, chives, lemon zest), garlic-miso (callbacks to Blocks 29–30 and 09–10), and a sweet version (honey-cinnamon for morning toast and pancakes).
 

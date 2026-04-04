@@ -5,7 +5,7 @@
 ---
 
 **Skill:** Sugar-to-acid ratio; crystal size control; texture differences between churned and still-frozen
-**Read first:** Raspberry Sorbet and granita technique (freeze in a pan, scrape with a fork every 30 minutes)
+**Read first:** [Raspberry Sorbet](https://www.kingarthurbaking.com/recipes/raspberry-sorbet-recipe) — King Arthur; and granita technique (freeze in a pan, scrape with a fork every 30 minutes)
 
 **What you're learning:** Sorbet is fruit + sugar + water, churned smooth. Granita is the same base, frozen still and scraped into crystals. The sugar concentration controls freezing point and texture — too little sugar and the sorbet freezes rock-hard; too much and it won't set. A splash of alcohol (vodka, limoncello) keeps sorbet softer at serving temperature. The granita requires no equipment at all — just a pan, a freezer, and a fork.
 

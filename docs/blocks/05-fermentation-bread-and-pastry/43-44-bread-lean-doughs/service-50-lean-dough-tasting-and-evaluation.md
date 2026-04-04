@@ -12,6 +12,7 @@ Then: bake one more loaf of whatever felt most satisfying this block. Your hands
 **Full Meal:**
 - Bread tasting board with cultured butter, olive oil, fleur de sel
 - Build a simple cheese spread using your breads as the carriers
+- **Reference recipe:** [No-Knead Crusty White Bread](https://www.kingarthurbaking.com/recipes/no-knead-crusty-white-bread-recipe) — King Arthur
 
 ---
 

@@ -9,7 +9,7 @@
 
 1. **Antipasto:** Cured meats, olives, fresh mozzarella, bruschetta
 2. **Primo:** Risotto or fresh pasta
-3. **Secondo:** Bistecca alla Fiorentina (thick T-bone, wood-fire or cast iron) — or osso buco if not done on Wed Block 27
+3. **Secondo:** Bistecca alla Fiorentina (thick T-bone, wood-fire or cast iron) — or [osso buco](https://www.simplyrecipes.com/recipes/osso_buco/) if not done on Wed Block 27
 4. **Contorni:** Roasted seasonal vegetables or Tricolore Salad (arugula, radicchio, shaved Parmesan)
 5. **Dolce:** Tiramisu or panna cotta (make ahead)
 
