@@ -24,4 +24,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [How to Make Dashi (The Ultimate Dashi Guide) — Just One Cookbook](https://www.youtube.com/watch?v=dnp9baEtdFk) — Nami walks through every type of dashi; compare your kombu extraction timing, katsuobushi steeping, and final clarity.
+
+---
+
 [← Block 29–30: Japanese Cuisine Overview](index.md)

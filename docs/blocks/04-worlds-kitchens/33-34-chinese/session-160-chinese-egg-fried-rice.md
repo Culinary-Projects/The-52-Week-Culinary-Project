@@ -22,4 +22,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Stop Overthinking Fried Rice — Chinese Cooking Demystified](https://www.youtube.com/watch?v=owUiKyx4chI) — CCD debunks common fried rice myths and shows the real technique; compare your wok heat management, egg incorporation, and grain separation.
+
+---
+
 [← Block 33–34: Chinese Cuisine Overview](index.md)

@@ -16,4 +16,8 @@ Cook a complete Sichuan-focused dinner for two to four people. The goal is to co
 
 ---
 
+> 🎥 **Compare Notes:** [The Sichuan ‘Homestyle’ Flavor Profile (3 Recipes) — Chinese Cooking Demystified](https://www.youtube.com/watch?v=gHIzqSJqgPk) — CCD explores the jiachang flavor profile across three dishes; compare how you balance the Sichuan heat-and-savor flavors across your dinner.
+
+---
+
 [← Block 33–34: Chinese Cuisine Overview](index.md)

@@ -22,4 +22,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Galbi-jjim (Braised Beef Short Ribs) — Maangchi](https://www.youtube.com/watch?v=vtGzj6cUn7Q) — Maangchi's galbi-jjim is the centerpiece of this dinner; compare your braising time, sauce reduction, and how you coordinate banchan alongside the mains.
+
+---
+
 [← Block 31–32: Korean Cuisine Overview](index.md)

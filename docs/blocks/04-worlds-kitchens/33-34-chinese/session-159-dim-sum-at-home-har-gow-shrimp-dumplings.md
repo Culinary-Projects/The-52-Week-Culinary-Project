@@ -16,4 +16,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Har Gow, Dim Sum Shrimp Dumplings — Chinese Cooking Demystified](https://www.youtube.com/watch?v=U1gg3JEW1CQ) — CCD tackles the notoriously tricky wheat starch wrapper; compare your dough translucency, pleating precision, and steaming timing.
+
+---
+
 [← Block 33–34: Chinese Cuisine Overview](index.md)

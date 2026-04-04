@@ -21,4 +21,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Korean Beef Barbecue (LA Galbi) — Maangchi](https://www.youtube.com/watch?v=JAF3Bpy-AsY) — Maangchi demonstrates galbi marinade and grilling; compare your meat cutting, marinade penetration, and grill management.
+
+---
+
 [← Block 31–32: Korean Cuisine Overview](index.md)

@@ -22,4 +22,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [My Favorite Japanese Gyoza Dumplings — Kenji López-Alt](https://www.youtube.com/watch?v=VoTqzjg83u8) — Kenji's POV gyoza from filling to crispy-bottom pan-fry; compare your pleating technique, water-to-starch ratio, and how the crust forms.
+
+---
+
 [← Block 29–30: Japanese Cuisine Overview](index.md)

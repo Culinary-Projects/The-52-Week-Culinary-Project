@@ -23,4 +23,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Make Congee Like the Cantonese (Shunde Style) — Chinese Cooking Demystified](https://www.youtube.com/watch?v=gUlkwSHOT7Q) — CCD covers Shunde-style congee with silky texture; compare your rice-to-water ratio, stirring frequency, and how the porridge breaks down.
+
+---
+
 [← Block 33–34: Chinese Cuisine Overview](index.md)

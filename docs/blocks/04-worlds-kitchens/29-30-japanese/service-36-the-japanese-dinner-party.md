@@ -32,4 +32,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [DIY Sushi: Temaki Hand Roll Party Guide — Just One Cookbook](https://www.youtube.com/watch?v=ngzLdTg5vRg) — Nami shows how to set up and host a temaki party; compare your prep work, station layout, and how guests interact with the spread.
+
+---
+
 [← Block 29–30: Japanese Cuisine Overview](index.md)

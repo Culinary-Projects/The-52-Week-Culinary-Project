@@ -19,4 +19,8 @@ Total cook time if hong shao rou made ahead: approximately 90 minutes active.
 
 ---
 
+> 🎥 **Compare Notes:** [Chinese Mise en Place and Cooking a Full Meal — Chinese Cooking Demystified](https://www.youtube.com/watch?v=i2w77ip9tiM) — CCD shows how to organize and time a multi-dish Chinese meal; compare your prep sequencing and how you manage the wok across courses.
+
+---
+
 [← Block 33–34: Chinese Cuisine Overview](index.md)

@@ -14,4 +14,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [How to Make a Multi-Course Japanese Meal — Soy and Pepper](https://www.youtube.com/watch?v=hMfP-m6qzik) — A full Japanese home dinner cooked start to finish; compare your timing, plating, and how the courses flow together.
+
+---
+
 [← Block 29–30: Japanese Cuisine Overview](index.md)

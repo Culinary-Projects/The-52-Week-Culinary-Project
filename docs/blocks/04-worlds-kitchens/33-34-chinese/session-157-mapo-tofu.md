@@ -25,4 +25,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [How to Make Authentic Chinese Mapo Tofu — Chinese Cooking Demystified](https://www.youtube.com/watch?v=ZfsZwwrTFD4) — CCD's definitive mapo tofu; compare your doubanjiang bloom, Sichuan peppercorn handling, and tofu texture.
+
+---
+
 [← Block 33–34: Chinese Cuisine Overview](index.md)

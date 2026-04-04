@@ -21,4 +21,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Learn to Make Classic Miso Soup — Just One Cookbook](https://www.youtube.com/watch?v=wshf6yZbhwk) — Nami demonstrates classic miso soup from dashi to finish; compare your miso dissolution technique and tofu handling.
+
+---
+
 [← Block 29–30: Japanese Cuisine Overview](index.md)

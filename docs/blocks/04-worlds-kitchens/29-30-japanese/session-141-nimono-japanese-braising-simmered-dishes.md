@@ -23,4 +23,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [How to Make Nikujaga (Japanese Meat and Potato Stew) — Just One Cookbook](https://www.youtube.com/watch?v=0DNXABd26jk) — Classic nimono technique applied to nikujaga; compare your simmering liquid ratios, drop-lid use, and how the potatoes absorb flavor.
+
+---
+
 [← Block 29–30: Japanese Cuisine Overview](index.md)

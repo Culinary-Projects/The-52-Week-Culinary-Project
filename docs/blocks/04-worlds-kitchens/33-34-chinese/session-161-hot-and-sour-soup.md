@@ -25,4 +25,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [The Original Hot and Sour Soup, Wuxi-Style — Chinese Cooking Demystified](https://www.youtube.com/watch?v=Pts0cLqGfkQ) — CCD traces the soup to its Wuxi roots; compare your vinegar-to-white pepper balance, egg ribbon technique, and starch slurry consistency.
+
+---
+
 [← Block 33–34: Chinese Cuisine Overview](index.md)

@@ -30,4 +30,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Home-Style Red Braised Pork Belly — Chinese Cooking Demystified](https://www.youtube.com/watch?v=K4E1Y27LWQE) — CCD walks through the Shanghai classic step by step; compare your sugar caramelization, braising liquid ratio, and final glaze.
+
+---
+
 [← Block 33–34: Chinese Cuisine Overview](index.md)

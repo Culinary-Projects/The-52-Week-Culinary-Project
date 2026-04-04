@@ -23,4 +23,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [How to Make Sushi Rolls (Hosomaki) — Just One Cookbook](https://www.youtube.com/watch?v=K5wdfUWckK4) — Nami demonstrates rice seasoning, nori handling, and tight rolling technique; compare your rice vinegar balance and roll tightness.
+
+---
+
 [← Block 29–30: Japanese Cuisine Overview](index.md)

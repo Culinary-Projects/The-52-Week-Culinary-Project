@@ -26,4 +26,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Why Homemade Ramen Is the Perfect Make-Ahead Weeknight Meal — Ethan Chlebowski](https://www.youtube.com/watch?v=YPgehlk3JkQ) — Ethan breaks down broth, tare, and toppings as separate components; compare your approach to building flavor layers and assembly.
+
+---
+
 [← Block 29–30: Japanese Cuisine Overview](index.md)

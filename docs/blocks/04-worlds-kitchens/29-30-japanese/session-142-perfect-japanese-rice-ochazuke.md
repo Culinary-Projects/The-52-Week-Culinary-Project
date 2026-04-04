@@ -22,4 +22,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [How to Make Ochazuke — Just One Cookbook](https://www.youtube.com/watch?v=VEodY9THtmw) — Nami shows ochazuke assembly and topping choices; compare your rice texture and how you balance toppings with the tea broth.
+
+---
+
 [← Block 29–30: Japanese Cuisine Overview](index.md)

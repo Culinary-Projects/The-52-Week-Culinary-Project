@@ -29,4 +29,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [My Dad's Secret Recipe for Steamed Fish — Made With Lau](https://www.youtube.com/watch?v=04bc0fyvOj4) — Daddy Lau demonstrates Cantonese steamed fish with his signature soy-ginger dressing; compare your steaming time, fish freshness indicators, and sauce drizzle technique.
+
+---
+
 [← Block 33–34: Chinese Cuisine Overview](index.md)

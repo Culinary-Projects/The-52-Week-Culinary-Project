@@ -22,4 +22,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [How to Make Tempura at Home — Munchies](https://www.youtube.com/watch?v=YjqRU1mNBSQ) — Professional Japanese chef demonstrates proper tempura batter mixing, oil temperature control, and frying timing; compare your batter consistency and coating crispness.
+
+---
+
 [← Block 29–30: Japanese Cuisine Overview](index.md)
