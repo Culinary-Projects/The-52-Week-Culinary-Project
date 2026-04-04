@@ -16,4 +16,8 @@ Tahdig — the crispy rice crust at the bottom of the Persian rice pot — is on
 
 ---
 
+> 🎥 **Compare Notes:** [How to Make Persian-Style Rice with Golden Crust — America's Test Kitchen](https://www.youtube.com/watch?v=UspfQAaPHQ0) — Annie Petito walks through the parboil-and-steam method. Compare your tahdig's color and crunch to hers, and note how she handles the flip.
+
+---
+
 [← Block 13–14: Pasta & Grains from Scratch Overview](index.md)

@@ -16,4 +16,8 @@ The warm farro salad is a full grain side dish. The crispy salmon is the protein
 
 ---
 
+> 🎥 **Compare Notes:** [How to Make Pan-Fried Salmon Fillets With Crispy Skin — Serious Eats / Kenji](https://www.youtube.com/watch?v=TwTECqKNNmc) — Focus on how Kenji gets the skin side flat against the pan and how long he leaves it before flipping. Compare your skin crispness and the flesh doneness.
+
+---
+
 [← Block 13–14: Pasta & Grains from Scratch Overview](index.md)

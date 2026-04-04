@@ -17,4 +17,8 @@ Make the same dough from Session 50 (make it in the morning if you want to save 
 
 ---
 
+> 🎥 **Compare Notes:** [Easy Ricotta Ravioli with Tomato Sauce — Pasta Grannies](https://www.youtube.com/watch?v=CjFWIOafpDY) — Watch Nonna's rolling technique and how thin she gets the dough before filling. Compare your seal method and how much filling she uses per ravioli.
+
+---
+
 [← Block 13–14: Pasta & Grains from Scratch Overview](index.md)

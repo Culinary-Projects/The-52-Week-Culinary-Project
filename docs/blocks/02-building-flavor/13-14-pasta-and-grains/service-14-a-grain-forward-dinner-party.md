@@ -16,4 +16,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Risotto alla Milanese con Ossobuco — Italia Squisita](https://www.youtube.com/watch?v=iwKEZZzHlSU) — Giancarlo Perbellini's risotto technique at a professional level. Watch his stirring rhythm, when he adds saffron, and the final consistency — risotto should flow like lava when plated.
+
+---
+
 [← Block 13–14: Pasta & Grains from Scratch Overview](index.md)
