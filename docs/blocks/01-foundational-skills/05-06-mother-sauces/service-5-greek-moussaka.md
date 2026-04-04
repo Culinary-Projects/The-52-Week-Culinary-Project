@@ -20,6 +20,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Authentic Greek Moussaka & Greek Salad — Akis Petretzikis](https://www.youtube.com/watch?v=mCnYfVQvHhA) — Watch how he layers the eggplant and how thick his béchamel goes on top. Compare your crust color to his.
+
 ---
 
 [← Block 5–6: The 5 Mother Sauces Overview](index.md)

@@ -111,4 +111,4 @@
 | **Session 47** | [Braised white beans + crispy chickpeas](https://www.seriouseats.com/beans-legumes-pulses-varieties-recipes-cooking-tips) | Braising + pan-frying legumes |
 | **Session 48** | [Mushroom Bourguignon](https://www.bonappetit.com/recipe/mushroom-bourguignon) | Sear + braise |
 | **Session 49** | Potato Three Ways (Rösti / Purée / Dauphinoise) + Green Salad | Starch release, texture control | [Rösti](https://www.thekitchn.com/how-to-make-rosti-231574) · [Purée](https://www.seriouseats.com/rich-and-creamy-mashed-potatoes-recipe) · [Dauphinoise](https://www.bbcgoodfood.com/recipes/dauphinoise-potatoes) |
-| **🔨 Service 12** | [5-course vegetable tasting menu](https://www.bonappetit.com/story/how-to-roast-vegetables) | Multi-technique |
+| **🔨 Service 12** | [5-course vegetable tasting menu](service-12-the-vegetable-tasting-menu.md) | Multi-technique |

@@ -16,4 +16,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Grandma's Favorite Steak — Jacques Pépin Cooking At Home (KQED)](https://www.youtube.com/watch?v=5pEO78nIOwQ) — Watch how Pépin handles the pan sauce after searing — the deglaze, the butter, the confidence. Compare your pan sauce consistency to his.
+
+---
+
 [← Block 5–6: The 5 Mother Sauces Overview](index.md)

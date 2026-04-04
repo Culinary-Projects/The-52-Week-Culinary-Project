@@ -18,4 +18,8 @@ This is one of the most impressive things you can serve to guests and it require
 
 ---
 
+> 🎥 **Compare Notes:** [Salt-Baked Seabream (Shiogama-yaki) — Jun's Kitchen](https://www.youtube.com/watch?v=hETEWqHj-9A) — A Japanese take on the same technique. Watch how he packs the salt, the crack-and-reveal, and how moist the fish stays inside.
+
+---
+
 [← Block 9–10: Seasoning & Flavor Building Overview](index.md)

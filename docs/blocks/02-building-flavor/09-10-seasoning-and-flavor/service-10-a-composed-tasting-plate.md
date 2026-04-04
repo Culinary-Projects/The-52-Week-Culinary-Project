@@ -18,4 +18,8 @@ Before you plate everything, taste each component and ask: Is it salty enough? D
 
 ---
 
+> 🎥 **Compare Notes:** [The Trick to Making Nobu's Miso-Marinated Black Cod at Home — America's Test Kitchen](https://www.youtube.com/watch?v=MdogaJDbIrg) — Watch how ATK handles the miso marinade and broiling. Compare your glaze caramelization and fish texture to theirs.
+
+---
+
 [← Block 9–10: Seasoning & Flavor Building Overview](index.md)

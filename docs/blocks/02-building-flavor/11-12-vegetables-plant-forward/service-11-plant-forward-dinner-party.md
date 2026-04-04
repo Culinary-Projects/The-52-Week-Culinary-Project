@@ -21,4 +21,8 @@ Cook a complete dinner where vegetables are the headline, not the support act. N
 
 ---
 
+> 🎥 **Compare Notes:** [The Wet Method of Cooking Mushrooms — Adam Ragusea](https://www.youtube.com/watch?v=OPJmJdStvwI) — A different approach to mushroom technique than the dry-sear method. Compare the results and decide which you prefer for your mushroom steaks.
+
+---
+
 [← Block 11–12: Vegetables & PlantForward Cooking Overview](index.md)

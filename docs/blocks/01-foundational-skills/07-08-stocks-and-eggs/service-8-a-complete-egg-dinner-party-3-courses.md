@@ -27,4 +27,8 @@ You've been cooking for eight weeks with deliberate intention. Before Block 9 (S
 
 ---
 
+> 🎥 **Compare Notes:** [How to Make Shakshuka — J. Kenji López-Alt](https://www.youtube.com/watch?v=voinXU09-Ns) — Watch how he builds the tomato base and when he adds the eggs. Compare how set your egg whites are versus his.
+
+---
+
 [← Block 7–8: Stocks & Eggs Overview](index.md)

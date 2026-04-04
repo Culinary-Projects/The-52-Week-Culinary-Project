@@ -16,6 +16,8 @@ The project session you make three things — stock, soup, and a complete dinner
 
 ---
 
+> 🎥 **Compare Notes:** [How to Make French Onion Soup — Serious Eats](https://www.youtube.com/watch?v=udBE4NXZpjU) — Pay attention to the onion caramelization time and how dark they go before the stock is added. Compare your broth color and cheese crust to theirs.
+
 ---
 
 [← Block 7–8: Stocks & Eggs Overview](index.md)
