@@ -13,4 +13,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [1 Buttery Dough, 3 Perfect Recipes — Claire Saffitz](https://www.youtube.com/watch?v=4MV8QYd5sOg) — Claire shows one enriched master dough yielding three different results — compare her approach to your enriched dough tasting.
+
+---
+
 [← Block 45–46: Bread — Sourdough & Enriched Doughs Overview](index.md)

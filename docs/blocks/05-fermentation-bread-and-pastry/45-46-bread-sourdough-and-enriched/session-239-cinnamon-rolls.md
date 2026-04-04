@@ -13,4 +13,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [I Baked 72 Cinnamon Rolls To Create The Perfect Recipe — Bon Appétit](https://www.youtube.com/watch?v=OGpMnx_PFLk) — Methodical testing of enriched dough variables (butter, sugar, flour) to arrive at the definitive cinnamon roll formula.
+
+---
+
 [← Block 45–46: Bread — Sourdough & Enriched Doughs Overview](index.md)

@@ -13,4 +13,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Chocolate Mousse for Beginners (and Experts) — Food Wishes](https://www.youtube.com/watch?v=MYn-rnW81Qs) — Chef John's approachable chocolate mousse covering melting, folding, and texture cues for beginners through advanced.
+
+---
+
 [← Block 49–50: Pastry — Desserts Overview](index.md)

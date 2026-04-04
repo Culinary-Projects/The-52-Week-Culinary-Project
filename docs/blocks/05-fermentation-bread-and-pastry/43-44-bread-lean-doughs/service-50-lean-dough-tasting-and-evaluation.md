@@ -15,4 +15,8 @@ Then: bake one more loaf of whatever felt most satisfying this block. Your hands
 
 ---
 
+> 🎥 **Compare Notes:** [1 Dough 3 Loaves 2.0 — Brian Lagerstrom](https://www.youtube.com/watch?v=HdoP33KPYtY) — Watch how Brian shapes and evaluates multiple loaves from the same base dough — compare his approach to your lean dough tasting lineup.
+
+---
+
 [← Block 43–44: Bread — Lean Doughs Overview](index.md)

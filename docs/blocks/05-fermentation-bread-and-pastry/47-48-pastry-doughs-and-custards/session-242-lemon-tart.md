@@ -13,4 +13,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Classic Lemon Tart Recipe — Preppy Kitchen](https://www.youtube.com/watch?v=CD7igrXVgVE) — Full lemon tart build: pâte sucrée shell, smooth lemon curd filling, and torching the top for a clean finish.
+
+---
+
 [← Block 47–48: Pastry — Doughs & Custards Overview](index.md)

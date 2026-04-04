@@ -14,4 +14,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [The Guide to Lacto-Fermentation — Joshua Weissman](https://www.youtube.com/watch?v=u80eGi6pTso) — Note Joshua's universal salt percentage, vessel selection, and how he ferments multiple vegetables — a perfect reference for assembling your tasting platter.
+
+---
+
 [← Block 41–42: Fermentation & Preservation Overview](index.md)

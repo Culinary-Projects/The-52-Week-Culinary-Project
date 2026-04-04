@@ -13,4 +13,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Kneading Enriched Bread Dough in Real Time — Bake with Jack](https://www.youtube.com/watch?v=aKPic7mbVu4) — Real-time demonstration of kneading butter-rich enriched dough through the sticky phase to windowpane.
+
+---
+
 [← Block 45–46: Bread — Sourdough & Enriched Doughs Overview](index.md)

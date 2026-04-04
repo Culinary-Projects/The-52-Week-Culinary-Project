@@ -17,4 +17,8 @@ Build a meal entirely from your preserved and fermented products plus fresh acco
 
 ---
 
+> 🎥 **Compare Notes:** [Charcuterie Board — But Cheaper — Joshua Weissman](https://www.youtube.com/watch?v=2oYRPD5UBPM) — Watch how Joshua builds a complete board with cured meats, pickled items, and preserves — focus on layout, pairings, and how homemade components elevate the spread.
+
+---
+
 [← Block 41–42: Fermentation & Preservation Overview](index.md)

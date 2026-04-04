@@ -16,4 +16,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [How to Make Compound Butter — Food Network](https://www.youtube.com/watch?v=bYKsaDc8qw4) — Observe the flavor incorporation technique, how they roll and shape the butter log, and the herb-to-butter ratios.
+
+---
+
 [← Block 41–42: Fermentation & Preservation Overview](index.md)

@@ -22,4 +22,8 @@ Serve it. Sit at the table. Be present.
 
 ---
 
+> 🎥 **Compare Notes:** [The Ultimate Fancy Date Night Dinner — Joshua Weissman](https://www.youtube.com/watch?v=CRKegw9w7Z8) — Joshua builds a multi-course dinner from scratch — watch his menu planning, timing, and plating ambition.
+
+---
+
 [← Block 51–52: Capstone Overview](index.md)

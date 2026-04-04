@@ -15,4 +15,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Brad Makes Crunchy, Half-Sour Pickles — Bon Appétit](https://www.youtube.com/watch?v=vD6XWXj9l8Q) — Watch Brad's brine ratios, how he packs the jar for crunch, and his timing for half-sour vs full-sour pickles.
+
+---
+
 [← Block 41–42: Fermentation & Preservation Overview](index.md)

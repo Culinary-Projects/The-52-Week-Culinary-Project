@@ -15,4 +15,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [How to Cure Salmon at Home and Make Gravlax — America's Test Kitchen](https://www.youtube.com/watch?v=4xXgsMFYzHw) — Observe ATK's precise salt-sugar ratio, cure timing, and how they test doneness by texture.
+
+---
+
 [← Block 41–42: Fermentation & Preservation Overview](index.md)

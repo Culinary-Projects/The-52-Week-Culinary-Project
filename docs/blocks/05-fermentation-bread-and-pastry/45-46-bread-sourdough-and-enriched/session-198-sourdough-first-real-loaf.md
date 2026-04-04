@@ -13,4 +13,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Your First Sourdough Bread (Full Course) — The Bread Code](https://www.youtube.com/watch?v=msqU-ylXWUs) — Full walkthrough of mixing, stretch-and-folds, shaping, and judging bulk fermentation for your first loaf.
+
+---
+
 [← Block 45–46: Bread — Sourdough & Enriched Doughs Overview](index.md)

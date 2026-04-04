@@ -13,4 +13,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Mixing Inclusions Into Sourdough Without Breaking the Gluten — Proof Bread](https://www.youtube.com/watch?v=mMep4zrx8zo) — Professional bakery techniques for folding seeds, nuts, and dried fruit into sourdough without deflating or tearing the dough.
+
+---
+
 [← Block 45–46: Bread — Sourdough & Enriched Doughs Overview](index.md)

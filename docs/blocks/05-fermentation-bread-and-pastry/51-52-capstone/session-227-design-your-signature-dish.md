@@ -21,4 +21,8 @@ This is the creative payoff of 50 weeks of technical work. The constraints of te
 
 ---
 
+> 🎥 **Compare Notes:** [How A Pro Chef Develops A Recipe From Scratch — Bon Appétit](https://www.youtube.com/watch?v=xqMKDiRH1R0) — Watch how a professional thinks through flavor, technique, and plating when building a new dish from nothing.
+
+---
+
 [← Block 51–52: Capstone Overview](index.md)

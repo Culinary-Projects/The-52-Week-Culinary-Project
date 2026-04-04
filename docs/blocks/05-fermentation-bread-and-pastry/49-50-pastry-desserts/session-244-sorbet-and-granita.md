@@ -15,4 +15,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Coffee Granita — Amazingly Easy Sicilian Frozen Dessert — Food Wishes](https://www.youtube.com/watch?v=8Zy0Jf_FW4Y) — Chef John's dead-simple granita technique — freeze, scrape, repeat — for a textbook Sicilian icy dessert.
+
+---
+
 [← Block 49–50: Pastry — Desserts Overview](index.md)

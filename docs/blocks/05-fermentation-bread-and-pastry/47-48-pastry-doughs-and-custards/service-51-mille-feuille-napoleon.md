@@ -13,4 +13,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Mille-Feuille — Preppy Kitchen](https://www.youtube.com/watch?v=Ic54wMzmV3Q) — Complete mille-feuille build — laminated puff pastry, pastry cream, assembly, and glazing.
+
+---
+
 [← Block 47–48: Pastry — Doughs & Custards Overview](index.md)

@@ -15,4 +15,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [How to Make Simple Cured Egg Yolks at Home — Ethan Chlebowski](https://www.youtube.com/watch?v=KgQIZYFu39k) — Note Ethan's salt-sugar cure ratio, timing for firmness levels, and how he grates and uses the finished yolks.
+
+---
+
 [← Block 41–42: Fermentation & Preservation Overview](index.md)

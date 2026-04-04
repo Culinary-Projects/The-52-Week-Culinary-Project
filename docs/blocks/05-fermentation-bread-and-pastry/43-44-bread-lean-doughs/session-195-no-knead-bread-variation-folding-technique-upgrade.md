@@ -13,4 +13,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [How to Fold Your Bread Like a Pro — America's Test Kitchen](https://www.youtube.com/watch?v=hO8Kt0r00lo) — Watch ATK's technique for stretch-and-fold timing and how folding develops gluten structure without kneading.
+
+---
+
 [← Block 43–44: Bread — Lean Doughs Overview](index.md)

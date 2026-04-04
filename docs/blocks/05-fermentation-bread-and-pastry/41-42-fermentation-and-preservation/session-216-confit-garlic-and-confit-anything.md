@@ -17,4 +17,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Garlic Confit — Chef Studio](https://www.youtube.com/watch?v=XA_KFFdgET4) — Watch the oil temperature control — too hot and it fries, too low and it won't soften — and how to judge doneness by color.
+
+---
+
 [← Block 41–42: Fermentation & Preservation Overview](index.md)

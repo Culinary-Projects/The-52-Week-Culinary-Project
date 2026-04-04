@@ -21,4 +21,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Hand-Making 480 Desserts Each Night at a 2 Michelin Star Restaurant — Bon Appétit](https://www.youtube.com/watch?v=E2g-QZG4Vbg) — Behind the scenes at a 2-Michelin-star pastry station — see how a pro kitchen plates and times a multi-component dessert service.
+
+---
+
 [← Block 49–50: Pastry — Desserts Overview](index.md)

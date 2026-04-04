@@ -12,4 +12,8 @@ This is not a class — you are not teaching. You are sharing.
 
 ---
 
+> 🎥 **Compare Notes:** [How To Host a Stress-Free Dinner Party — Emily Roz](https://www.youtube.com/watch?v=MADgmcg7bfA) — Practical guide to hosting — timeline, prep strategy, and how to actually enjoy the party you're throwing.
+
+---
+
 [← Block 51–52: Capstone Overview](index.md)

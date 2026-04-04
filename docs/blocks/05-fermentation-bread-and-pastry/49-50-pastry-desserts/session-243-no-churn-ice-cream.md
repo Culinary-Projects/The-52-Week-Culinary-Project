@@ -15,4 +15,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [How to Make Homemade Ice Cream Without a Machine — America's Test Kitchen](https://www.youtube.com/watch?v=72Ml3U39xqs) — ATK's science-driven no-churn method using condensed milk and cream for scoopable ice cream without a machine.
+
+---
+
 [← Block 49–50: Pastry — Desserts Overview](index.md)

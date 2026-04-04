@@ -15,4 +15,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Brad Makes Fermented Hot Sauce — Bon Appétit](https://www.youtube.com/watch?v=UGjCeAbWKPo) — Note Brad's pepper selection, salt ratios for lacto-fermentation, and how he blends and strains for texture.
+
+---
+
 [← Block 41–42: Fermentation & Preservation Overview](index.md)

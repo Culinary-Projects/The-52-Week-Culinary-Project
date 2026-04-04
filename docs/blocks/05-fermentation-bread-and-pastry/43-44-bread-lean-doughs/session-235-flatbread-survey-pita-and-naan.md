@@ -13,4 +13,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [The Indian Flatbread That Everyone Should Know How to Make — Ethan Chlebowski](https://www.youtube.com/watch?v=tncD8p5P84I) — Note Ethan's approach to dough hydration, how he handles stovetop cooking temperature, and the puffing technique.
+
+---
+
 [← Block 43–44: Bread — Lean Doughs Overview](index.md)

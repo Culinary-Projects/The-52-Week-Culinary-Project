@@ -15,4 +15,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Raspberry Shrub — How to Drink Vinegar — Tasting History with Max Miller](https://www.youtube.com/watch?v=3AWqxSnArKk) — Watch the historical cold-process method, fruit-to-vinegar-to-sugar ratios, and how he balances acidity for drinking.
+
+---
+
 [← Block 41–42: Fermentation & Preservation Overview](index.md)

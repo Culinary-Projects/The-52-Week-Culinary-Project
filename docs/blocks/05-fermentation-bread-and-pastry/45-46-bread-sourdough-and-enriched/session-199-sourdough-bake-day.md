@@ -13,4 +13,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Everything To Know About Oven Spring, Ears & Scoring — Gluten Morgen](https://www.youtube.com/watch?v=uHTXK8zdDYE) — Comprehensive guide to scoring patterns, blade angle, steam, and achieving proper oven spring.
+
+---
+
 [← Block 45–46: Bread — Sourdough & Enriched Doughs Overview](index.md)

@@ -13,4 +13,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Sweet Pastry Crust Recipe for Tarts — Chef Lindsey Farr](https://www.youtube.com/watch?v=RFs7Ks_X4qo) — Step-by-step pâte sucrée technique covering creaming, mixing, resting, and blind-baking a sweet tart shell.
+
+---
+
 [← Block 47–48: Pastry — Doughs & Custards Overview](index.md)

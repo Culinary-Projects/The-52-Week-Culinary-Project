@@ -15,4 +15,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [The Easiest Way To Make Any Homemade Fruit Jam — Joshua Weissman](https://www.youtube.com/watch?v=KUGjgUA-BWU) — Watch Joshua's approach to sugar ratios, gel point testing, and how he adapts the method for different fruits.
+
+---
+
 [← Block 41–42: Fermentation & Preservation Overview](index.md)

@@ -13,4 +13,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Panna Cotta — Preppy Kitchen](https://www.youtube.com/watch?v=p5mSdmO6kEc) — Classic panna cotta technique — blooming gelatin, cooking the cream base, and achieving the perfect just-set wobble.
+
+---
+
 [← Block 49–50: Pastry — Desserts Overview](index.md)

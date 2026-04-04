@@ -11,4 +11,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [7 Crumb Clues: Upgrade Your Sourdough Game — The Bread Code](https://www.youtube.com/watch?v=sFQZIKb_iIA) — How to read your crumb structure to diagnose over/underproofing, shaping issues, and fermentation problems.
+
+---
+
 [← Block 45–46: Bread — Sourdough & Enriched Doughs Overview](index.md)

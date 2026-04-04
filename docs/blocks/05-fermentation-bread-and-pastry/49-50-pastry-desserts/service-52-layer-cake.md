@@ -13,4 +13,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [The Best Chocolate Cake Recipe — Preppy Kitchen](https://www.youtube.com/watch?v=vI5w-fK25w4) — Full layer cake from scratch — batter, buttercream, crumb coat, final frost, and clean decorating techniques.
+
+---
+
 [← Block 49–50: Pastry — Desserts Overview](index.md)

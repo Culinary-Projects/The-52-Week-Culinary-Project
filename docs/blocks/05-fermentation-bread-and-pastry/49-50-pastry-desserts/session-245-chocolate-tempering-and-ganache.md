@@ -13,4 +13,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [How to Temper Chocolate with This Easier Method — America's Test Kitchen](https://www.youtube.com/watch?v=p5_kheJtQO4) — ATK explains the science of cocoa butter crystals and demonstrates a foolproof seeding method for tempering at home.
+
+---
+
 [← Block 49–50: Pastry — Desserts Overview](index.md)

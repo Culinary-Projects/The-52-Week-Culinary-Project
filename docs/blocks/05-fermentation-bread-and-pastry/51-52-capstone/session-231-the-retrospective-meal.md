@@ -15,4 +15,8 @@ This is a one-person retrospective tasting — a private tasting menu of the yea
 
 ---
 
+> 🎥 **Compare Notes:** [Creating the Tasting Menu at Michelin-Starred Margot — Lanyap Cookery](https://www.youtube.com/watch?v=zJEhk9CF8MQ) — See how a professional kitchen sequences a tasting menu — pacing, portion size, and how each course builds on the last.
+
+---
+
 [← Block 51–52: Capstone Overview](index.md)

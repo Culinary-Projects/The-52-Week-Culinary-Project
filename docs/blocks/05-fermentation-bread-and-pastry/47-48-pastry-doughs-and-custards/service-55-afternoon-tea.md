@@ -18,4 +18,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Afternoon Tea — Traditional British Recipes — My Fancy Baking](https://www.youtube.com/watch?v=c0GfXs57S9I) — Full afternoon tea spread including scones, finger sandwiches, and petit fours with presentation tips.
+
+---
+
 [← Block 47–48: Pastry — Doughs & Custards Overview](index.md)

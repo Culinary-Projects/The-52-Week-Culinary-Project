@@ -13,4 +13,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Fluffy Sourdough Pancakes Recipe — Preppy Kitchen](https://www.youtube.com/watch?v=oMeOPxqIiUQ) — Using sourdough discard to make fluffy, tangy pancakes — a practical zero-waste approach to starter maintenance.
+
+---
+
 [← Block 45–46: Bread — Sourdough & Enriched Doughs Overview](index.md)

@@ -13,4 +13,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [How to Make a Double Crust Pie — King Arthur Baking](https://www.youtube.com/watch?v=otvqsZFZhy4) — King Arthur's definitive guide to rolling, fitting, crimping, and venting a double-crust pie.
+
+---
+
 [← Block 47–48: Pastry — Doughs & Custards Overview](index.md)

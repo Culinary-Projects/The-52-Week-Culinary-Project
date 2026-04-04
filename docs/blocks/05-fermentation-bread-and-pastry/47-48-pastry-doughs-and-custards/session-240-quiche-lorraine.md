@@ -13,4 +13,8 @@
 
 ---
 
+> 🎥 **Compare Notes:** [Traditional Homemade Quiche Lorraine with Pierre Koffmann — BBC Maestro](https://www.youtube.com/watch?v=opyknrDSV7g) — Michelin-starred Pierre Koffmann demonstrates classic Quiche Lorraine from shortcrust pastry to silky custard filling.
+
+---
+
 [← Block 47–48: Pastry — Doughs & Custards Overview](index.md)
