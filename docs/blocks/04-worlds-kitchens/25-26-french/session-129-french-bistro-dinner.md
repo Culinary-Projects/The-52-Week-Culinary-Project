@@ -9,7 +9,7 @@
 
 1. **Starter:** Salad Lyonnaise (frisée, lardons, poached egg, Dijon vinaigrette)
 2. **Main:** Pan-seared duck breast with cherry or red wine reduction
-3. **Dessert:** Chocolate mousse (made ahead — [Chocolate Mousse](https://www.seriouseats.com/chocolate-mousse-recipe-7109970))
+3. **Dessert:** Chocolate mousse (made ahead — [Chocolate Mousse — RecipeTin Eats](https://www.recipetineats.com/chocolate-mousse/))
 
 **Full Meal:**
 - Salad Lyonnaise → Duck Breast → Chocolate Mousse

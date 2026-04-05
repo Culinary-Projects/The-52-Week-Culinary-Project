@@ -10,7 +10,7 @@
 **Reference:** Aioli technique = mayonnaise technique (from Blocks 9–10) with garlic and olive oil. The principle you already know — the application is new.
 
 **Full Meal:**
-- Le Grand Aioli: scratch-made garlic [aioli](https://www.simplyrecipes.com/recipes/aioli/) + blanched vegetables + hard-boiled eggs + bread + whatever protein you choose
+- Le Grand Aioli: scratch-made garlic [aioli](https://www.bbcgoodfood.com/recipes/aioli) + blanched vegetables + hard-boiled eggs + bread + whatever protein you choose
 - White wine from Provence if possible
 
 > 🎥 **Compare Notes:** [Old-Fashioned Handmade Aioli is Perfect for Spring Asparagus](https://www.youtube.com/watch?v=sVWBqy657TE) — Watch the mortar and pestle technique and compare it to your blender version — the texture and flavor absorption are genuinely different.

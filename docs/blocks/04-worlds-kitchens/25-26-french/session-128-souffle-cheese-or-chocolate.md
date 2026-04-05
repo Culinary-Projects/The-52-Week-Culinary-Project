@@ -5,7 +5,7 @@
 ---
 
 **Skill:** Whipped egg white foam structure; baking to serve immediately  
-**Read first:** [Savory Cheese Soufflé](https://www.seriouseats.com/savory-cheese-souffle)
+**Read first:** [Cheese Soufflé — RecipeTin Eats](https://www.recipetineats.com/cheese-souffle/)
 
 **What you're learning:** Soufflés are not as hard as their reputation. What fails them is undermixed whites, overfolding, or an underprepared dish (unbuttered, no sugar/Parmesan coating). Make a cheese soufflé tonight: it's impressive and straightforward with proper preparation.
 

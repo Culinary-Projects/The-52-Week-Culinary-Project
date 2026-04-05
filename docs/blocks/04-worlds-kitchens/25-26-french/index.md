@@ -70,8 +70,8 @@ These aren't required reading — but if something from this block sparked a que
 
 French cuisine is a system. Understanding where hollandaise sits in the sauce family — warm emulsion, egg-yolk-stabilized, related to béarnaise by a flavor swap — shows how the system works.
 
-- 📖 [Foolproof 2-Minute Hollandaise](https://www.seriouseats.com/foolproof-2-minute-hollandaise-recipe) — The technique breakdown from SE, explaining why the blender method is actually more stable than the double-boiler version.
-- 📖 [Guide to Cooking With Wine](https://www.seriouseats.com/guide-to-cooking-with-wine-11921603) — Reduction sauces are at the heart of French bistro cooking. This is the wine guide that covers the how and why.
+- 📖 [Hollandaise Sauce — RecipeTin Eats](https://www.recipetineats.com/hollandaise-sauce/) — A clear technique walkthrough explaining why the blender method is actually more stable than the double-boiler version.
+- 📖 [Beurre Blanc — BBC Good Food](https://www.bbcgoodfood.com/recipes/beurre-blanc) — Reduction sauces are at the heart of French bistro cooking. The shallot-wine base here is the template for every butter-emulsion sauce.
 
 ---
 
@@ -79,13 +79,13 @@ French cuisine is a system. Understanding where hollandaise sits in the sauce fa
 
 Aioli made with patience and good olive oil is nothing like the commercial version. It's also a direct relative of hollandaise — same emulsion principle, different fat.
 
-- 📖 [Two-Minute Aioli](https://www.seriouseats.com/two-minute-foolproof-aioli-recipe) — Kenji's immersion blender method makes the emulsification nearly foolproof. Understanding why it works — and what causes it to break — is the more important lesson than the recipe itself.
+- 📖 [Aioli — BBC Good Food](https://www.bbcgoodfood.com/recipes/aioli) — The immersion blender method makes the emulsification nearly foolproof. Understanding why it works — and what causes it to break — is the more important lesson than the recipe itself.
 
 ---
 
 ### The Cassoulet Deep Dive
 
-- � [**SE: Traditional French Cassoulet**](https://www.seriouseats.com/traditional-french-cassoulet-recipe) — Kenji's definitive guide: why chicken works as well as confit, how to build the crust without a traditional cassole, and the step-by-step photos that make the build order clear.
+- 📖 [**Classic Cassoulet — Bon Appétit**](https://www.bonappetit.com/recipe/classic-cassoulet) — A thorough guide to the multi-component bean braise: the build order, how to develop the crust, and why this dish is worth the afternoon.
 
 ---
 

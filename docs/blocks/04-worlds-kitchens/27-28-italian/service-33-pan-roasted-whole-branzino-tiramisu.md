@@ -5,7 +5,7 @@
 ---
 
 **Skill:** Herbed whole fish for the table; tiramisu assembly and setting time  
-**Read first:** [Pan-Roasted Whole Branzino](https://www.seriouseats.com/pan-roasted-whole-branzino) | [Best Tiramisu](https://www.seriouseats.com/best-tiramisu-recipe)
+**Read first:** [Pan-Roasted Whole Branzino](https://www.seriouseats.com/pan-roasted-whole-branzino) | [Tiramisu — RecipeTin Eats](https://www.recipetineats.com/tiramisu/)
 
 **Make the tiramisu in the morning** — it needs at least 4 hours refrigeration before serving.
 

@@ -68,7 +68,7 @@ These aren't required reading — but if something from this block sparked a que
 
 Italian cooking is defined by its pantry as much as its technique. Knowing what makes a San Marzano tomato different, why the olive oil matters for finishing, and what "00" flour does changes how you shop.
 
-- 📖 [The Best Slow-Cooked Tomato Sauce](https://www.seriouseats.com/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe) — The canonical red sauce breakdown, with the reasoning behind each ingredient choice.
+- 📖 [Basic Tomato Sauce — Bon Appétit](https://www.bonappetit.com/recipe/basic-tomato-sauce) — A walkthrough of Italian red sauce, with the reasoning behind each ingredient choice and how long to let it go.
 
 ---
 
@@ -76,7 +76,7 @@ Italian cooking is defined by its pantry as much as its technique. Knowing what 
 
 Osso buco is a braise but it's also a study in gremolata — the lemon zest, garlic, and parsley condiment added at the end that lifts the entire dish. Italian braising is different from French braising in that finishing acid and fresh herbs are always part of the architecture.
 
-- 📖 [Osso Buco (Italian Braised Veal Shanks)](https://www.seriouseats.com/osso-buco-italian-braised-veal-shanks-recipe) — The full technique for the dish: the sear, the soffritto, the wine reduction, the stock, and — critically — when to add the gremolata at the end. The structure is the template for every Italian braise.
+- 📖 [Osso Buco — RecipeTin Eats](https://www.recipetineats.com/osso-buco/) — The full technique for the dish: the sear, the soffritto, the wine reduction, the stock, and — critically — when to add the gremolata at the end. The structure is the template for every Italian braise.
 
 ---
 

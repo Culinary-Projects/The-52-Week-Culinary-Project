@@ -5,7 +5,7 @@
 ---
 
 **Skill:** Pure butter emulsion sauce; wine-and-shallot reduction base  
-**Read first:** [Beurre Blanc](https://www.seriouseats.com/beurre-blanc-recipe-7643412)
+**Read first:** [Beurre Blanc — BBC Good Food](https://www.bbcgoodfood.com/recipes/beurre-blanc)
 
 **What you're learning:** Beurre blanc is butter whisked into a reduced shallot-and-white-wine base, creating a light but rich sauce that coats fish and vegetables beautifully. Unlike hollandaise, no eggs involved — the emulsion is butter protein in an acidic liquid. It will break if overheated.
 
