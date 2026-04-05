@@ -6,6 +6,7 @@
 
 **Skill:** Ladle-by-ladle stock addition; risotto consistency (mantecatura); choosing the right rice  
 **Read first:** [Mushroom Risotto — RecipeTin Eats](https://www.recipetineats.com/mushroom-risotto/)
+**SE reference:** [Pressure Cooker Mushroom Risotto — SE](https://www.seriouseats.com/pressure-cooker-mushroom-risotto-recipe)
 
 **What you're learning:** Risotto requires Arborio or Carnaroli rice (short-grain, high starch), warm stock added in stages, and the final "mantecatura" — stirring in cold butter off heat until silky and slightly loose. Nagi's version walks through the ladle-by-ladle technique with porcini and thyme. Serve immediately; risotto kills itself waiting.
 

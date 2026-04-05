@@ -6,6 +6,7 @@
 
 **Skill:** Al pastor marinade (achiote paste base); achiote spice profile; stovetop vs. grill comal technique  
 **Read first:** [Tacos al Pastor — Pati Jinich](https://patijinich.com/tacos-al-pastor/)
+**SE reference:** [Tacos al Pastor — SE](https://www.seriouseats.com/tacos-al-pastor-recipe)
 
 **What you're learning:** Al pastor derives from Lebanese shawarma brought to Mexico in the 19th century and transformed with achiote paste, pineapple, and dried chiles. Pati's version uses a skillet sear with achiote adobo marinade — achievable at home without a vertical spit. The pineapple chunk broiled at the end (or grilled separately) is mandatory.
 

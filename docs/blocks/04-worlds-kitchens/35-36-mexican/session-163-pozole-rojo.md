@@ -6,6 +6,7 @@
 
 **Skill:** Dried chile rehydration and integration; hominy preparation; pozole's garnish architecture  
 **Read first:** [Red Pozole with Traditional Garnishes — Pati Jinich](https://patijinich.com/red-pozole/)
+**SE reference:** [Pozole Rojo — SE](https://www.seriouseats.com/pozole-mexican-red-chile-pork-soup-recipe-8732258)
 
 **What you're learning:** Pozole is a pre-Columbian Mesoamerican soup built around hominy (nixtamalized corn) and slow-braised pork in a red chile broth. The dried chiles (guajillo, ancho, mulato) are toasted, rehydrated, and blended — this is the fundamental Mexican chile sauce technique you'll use throughout this block and beyond.
 

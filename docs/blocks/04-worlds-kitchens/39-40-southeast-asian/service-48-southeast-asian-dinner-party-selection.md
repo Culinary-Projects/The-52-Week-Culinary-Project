@@ -4,7 +4,8 @@
 
 ---
 
-**Skill:** Multi-nationality Southeast Asian menu; timing a large spread 
+**Skill:** Multi-nationality Southeast Asian menu; timing a large spread
+**SE reference:** [Beef Rendang — SE](https://www.seriouseats.com/beef-rendang-recipe-8731804)
 **Goal:** Build a Southeast Asian dinner from dishes spanning the block:
 
 **Choose 3–4:**

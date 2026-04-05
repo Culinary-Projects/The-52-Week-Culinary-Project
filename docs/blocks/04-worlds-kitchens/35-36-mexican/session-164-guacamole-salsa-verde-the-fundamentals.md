@@ -6,6 +6,7 @@
 
 **Skill:** Avocado selection and browning prevention; charring tomatillos; raw vs. cooked salsa  
 **Read first:** [Guacamole con Todo — Pati Jinich](https://patijinich.com/guacamole/) | [Salsa Verde — Pati Jinich](https://patijinich.com/salsa-verde/)
+**SE reference:** [Guacamole Oxidation Guide — SE](https://www.seriouseats.com/how-to-prevent-guacamole-from-browning-11890941)
 
 **What you're learning:** Guacamole is technique (not just mashing avocados). Acid + salt applied at the right moment prevent browning. The onion is rinsed to remove harsh sulfur compounds before adding. Pati's version uses a molcajete to build aromatics into a paste before folding in avocado. This session: make a perfect guacamole AND a charred salsa verde *(the tomatillo charring technique was covered in Block 18 — revisit and refine it)*.
 

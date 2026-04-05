@@ -6,6 +6,7 @@
 
 **Skill:** Building vegetable-forward Italian broth; proper pasta-in-soup timing  
 **Read first:** [Minestrone Soup — RecipeTin Eats](https://www.recipetineats.com/minestrone-soup/)
+**SE reference:** [The Best Minestrone Soup — SE](https://www.seriouseats.com/the-best-minestrone-soup-recipe)
 
 **What you're learning:** Minestrone is not a simple ingredient dump — the vegetables go in stages based on cook time. Parmesan rind in the pot adds depth. The pasta/beans/bread component depends on region. Nagi's version walks through the staging clearly and builds a deeply flavored broth without stock cubes.
 

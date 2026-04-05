@@ -6,6 +6,7 @@
 
 **Skill:** Making egg pasta dough by hand; rolling and cutting; various shapes  
 **Read first:** Reference pasta-making from Blocks 13–14 (pasta fresca was introduced there) — this session goes deeper into filled pasta
+**SE reference:** [Fresh Egg Pasta — SE](https://www.seriouseats.com/fresh-egg-pasta)
 
 **What you're learning:** Now that you know the dough, try a filled shape: either tortelloni (large), ravioli, or a simple pappardelle if fresh dough's not been practiced recently. The filling: ricotta + spinach + Parmesan + nutmeg.
 

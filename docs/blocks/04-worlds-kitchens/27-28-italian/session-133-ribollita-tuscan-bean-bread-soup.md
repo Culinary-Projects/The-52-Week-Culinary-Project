@@ -6,6 +6,7 @@
 
 **Skill:** Tuscan "re-boiled" soup; building body with day-old bread  
 **Read first:** [Ribollita — Bon Appétit](https://www.bonappetit.com/recipe/ribollita)
+**SE reference:** [Pressure Cooker Ribollita — SE](https://www.seriouseats.com/pressure-cooker-ribollita)
 
 **What you're learning:** Ribollita ("re-boiled") is meant to be made, cooled, then reheated (the name is the instruction). Thick with cavolo nero, cannellini beans, and day-old bread that dissolves into the soup. If it isn't thick enough to hold a spoon upright, it needs more bread or more time.
 

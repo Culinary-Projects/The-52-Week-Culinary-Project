@@ -4,7 +4,9 @@
 
 ---
 
-**Skill:** Multi-component French bistro execution; proper service timing  
+**Skill:** Multi-component French bistro execution; proper service timing
+**SE reference:** [Chocolate Mousse — SE](https://www.seriouseats.com/chocolate-mousse-recipe-7109970)
+
 **Goal:** Cook a complete three-course French bistro meal:
 
 1. **Starter:** Salad Lyonnaise (frisée, lardons, poached egg, Dijon vinaigrette)

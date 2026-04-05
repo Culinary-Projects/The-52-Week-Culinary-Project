@@ -5,7 +5,7 @@
 ---
 
 **Skill:** Long-cook black lentil + kidney bean dal; cream integration; patience  
-**Read first:** [Dal Makhani — Spice Up the Curry](https://www.spiceupthecurry.com/dal-makhani/)
+**Read first:** [Dal Makhani — Serious Eats](https://www.seriouseats.com/dal-makhani-recipe-8770680)
 
 **What you're learning:** Dal makhani is the richest, most complex dal in the Punjabi repertoire — black urad lentils and kidney beans cooked for hours until they become creamy and almost stew-like, finished with cream and butter. The SE version adapts this to a pressure cooker for efficiency. The traditional version simmers overnight on a dying fire; the slow cooker is a valid home interpretation.
 

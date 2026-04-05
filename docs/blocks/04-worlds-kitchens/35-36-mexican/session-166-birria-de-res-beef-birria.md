@@ -6,6 +6,7 @@
 
 **Skill:** Long beef braise in a complex chile marinade; consommé for dipping  
 **Read first:** [Birria — Pati Jinich](https://patijinich.com/birria/)
+**SE reference:** [Birria de Res — SE](https://www.seriouseats.com/birria-de-res-beef-birria-recipe-8362004)
 
 **What you're learning:** Birria is Jalisco's slow-braised chile-rubbed goat (or beef in the modern version). The braising liquid becomes the consommé — the broth in which you dip your quesabirria taco before eating it. Pati's version uses the traditional goat preparation with guajillo chiles and avocado leaves — know the real version before the Americanized beef version.
 

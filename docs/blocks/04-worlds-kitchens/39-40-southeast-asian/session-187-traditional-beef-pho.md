@@ -6,6 +6,7 @@
 
 **Skill:** Long bone broth (or pressure cooker shortcut); pho spice toasting; assembly 
 **Read first:** [Beef Pho — Hot Thai Kitchen](https://hot-thai-kitchen.com/beef-pho/)
+**SE reference:** [Traditional Beef Pho — SE](https://www.seriouseats.com/traditional-beef-pho-recipe)
 
 **What you're learning:** Pho broth is charred ginger and onion + toasted cinnamon, star anise, cloves, and cardamom simmered with marrow bones for hours. Pailin's version requires time (start morning). The finished broth should be clear, deeply fragrant, and lightly beefy. Everything goes in the bowl at service — herbs, sprouts, sliced raw beef (cooked by broth), lime on the side.
 

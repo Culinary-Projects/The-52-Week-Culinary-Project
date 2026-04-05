@@ -6,6 +6,7 @@
 
 **Skill:** Masa dough preparation (masa harina + lard or fat); spreading on husks; steaming  
 **Read first:** [Tamales Coloraditos — Pati Jinich](https://patijinich.com/tamales/)
+**SE reference:** [Tamales — SE](https://www.seriouseats.com/tamales-recipe-8649579)
 
 **What you're learning:** Tamales are one of the most community-oriented foods in Mexican culture — typically made in large quantities at family gatherings ("tamaladas"). Pati's coloraditos use a mole-style filling with guajillo and ancho chiles, raisins, almonds, and olives. The key skill is spreading the masa thinly and evenly enough that the husk folds without tearing.
 

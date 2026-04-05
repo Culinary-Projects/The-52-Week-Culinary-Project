@@ -6,6 +6,7 @@
 
 **Skill:** Day-old rice technique; shrimp paste (terasi) handling; kecap manis application 
 **Read first:** [Nasi Goreng — Hot Thai Kitchen](https://hot-thai-kitchen.com/nasi-goreng/)
+**SE reference:** [Nasi Goreng — SE](https://www.seriouseats.com/nasi-goreng-recipe)
 
 **What you're learning:** Nasi goreng is Indonesia's national fried rice — darker, more caramelized, and more complex than Chinese fried rice. The key ingredients: kecap manis (sweet soy sauce) and terasi (shrimp paste, which must be toasted in the pan). Make the day before's leftover rice the base.
 

@@ -6,6 +6,7 @@
 
 **Skill:** Cross-cut veal shank braising; gremolata (the raw herb-lemon finish)  
 **Read first:** [Osso Buco — RecipeTin Eats](https://www.recipetineats.com/osso-buco/)
+**SE reference:** [Osso Buco — SE](https://www.seriouseats.com/osso-buco-italian-braised-veal-shanks-recipe)
 
 **What you're learning:** Osso buco = "bone with a hole." The marrow inside is the reward for patience. Brown the shanks aggressively (all sides), braise 2–3 hours until the bone loosens, finish with gremolata (parsley + lemon zest + garlic) added right before serving. The raw freshness of gremolata against the deep braise is the whole point.
 

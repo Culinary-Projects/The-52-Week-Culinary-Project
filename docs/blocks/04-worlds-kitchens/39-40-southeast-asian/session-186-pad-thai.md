@@ -6,6 +6,7 @@
 
 **Skill:** Wok technique for noodles; tamarind-palm sugar sauce balance; egg incorporation 
 **Read first:** [Pad Thai — Hot Thai Kitchen](https://hot-thai-kitchen.com/pad-thai/)
+**SE reference:** [Pad Thai — SE](https://www.seriouseats.com/pad-thai-recipe-11680356)
 
 **What you're learning:** Pad Thai isn't a dump-everything noodle — it's a study in wok heat management, timing, and the push-pull of the five flavors. The sauce (tamarind + fish sauce + palm sugar) must be pre-mixed and tasted before the noodles ever hit the pan. If the sauce is right, the dish is 80% there.
 

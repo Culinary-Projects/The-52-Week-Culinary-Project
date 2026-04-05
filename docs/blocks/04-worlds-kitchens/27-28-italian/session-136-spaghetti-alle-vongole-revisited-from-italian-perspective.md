@@ -6,6 +6,7 @@
 
 **Skill:** Building a white brothy sauce; pasta finishing technique; the two vongole versions (in bianco vs. in rosso)  
 **Read first:** [Spaghetti alle Vongole — Bon Appétit](https://www.bonappetit.com/recipe/spaghetti-alle-vongole) *(used in Block 21 for shellfish technique — now revisit as Italian pasta lesson)*
+**SE reference:** [Spaghetti alle Vongole — SE](https://www.seriouseats.com/spaghetti-pasta-alle-vongole-clams-recipe)
 
 **What you're learning:** The same dish from Block 21, but now you're thinking about it differently: pasta al dente, reserved pasta water as sauce thickener, the ratio of clam liquor to olive oil. Make the white version (in bianco) if you made red baked mussels before; make red if not.
 

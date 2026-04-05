@@ -6,6 +6,7 @@
 
 **Skill:** Low-and-slow caramelized onion technique; proper gratinée finish  
 **Read first:** [French Onion Soup — RecipeTin Eats](https://www.recipetineats.com/french-onion-soup/)
+**SE reference:** [French Onion Soup — SE](https://www.seriouseats.com/french-onion-soup-recipe)
 
 **What you're learning:** Real caramelized onions take 45–60 minutes. Not 10, not 20. Any recipe that says "caramelize in 10 minutes" is lying. Today is a patience lesson: low-medium heat, stirring every 5 minutes, watching sugar develop — and then building the soup around that deep onion sweetness.
 

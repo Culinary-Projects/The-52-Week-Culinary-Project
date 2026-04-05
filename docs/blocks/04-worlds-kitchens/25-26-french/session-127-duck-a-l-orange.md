@@ -6,6 +6,7 @@
 
 **Skill:** Roasting duck; building a bittersweet gastrique  
 **Read first:** [Duck Breast à l'Orange — Bon Appétit](https://www.bonappetit.com/recipe/duck-breast-a-lorange)
+**SE reference:** [Duck à l'Orange — SE](https://www.seriouseats.com/duck-a-lorange)
 
 **What you're learning:** Duck à l'orange is a French classic and a useful study in gastrique (sugar caramelized to amber + acid to stop it = sweet-sour syrup base). The duck must render properly — its fat layer needs time and heat — and the sauce has to balance sweet, sour, and savory without tipping too far in any direction.
 
