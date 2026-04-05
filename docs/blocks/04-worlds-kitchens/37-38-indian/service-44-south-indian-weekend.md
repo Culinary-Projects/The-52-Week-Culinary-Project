@@ -9,7 +9,7 @@
 
 - Masala dosa: fermented lentil and rice batter crepe filled with spiced potato (requires batter made Session 173 or the evening before the project session in advance — or use fast-sour version)
 - [Sambar](https://www.spiceupthecurry.com/sambar-recipe/): Toor dal-based vegetable soup / curry (tamarind-based, South Indian)
-- [Coconut chutney](https://www.seriouseats.com/coconut-chutney-recipe-8690338): Fresh coconut + green chiles + curry leaves
+- [Coconut chutney](https://www.spiceupthecurry.com/coconut-chutney/): Fresh coconut + green chiles + curry leaves
 
 **Full Meal:**
 - Masala Dosa + Sambar + Coconut Chutney (South Indian thali)

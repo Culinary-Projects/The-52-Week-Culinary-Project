@@ -5,7 +5,7 @@
 ---
 
 **Skill:** Dry vegetable curry (no sauce); blooming spices in oil before vegetables; understanding dry vs. wet curry  
-**Read first:** [Aloo Gobi](https://www.seriouseats.com/aloo-gobi-recipe-5220973)
+**Read first:** [Aloo Gobi — Spice Up the Curry](https://www.spiceupthecurry.com/aloo-gobi-recipe/)
 
 **What you're learning:** Aloo gobi is a dry curry — no sauce, no cream, just spiced vegetables cooked until tender and slightly crispy at the edges. The spice bloom is everything. The technique of cooking out raw spice smell in oil (bhunao) before adding vegetables is the central skill.
 

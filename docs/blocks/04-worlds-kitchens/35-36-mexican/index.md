@@ -73,8 +73,8 @@ These aren't required reading — but if something from this block sparked a que
 
 Mexican cooking is a chile curriculum. Guajillo, ancho, pasilla, chipotle — each dried chile has a distinct flavor profile, heat level, and application. Learning to distinguish them by taste is the single biggest skill jump in Mexican cooking.
 
-- 📖 [Carne Asada: The Food Lab Recipe](https://www.seriouseats.com/carne-asada-food-lab-recipe-kenji) — The science behind the marinade and the high-heat grill approach, explained in detail.
-- 📖 [Pozole Rojo](https://www.seriouseats.com/pozole-mexican-red-chile-pork-soup-recipe-8732258) — The full technique for the multi-chile broth. Understanding how the dried chiles are toasted, soaked, and blended is the core skill of Mexican sauce-making.
+- 📖 [Carne Asada — Pati Jinich](https://patijinich.com/carne-asada/) — Chile de árbol marinade with Worcestershire and lime — a traditional approach to the grill.
+- 📖 [Red Pozole — Pati Jinich](https://patijinich.com/red-pozole/) — The full technique for a multi-chile pozole with ancho and guajillo. Understanding how the dried chiles are toasted, soaked, and blended is the core skill of Mexican sauce-making.
 
 ---
 
@@ -83,6 +83,7 @@ Mexican cooking is a chile curriculum. Guajillo, ancho, pasilla, chipotle — ea
 Mole negro is typically a multi-day project in its native context. Understanding why each ingredient — chocolate, dried chiles, charred onion, toasted sesame, plantain — is there turns an intimidating recipe into a logical sequence.
 
 - 📖 [A Comprehensive Guide to Mexican Chiles](https://www.seriouseats.com/guide-to-mexican-chiles-8756281) — The full vocabulary of dried chiles used in mole: ancho, mulato, pasilla, chipotle, guajillo, and more. Knowing the flavor profile of each one before you cook is how mole stops being frightening and starts being navigable.
+- 📖 [Mole Poblano — Pati Jinich](https://patijinich.com/mole/) — Pati's full mole with 4 dried chiles, Mexican chocolate, seeds, and spices. The canonical reference for this block's mole session.
 
 ---
 

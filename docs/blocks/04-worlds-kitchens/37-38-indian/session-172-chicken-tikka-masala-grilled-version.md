@@ -5,7 +5,7 @@
 ---
 
 **Skill:** Tikka marinade; charring on high heat; integrating char flavor into sauce  
-**Read first:** [Chicken Tikka Masala for the Grill](https://www.seriouseats.com/chicken-tikka-masala-for-the-grill-recipe)
+**Read first:** [Tikka Masala — Spice Up the Curry](https://www.spiceupthecurry.com/tikka-masala/)
 
 **What you're learning:** Tikka masala is arguably the most popular Indian-origin dish in the English-speaking world. The SE grill version gives the chicken the char you otherwise get from a tandoor. The masala sauce (tomato, cream, ginger, garam masala) is richer and more accessible than butter chicken's sauce but built the same way.
 

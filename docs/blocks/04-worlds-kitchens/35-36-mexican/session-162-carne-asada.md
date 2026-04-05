@@ -5,9 +5,9 @@
 ---
 
 **Skill:** Marinating thin beef for grill; char without overcooking; proper resting  
-**Read first:** [Carne Asada](https://www.seriouseats.com/carne-asada-food-lab-recipe-kenji)
+**Read first:** [Carne Asada — Pati Jinich](https://patijinich.com/carne-asada/)
 
-**What you're learning:** Carne asada is grilled marinated beef, usually flank or skirt steak, cut thin after resting and used in tacos. The marinade is citrus-heavy — lime + orange + garlic + cumin + chili — and the char is non-negotiable. Kenji's approach talks through why you want extreme heat and a thin piece of meat rather than a thick steak treated like carne.
+**What you're learning:** Carne asada is grilled marinated beef, usually flank or skirt steak, cut thin after resting and used in tacos. The marinade is citrus-heavy — lime + orange + garlic + cumin + chili — and the char is non-negotiable. Pati's approach uses chile de árbol, Worcestershire, and lime for the marinade — a more traditional Mexican pantry than the Americanized versions.
 
 **Full Meal:**
 - Carne Asada tacos on warm corn tortillas

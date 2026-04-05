@@ -7,6 +7,91 @@ A 52-week home culinary school structured as a MkDocs site. The curriculum is se
 
 ---
 
+## Sourcing Rules
+
+### Approved recipe sources
+
+**Reputable sources only.** Every recipe link must point to a reputable, editorially maintained source. No personal blogs, AI-generated recipe sites, or unverified sources.
+
+#### Tier 1 — Primary recipe authorities
+
+Use these as the default recipe source for their domain. When a Tier 1 source covers a dish well, prefer it over Tier 2.
+
+| Source | Domain | Use for |
+|--------|--------|---------|
+| **Serious Eats** | Technique-first cooking, food science | Foundational skills, searing, roasting, emulsions, braises, core methods. The curriculum backbone — but cap at **<75% of any single block's recipe links.** |
+| **King Arthur Baking** | Bread and pastry | All bread, pastry, and baking sessions (Unit 5). Co-authority with SE for baking. |
+| **Just One Cookbook** (Nami) | Japanese | All Japanese sessions (Block 29–30) and Japanese techniques elsewhere. |
+| **Maangchi** | Korean | All Korean sessions (Block 31–32). |
+| **The Woks of Life** | Chinese | All Chinese sessions (Block 33–34). |
+
+#### Tier 2 — Strong secondary sources
+
+Use these to diversify blocks, fill gaps, or provide a second perspective. Always appropriate alongside Tier 1.
+
+| Source | Domain | Use for |
+|--------|--------|---------|
+| **Bon Appétit** | General, technique | When SE doesn't cover a dish, or to add a second voice. |
+| **BBC Good Food** | European, general | Reliable for British, French, and general European recipes. |
+| **Simply Recipes** | Accessible home cooking | Clear, well-tested recipes for everyday dishes. |
+| **RecipeTin Eats** (Nagi) | Global home cooking | Australian site with validated worldwide recipes. |
+| **The Perfect Loaf** | Sourdough and artisan bread | Complements King Arthur for advanced bread technique. |
+| **Spice Up the Curry** | Indian | Indian home cooking with regional specificity. |
+| **Indian Healthy Recipes** (Swasthi) | Indian | South Indian and vegetarian Indian cooking. |
+| **Love and Lemons** | Vegetable-forward | Plant-based technique and seasonal cooking. |
+| **The Kitchn** | General technique | Technique explainers and how-to guides. |
+
+#### Tier 3 — Specialist and cultural authorities (Use when available)
+
+These sources should be preferred over SE when their cuisine is the subject. If a block teaches Mexican food and Rick Bayless has a verified free recipe, use it over a SE version.
+
+| Source | Domain | When to use |
+|--------|--------|-------------|
+| **Rick Bayless** / mexicoinmykitchen.com | Mexican | Block 35–36 and any Mexican technique. Authoritative, culturally rooted. |
+| **Pati Jinich** (patijinich.com) | Mexican | Alternative Mexican authority. Regional specialties. |
+| **Madhur Jaffrey** | Indian | When referenced recipes are freely available. The canonical Indian cooking voice in English. |
+| **Hebbar's Kitchen** | Indian (vegetarian) | South Indian and vegetarian Indian. |
+| **Hot Thai Kitchen** (Pailin) | Thai / SE Asian | Block 39–40 Thai sessions. Written recipes accompany her videos. |
+| **Italia Squisita** | Italian | Block 27–28 when technique-level Italian content is needed. |
+| **Pasta Grannies** | Italian (traditional) | Traditional pasta technique and regional variation. |
+| **Jacques Pépin** | French classical | Block 25–26 and any classical French technique. Definitive voice for mother sauces, eggs, and foundational technique. |
+| **De Mi Rancho a Tu Cocina** | Mexican (traditional) | Traditional rural Mexican technique — YouTube with written recipes. |
+
+### Sourcing concentration rules
+
+These rules apply whenever content is added or recipes are swapped:
+
+1. **No block may exceed 75% recipe references from any single source.** If a swap would push a source above 75%, find an alternative from a different approved source.
+2. **World cuisine blocks must center a cuisine-native authority.** In Blocks 29–40, the primary recipe source should be a Tier 1 or Tier 3 specialist for that cuisine — not Serious Eats. SE can supplement but should not dominate. Target: culture-native source provides ≥40% of recipe links.
+3. **Every block must draw from at least 4 distinct recipe domains.** YouTube and Amazon don't count toward this minimum.
+4. **When a Tier 3 specialist covers the dish, prefer them over SE.** A French block session on cassoulet should link to Pépin before SE. A Mexican session on mole should link to Rick Bayless before SE.
+
+### Approved Compare Notes video creators
+
+Every session and service file must have a `🎥 Compare Notes` section. Prefer these creators by domain:
+
+**Technique & General:** J. Kenji López-Alt, Jacques Pépin, Helen Rennie, Ethan Chlebowski, America's Test Kitchen / Lan Lam, Claire Saffitz, Adam Ragusea, Food Wishes (Chef John), Joshua Weissman, Brian Lagerstrom, Internet Shaquille
+
+**Cuisine-Specific:**
+- **Italian:** Italia Squisita, Pasta Grannies
+- **Japanese:** Just One Cookbook (Nami), Jun's Kitchen, Sudachi Recipes
+- **Korean:** Maangchi, Soy and Pepper
+- **Chinese:** Chinese Cooking Demystified, Made With Lau
+- **Mexican:** Rick Bayless, De Mi Rancho a Tu Cocina
+- **Indian:** Chef Ranveer Brar, Hebbar's Kitchen
+- **SE Asian:** Pailin's Kitchen / Hot Thai Kitchen, Marion Grasby, Noms by Nancy
+
+**Baking & Pastry:** Claire Saffitz, Preppy Kitchen, ChainBaker, Bake with Jack, The Bread Code, Proof Bread
+
+**Food Science & Theory:** Adam Ragusea, Ethan Chlebowski, Tasting History (Max Miller)
+
+### Source diversity tracking
+
+- The canonical source diversity report lives at `private/source-diversity-report.md`
+- The extraction script at `scripts/extract_session_data.py` generates `scripts/session_data.json` for analysis
+- Open diversification tasks are tracked in `TODO.md` under “Source Diversity — Reduce Serious Eats Monoculture”
+- After any batch of recipe swaps, regenerate `session_data.json` and update the diversity report
+
 ## Non-Negotiable Rules
 
 ### 1. Always commit and push when done
@@ -149,3 +234,4 @@ Good verbs: `Revise`, `Fix`, `Add`, `Replace`, `Update`, `Remove`
 - The MkDocs site configuration (`mkdocs.yml`)
 - The public/private repo split
 - Session numbering within a block
+

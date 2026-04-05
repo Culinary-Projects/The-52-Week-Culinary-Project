@@ -7,7 +7,7 @@
 **Skill:** Multi-dish coordination; table presentation of Mexican feast  
 **Goal:** Choose 4–5 dishes from the two weeks and serve them restaurant-style:
 
-1. **Botanas:** [Guacamole](https://www.seriouseats.com/the-best-basic-guacamole-recipe), salsa verde, tortilla chips
+1. **Botanas:** [Guacamole](https://patijinich.com/guacamole/), [salsa verde](https://patijinich.com/salsa-verde/), tortilla chips
 2. **Sopa:** Remainder of pozole (reheat) or a fresh black bean soup
 3. **Main I:** Whatever [birria](https://www.bonappetit.com/recipe/birria) or enchiladas remain
 4. **Main II:** Carne asada or al pastor freshly prepared

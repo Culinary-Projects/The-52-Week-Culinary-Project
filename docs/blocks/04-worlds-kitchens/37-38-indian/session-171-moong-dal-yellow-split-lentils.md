@@ -5,7 +5,7 @@
 ---
 
 **Skill:** Tarka (spice bloomed in fat); dal texture from liquid ratio; tempering as finishing technique  
-**Read first:** [Moong Dal](https://www.seriouseats.com/moong-dal-recipe-8744764)
+**Read first:** [Moong Dal Tadka — Spice Up the Curry](https://www.spiceupthecurry.com/moong-dal-tadka/)
 
 **What you're learning:** A tarka is hot ghee or oil with spices (cumin seed, mustard seed, dry chiles, asafoetida) fried until they pop and bloom, then poured over the finished dal. The sizzle and fragrance is the signal — overcooked tarka becomes bitter, undercooked misses the bloom entirely. This is one of the most-used techniques in Indian cooking.
 

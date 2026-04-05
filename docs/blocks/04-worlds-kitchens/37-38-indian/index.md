@@ -13,7 +13,7 @@
 ### Lab 8 — Garlic Naan *(optional)*
 
 **Skill:** Leavened flatbread technique; cast-iron skillet substitute for tandoor; garlic + butter finish  
-**Read first:** [Garlic Naan](https://www.seriouseats.com/garlic-naan-recipe-8784140)
+**Read first:** [Naan — Spice Up the Curry](https://www.spiceupthecurry.com/naan-recipe/)
 
 **What you're learning:** Naan requires yeast or baking powder, yogurt (for color and tang), and extremely high heat. A fully preheated cast iron skillet at maximum heat is the home substitute for a 900°F tandoor. The result should have char spots, a slight chew, and elastic pull. Once you can make fresh naan, takeout naan will feel like a step backward.
 
@@ -68,7 +68,7 @@ These aren't required reading — but if something from this block sparked a que
 Indian cooking is largely about controlling heat's interaction with spice. Whole spices into hot oil before anything else — tempering — unlocks volatile flavor compounds that grinding and adding late cannot reproduce.
 
 - 📖 [Stovetop Butter Chicken](https://www.seriouseats.com/stovetop-butter-chicken) — The full technique for the dish you cooked, with the science behind the spice sequencing.
-- 📖 [Moong Dal](https://www.seriouseats.com/moong-dal-recipe-8744764) — Dal is the most honest expression of Indian pantry cooking. This recipe shows exactly how the tarka (tempered spice) finishes the dish.
+- 📖 [Moong Dal Tadka — Spice Up the Curry](https://www.spiceupthecurry.com/moong-dal-tadka/) — Dal is the most honest expression of Indian pantry cooking. This recipe shows exactly how the tarka (tempered spice) finishes the dish.
 
 ---
 

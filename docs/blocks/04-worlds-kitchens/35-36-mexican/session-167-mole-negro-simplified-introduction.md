@@ -5,7 +5,7 @@
 ---
 
 **Skill:** Multi-chile mole building; chocolate integration in savory sauce; depth layering  
-**Read first:** [Mole Negro (Oaxacan Black Mole Sauce)](https://www.seriouseats.com/mole-negro-recipe-11739614)
+**Read first:** [Mole Poblano — Pati Jinich](https://patijinich.com/mole/)
 
 **What you're learning:** True mole negro is a week-long project. Today's simplified version should still require 2–3 hours and include: at minimum 3 dried chiles (toasted + rehydrated), tomatoes, tomatillos, dark chocolate, sesame, raisins, plantain, and spices. The result should be complex, savory, faintly bitter. Serve with chicken.
 
