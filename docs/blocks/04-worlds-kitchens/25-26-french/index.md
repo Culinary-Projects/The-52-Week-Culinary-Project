@@ -70,8 +70,8 @@ These aren't required reading — but if something from this block sparked a que
 
 French cuisine is a system. Understanding where hollandaise sits in the sauce family — warm emulsion, egg-yolk-stabilized, related to béarnaise by a flavor swap — shows how the system works.
 
-- 📖 [Hollandaise Sauce — RecipeTin Eats](https://www.recipetineats.com/hollandaise-sauce/) — A clear technique walkthrough explaining why the blender method is actually more stable than the double-boiler version.
-- 📖 [Beurre Blanc — BBC Good Food](https://www.bbcgoodfood.com/recipes/beurre-blanc) — Reduction sauces are at the heart of French bistro cooking. The shallot-wine base here is the template for every butter-emulsion sauce.
+- 📖 [Foolproof 2-Minute Hollandaise — Serious Eats](https://www.seriouseats.com/foolproof-2-minute-hollandaise-recipe) — The technique breakdown explaining emulsion science: why the blender method is more stable than the double-boiler version, and what to do when it breaks.
+- 📖 [Beurre Blanc — Serious Eats](https://www.seriouseats.com/beurre-blanc-recipe-7643412) — Reduction sauces are at the heart of French bistro cooking. The shallot-wine base here is the template for every butter-emulsion sauce, with the science of why cold butter holds the emulsion.
 
 ---
 

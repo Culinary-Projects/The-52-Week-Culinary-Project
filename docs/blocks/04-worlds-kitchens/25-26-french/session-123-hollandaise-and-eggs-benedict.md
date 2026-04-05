@@ -5,9 +5,9 @@
 ---
 
 **Skill:** Emulsified egg-yolk sauce; gentle double-boiler heat control  
-**Read first:** [Hollandaise Sauce — RecipeTin Eats](https://www.recipetineats.com/hollandaise-sauce/)
+**Read first:** [Foolproof 2-Minute Hollandaise — Serious Eats](https://www.seriouseats.com/foolproof-2-minute-hollandaise-recipe)
 
-**What you're learning:** Hollandaise is an emulsion of egg yolks, clarified butter, and lemon juice. It breaks when it gets too hot (scrambled eggs) or too cold (butter solidifies). Nagi's method removes most of the anxiety. Then: poached eggs, Canadian bacon, toasted English muffin. The full build.
+**What you're learning:** Hollandaise is an emulsion of egg yolks, clarified butter, and lemon juice. It breaks when it gets too hot (scrambled eggs) or too cold (butter solidifies). Kenji's blender method removes most of the anxiety — and the article explains the emulsion science behind why it works. Then: poached eggs, Canadian bacon, toasted English muffin. The full build.
 
 **Full Meal:**
 - Eggs Benedict with blender hollandaise

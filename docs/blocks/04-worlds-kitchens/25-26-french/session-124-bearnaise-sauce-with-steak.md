@@ -5,7 +5,7 @@
 ---
 
 **Skill:** Béarnaise (hollandaise with tarragon vinegar reduction); pan-seared steak application  
-**Read first:** [Béarnaise Sauce — RecipeTin Eats](https://www.recipetineats.com/bearnaise-sauce/)
+**Read first:** [Foolproof Béarnaise Sauce — Serious Eats](https://www.seriouseats.com/foolproof-bearnaise-sauce-recipe)
 
 **What you're learning:** Béarnaise = hollandaise with a tarragon-and-shallot reduction swapped for plain lemon. The technique is the same; the flavor completely different. Serve over a reverse-seared or pan-seared steak (you now know how to do this from Blocks 15–16). The sauce elevates a simple steak into a restaurant dish.
 
