@@ -5,7 +5,7 @@
 ---
 
 **Skill:** Picking/curing the daikon and carrot; Vietnamese pâté or headcheese; bread selection 
-**Read first:** [Breakfast Banh Mi](https://www.seriouseats.com/breakfast-banh-mi-recipe)
+**Read first:** [Banh Mi — Hot Thai Kitchen](https://hot-thai-kitchen.com/banh-mi/)
 
 **What you're learning:** Banh mi is the culinary child of French colonialism — a baguette (French bread) filled with Vietnamese proteins and condiments. The DO-AHEAD element: the pickled daikon and carrot must be made at minimum 1 hour ahead (overnight is better). The bread must be light and crackly — a French roll, specifically.
 

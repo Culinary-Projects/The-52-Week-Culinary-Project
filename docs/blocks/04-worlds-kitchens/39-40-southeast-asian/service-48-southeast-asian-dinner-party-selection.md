@@ -9,7 +9,7 @@
 
 **Choose 3–4:**
 - Som Tam (can make ahead or make fresh)
-- [Satay skewers](https://www.seriouseats.com/thai-chicken-satay-recipe) (make fresh on the grill)
+- [Satay skewers](https://hot-thai-kitchen.com/chicken-satay/) (make fresh on the grill)
 - Curry Laksa (make broth ahead; assemble to order)
 - Nasi Goreng (best made on the spot at high heat)
 - Beef Rendang (reheat from Session 189 beautifully)

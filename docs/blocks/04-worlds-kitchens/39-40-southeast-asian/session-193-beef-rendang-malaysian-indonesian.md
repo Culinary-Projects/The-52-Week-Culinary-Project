@@ -5,7 +5,7 @@
 ---
 
 **Skill:** Dry coconut braising technique; toasting desiccated coconut; rendang spice paste 
-**Read first:** [Beef Rendang](https://www.seriouseats.com/beef-rendang-recipe-8731804)
+**Read first:** [Beef Rendang — Hot Thai Kitchen](https://hot-thai-kitchen.com/beef-rendang/)
 
 **What you're learning:** Rendang is one of the few dishes that is wet (a braise) when it starts and completely dry when it's done — the coconut milk reduces entirely, and the beef almost fries in its own coconut fat at the end. This creates an intensely caramelized, complex exterior that stores for a week at room temperature. A technical masterpiece.
 

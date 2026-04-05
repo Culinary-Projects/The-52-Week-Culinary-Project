@@ -5,7 +5,7 @@
 ---
 
 **Skill:** Satay marinade (turmeric, lemongrass, coconut milk); peanut sauce from scratch; green papaya prep 
-**Read first:** [Thai Chicken Satay](https://www.seriouseats.com/thai-chicken-satay-recipe) | [Som Tam — Green Papaya Salad](https://www.seriouseats.com/som-tam-green-papaya-salad-5208332)
+**Read first:** [Chicken Satay — Hot Thai Kitchen](https://hot-thai-kitchen.com/chicken-satay/) | [Som Tum (Green Papaya Salad) — Hot Thai Kitchen](https://hot-thai-kitchen.com/som-tum/)
 
 **What you're learning:** Satay is Southeast Asian street food at its most elegant: thin strips of marinated chicken threaded on bamboo skewers, grilled over direct fire, served with peanut sauce and fresh cucumber. Som tam is the great Thai salad made of shredded unripe green papaya, fish sauce, lime, palm sugar, chiles, and peanuts — pounded in a mortar, not dressed like a Western salad.
 

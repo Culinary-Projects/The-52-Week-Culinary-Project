@@ -76,9 +76,9 @@ These aren't required reading — but if something from this block sparked a que
 
 Fish sauce is the backbone flavor of Thai, Vietnamese, and Indonesian cooking the way soy sauce is for Japanese and Chinese. Understanding how to use it — early for depth, late for brightness — is the central skill of SE Asian cooking.
 
-- 📖 [Pad Thai](https://www.seriouseats.com/pad-thai-recipe-11680356) — The full recipe and technique breakdown, including the proper sequence for tamarind, fish sauce, and sugar.
-- 📖 [Pad Kee Mao (Drunken Noodles)](https://www.seriouseats.com/pad-kee-mao-drunken-noodles-recipe-8782198) — Another noodle dish from the Thai canon, using similar technique with different aromatics.
-- 📖 [Pad See Ew](https://www.seriouseats.com/pad-see-ew-recipe-8784741) — The third of the major Thai noodle preparations. These three together cover the core wok-noodle technique at different heat levels.
+- 📖 [Pad Thai — Hot Thai Kitchen](https://hot-thai-kitchen.com/pad-thai/) — Pailin's authentic pad thai, including the proper sequence for tamarind, fish sauce, and palm sugar.
+- 📖 [Drunken Noodles (Pad Kee Mao) — Hot Thai Kitchen](https://hot-thai-kitchen.com/drunken-noodle/) — Another noodle dish from the Thai canon, using similar technique with different aromatics.
+- 📖 [Pad See Ew — Hot Thai Kitchen](https://hot-thai-kitchen.com/pad-see-ew/) — The third of the major Thai noodle preparations. These three together cover the core wok-noodle technique at different heat levels.
 
 ---
 
@@ -86,7 +86,7 @@ Fish sauce is the backbone flavor of Thai, Vietnamese, and Indonesian cooking th
 
 Wok hei — the breath of the wok — is the smoky, slightly charred flavor you taste at Thai and Chinese restaurants. It's produced by extremely high heat (above what most home burners can generate) and professional woks. You probably can't fully replicate it at home, but you can get closer.
 
-- 📖 [Traditional Beef Pho](https://www.seriouseats.com/traditional-beef-pho-recipe) — The 8-hour stock approach, the spice-toasting technique, and the charred ginger and onion that give pho its signature depth.
+- 📖 [Beef Pho — Hot Thai Kitchen](https://hot-thai-kitchen.com/beef-pho/) — The long stock approach, the spice-toasting technique, and the charred ginger and onion that give pho its signature depth.
 
 ---
 
