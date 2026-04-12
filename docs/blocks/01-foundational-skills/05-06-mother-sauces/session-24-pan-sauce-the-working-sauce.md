@@ -8,7 +8,7 @@
 
 **Extension — Compound Butter:** The simplest possible pan-sauce alternative: softened butter mixed with aromatics (herbs, garlic, lemon zest, anchovies, blue cheese) rolled in plastic wrap and refrigerated. Slice off a coin and place it on a hot steak or fish as it rests. It melts into an instant sauce. Make one tonight alongside the pork chops.
 
-**Full Meal:** [Pork Chops with Apple-Cider Pan Sauce](https://www.seriouseats.com/perfect-pan-seared-pork-chop-recipe) + compound butter (herb + garlic + lemon zest) + [Roasted Sweet Potatoes](https://www.seriouseats.com/the-best-roasted-sweet-potatoes-thanksgiving-sides-the-food-lab-recipe) + [Shaved Carrot & Herb Salad](https://www.seriouseats.com/how-to-make-carrot-salad-barberry-ghee)
+**Full Meal:** [Pork Chops with Apple-Cider Pan Sauce](https://www.seriouseats.com/pork-chops-apple-cider-pan-sauce-recipe) + compound butter (herb + garlic + lemon zest) + [Roasted Sweet Potatoes](https://www.seriouseats.com/the-best-roasted-sweet-potatoes-thanksgiving-sides-the-food-lab-recipe) + [Shaved Carrot & Herb Salad](https://www.seriouseats.com/how-to-make-carrot-salad-barberry-ghee)
 
 | Component | Recipe |
 |-----------|--------|

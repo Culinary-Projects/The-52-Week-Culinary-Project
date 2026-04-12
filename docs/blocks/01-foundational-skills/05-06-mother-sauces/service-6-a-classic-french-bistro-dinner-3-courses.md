@@ -8,7 +8,7 @@
 
 | Course | Dish | Link |
 |--------|------|------|
-| **Starter** | French Onion Dip with Homemade Potato Chips | [Recipe](https://www.seriouseats.com/real-french-onion-dip-recipe) |
+| **Starter** | Gougères (French Cheese Puffs) | [Recipe](https://www.recipetineats.com/gougeres/) |
 | **Main** | Steak Frites with Pan Sauce | [Recipe](https://www.seriouseats.com/steak-frites-recipe-8729192) |
 | **Salad** | Classic Lyonnaise Salad (Frisée aux Lardons) | [Recipe](https://www.seriouseats.com/spring-salad-with-poached-eggs-and-bread-crumbs) |
 
