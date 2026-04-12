@@ -18,6 +18,8 @@
 
 *Skill targets: A deep, dark sear on every side of the ribs before braising. Correct liquid level (one-third up the meat, not submerged). Internal temp of 200°F+ for collagen breakdown.*
 
+> **Note on the root veg recipe:** The crispy shallots are a separate step at 300°F — don't roast them at 400°F with the vegetables or they'll burn. Better yet, skip the oven shallots entirely and fry thin rings in a shallow layer of oil over medium-high heat for 2–3 minutes until golden. Drain on paper towels and salt immediately. Faster, crispier, more reliable.
+
 ---
 
 [← Block 3–4: Heat & Cooking Methods Overview](index.md)
