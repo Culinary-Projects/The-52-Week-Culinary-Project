@@ -26,7 +26,7 @@
 - [ ] Salmon fillets — 2 pieces (Session 23 Niçoise)
 - [ ] Bone-in pork chops (thick-cut, 1.5") — 2 (Session 24)
 - [ ] Thick-cut bacon or lardons — 6 oz (Service 6 Lyonnaise salad)
-- [ ] Ribeye or hanger steaks — 2 (Service 6 steak frites)
+- [ ] Ribeye or NY strip steaks — 2 (Service 6 steak béarnaise)
 
 ---
 
@@ -35,7 +35,7 @@
 **Block 5:**
 
 - [ ] Eggplant — 2 large (moussaka — salt and drain before using)
-- [ ] Potatoes (Yukon Gold) — 4 lbs (2 lbs for moussaka base layer + 2 lbs for Session 20 creamy mashed potatoes)
+- [ ] Potatoes (Yukon Gold) — 2 lbs (moussaka base layer)
 - [ ] Carrots — 3 (Bolognese mirepoix + pot pie)
 - [ ] Celery — 1 bunch (Bolognese + pot pie)
 - [ ] Onions (yellow) — 7 large (Bolognese mirepoix 2 + pot pie 1 + moussaka 2 + general use 2)
@@ -59,12 +59,11 @@
 - [ ] Green beans — ½ lb (Niçoise)
 - [ ] Cherry tomatoes — 1 pint (Niçoise)
 - [ ] Sweet potatoes — 2 large (Session 24)
+- [ ] Cauliflower — 1 large head (Service 6 gratin)
 - [ ] Frisée or endive — 2 heads (Service 6 Lyonnaise salad)
-- [ ] Yellow onions — 5 large (Service 6 French Onion Dip — needs long caramelization)
 - [ ] Apples — 2 (apple-cider pan sauce for pork chops)
-- [ ] Russet potatoes — 3 lbs (Service 6 frites)
 - [ ] Lemons — 4
-- [ ] Fresh tarragon — 1 small bunch (hollandaise + optional)
+- [ ] Fresh tarragon — 1 bunch (béarnaise + hollandaise)
 
 ---
 
@@ -75,11 +74,10 @@
 - [ ] Whole milk — ½ gallon (béchamel, moussaka topping, pot pie sauce)
 - [ ] Heavy cream — 1 pint (moussaka topping, pot pie, pork chop sauce)
 - [ ] Sharp cheddar — 8 oz, block (mac & cheese)
-- [ ] Gruyère — 8 oz (moussaka béchamel + mac topping)
+- [ ] Gruyère — 12 oz (moussaka béchamel + cauliflower gratin)
 - [ ] Parmesan (block) — 8 oz (Caesar + Bolognese)
 - [ ] Feta cheese — 6 oz (Greek salad)
 - [ ] Kalamata olives — 1 jar (Greek salad + Niçoise)
-- [ ] Sour cream — 1 cup (Service 6 French Onion Dip base)
 
 ---
 
@@ -104,7 +102,6 @@
 - [ ] White wine vinegar — 1 bottle (hollandaise poaching liquid)
 - [ ] Cinnamon stick, allspice, bay leaves (moussaka — these make it taste right)
 - [ ] Mayonnaise — 1 jar (or make your own for coleslaw)
-- [ ] Neutral oil — for frites (you'll need 1 quart of oil if deep-frying; shallow fry is easier)
 
 ---
 
@@ -123,4 +120,4 @@
 
 **Lobster rolls (Session 22):** Pre-cooked whole lobster from a fishmonger is easiest. Or buy frozen lobster tails and steam them. Large shrimp are a fine substitute if lobster is cost-prohibitive.
 
-**Steak frites (Service 6):** Frites need a double-fry (once at 325°F to cook through, once at 375°F to crisp). Plan to start them 30 minutes before the steaks. Or make oven fries at 450°F — not quite the same but much less mess.
+**Cauliflower gratin (Service 6):** Make the béchamel/Mornay first, toss with cauliflower, and get it into the oven (400°F, 30–35 min) before starting anything else. It can hold under foil while you sear the steaks and make the béarnaise.

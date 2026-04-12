@@ -24,7 +24,7 @@
 | **Session 22** | Seafood Roll + Classic Coleslaw | Homemade Mayo | [Seafood Roll](https://www.seriouseats.com/perfect-new-england-lobster-rolls-recipe) · [Coleslaw](https://www.seriouseats.com/creamy-cole-slaw) |
 | **Session 23** | Pan-Seared Salmon Niçoise Salad | Vinaigrette | [Niçoise](https://www.seriouseats.com/nicoise-salad-recipe) |
 | **Session 24** | Pork Chops with Apple-Cider Pan Sauce + Roasted Sweet Potatoes + Shaved Carrot & Herb Salad | Pan sauce | [Pork Chops](https://www.seriouseats.com/pork-chops-apple-cider-pan-sauce-recipe) · [Sweet Potato](https://www.seriouseats.com/the-best-roasted-sweet-potatoes-thanksgiving-sides-the-food-lab-recipe) · [Salad](https://www.seriouseats.com/how-to-make-carrot-salad-barberry-ghee) |
-| **Service 6** | **3-Course French Bistro Dinner** | Pan sauce + Vinaigrette | [Gougères](https://www.recipetineats.com/gougeres/) · [Steak Frites](https://www.seriouseats.com/steak-frites-recipe-8729192) · [Lyonnaise Salad](https://www.seriouseats.com/spring-salad-with-poached-eggs-and-bread-crumbs) |
+| **Service 6** | **Steak Béarnaise + Cauliflower Gratin + Lyonnaise Salad** | Béarnaise (hollandaise) + Mornay (béchamel) + Vinaigrette | [Steak](https://www.bbcgoodfood.com/recipes/steak-chips) · [Béarnaise](https://www.seriouseats.com/foolproof-bearnaise-sauce-recipe) · [Gratin](https://www.bbcgoodfood.com/recipes/cauliflower-cheese) · [Salad](https://www.seriouseats.com/spring-salad-with-poached-eggs-and-bread-crumbs) |
 
 ---
 
@@ -32,10 +32,10 @@
 
 | Sauce | Base | This Week's Dish |
 |-------|------|-----------------|
-| **Béchamel** | Butter + flour roux + milk | Mac & cheese, Moussaka top |
+| **Béchamel** | Butter + flour roux + milk | Mac & cheese, Moussaka top, Cauliflower gratin |
 | **Velouté** | Butter + flour roux + stock | Chicken pot pie |
 | **Espagnole** | Dark roux + dark stock + tomato | Steak pan sauce (simplified) |
 | **Sauce Tomat** | Tomato + mirepoix + pork fat | Bolognese, Moussaka bottom |
-| **Hollandaise** | Egg yolk + clarified butter (emulsion) | Eggs Benedict |
+| **Hollandaise** | Egg yolk + clarified butter (emulsion) | Eggs Benedict, Steak béarnaise |
 
 **Ratio to memorize:** Vinaigrette = 3 parts oil : 1 part acid + Dijon to stabilize.
