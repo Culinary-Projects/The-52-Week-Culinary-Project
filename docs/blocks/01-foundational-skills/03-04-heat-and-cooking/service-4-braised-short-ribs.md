@@ -14,7 +14,7 @@
 | Starch | Creamy parmesan polenta (the perfect landing pad for the braising liquid) |
 | Veg | Roasted root vegetables (carrots, parsnips, turnips) |
 
-> 🎥 **Compare Notes:** [How Braises Get Tender](https://www.youtube.com/shorts/9l790_Ga7hs) · [Ask Kenji | How Can I Tell If My Braise Is Done?](https://www.youtube.com/watch?v=pU8-PiojG0U) — Watch before you start; the short explains collagen breakdown in 60 seconds.
+> 🎥 **Compare Notes:** [How Braises Get Tender](https://www.youtube.com/shorts/9l790_Ga7hs) · [Ask Kenji | How Can I Tell If My Braise Is Done?](https://www.youtube.com/watch?v=pU8-PiojG0U) — Watch before you start; the short explains collagen breakdown in 60 seconds. · [Alton's Good Eats Beef Stew](https://www.youtube.com/watch?v=psxwyyrZN3A) — Alton explains braising science: why low and slow breaks collagen into gelatin.
 
 *Skill targets: A deep, dark sear on every side of the ribs before braising. Correct liquid level (one-third up the meat, not submerged). Internal temp of 200°F+ for collagen breakdown.*
 

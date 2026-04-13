@@ -10,7 +10,7 @@
 
 You'll make the béchamel from scratch and transform it into a Mornay sauce (béchamel + cheese). Then it becomes mac and cheese. This is the **mother sauce → daughter sauce chain** in action.
 
-> 🎥 **Compare Notes:** [Macaroni and Cheese with Breadcrumbs — Jacques Pépin Cooking At Home (KQED)](https://www.youtube.com/watch?v=c3vtkmD6yDs) — Watch Pépin build a béchamel into mac and cheese with master hands
+> 🎥 **Compare Notes:** [Macaroni and Cheese with Breadcrumbs — Jacques Pépin Cooking At Home (KQED)](https://www.youtube.com/watch?v=c3vtkmD6yDs) — Watch Pépin build a béchamel into mac and cheese with master hands · [Alton Brown Makes Baked Macaroni and Cheese — Good Eats](https://www.youtube.com/watch?v=Z1VGSSzfRRU) — Alton explains the roux and why you add milk gradually
 
 | Component | Recipe |
 |-----------|--------|

@@ -9,7 +9,7 @@
 | Session | Dish | Sauce | Link |
 |-----|------|-------|------|
 | **Session 17** | Baked Mac and Cheese + Bitter Greens Salad | Béchamel → Mornay | [Mac & Cheese](https://www.seriouseats.com/classic-bechamel-baked-mac-cheese-recipe) · [Salad](https://www.seriouseats.com/five-minute-radicchio-watercress-arugula-salad-recipe) |
-| **Session 18** | Chicken Pot Pie + Butter Lettuce Salad | Velouté | [Pot Pie](https://www.seriouseats.com/double-crust-chicken-pot-pie-recipe) · [Salad](https://www.seriouseats.com/simple-vinaigrette-recipe) |
+| **Session 18** | Chicken Pot Pie + Apple Salad | Velouté | [Pot Pie](https://www.seriouseats.com/double-crust-chicken-pot-pie-recipe) · [Salad](https://www.recipetineats.com/apple-salad-candied-walnuts-cranberries/) |
 | **Session 19** | ⏰ Slow-Cooked Bolognese + Fresh Pasta + Caesar Salad | Sauce Tomat | [Bolognese](https://www.seriouseats.com/the-best-slow-cooked-bolognese-sauce-recipe) · [Caesar](https://www.seriouseats.com/the-best-caesar-salad-recipe) |
 | **Session 20** | Steak with Red Wine Pan Sauce + Garlic Mushrooms + Roasted Broccolini | Espagnole (simplified) | [Steak/Sauce](https://www.seriouseats.com/pan-seared-steaks-with-red-wine-pan-sauce-recipe) · [Mushrooms](https://www.bbcgoodfood.com/recipes/garlic-mushrooms) · [Broccolini](https://www.seriouseats.com/dinner-tonight-sauteed-broccolini-recipe) |
 | **Service 5** | ⏰ **Greek Moussaka + Greek Salad + Bread** | Béchamel + Sauce Tomat | [Moussaka](https://www.seriouseats.com/moussaka-6361068) · [Salad](https://www.seriouseats.com/the-best-greek-salad-tomato-feta-summer-recipe) |
