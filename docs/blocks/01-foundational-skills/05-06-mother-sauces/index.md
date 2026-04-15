@@ -25,6 +25,7 @@ Four out of five start with a roux. **Learn the roux and you learn four sauces a
 
 > ⏰ **Planning Ahead**
 >
+> - **Session 18 (Pot Pie):** the [whole wheat pie dough](https://www.seriouseats.com/whole-wheat-pie-crust-recipe) needs to chill — make it the night before or at least a few hours ahead
 > - **Session 19 (Bolognese):** needs 3–4 hrs simmering; start early in the session
 > - **Service 5 (Moussaka project):** plan for 2 hrs: make both béchamel and tomato sauce before assembly
 

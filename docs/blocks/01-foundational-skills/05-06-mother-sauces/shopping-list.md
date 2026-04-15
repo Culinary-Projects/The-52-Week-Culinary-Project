@@ -101,7 +101,6 @@
 - [ ] Tinned anchovies — 1 can (Caesar salad)
 - [ ] White wine vinegar — 1 bottle (hollandaise poaching liquid)
 - [ ] Cinnamon stick, allspice, bay leaves (moussaka — these make it taste right)
-- [ ] Mayonnaise — 1 jar (or make your own for coleslaw)
 
 ---
 

@@ -21,7 +21,7 @@
 | Session | Dish | Sauce | Link |
 |-----|------|-------|------|
 | **Session 21** | Eggs Benedict with Hollandaise + Watercress Salad | Hollandaise | [Eggs Benedict](https://www.seriouseats.com/food-lab-foolproof-eggs-benedict-recipe) · [Salad](https://www.seriouseats.com/five-minute-radicchio-watercress-arugula-salad-recipe) |
-| **Session 22** | Seafood Roll + Classic Coleslaw | Homemade Mayo | [Seafood Roll](https://www.seriouseats.com/perfect-new-england-lobster-rolls-recipe) · [Coleslaw](https://www.seriouseats.com/creamy-cole-slaw) |
+| **Session 22** | Seafood Roll + Vinegar Coleslaw | Homemade Mayo | [Seafood Roll](https://www.seriouseats.com/perfect-new-england-lobster-rolls-recipe) · [Slaw](https://www.seriouseats.com/vinegar-coleslaw-recipe) |
 | **Session 23** | Pan-Seared Salmon Niçoise Salad | Vinaigrette | [Niçoise](https://www.seriouseats.com/nicoise-salad-recipe) |
 | **Session 24** | Pork Chops with Apple-Cider Pan Sauce + Roasted Sweet Potatoes + Shaved Carrot & Herb Salad | Pan sauce | [Pork Chops](https://www.seriouseats.com/pork-chops-apple-cider-pan-sauce-recipe) · [Sweet Potato](https://www.seriouseats.com/the-best-roasted-sweet-potatoes-thanksgiving-sides-the-food-lab-recipe) · [Salad](https://www.seriouseats.com/how-to-make-carrot-salad-barberry-ghee) |
 | **Service 6** | **Steak Béarnaise + Cauliflower Gratin + Lyonnaise Salad** | Béarnaise (hollandaise) + Mornay (béchamel) + Vinaigrette | [Steak](https://www.bbcgoodfood.com/recipes/steak-chips) · [Béarnaise](https://www.seriouseats.com/foolproof-bearnaise-sauce-recipe) · [Gratin](https://www.bbcgoodfood.com/recipes/cauliflower-cheese) · [Salad](https://www.seriouseats.com/spring-salad-with-poached-eggs-and-bread-crumbs) |
