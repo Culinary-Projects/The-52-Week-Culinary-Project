@@ -12,7 +12,7 @@
 | **Session 18** | Chicken Pot Pie + Apple Salad | Velouté | [Pot Pie](https://www.seriouseats.com/double-crust-chicken-pot-pie-recipe) · [Salad](https://www.recipetineats.com/apple-salad-candied-walnuts-cranberries/) |
 | **Session 19** | ⏰ Slow-Cooked Bolognese + Fresh Pasta + Caesar Salad | Sauce Tomat | [Bolognese](https://www.seriouseats.com/the-best-slow-cooked-bolognese-sauce-recipe) · [Caesar](https://www.seriouseats.com/the-best-caesar-salad-recipe) |
 | **Session 20** | Steak with Red Wine Pan Sauce + Garlic Mushrooms + Roasted Broccolini | Espagnole (simplified) | [Steak/Sauce](https://www.seriouseats.com/pan-seared-steaks-with-red-wine-pan-sauce-recipe) · [Mushrooms](https://www.bbcgoodfood.com/recipes/garlic-mushrooms) · [Broccolini](https://www.seriouseats.com/dinner-tonight-sauteed-broccolini-recipe) |
-| **Service 5** | ⏰ **Greek Moussaka + Greek Salad + Bread** | Béchamel + Sauce Tomat | [Moussaka](https://www.seriouseats.com/moussaka-6361068) · [Salad](https://www.seriouseats.com/the-best-greek-salad-tomato-feta-summer-recipe) |
+| **Service 5** | ⏰ **Shrimp Fra Diavolo + Broccolini Gratin + Greek Salad** | Sauce Tomat + Béchamel | [Fra Diavolo](https://www.seriouseats.com/shrimp-fra-diavolo-pasta-recipe) · [Gratin](https://www.bbcgoodfood.com/recipes/broccoli-cauliflower-cheese) · [Salad](https://www.seriouseats.com/the-best-greek-salad-tomato-feta-summer-recipe) |
 
 ---
 
@@ -32,10 +32,10 @@
 
 | Sauce | Base | This Week's Dish |
 |-------|------|-----------------|
-| **Béchamel** | Butter + flour roux + milk | Mac & cheese, Moussaka top, Cauliflower gratin |
+| **Béchamel** | Butter + flour roux + milk | Mac & cheese, Broccolini gratin, Cauliflower gratin |
 | **Velouté** | Butter + flour roux + stock | Chicken pot pie |
 | **Espagnole** | Dark roux + dark stock + tomato | Steak pan sauce (simplified) |
-| **Sauce Tomat** | Tomato + mirepoix + pork fat | Bolognese, Moussaka bottom |
+| **Sauce Tomat** | Tomato + mirepoix + pork fat | Bolognese, Fra diavolo |
 | **Hollandaise** | Egg yolk + clarified butter (emulsion) | Eggs Benedict, Steak béarnaise |
 
 **Ratio to memorize:** Vinaigrette = 3 parts oil : 1 part acid + Dijon to stabilize.

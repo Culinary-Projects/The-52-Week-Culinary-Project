@@ -27,13 +27,13 @@ Four out of five start with a roux. **Learn the roux and you learn four sauces a
 >
 > - **Session 18 (Pot Pie):** the [whole wheat pie dough](https://www.seriouseats.com/whole-wheat-pie-crust-recipe) needs to chill — make it the night before or at least a few hours ahead
 > - **Session 19 (Bolognese):** needs 3–4 hrs simmering; start early in the session
-> - **Service 5 (Moussaka project):** plan for 2 hrs: make both béchamel and tomato sauce before assembly
+> - **Service 5 (Fra Diavolo + Gratin):** get the broccolini gratin into the oven first, then build the sauce
 
 - [Session 17: Béchamel: The White Sauce](session-17-bechamel-the-white-sauce.md)
 - [Session 18: Velouté: Stock Instead of Milk](session-18-veloute-stock-instead-of-milk.md)
 - [Session 19: Sauce Tomat: The Slow Tomato](session-19-sauce-tomat-the-slow-tomato.md)
 - [Session 20: Espagnole and Demi-Glace (Simplified)](session-20-espagnole-and-demi-glace-simplified.md)
-- [⏰ Service 5: Greek Moussaka](service-5-greek-moussaka.md)
+- [⏰ Service 5: Shrimp Fra Diavolo + Broccolini Gratin](service-5-shrimp-fra-diavolo-and-broccolini-gratin.md)
 
 ---
 
